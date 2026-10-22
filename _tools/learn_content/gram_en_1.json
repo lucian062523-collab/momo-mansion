@@ -1,0 +1,888 @@
+{
+ "version": 1,
+ "lang": "en",
+ "chapters": [
+  { "id": "en_g_tense", "title": "时态 · 完成与进行", "sub": "TENSES", "kicker": "语法书 · 时态篇" },
+  { "id": "en_g_nonfinite", "title": "非谓语动词", "sub": "NON-FINITE VERBS", "kicker": "语法书 · 非谓语篇" }
+ ],
+ "points": [
+  {
+   "id": "en_g_tense_present_simple",
+   "lang": "en",
+   "chapter": "en_g_tense",
+   "kicker": "语法书 · 时态篇",
+   "title": "一般现在时",
+   "title_sub": "PRESENT SIMPLE",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "do / does", "zh": false },
+    { "t": "＝", "zh": true },
+    { "t": "习惯 · 真理 · 状态", "zh": true }
+   ],
+   "examples": [
+    { "t": "She goes to the gym every morning.", "hl": "goes", "zh": "她每天早上都去健身房。（习惯）" },
+    { "t": "Water boils at 100°C.", "hl": "boils", "zh": "水在摄氏 100 度沸腾。（客观真理）" },
+    { "t": "The train leaves at 6:30 tomorrow.", "hl": "leaves", "zh": "火车明天 6:30 出发。（时刻表将来）" }
+   ],
+   "note_label": "辨析 · 频率副词位置",
+   "note": "频率副词（always, usually, often, seldom, never）置于<b>实义动词之前、be 动词之后</b>。第三人称单数别漏 -s / -es。",
+   "page": 10,
+   "foot": "时态章"
+  },
+  {
+   "id": "en_g_tense_past_simple",
+   "lang": "en",
+   "chapter": "en_g_tense",
+   "kicker": "语法书 · 时态篇",
+   "title": "一般过去时",
+   "title_sub": "PAST SIMPLE",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "did", "zh": false },
+    { "t": "＝", "zh": true },
+    { "t": "过去某时刻的动作或状态", "zh": true }
+   ],
+   "examples": [
+    { "t": "I visited Kyoto last spring.", "hl": "visited", "zh": "我去年春天去了京都。" },
+    { "t": "She was a teacher before she retired.", "hl": "was", "zh": "退休前她是教师。" },
+    { "t": "Did you see the email I sent?", "hl": "Did you see", "zh": "你看到我发的邮件了吗？" }
+   ],
+   "note_label": "辨析 · 与现在完成时",
+   "note": "一般过去时须有<b>明确的过去时间</b>（yesterday, in 2018, last week），与现在无关联；现在完成时强调对现在的影响，不能与具体过去时间连用。",
+   "page": 11,
+   "foot": "时态章"
+  },
+  {
+   "id": "en_g_tense_future_simple",
+   "lang": "en",
+   "chapter": "en_g_tense",
+   "kicker": "语法书 · 时态篇",
+   "title": "一般将来时",
+   "title_sub": "FUTURE SIMPLE",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "will + 动词原形", "zh": false },
+    { "t": "＝", "zh": true },
+    { "t": "将来事实 · 预测 · 意愿", "zh": true }
+   ],
+   "examples": [
+    { "t": "The conference will start next Monday.", "hl": "will start", "zh": "会议下周一开幕。" },
+    { "t": "I'll call you when I arrive.", "hl": "I'll call", "zh": "我到了就给你打电话。" }
+   ],
+   "note_label": "辨析 · 时间状语从句不用将来时",
+   "note": "由 when, if, as soon as, before, after 引导的<b>时间或条件状语从句</b>，用一般现在时代替一般将来时，主句才用 will。",
+   "page": 12,
+   "foot": "时态章"
+  },
+  {
+   "id": "en_g_tense_present_continuous",
+   "lang": "en",
+   "chapter": "en_g_tense",
+   "kicker": "语法书 · 时态篇",
+   "title": "现在进行时",
+   "title_sub": "PRESENT CONTINUOUS",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "am / is / are + doing", "zh": false },
+    { "t": "＝", "zh": true },
+    { "t": "此刻或现阶段持续", "zh": true }
+   ],
+   "examples": [
+    { "t": "He is preparing for the IELTS exam these days.", "hl": "is preparing", "zh": "他这些天在准备雅思考试。" },
+    { "t": "She is always losing her keys.", "hl": "is always losing", "zh": "她老是丢钥匙。（带感情色彩）" }
+   ],
+   "note_label": "辨析 · 与一般现在时",
+   "note": "进行时表<b>暂时、未完成</b>的动作；一般现在时表<b>长期、习惯</b>。know, believe, belong, contain 等状态动词通常不用进行时。",
+   "page": 13,
+   "foot": "时态章"
+  },
+  {
+   "id": "en_g_tense_past_continuous",
+   "lang": "en",
+   "chapter": "en_g_tense",
+   "kicker": "语法书 · 时态篇",
+   "title": "过去进行时",
+   "title_sub": "PAST CONTINUOUS",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "was / were + doing", "zh": false },
+    { "t": "＝", "zh": true },
+    { "t": "过去某时刻正在进行的动作", "zh": true }
+   ],
+   "examples": [
+    { "t": "I was taking a shower when you called.", "hl": "was taking", "zh": "你打电话时我正在洗澡。" },
+    { "t": "They were working all night.", "hl": "were working", "zh": "他们整夜都在工作。" }
+   ],
+   "note_label": "辨析 · 与一般过去时",
+   "note": "过去进行时提供<b>背景</b>，一般过去时表示<b>突然发生的动作</b>；when 多跟一般过去时，while 多跟过去进行时。",
+   "page": 14,
+   "foot": "时态章"
+  },
+  {
+   "id": "en_g_tense_future_continuous",
+   "lang": "en",
+   "chapter": "en_g_tense",
+   "kicker": "语法书 · 时态篇",
+   "title": "将来进行时",
+   "title_sub": "FUTURE CONTINUOUS",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "will be + doing", "zh": false },
+    { "t": "＝", "zh": true },
+    { "t": "将来某时刻正在进行的动作", "zh": true }
+   ],
+   "examples": [
+    { "t": "This time tomorrow I will be flying to London.", "hl": "will be flying", "zh": "明天这个时候我正飞往伦敦。" },
+    { "t": "Don't call at eight — we'll be having dinner.", "hl": "be having", "zh": "八点别打电话，我们那时正在吃饭。" }
+   ],
+   "note_label": "辨析 · 与一般将来时",
+   "note": "将来进行时表示<b>按计划自然发生</b>的动作，语气委婉、不涉及意愿；一般将来时常带主观意图或决定。",
+   "page": 15,
+   "foot": "时态章"
+  },
+  {
+   "id": "en_g_tense_present_perfect",
+   "lang": "en",
+   "chapter": "en_g_tense",
+   "kicker": "语法书 · 时态篇",
+   "title": "现在完成时",
+   "title_sub": "PRESENT PERFECT",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "have / has", "zh": false },
+    { "t": "＋", "zh": true },
+    { "t": "过去分词", "zh": true }
+   ],
+   "examples": [
+    { "t": "I have finished my work.", "hl": "have finished", "zh": "我已经完成了我的工作。（强调结果）" },
+    { "t": "She has lived here for ten years.", "hl": "has lived", "zh": "她在这里住了十年了。（还会继续）" },
+    { "t": "Have you ever been to Iceland?", "hl": "Have you ever been", "zh": "你去过冰岛吗？（经历）" }
+   ],
+   "note_label": "辨析 · 与一般过去时",
+   "note": "现在完成的动作<b>发生在过去却与现在密切相关</b>；不能与 yesterday, last week 等明确过去时间连用，可用 for, since, already, yet, ever, never, just。",
+   "page": 16,
+   "foot": "时态章"
+  },
+  {
+   "id": "en_g_tense_present_perfect_continuous",
+   "lang": "en",
+   "chapter": "en_g_tense",
+   "kicker": "语法书 · 时态篇",
+   "title": "现在完成进行时",
+   "title_sub": "PRESENT PERFECT CONTINUOUS",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "have / has been", "zh": false },
+    { "t": "＋", "zh": true },
+    { "t": "现在分词", "zh": true }
+   ],
+   "examples": [
+    { "t": "I have been studying English for six hours.", "hl": "have been studying", "zh": "我已经连续学了六个小时英语。" },
+    { "t": "It has been raining since morning.", "hl": "has been raining", "zh": "从早上起一直在下雨。" }
+   ],
+   "note_label": "辨析 · 与现在完成时",
+   "note": "完成进行时强调动作<b>持续的过程</b>，可能仍在继续；完成时强调<b>结果或完成</b>。不能用进行时的状态动词改用完成时。",
+   "page": 17,
+   "foot": "时态章"
+  },
+  {
+   "id": "en_g_tense_past_perfect",
+   "lang": "en",
+   "chapter": "en_g_tense",
+   "kicker": "语法书 · 时态篇",
+   "title": "过去完成时",
+   "title_sub": "PAST PERFECT",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "had", "zh": false },
+    { "t": "＋", "zh": true },
+    { "t": "过去分词", "zh": true }
+   ],
+   "examples": [
+    { "t": "By the time we arrived, the film had started.", "hl": "had started", "zh": "我们到时，电影已经开始了。" },
+    { "t": "She had never seen snow before that trip.", "hl": "had never seen", "zh": "那次旅行前她从没见过雪。" }
+   ],
+   "note_label": "辨析 · 与一般过去时",
+   "note": "过去完成时表示<b>“过去的过去”</b>，须有另一个过去时间作参照；常与 by the time, before, after, already, yet 连用。",
+   "page": 18,
+   "foot": "时态章"
+  },
+  {
+   "id": "en_g_tense_past_perfect_continuous",
+   "lang": "en",
+   "chapter": "en_g_tense",
+   "kicker": "语法书 · 时态篇",
+   "title": "过去完成进行时",
+   "title_sub": "PAST PERFECT CONTINUOUS",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "had been", "zh": false },
+    { "t": "＋", "zh": true },
+    { "t": "现在分词", "zh": true }
+   ],
+   "examples": [
+    { "t": "He had been waiting for two hours when she finally came.", "hl": "had been waiting", "zh": "她终于来时，他已经等了两小时。" },
+    { "t": "The ground was wet; it had been raining.", "hl": "had been raining", "zh": "地面是湿的，因为刚下过雨。" }
+   ],
+   "note_label": "辨析 · 与过去完成时",
+   "note": "过去完成进行时强调<b>持续到过去某时刻的动作</b>，常用来解释过去的景象；过去完成时只说明更早发生并已完成的动作。",
+   "page": 19,
+   "foot": "时态章"
+  },
+  {
+   "id": "en_g_tense_future_perfect",
+   "lang": "en",
+   "chapter": "en_g_tense",
+   "kicker": "语法书 · 时态篇",
+   "title": "将来完成时",
+   "title_sub": "FUTURE PERFECT",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "will have", "zh": false },
+    { "t": "＋", "zh": true },
+    { "t": "过去分词", "zh": true }
+   ],
+   "examples": [
+    { "t": "By 2030 I will have graduated from university.", "hl": "will have graduated", "zh": "到 2030 年我就已经大学毕业了。" },
+    { "t": "They will have completed the bridge by next June.", "hl": "will have completed", "zh": "他们到明年六月将建成这座桥。" }
+   ],
+   "note_label": "辨析 · 与将来进行时",
+   "note": "将来完成时须有 <b>by + 将来时间</b>作界限，强调到时已完成的成果；将来进行时强调那时正在进行的动作。",
+   "page": 20,
+   "foot": "时态章"
+  },
+  {
+   "id": "en_g_tense_future_perfect_continuous",
+   "lang": "en",
+   "chapter": "en_g_tense",
+   "kicker": "语法书 · 时态篇",
+   "title": "将来完成进行时",
+   "title_sub": "FUTURE PERFECT CONTINUOUS",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "will have been", "zh": false },
+    { "t": "＋", "zh": true },
+    { "t": "现在分词", "zh": true }
+   ],
+   "examples": [
+    { "t": "By next month I will have been learning Japanese for three years.", "hl": "will have been learning", "zh": "到下个月我学日语就满三年了。" },
+    { "t": "By the time you arrive, we will have been working for ten hours.", "hl": "will have been working", "zh": "等你到时，我们将已连续工作十小时。" }
+   ],
+   "note_label": "辨析 · 高级用法",
+   "note": "将来完成进行时强调动作<b>持续到将来某时刻且仍可能继续</b>，常与 by + 将来时间、by the time 连用，适合描述长期趋势。",
+   "page": 21,
+   "foot": "时态章"
+  },
+  {
+   "id": "en_g_tense_used_to_would",
+   "lang": "en",
+   "chapter": "en_g_tense",
+   "kicker": "语法书 · 时态篇",
+   "title": "used to 与 would",
+   "title_sub": "USED TO / WOULD",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "used to / would + 动词原形", "zh": false },
+    { "t": "＝", "zh": true },
+    { "t": "过去的习惯", "zh": true }
+   ],
+   "examples": [
+    { "t": "I used to live in Shanghai.", "hl": "used to live", "zh": "我过去住在上海。（现在不住了）" },
+    { "t": "Every summer we would swim in the lake.", "hl": "would swim", "zh": "每年夏天我们都会在湖里游泳。" }
+   ],
+   "note_label": "辨析 · used to 与 would",
+   "note": "used to 可表<b>过去的持续状态</b>，would 只表<b>反复的动作</b>，不能说 would live。否定式为 didn't use to。另注意 be used to doing（习惯于）与之不同。",
+   "page": 22,
+   "foot": "时态章"
+  },
+  {
+   "id": "en_g_tense_be_going_to",
+   "lang": "en",
+   "chapter": "en_g_tense",
+   "kicker": "语法书 · 时态篇",
+   "title": "be going to 结构",
+   "title_sub": "BE GOING TO",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "be going to", "zh": false },
+    { "t": "＋", "zh": true },
+    { "t": "动词原形", "zh": true }
+   ],
+   "examples": [
+    { "t": "Look at those clouds — it is going to rain.", "hl": "is going to rain", "zh": "看那些云，要下雨了。（有迹象）" },
+    { "t": "We are going to launch a new app next month.", "hl": "are going to launch", "zh": "我们下个月打算发布新应用。（已计划）" }
+   ],
+   "note_label": "辨析 · 与 will",
+   "note": "be going to 强调<b>已有迹象或事先打算</b>；will 多为<b>说话瞬间的决定或单纯预测</b>。",
+   "page": 23,
+   "foot": "时态章"
+  },
+  {
+   "id": "en_g_tense_will_vs_going_to",
+   "lang": "en",
+   "chapter": "en_g_tense",
+   "kicker": "语法书 · 时态篇",
+   "title": "will 与 be going to 之别",
+   "title_sub": "WILL vs BE GOING TO",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "will（现决定 / 预测）｜be going to（预谋 / 迹象）", "zh": false }
+   ],
+   "examples": [
+    { "t": "The phone is ringing. — I'll get it.", "hl": "I'll get it", "zh": "电话响了。——我去接。（即兴决定）" },
+    { "t": "I'm going to visit my parents this weekend.", "hl": "going to visit", "zh": "这周末我打算去看父母。（早已计划）" }
+   ],
+   "note_label": "辨析 · 语境决定",
+   "note": "若已有<b>充分证据</b>的预测多用 be going to；承诺、提议、即时反应多用 will。",
+   "page": 24,
+   "foot": "时态章"
+  },
+  {
+   "id": "en_g_tense_sequence",
+   "lang": "en",
+   "chapter": "en_g_tense",
+   "kicker": "语法书 · 时态篇",
+   "title": "时态呼应",
+   "title_sub": "SEQUENCE OF TENSES",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "主句过去 → 从句用过去某时态", "zh": false }
+   ],
+   "examples": [
+    { "t": "He said he was busy.", "hl": "he was busy", "zh": "他说他很忙。" },
+    { "t": "She said she had finished the report.", "hl": "had finished", "zh": "她说她已完成报告。" },
+    { "t": "They told us they would come later.", "hl": "would come", "zh": "他们告诉我们稍后会来。" }
+   ],
+   "note_label": "辨析 · 例外情况",
+   "note": "宾语从句与过去时主句呼应时，从句时态<b>相应后移</b>（现在→过去，过去→过去完成，将来→过去将来）。但客观真理、历史事实仍用一般现在时。",
+   "page": 25,
+   "foot": "时态章"
+  },
+  {
+   "id": "en_g_nf_infinitive_subject",
+   "lang": "en",
+   "chapter": "en_g_nonfinite",
+   "kicker": "语法书 · 非谓语篇",
+   "title": "不定式作主语",
+   "title_sub": "INFINITIVE AS SUBJECT",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "To do sth.", "zh": false },
+    { "t": "＋", "zh": true },
+    { "t": "谓语", "zh": true }
+   ],
+   "examples": [
+    { "t": "To master a language takes years of practice.", "hl": "To master", "zh": "掌握一门语言需要多年练习。" },
+    { "t": "It is important to stay calm under pressure.", "hl": "to stay calm", "zh": "在压力下保持冷静很重要。（it 作形式主语）" }
+   ],
+   "note_label": "辨析 · 形式主语 it",
+   "note": "不定式作主语常后置，用 <b>it 作形式主语</b>，真正主语放到句末，避免头重脚轻。动名词作主语则多表一般性行为。",
+   "page": 26,
+   "foot": "非谓语章"
+  },
+  {
+   "id": "en_g_nf_infinitive_object",
+   "lang": "en",
+   "chapter": "en_g_nonfinite",
+   "kicker": "语法书 · 非谓语篇",
+   "title": "不定式作宾语",
+   "title_sub": "INFINITIVE AS OBJECT",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "动词", "zh": true },
+    { "t": "＋", "zh": true },
+    { "t": "to do", "zh": false }
+   ],
+   "examples": [
+    { "t": "I decided to apply for a scholarship.", "hl": "to apply", "zh": "我决定申请奖学金。" },
+    { "t": "She agreed to help us with the survey.", "hl": "to help", "zh": "她同意帮我们做调查。" }
+   ],
+   "note_label": "辨析 · 只接不定式的动词",
+   "note": "decide, hope, agree, offer, refuse, manage, promise, afford, expect 等<b>只接不定式</b>，不能接动名词。",
+   "page": 27,
+   "foot": "非谓语章"
+  },
+  {
+   "id": "en_g_nf_infinitive_attribute",
+   "lang": "en",
+   "chapter": "en_g_nonfinite",
+   "kicker": "语法书 · 非谓语篇",
+   "title": "不定式作定语",
+   "title_sub": "INFINITIVE AS ATTRIBUTE",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "名词", "zh": true },
+    { "t": "＋", "zh": true },
+    { "t": "to do", "zh": false }
+   ],
+   "examples": [
+    { "t": "She has nothing to worry about.", "hl": "nothing to worry about", "zh": "她没什么可担心的。" },
+    { "t": "He is always the first to arrive.", "hl": "the first to arrive", "zh": "他总是第一个到的人。" }
+   ],
+   "note_label": "辨析 · 及物性与介词",
+   "note": "不定式作定语多修饰 <b>the first / last / next、nothing、something</b> 等词；若不定式动词不及物，需保留相应<b>介词</b>（如 to live in）。",
+   "page": 28,
+   "foot": "非谓语章"
+  },
+  {
+   "id": "en_g_nf_infinitive_adverbial",
+   "lang": "en",
+   "chapter": "en_g_nonfinite",
+   "kicker": "语法书 · 非谓语篇",
+   "title": "不定式作状语",
+   "title_sub": "INFINITIVE AS ADVERBIAL",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "主句", "zh": true },
+    { "t": "＋", "zh": true },
+    { "t": "to do（目的 / 结果）", "zh": false }
+   ],
+   "examples": [
+    { "t": "I got up early to catch the first train.", "hl": "to catch", "zh": "我早起是为了赶首班车。（目的）" },
+    { "t": "He hurried to the station only to find the train gone.", "hl": "only to find", "zh": "他赶到车站却发现火车已开走。（结果）" }
+   ],
+   "note_label": "辨析 · 目的与结果",
+   "note": "表目的时不定式常置于句末，也可放句首，多用 <b>to do</b> 或 in order to；表出乎意料的结果用 <b>only to do</b>。",
+   "page": 29,
+   "foot": "非谓语章"
+  },
+  {
+   "id": "en_g_nf_infinitive_predictive",
+   "lang": "en",
+   "chapter": "en_g_nonfinite",
+   "kicker": "语法书 · 非谓语篇",
+   "title": "不定式作表语",
+   "title_sub": "INFINITIVE AS PREDICATIVE",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "主语", "zh": true },
+    { "t": "＋", "zh": true },
+    { "t": "be + to do", "zh": false }
+   ],
+   "examples": [
+    { "t": "My goal is to study abroad.", "hl": "to study abroad", "zh": "我的目标是出国留学。" },
+    { "t": "The problem is how to raise enough funds.", "hl": "how to raise", "zh": "问题是如何筹集足够的资金。" }
+   ],
+   "note_label": "辨析 · 表计划与义务",
+   "note": "be to do 除作表语外，还可表<b>按计划、命令或注定</b>要发生的事，如 The meeting is to be held tomorrow。",
+   "page": 30,
+   "foot": "非谓语章"
+  },
+  {
+   "id": "en_g_nf_infinitive_complement",
+   "lang": "en",
+   "chapter": "en_g_nonfinite",
+   "kicker": "语法书 · 非谓语篇",
+   "title": "不定式作宾语补足语",
+   "title_sub": "INFINITIVE AS OBJECT COMPLEMENT",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "动词 + 宾语", "zh": true },
+    { "t": "＋", "zh": true },
+    { "t": "to do", "zh": false }
+   ],
+   "examples": [
+    { "t": "The teacher advised us to read widely.", "hl": "to read widely", "zh": "老师建议我们广泛阅读。" },
+    { "t": "I want you to be honest with me.", "hl": "to be honest", "zh": "我希望你对我诚实。" }
+   ],
+   "note_label": "辨析 · 省略 to 的情况",
+   "note": "感官动词（see, hear, watch）和使役动词（make, let, have）后的宾补用<b>省 to 不定式</b>，但变被动语态时 to 要还原。",
+   "page": 31,
+   "foot": "非谓语章"
+  },
+  {
+   "id": "en_g_nf_gerund_subject",
+   "lang": "en",
+   "chapter": "en_g_nonfinite",
+   "kicker": "语法书 · 非谓语篇",
+   "title": "动名词作主语",
+   "title_sub": "GERUND AS SUBJECT",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "Doing sth.", "zh": false },
+    { "t": "＋", "zh": true },
+    { "t": "谓语（第三人称单数）", "zh": true }
+   ],
+   "examples": [
+    { "t": "Reading widely improves your writing.", "hl": "Reading widely", "zh": "广泛阅读能提升写作。" },
+    { "t": "Swimming in this lake is dangerous.", "hl": "Swimming", "zh": "在这个湖里游泳很危险。" }
+   ],
+   "note_label": "辨析 · 与不定式作主语",
+   "note": "动名词作主语表<b>一般性、习惯性</b>行为，谓语用<b>第三人称单数</b>；不定式多表<b>具体一次</b>的动作。",
+   "page": 32,
+   "foot": "非谓语章"
+  },
+  {
+   "id": "en_g_nf_gerund_object",
+   "lang": "en",
+   "chapter": "en_g_nonfinite",
+   "kicker": "语法书 · 非谓语篇",
+   "title": "动名词作宾语",
+   "title_sub": "GERUND AS OBJECT",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "动词", "zh": true },
+    { "t": "＋", "zh": true },
+    { "t": "doing", "zh": false }
+   ],
+   "examples": [
+    { "t": "I enjoy reading scientific articles.", "hl": "reading", "zh": "我喜欢读科学文章。" },
+    { "t": "They suggested holding another meeting.", "hl": "holding", "zh": "他们建议再开一次会。" }
+   ],
+   "note_label": "辨析 · 只接动名词的动词",
+   "note": "enjoy, finish, avoid, suggest, mind, practise, consider, admit, risk, keep 等<b>只接动名词</b>。",
+   "page": 33,
+   "foot": "非谓语章"
+  },
+  {
+   "id": "en_g_nf_gerund_predictive",
+   "lang": "en",
+   "chapter": "en_g_nonfinite",
+   "kicker": "语法书 · 非谓语篇",
+   "title": "动名词作表语",
+   "title_sub": "GERUND AS PREDICATIVE",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "主语", "zh": true },
+    { "t": "＋", "zh": true },
+    { "t": "be + doing", "zh": false }
+   ],
+   "examples": [
+    { "t": "Her job is teaching English.", "hl": "teaching English", "zh": "她的工作是教英语。" },
+    { "t": "The hardest part is keeping motivated.", "hl": "keeping motivated", "zh": "最难的是保持动力。" }
+   ],
+   "note_label": "辨析 · 与进行时的区别",
+   "note": "动名词作表语时 be 后是<b>名词性成分</b>，主语与它可互换；进行时中 doing 是<b>动作</b>，不可与主语互换。",
+   "page": 34,
+   "foot": "非谓语章"
+  },
+  {
+   "id": "en_g_nf_inf_vs_gerund",
+   "lang": "en",
+   "chapter": "en_g_nonfinite",
+   "kicker": "语法书 · 非谓语篇",
+   "title": "不定式与动名词之辨",
+   "title_sub": "INFINITIVE vs GERUND",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "to do（将来 / 具体）｜doing（习惯 / 抽象）", "zh": false }
+   ],
+   "examples": [
+    { "t": "Remember to lock the door.", "hl": "to lock", "zh": "记得（要去）锁门。" },
+    { "t": "I remember locking the door.", "hl": "locking", "zh": "我记得锁过门了。" },
+    { "t": "He stopped to smoke.", "hl": "to smoke", "zh": "他停下来去抽烟。" }
+   ],
+   "note_label": "辨析 · 意义不同的动词",
+   "note": "remember, forget, stop, try, mean, regret 等接不定式与动名词<b>意思不同</b>；不定式指向未来，动名词指向已发生或一般行为。",
+   "page": 35,
+   "foot": "非谓语章"
+  },
+  {
+   "id": "en_g_nf_participle_attribute",
+   "lang": "en",
+   "chapter": "en_g_nonfinite",
+   "kicker": "语法书 · 非谓语篇",
+   "title": "分词作定语",
+   "title_sub": "PARTICIPLE AS ATTRIBUTE",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "doing / done", "zh": false },
+    { "t": "＋", "zh": true },
+    { "t": "名词", "zh": true }
+   ],
+   "examples": [
+    { "t": "The man standing by the door is my uncle.", "hl": "standing by the door", "zh": "站在门口的那个人是我叔叔。" },
+    { "t": "We collected the data required for the study.", "hl": "required for the study", "zh": "我们收集了研究所需的数据。" }
+   ],
+   "note_label": "辨析 · 现在分词与过去分词",
+   "note": "现在分词表<b>主动、进行</b>；过去分词表<b>被动、完成</b>。单个分词前置，分词短语后置。",
+   "page": 36,
+   "foot": "非谓语章"
+  },
+  {
+   "id": "en_g_nf_participle_adverbial",
+   "lang": "en",
+   "chapter": "en_g_nonfinite",
+   "kicker": "语法书 · 非谓语篇",
+   "title": "分词作状语",
+   "title_sub": "PARTICIPLE AS ADVERBIAL",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "doing / done", "zh": false },
+    { "t": "，", "zh": true },
+    { "t": "主句", "zh": true }
+   ],
+   "examples": [
+    { "t": "Walking home, I met an old friend.", "hl": "Walking home", "zh": "走回家的路上，我遇见一位老友。" },
+    { "t": "Greatly moved, she could hardly speak.", "hl": "Greatly moved", "zh": "她深受感动，几乎说不出话。" }
+   ],
+   "note_label": "辨析 · 逻辑主语一致",
+   "note": "分词作状语时，其<b>逻辑主语须与主句主语一致</b>，否则要用独立主格。分词状语可表时间、原因、条件、让步、伴随等。",
+   "page": 37,
+   "foot": "非谓语章"
+  },
+  {
+   "id": "en_g_nf_participle_predictive",
+   "lang": "en",
+   "chapter": "en_g_nonfinite",
+   "kicker": "语法书 · 非谓语篇",
+   "title": "分词作表语",
+   "title_sub": "PARTICIPLE AS PREDICATIVE",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "主语", "zh": true },
+    { "t": "＋", "zh": true },
+    { "t": "be + doing / done", "zh": false }
+   ],
+   "examples": [
+    { "t": "The news is encouraging.", "hl": "encouraging", "zh": "这消息令人鼓舞。" },
+    { "t": "She felt exhausted after the exam.", "hl": "exhausted", "zh": "考试后她感到筋疲力尽。" }
+   ],
+   "note_label": "辨析 · -ing 与 -ed 形容词",
+   "note": "现在分词型形容词表<b>“令人……”</b>，主语多为物；过去分词型表<b>“感到……”</b>，主语多为人。如 interesting / interested。",
+   "page": 38,
+   "foot": "非谓语章"
+  },
+  {
+   "id": "en_g_nf_participle_complement",
+   "lang": "en",
+   "chapter": "en_g_nonfinite",
+   "kicker": "语法书 · 非谓语篇",
+   "title": "分词作宾语补足语",
+   "title_sub": "PARTICIPLE AS OBJECT COMPLEMENT",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "感官动词 + 宾语", "zh": true },
+    { "t": "＋", "zh": true },
+    { "t": "doing / done", "zh": false }
+   ],
+   "examples": [
+    { "t": "I saw him crossing the street.", "hl": "crossing", "zh": "我看见他正在过马路。（进行）" },
+    { "t": "She found the window broken.", "hl": "broken", "zh": "她发现窗户被打破了。（被动完成）" }
+   ],
+   "note_label": "辨析 · 与省 to 不定式",
+   "note": "感官动词后接 doing 表<b>动作正在进行</b>（完整过程用省 to 不定式），接 done 表<b>被动或已完成</b>。",
+   "page": 39,
+   "foot": "非谓语章"
+  },
+  {
+   "id": "en_g_nf_present_vs_past",
+   "lang": "en",
+   "chapter": "en_g_nonfinite",
+   "kicker": "语法书 · 非谓语篇",
+   "title": "现在分词与过去分词之辨",
+   "title_sub": "PRESENT vs PAST PARTICIPLE",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "doing（主动 / 进行）｜done（被动 / 完成）", "zh": false }
+   ],
+   "examples": [
+    { "t": "The film is boring; I am bored.", "hl": "boring", "zh": "这电影很无聊，我感到厌烦。" },
+    { "t": "A fallen leaf lies on the ground.", "hl": "fallen", "zh": "一片落下的叶子躺在地上。" }
+   ],
+   "note_label": "辨析 · 主动被动与时间",
+   "note": "现在分词表<b>主动、进行、未完成</b>；过去分词表<b>被动、完成</b>。及物动词的过去分词含被动，不及物动词的只表完成。",
+   "page": 40,
+   "foot": "非谓语章"
+  },
+  {
+   "id": "en_g_nf_absolute",
+   "lang": "en",
+   "chapter": "en_g_nonfinite",
+   "kicker": "语法书 · 非谓语篇",
+   "title": "独立主格结构",
+   "title_sub": "ABSOLUTE CONSTRUCTION",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "名词 / 代词", "zh": true },
+    { "t": "＋", "zh": true },
+    { "t": "分词等", "zh": false }
+   ],
+   "examples": [
+    { "t": "The weather being fine, we went hiking.", "hl": "The weather being fine", "zh": "天气很好，我们去远足了。" },
+    { "t": "He sat there, his eyes fixed on the screen.", "hl": "his eyes fixed on the screen", "zh": "他坐在那里，眼睛盯着屏幕。" }
+   ],
+   "note_label": "辨析 · 与分词状语的区别",
+   "note": "独立主格自带<b>逻辑主语</b>，与主句主语不同，是分词状语逻辑主语不一致时的补救形式；可表条件、原因、伴随。",
+   "page": 41,
+   "foot": "非谓语章"
+  },
+  {
+   "id": "en_g_nf_with_complex",
+   "lang": "en",
+   "chapter": "en_g_nonfinite",
+   "kicker": "语法书 · 非谓语篇",
+   "title": "with 复合结构",
+   "title_sub": "WITH-COMPLEX",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "with + 宾语", "zh": true },
+    { "t": "＋", "zh": true },
+    { "t": "doing / done / to do / adj.", "zh": false }
+   ],
+   "examples": [
+    { "t": "With the exam approaching, she studies harder.", "hl": "With the exam approaching", "zh": "随着考试临近，她学得更努力了。" },
+    { "t": "He left with the lights on.", "hl": "with the lights on", "zh": "他走时没关灯。" }
+   ],
+   "note_label": "辨析 · 四种补语",
+   "note": "with 后宾语与其补语构成<b>主谓或动宾关系</b>：主动进行用 doing，被动完成用 done，将来用 to do，状态用形容词或介词短语。",
+   "page": 42,
+   "foot": "非谓语章"
+  },
+  {
+   "id": "en_g_nf_being_done",
+   "lang": "en",
+   "chapter": "en_g_nonfinite",
+   "kicker": "语法书 · 非谓语篇",
+   "title": "being done 结构",
+   "title_sub": "BEING DONE",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "being + 过去分词", "zh": false },
+    { "t": "＝", "zh": true },
+    { "t": "正在被……", "zh": true }
+   ],
+   "examples": [
+    { "t": "The building being repaired is our library.", "hl": "being repaired", "zh": "正在维修的那座建筑是我们的图书馆。" },
+    { "t": "Being criticized in public annoyed him.", "hl": "Being criticized", "zh": "当众被批评让他很恼火。" }
+   ],
+   "note_label": "辨析 · 与过去分词",
+   "note": "being done 表<b>被动动作正在进行</b>；过去分词 done 只表被动或完成，不含进行意义。",
+   "page": 43,
+   "foot": "非谓语章"
+  },
+  {
+   "id": "en_g_nf_having_done",
+   "lang": "en",
+   "chapter": "en_g_nonfinite",
+   "kicker": "语法书 · 非谓语篇",
+   "title": "having done 结构",
+   "title_sub": "HAVING DONE",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "having (been) done", "zh": false },
+    { "t": "＝", "zh": true },
+    { "t": "先于主句完成的动作", "zh": true }
+   ],
+   "examples": [
+    { "t": "Having finished the report, she went home.", "hl": "Having finished", "zh": "完成报告后，她回家了。" },
+    { "t": "Having been warned twice, he still ignored it.", "hl": "Having been warned", "zh": "尽管被警告过两次，他还是没当回事。" }
+   ],
+   "note_label": "辨析 · 与 doing",
+   "note": "having done 强调动作<b>发生在主句动作之前</b>；doing 与主句动作<b>几乎同时</b>，或表条件、伴随。",
+   "page": 44,
+   "foot": "非谓语章"
+  },
+  {
+   "id": "en_g_nf_too_to",
+   "lang": "en",
+   "chapter": "en_g_nonfinite",
+   "kicker": "语法书 · 非谓语篇",
+   "title": "too...to 结构",
+   "title_sub": "TOO...TO",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "too + adj. / adv.", "zh": false },
+    { "t": "＋", "zh": true },
+    { "t": "to do（太……而不能）", "zh": true }
+   ],
+   "examples": [
+    { "t": "The box is too heavy to carry.", "hl": "too heavy to carry", "zh": "这箱子太重搬不动。" },
+    { "t": "He was too excited to sleep.", "hl": "too excited to sleep", "zh": "他兴奋得睡不着。" }
+   ],
+   "note_label": "辨析 · too...to 与 so...that",
+   "note": "too...to 表<b>否定结果</b>；若 too 前有 only, all, but 等则意为“非常……能”。so...that 表“如此……以至于”，需接结果从句。",
+   "page": 45,
+   "foot": "非谓语章"
+  },
+  {
+   "id": "en_g_nf_enough_to",
+   "lang": "en",
+   "chapter": "en_g_nonfinite",
+   "kicker": "语法书 · 非谓语篇",
+   "title": "enough to 结构",
+   "title_sub": "ENOUGH TO",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "adj. / adv. + enough", "zh": false },
+    { "t": "＋", "zh": true },
+    { "t": "to do", "zh": true }
+   ],
+   "examples": [
+    { "t": "She is old enough to make her own decisions.", "hl": "old enough to make", "zh": "她已经到了自己做决定的年纪。" },
+    { "t": "We arrived early enough to get front seats.", "hl": "early enough to get", "zh": "我们到得够早，抢到了前排座位。" }
+   ],
+   "note_label": "辨析 · enough 的位置",
+   "note": "enough 修饰形容词或副词时<b>后置</b>，修饰名词时<b>前置</b>（enough money）；enough to 表<b>肯定结果</b>，可与 so...that 转换。",
+   "page": 46,
+   "foot": "非谓语章"
+  },
+  {
+   "id": "en_g_nf_only_to_do",
+   "lang": "en",
+   "chapter": "en_g_nonfinite",
+   "kicker": "语法书 · 非谓语篇",
+   "title": "only to do 结构",
+   "title_sub": "ONLY TO DO",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "主句", "zh": true },
+    { "t": "＋", "zh": true },
+    { "t": "only to do", "zh": false }
+   ],
+   "examples": [
+    { "t": "He rushed to the airport only to miss the flight.", "hl": "only to miss the flight", "zh": "他冲到机场，结果却错过了航班。" },
+    { "t": "She looked everywhere, only to find it in her pocket.", "hl": "only to find", "zh": "她到处找，结果发现就在自己口袋里。" }
+   ],
+   "note_label": "辨析 · 表意外结果",
+   "note": "only to do 引导<b>出乎意料、令人失望的结果</b>，常置于句末，是雅思阅读与写作中的高频结构。",
+   "page": 47,
+   "foot": "非谓语章"
+  },
+  {
+   "id": "en_g_nf_purpose",
+   "lang": "en",
+   "chapter": "en_g_nonfinite",
+   "kicker": "语法书 · 非谓语篇",
+   "title": "目的状语结构",
+   "title_sub": "PURPOSE CLAUSE",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "in order to / so as to", "zh": false },
+    { "t": "＋", "zh": true },
+    { "t": "动词原形", "zh": true }
+   ],
+   "examples": [
+    { "t": "She spoke slowly in order to be understood.", "hl": "in order to be understood", "zh": "她放慢语速以便被听懂。" },
+    { "t": "We left early so as not to be late.", "hl": "so as not to be late", "zh": "我们早出发以免迟到。" }
+   ],
+   "note_label": "辨析 · to / in order to / so as to",
+   "note": "in order to 可置句首，so as to 不能；否定形式一律 <b>so as not to / in order not to</b>，一般不单独用 not to 表目的。",
+   "page": 48,
+   "foot": "非谓语章"
+  },
+  {
+   "id": "en_g_nf_perception",
+   "lang": "en",
+   "chapter": "en_g_nonfinite",
+   "kicker": "语法书 · 非谓语篇",
+   "title": "感官与使役动词后的非谓语",
+   "title_sub": "PERCEPTION & CAUSATIVE",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "see / hear / make / let / have", "zh": false },
+    { "t": "＋", "zh": true },
+    { "t": "宾语 + do / doing / done", "zh": true }
+   ],
+   "examples": [
+    { "t": "We made him tell the truth.", "hl": "made him tell", "zh": "我们逼他说出真相。（省 to）" },
+    { "t": "I heard someone knocking at the door.", "hl": "knocking", "zh": "我听见有人正在敲门。" },
+    { "t": "You should have your hair cut.", "hl": "have your hair cut", "zh": "你该理发了。（让别人做）" }
+   ],
+   "note_label": "辨析 · 被动还原 to",
+   "note": "使役动词主动语态后接<b>省 to 不定式</b>，变被动后 to 必须还原（He was made to tell...）；have sth. done 表“使某事被做”。",
+   "page": 49,
+   "foot": "非谓语章"
+  }
+ ]
+}

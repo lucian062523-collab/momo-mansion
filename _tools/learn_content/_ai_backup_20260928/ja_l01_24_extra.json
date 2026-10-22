@@ -1,0 +1,3664 @@
+[
+ {
+  "id": "ja_大体",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 5,
+  "lemma": "大体",
+  "kana": "だいたい",
+  "kanji": "大体",
+  "romaji": "daitai",
+  "pos": "副",
+  "pron": "[daitai]",
+  "meaning_zh": "大致，大概；基本上",
+  "syn": [
+   "およそ"
+  ],
+  "colloc": [
+   "大体の意味",
+   "大体同じ"
+  ],
+  "example": {
+   "t": "話は大体分かりました。",
+   "zh": "事情我大致明白了。"
+  },
+  "audio": "audio/ja/ja_大体.ogg",
+  "distractors": [
+   "大抵",
+   "大分",
+   "だんだん"
+  ],
+  "tags": [
+   "core",
+   "daily"
+  ]
+ },
+ {
+  "id": "ja_是非",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 13,
+  "lemma": "是非",
+  "kana": "ぜひ",
+  "kanji": "是非",
+  "romaji": "zehi",
+  "pos": "副",
+  "pron": "[zehi]",
+  "meaning_zh": "务必，一定（表强烈愿望）",
+  "colloc": [
+   "ぜひ～てください",
+   "ぜひ一度"
+  ],
+  "example": {
+   "t": "ぜひ一緒に行きましょう。",
+   "zh": "请务必一起去吧。"
+  },
+  "audio": "audio/ja/ja_是非.ogg",
+  "distractors": [
+   "きっと",
+   "必ず",
+   "絶対"
+  ],
+  "tags": [
+   "core",
+   "speaking"
+  ]
+ },
+ {
+  "id": "ja_やはり",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "やはり",
+  "kana": "やはり",
+  "kanji": null,
+  "romaji": "yahari",
+  "pos": "副",
+  "pron": "[yahari]",
+  "meaning_zh": "仍然，还是；果然",
+  "syn": [
+   "やっぱり"
+  ],
+  "colloc": [
+   "やはり思ったとおり"
+  ],
+  "example": {
+   "t": "やはり彼が一番速いですね。",
+   "zh": "果然还是他最快啊。"
+  },
+  "audio": "audio/ja/ja_やはり.ogg",
+  "distractors": [
+   "やっぱり",
+   "きっと",
+   "たぶん"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_もう",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 4,
+  "lemma": "もう",
+  "kana": "もう",
+  "kanji": null,
+  "romaji": "mou",
+  "pos": "副",
+  "pron": "[mou]",
+  "meaning_zh": "已经；再，另外",
+  "ant": [
+   "まだ"
+  ],
+  "colloc": [
+   "もう一度",
+   "もう遅い"
+  ],
+  "example": {
+   "t": "もうご飯を食べました。",
+   "zh": "我已经吃过饭了。"
+  },
+  "audio": "audio/ja/ja_もう.ogg",
+  "distractors": [
+   "まだ",
+   "まあ",
+   "もっと"
+  ],
+  "tags": [
+   "core",
+   "time"
+  ]
+ },
+ {
+  "id": "ja_まだ",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 4,
+  "lemma": "まだ",
+  "kana": "まだ",
+  "kanji": null,
+  "romaji": "mada",
+  "pos": "副",
+  "pron": "[mada]",
+  "meaning_zh": "还，仍然；尚未",
+  "ant": [
+   "もう"
+  ],
+  "colloc": [
+   "まだ早い",
+   "まだ～ていない"
+  ],
+  "example": {
+   "t": "宿題はまだ終わっていません。",
+   "zh": "作业还没有做完。"
+  },
+  "audio": "audio/ja/ja_まだ.ogg",
+  "distractors": [
+   "もう",
+   "まもなく",
+   "やっと"
+  ],
+  "tags": [
+   "core",
+   "time"
+  ]
+ },
+ {
+  "id": "ja_しっかり",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 18,
+  "lemma": "しっかり",
+  "kana": "しっかり",
+  "kanji": null,
+  "romaji": "shikkari",
+  "pos": "副",
+  "pron": "[shikkari]",
+  "meaning_zh": "好好地，牢固地；振作",
+  "syn": [
+   "きちんと"
+  ],
+  "colloc": [
+   "しっかり覚える",
+   "しっかりする"
+  ],
+  "example": {
+   "t": "しっかり勉強してください。",
+   "zh": "请好好学习。"
+  },
+  "audio": "audio/ja/ja_しっかり.ogg",
+  "distractors": [
+   "きちんと",
+   "はっきり",
+   "ゆっくり"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_はっきり",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 19,
+  "lemma": "はっきり",
+  "kana": "はっきり",
+  "kanji": null,
+  "romaji": "hakkiri",
+  "pos": "副",
+  "pron": "[hakkiri]",
+  "meaning_zh": "清楚地，明确地",
+  "syn": [
+   "明らかに"
+  ],
+  "colloc": [
+   "はっきり言う",
+   "はっきり見える"
+  ],
+  "example": {
+   "t": "もっとはっきり言ってください。",
+   "zh": "请说得更清楚一点。"
+  },
+  "audio": "audio/ja/ja_はっきり.ogg",
+  "distractors": [
+   "しっかり",
+   "ゆっくり",
+   "そろそろ"
+  ],
+  "tags": [
+   "core",
+   "speaking"
+  ]
+ },
+ {
+  "id": "ja_だんだん",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 18,
+  "lemma": "だんだん",
+  "kana": "だんだん",
+  "kanji": null,
+  "romaji": "dandan",
+  "pos": "副",
+  "pron": "[dandan]",
+  "meaning_zh": "逐渐，渐渐",
+  "colloc": [
+   "だんだん～なる",
+   "だんだん増える"
+  ],
+  "example": {
+   "t": "だんだん暖かくなりました。",
+   "zh": "天气渐渐变暖了。"
+  },
+  "audio": "audio/ja/ja_だんだん.ogg",
+  "distractors": [
+   "だいたい",
+   "どんどん",
+   "そろそろ"
+  ],
+  "tags": [
+   "core",
+   "time"
+  ]
+ },
+ {
+  "id": "ja_そろそろ",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 14,
+  "lemma": "そろそろ",
+  "kana": "そろそろ",
+  "kanji": null,
+  "romaji": "sorosoro",
+  "pos": "副",
+  "pron": "[sorosoro]",
+  "meaning_zh": "快要，差不多该",
+  "colloc": [
+   "そろそろ時間です",
+   "そろそろ～ましょう"
+  ],
+  "example": {
+   "t": "そろそろ帰りましょう。",
+   "zh": "我们差不多该回去了。"
+  },
+  "audio": "audio/ja/ja_そろそろ.ogg",
+  "distractors": [
+   "もうすぐ",
+   "やっと",
+   "だんだん"
+  ],
+  "tags": [
+   "core",
+   "time"
+  ]
+ },
+ {
+  "id": "ja_殆ど",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 12,
+  "lemma": "殆ど",
+  "kana": "ほとんど",
+  "kanji": "殆ど",
+  "romaji": "hotondo",
+  "pos": "副",
+  "pron": "[hotondo]",
+  "meaning_zh": "几乎，大部分",
+  "syn": [
+   "大体"
+  ],
+  "colloc": [
+   "ほとんど～ない",
+   "ほとんど全部"
+  ],
+  "example": {
+   "t": "お金はほとんど使いました。",
+   "zh": "钱几乎都花完了。"
+  },
+  "audio": "audio/ja/ja_殆ど.ogg",
+  "distractors": [
+   "少し",
+   "大体",
+   "たっぷり"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_中々",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 15,
+  "lemma": "中々",
+  "kana": "なかなか",
+  "kanji": "中々",
+  "romaji": "nakanaka",
+  "pos": "副",
+  "pron": "[nakanaka]",
+  "meaning_zh": "相当，很；（接否定）迟迟不",
+  "syn": [
+   "かなり"
+  ],
+  "colloc": [
+   "なかなか～ない",
+   "なかなかいい"
+  ],
+  "example": {
+   "t": "なかなかいい店ですね。",
+   "zh": "真是家相当不错的店啊。"
+  },
+  "audio": "audio/ja/ja_中々.ogg",
+  "distractors": [
+   "だいたい",
+   "ほとんど",
+   "やっと"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_勿論",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 9,
+  "lemma": "勿論",
+  "kana": "もちろん",
+  "kanji": "勿論",
+  "romaji": "mochiron",
+  "pos": "副",
+  "pron": "[mochiron]",
+  "meaning_zh": "当然，不用说",
+  "syn": [
+   "当然"
+  ],
+  "colloc": [
+   "勿論です",
+   "勿論～も"
+  ],
+  "example": {
+   "t": "勿論手伝いますよ。",
+   "zh": "当然会帮忙的。"
+  },
+  "audio": "audio/ja/ja_勿論.ogg",
+  "distractors": [
+   "きっと",
+   "たぶん",
+   "やはり"
+  ],
+  "tags": [
+   "core",
+   "speaking"
+  ]
+ },
+ {
+  "id": "ja_急に",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 18,
+  "lemma": "急に",
+  "kana": "きゅうに",
+  "kanji": "急に",
+  "romaji": "kyuuni",
+  "pos": "副",
+  "pron": "[kyuuni]",
+  "meaning_zh": "突然，忽然",
+  "syn": [
+   "突然"
+  ],
+  "colloc": [
+   "急に～なる",
+   "急に言う"
+  ],
+  "example": {
+   "t": "急に雨が降ってきました。",
+   "zh": "突然下起雨来了。"
+  },
+  "audio": "audio/ja/ja_急に.ogg",
+  "distractors": [
+   "そろそろ",
+   "だんだん",
+   "すぐ"
+  ],
+  "tags": [
+   "core",
+   "time"
+  ]
+ },
+ {
+  "id": "ja_もうすぐ",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 11,
+  "lemma": "もうすぐ",
+  "kana": "もうすぐ",
+  "kanji": null,
+  "romaji": "mousugu",
+  "pos": "副",
+  "pron": "[mousugu]",
+  "meaning_zh": "马上就要，快要",
+  "syn": [
+   "まもなく"
+  ],
+  "colloc": [
+   "もうすぐ～する",
+   "もうすぐ春"
+  ],
+  "example": {
+   "t": "もうすぐ試験が始まります。",
+   "zh": "考试马上就要开始了。"
+  },
+  "audio": "audio/ja/ja_もうすぐ.ogg",
+  "distractors": [
+   "そろそろ",
+   "やっと",
+   "まだ"
+  ],
+  "tags": [
+   "core",
+   "time"
+  ]
+ },
+ {
+  "id": "ja_丁度",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 12,
+  "lemma": "丁度",
+  "kana": "ちょうど",
+  "kanji": "丁度",
+  "romaji": "choudo",
+  "pos": "副",
+  "pron": "[choudo]",
+  "meaning_zh": "正好，恰好；刚",
+  "syn": [
+   "きっかり"
+  ],
+  "colloc": [
+   "ちょうどいい",
+   "ちょうど今"
+  ],
+  "example": {
+   "t": "今ちょうど十二時です。",
+   "zh": "现在正好十二点。"
+  },
+  "audio": "audio/ja/ja_丁度.ogg",
+  "distractors": [
+   "だいたい",
+   "ほとんど",
+   "急に"
+  ],
+  "tags": [
+   "core",
+   "time"
+  ]
+ },
+ {
+  "id": "ja_後で",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 6,
+  "lemma": "後で",
+  "kana": "あとで",
+  "kanji": "後で",
+  "romaji": "atode",
+  "pos": "副",
+  "pron": "[atode]",
+  "meaning_zh": "之后，稍后",
+  "colloc": [
+   "後で～する",
+   "また後で"
+  ],
+  "example": {
+   "t": "後で電話します。",
+   "zh": "我稍后打电话。"
+  },
+  "audio": "audio/ja/ja_後で.ogg",
+  "distractors": [
+   "先に",
+   "前に",
+   "今度"
+  ],
+  "tags": [
+   "core",
+   "time"
+  ]
+ },
+ {
+  "id": "ja_全部",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 8,
+  "lemma": "全部",
+  "kana": "ぜんぶ",
+  "kanji": "全部",
+  "romaji": "zenbu",
+  "pos": "副",
+  "pron": "[zenbu]",
+  "meaning_zh": "全部，都",
+  "syn": [
+   "みんな"
+  ],
+  "colloc": [
+   "全部で",
+   "全部～する"
+  ],
+  "example": {
+   "t": "料理を全部食べました。",
+   "zh": "把菜全都吃光了。"
+  },
+  "audio": "audio/ja/ja_全部.ogg",
+  "distractors": [
+   "少し",
+   "たくさん",
+   "大体"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_もっと",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 9,
+  "lemma": "もっと",
+  "kana": "もっと",
+  "kanji": null,
+  "romaji": "motto",
+  "pos": "副",
+  "pron": "[motto]",
+  "meaning_zh": "更加，更多",
+  "colloc": [
+   "もっと～",
+   "もっとたくさん"
+  ],
+  "example": {
+   "t": "もっとゆっくり話してください。",
+   "zh": "请说得更慢一点。"
+  },
+  "audio": "audio/ja/ja_もっと.ogg",
+  "distractors": [
+   "ずっと",
+   "もう",
+   "もともと"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_ずっと",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 14,
+  "lemma": "ずっと",
+  "kana": "ずっと",
+  "kanji": null,
+  "romaji": "zutto",
+  "pos": "副",
+  "pron": "[zutto]",
+  "meaning_zh": "一直，始终；…得多",
+  "colloc": [
+   "ずっと前から",
+   "ずっと～ている"
+  ],
+  "example": {
+   "t": "朝からずっと働いています。",
+   "zh": "从早上一直工作到现在。"
+  },
+  "audio": "audio/ja/ja_ずっと.ogg",
+  "distractors": [
+   "もっと",
+   "いつも",
+   "すぐ"
+  ],
+  "tags": [
+   "core",
+   "time"
+  ]
+ },
+ {
+  "id": "ja_結構",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 13,
+  "lemma": "結構",
+  "kana": "けっこう",
+  "kanji": "結構",
+  "romaji": "kekkou",
+  "pos": "副",
+  "pron": "[kekkou]",
+  "meaning_zh": "相当，很；（婉拒）不用了",
+  "syn": [
+   "なかなか"
+  ],
+  "colloc": [
+   "結構です",
+   "結構多い"
+  ],
+  "example": {
+   "t": "この店は結構美味しいです。",
+   "zh": "这家店相当好吃。"
+  },
+  "audio": "audio/ja/ja_結構.ogg",
+  "distractors": [
+   "なかなか",
+   "ほとんど",
+   "けっきょく"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_なるべく",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 20,
+  "lemma": "なるべく",
+  "kana": "なるべく",
+  "kanji": null,
+  "romaji": "narubeku",
+  "pos": "副",
+  "pron": "[narubeku]",
+  "meaning_zh": "尽量，尽可能",
+  "syn": [
+   "できるだけ"
+  ],
+  "colloc": [
+   "なるべく～てください",
+   "なるべく早く"
+  ],
+  "example": {
+   "t": "なるべく早く来てください。",
+   "zh": "请尽量早点来。"
+  },
+  "audio": "audio/ja/ja_なるべく.ogg",
+  "distractors": [
+   "ぜひ",
+   "必ず",
+   "なるほど"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_なるほど",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 17,
+  "lemma": "なるほど",
+  "kana": "なるほど",
+  "kanji": null,
+  "romaji": "naruhodo",
+  "pos": "副",
+  "pron": "[naruhodo]",
+  "meaning_zh": "原来如此，的确",
+  "syn": [
+   "たしかに"
+  ],
+  "colloc": [
+   "なるほどね",
+   "なるほど分かった"
+  ],
+  "example": {
+   "t": "なるほど、そういうことですか。",
+   "zh": "原来如此，是这样啊。"
+  },
+  "audio": "audio/ja/ja_なるほど.ogg",
+  "distractors": [
+   "たしかに",
+   "もちろん",
+   "なるべく"
+  ],
+  "tags": [
+   "core",
+   "speaking"
+  ]
+ },
+ {
+  "id": "ja_せっかく",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 18,
+  "lemma": "せっかく",
+  "kana": "せっかく",
+  "kanji": null,
+  "romaji": "sekkaku",
+  "pos": "副",
+  "pron": "[sekkaku]",
+  "meaning_zh": "特意，好不容易",
+  "syn": [
+   "わざわざ"
+  ],
+  "colloc": [
+   "せっかく～のに",
+   "せっかくですから"
+  ],
+  "example": {
+   "t": "せっかく来たのに、店は休みでした。",
+   "zh": "好不容易来了，店却休息。"
+  },
+  "audio": "audio/ja/ja_せっかく.ogg",
+  "distractors": [
+   "やっと",
+   "わざわざ",
+   "すぐ"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_やっと",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 19,
+  "lemma": "やっと",
+  "kana": "やっと",
+  "kanji": null,
+  "romaji": "yatto",
+  "pos": "副",
+  "pron": "[yatto]",
+  "meaning_zh": "终于，好不容易",
+  "syn": [
+   "ようやく"
+  ],
+  "colloc": [
+   "やっと～た",
+   "やっと来た"
+  ],
+  "example": {
+   "t": "やっと宿題が終わりました。",
+   "zh": "终于把作业做完了。"
+  },
+  "audio": "audio/ja/ja_やっと.ogg",
+  "distractors": [
+   "そろそろ",
+   "きっと",
+   "もうすぐ"
+  ],
+  "tags": [
+   "core",
+   "time"
+  ]
+ },
+ {
+  "id": "ja_暫く",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 19,
+  "lemma": "暫く",
+  "kana": "しばらく",
+  "kanji": "暫く",
+  "romaji": "shibaraku",
+  "pos": "副",
+  "pron": "[shibaraku]",
+  "meaning_zh": "暂时，一会儿；好久",
+  "colloc": [
+   "しばらく待つ",
+   "しばらくぶり"
+  ],
+  "example": {
+   "t": "しばらくお待ちください。",
+   "zh": "请稍等一会儿。"
+  },
+  "audio": "audio/ja/ja_暫く.ogg",
+  "distractors": [
+   "すぐ",
+   "いつも",
+   "だんだん"
+  ],
+  "tags": [
+   "core",
+   "time"
+  ]
+ },
+ {
+  "id": "ja_先ず",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 7,
+  "lemma": "先ず",
+  "kana": "まず",
+  "kanji": "先ず",
+  "romaji": "mazu",
+  "pos": "副",
+  "pron": "[mazu]",
+  "meaning_zh": "首先，先",
+  "syn": [
+   "初めに"
+  ],
+  "colloc": [
+   "まず～する",
+   "まず初めに"
+  ],
+  "example": {
+   "t": "まず手を洗ってください。",
+   "zh": "请先洗手。"
+  },
+  "audio": "audio/ja/ja_先ず.ogg",
+  "distractors": [
+   "つぎに",
+   "やっと",
+   "先に"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_どんどん",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 21,
+  "lemma": "どんどん",
+  "kana": "どんどん",
+  "kanji": null,
+  "romaji": "dondon",
+  "pos": "副",
+  "pron": "[dondon]",
+  "meaning_zh": "接连不断，一个劲儿地",
+  "colloc": [
+   "どんどん増える",
+   "どんどん進む"
+  ],
+  "example": {
+   "t": "質問がどんどん出てきました。",
+   "zh": "问题接连不断地冒出来。"
+  },
+  "audio": "audio/ja/ja_どんどん.ogg",
+  "distractors": [
+   "だんだん",
+   "そろそろ",
+   "ゆっくり"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_いよいよ",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 22,
+  "lemma": "いよいよ",
+  "kana": "いよいよ",
+  "kanji": null,
+  "romaji": "iyoiyo",
+  "pos": "副",
+  "pron": "[iyoiyo]",
+  "meaning_zh": "终于，越发；紧要关头",
+  "colloc": [
+   "いよいよ～が始まる",
+   "いよいよだ"
+  ],
+  "example": {
+   "t": "いよいよ明日が試験です。",
+   "zh": "明天终于要考试了。"
+  },
+  "audio": "audio/ja/ja_いよいよ.ogg",
+  "distractors": [
+   "やっと",
+   "そろそろ",
+   "もうすぐ"
+  ],
+  "tags": [
+   "core",
+   "time"
+  ]
+ },
+ {
+  "id": "ja_つい",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 20,
+  "lemma": "つい",
+  "kana": "つい",
+  "kanji": null,
+  "romaji": "tsui",
+  "pos": "副",
+  "pron": "[tsui]",
+  "meaning_zh": "不由得；不小心",
+  "syn": [
+   "うっかり"
+  ],
+  "colloc": [
+   "つい～てしまう",
+   "つい忘れる"
+  ],
+  "example": {
+   "t": "つい笑ってしまいました。",
+   "zh": "不由得笑了出来。"
+  },
+  "audio": "audio/ja/ja_つい.ogg",
+  "distractors": [
+   "すぐ",
+   "やっと",
+   "たまたま"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_どうしても",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 19,
+  "lemma": "どうしても",
+  "kana": "どうしても",
+  "kanji": null,
+  "romaji": "doushitemo",
+  "pos": "副",
+  "pron": "[doushitemo]",
+  "meaning_zh": "无论如何，怎么也",
+  "colloc": [
+   "どうしても～たい",
+   "どうしても～ない"
+  ],
+  "example": {
+   "t": "どうしても行きたいです。",
+   "zh": "无论如何都想去。"
+  },
+  "audio": "audio/ja/ja_どうしても.ogg",
+  "distractors": [
+   "なるべく",
+   "ぜひ",
+   "きっと"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_みんな",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 7,
+  "lemma": "みんな",
+  "kana": "みんな",
+  "kanji": null,
+  "romaji": "minna",
+  "pos": "副",
+  "pron": "[minna]",
+  "meaning_zh": "大家；全部",
+  "syn": [
+   "全部"
+  ],
+  "colloc": [
+   "みんなで",
+   "みんな一緒に"
+  ],
+  "example": {
+   "t": "みんなで写真を撮りました。",
+   "zh": "大家一起拍了照片。"
+  },
+  "audio": "audio/ja/ja_みんな.ogg",
+  "distractors": [
+   "一人",
+   "皆さん",
+   "全部"
+  ],
+  "tags": [
+   "core",
+   "person"
+  ]
+ },
+ {
+  "id": "ja_きちんと",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "きちんと",
+  "kana": "きちんと",
+  "kanji": null,
+  "romaji": "kichinto",
+  "pos": "副",
+  "pron": "[kichinto]",
+  "meaning_zh": "整齐地，好好地；准时",
+  "syn": [
+   "しっかり"
+  ],
+  "colloc": [
+   "きちんと片付ける",
+   "きちんと守る"
+  ],
+  "example": {
+   "t": "部屋をきちんと片付けてください。",
+   "zh": "请把房间收拾整齐。"
+  },
+  "audio": "audio/ja/ja_きちんと.ogg",
+  "distractors": [
+   "はっきり",
+   "ゆっくり",
+   "そろそろ"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_たっぷり",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 21,
+  "lemma": "たっぷり",
+  "kana": "たっぷり",
+  "kanji": null,
+  "romaji": "tappuri",
+  "pos": "副",
+  "pron": "[tappuri]",
+  "meaning_zh": "充足地，满满地",
+  "syn": [
+   "たくさん"
+  ],
+  "colloc": [
+   "たっぷり入れる",
+   "時間はたっぷりある"
+  ],
+  "example": {
+   "t": "お湯をたっぷり入れてください。",
+   "zh": "请放满满的热水。"
+  },
+  "audio": "audio/ja/ja_たっぷり.ogg",
+  "distractors": [
+   "たくさん",
+   "ちょっと",
+   "ほとんど"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_まあまあ",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "まあまあ",
+  "kana": "まあまあ",
+  "kanji": null,
+  "romaji": "maamaa",
+  "pos": "副",
+  "pron": "[maamaa]",
+  "meaning_zh": "马马虎虎，还行",
+  "colloc": [
+   "まあまあです",
+   "まあまあいい"
+  ],
+  "example": {
+   "t": "味はまあまあです。",
+   "zh": "味道还算可以。"
+  },
+  "audio": "audio/ja/ja_まあまあ.ogg",
+  "distractors": [
+   "なかなか",
+   "とても",
+   "結構"
+  ],
+  "tags": [
+   "core",
+   "speaking"
+  ]
+ },
+ {
+  "id": "ja_すっかり",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 20,
+  "lemma": "すっかり",
+  "kana": "すっかり",
+  "kanji": null,
+  "romaji": "sukkari",
+  "pos": "副",
+  "pron": "[sukkari]",
+  "meaning_zh": "完全，彻底",
+  "syn": [
+   "全部"
+  ],
+  "colloc": [
+   "すっかり忘れる",
+   "すっかり変わる"
+  ],
+  "example": {
+   "t": "約束をすっかり忘れていました。",
+   "zh": "把约定完全忘光了。"
+  },
+  "audio": "audio/ja/ja_すっかり.ogg",
+  "distractors": [
+   "しっかり",
+   "はっきり",
+   "そろそろ"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_別に",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 17,
+  "lemma": "別に",
+  "kana": "べつに",
+  "kanji": "別に",
+  "romaji": "betsuni",
+  "pos": "副",
+  "pron": "[betsuni]",
+  "meaning_zh": "（接否定）并不，没什么特别",
+  "colloc": [
+   "別に～ない",
+   "別にいい"
+  ],
+  "example": {
+   "t": "別に用事はありません。",
+   "zh": "没什么特别的事。"
+  },
+  "audio": "audio/ja/ja_別に.ogg",
+  "distractors": [
+   "特に",
+   "とても",
+   "少し"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_いつでも",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 13,
+  "lemma": "いつでも",
+  "kana": "いつでも",
+  "kanji": null,
+  "romaji": "itsudemo",
+  "pos": "副",
+  "pron": "[itsudemo]",
+  "meaning_zh": "随时，任何时候",
+  "colloc": [
+   "いつでもいい",
+   "いつでもどうぞ"
+  ],
+  "example": {
+   "t": "いつでも遊びに来てください。",
+   "zh": "随时欢迎来玩。"
+  },
+  "audio": "audio/ja/ja_いつでも.ogg",
+  "distractors": [
+   "いつか",
+   "いつも",
+   "どこでも"
+  ],
+  "tags": [
+   "core",
+   "time"
+  ]
+ },
+ {
+  "id": "ja_さっき",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 11,
+  "lemma": "さっき",
+  "kana": "さっき",
+  "kanji": null,
+  "romaji": "sakki",
+  "pos": "副",
+  "pron": "[sakki]",
+  "meaning_zh": "刚才，方才",
+  "syn": [
+   "先ほど"
+  ],
+  "colloc": [
+   "さっきから",
+   "さっきまで"
+  ],
+  "example": {
+   "t": "さっき彼から電話がありました。",
+   "zh": "刚才他打来了电话。"
+  },
+  "audio": "audio/ja/ja_さっき.ogg",
+  "distractors": [
+   "後で",
+   "今度",
+   "もうすぐ"
+  ],
+  "tags": [
+   "core",
+   "time"
+  ]
+ },
+ {
+  "id": "ja_しかし",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "しかし",
+  "kana": "しかし",
+  "kanji": null,
+  "romaji": "shikashi",
+  "pos": "接",
+  "pron": "[shikashi]",
+  "meaning_zh": "但是，可是",
+  "syn": [
+   "でも"
+  ],
+  "colloc": [
+   "しかしながら"
+  ],
+  "example": {
+   "t": "一生懸命勉強した。しかし、試験に落ちた。",
+   "zh": "拼命学习了。但是，考试没通过。"
+  },
+  "audio": "audio/ja/ja_しかし.ogg",
+  "distractors": [
+   "そして",
+   "だから",
+   "それから"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_ところで",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 17,
+  "lemma": "ところで",
+  "kana": "ところで",
+  "kanji": null,
+  "romaji": "tokorode",
+  "pos": "接",
+  "pron": "[tokorode]",
+  "meaning_zh": "顺便说，话说（转换话题）",
+  "colloc": [
+   "ところで、～"
+  ],
+  "example": {
+   "t": "ところで、明日は暇ですか。",
+   "zh": "顺便问一下，明天有空吗？"
+  },
+  "audio": "audio/ja/ja_ところで.ogg",
+  "distractors": [
+   "ところが",
+   "そして",
+   "つまり"
+  ],
+  "tags": [
+   "core",
+   "speaking"
+  ]
+ },
+ {
+  "id": "ja_つまり",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 20,
+  "lemma": "つまり",
+  "kana": "つまり",
+  "kanji": null,
+  "romaji": "tsumari",
+  "pos": "接",
+  "pron": "[tsumari]",
+  "meaning_zh": "也就是说，总之",
+  "syn": [
+   "すなわち"
+  ],
+  "colloc": [
+   "つまり～ということだ"
+  ],
+  "example": {
+   "t": "つまり、彼は来ないということです。",
+   "zh": "也就是说，他不来了。"
+  },
+  "audio": "audio/ja/ja_つまり.ogg",
+  "distractors": [
+   "たとえば",
+   "ところで",
+   "そして"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_けれども",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 22,
+  "lemma": "けれども",
+  "kana": "けれども",
+  "kanji": null,
+  "romaji": "keredomo",
+  "pos": "接",
+  "pron": "[keredomo]",
+  "meaning_zh": "但是，然而",
+  "syn": [
+   "しかし"
+  ],
+  "colloc": [
+   "～けれども"
+  ],
+  "example": {
+   "t": "安いけれども、品質はいいです。",
+   "zh": "虽然便宜，但质量很好。"
+  },
+  "audio": "audio/ja/ja_けれども.ogg",
+  "distractors": [
+   "ですから",
+   "そして",
+   "それで"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_すると",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 14,
+  "lemma": "すると",
+  "kana": "すると",
+  "kanji": null,
+  "romaji": "suruto",
+  "pos": "接",
+  "pron": "[suruto]",
+  "meaning_zh": "于是，接着",
+  "colloc": [
+   "すると、～た"
+  ],
+  "example": {
+   "t": "ボタンを押した。すると、電気がついた。",
+   "zh": "按下了按钮。于是，灯亮了。"
+  },
+  "audio": "audio/ja/ja_すると.ogg",
+  "distractors": [
+   "そして",
+   "それでは",
+   "だから"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_そこで",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 19,
+  "lemma": "そこで",
+  "kana": "そこで",
+  "kanji": null,
+  "romaji": "sokode",
+  "pos": "接",
+  "pron": "[sokode]",
+  "meaning_zh": "因此，于是（采取行动）",
+  "colloc": [
+   "そこで、～する"
+  ],
+  "example": {
+   "t": "道が分からない。そこで、地図を買った。",
+   "zh": "不认识路。于是买了地图。"
+  },
+  "audio": "audio/ja/ja_そこで.ogg",
+  "distractors": [
+   "それで",
+   "ところで",
+   "そして"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_それに",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 9,
+  "lemma": "それに",
+  "kana": "それに",
+  "kanji": null,
+  "romaji": "soreni",
+  "pos": "接",
+  "pron": "[soreni]",
+  "meaning_zh": "而且，再加上",
+  "colloc": [
+   "それに、～も"
+  ],
+  "example": {
+   "t": "この店は安い。それに、美味しい。",
+   "zh": "这家店便宜，而且好吃。"
+  },
+  "audio": "audio/ja/ja_それに.ogg",
+  "distractors": [
+   "それから",
+   "それで",
+   "でも"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_それでは",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 10,
+  "lemma": "それでは",
+  "kana": "それでは",
+  "kanji": null,
+  "romaji": "soredeha",
+  "pos": "接",
+  "pron": "[soredeha]",
+  "meaning_zh": "那么，那就",
+  "syn": [
+   "じゃあ"
+  ],
+  "colloc": [
+   "それでは、～ましょう"
+  ],
+  "example": {
+   "t": "それでは、始めましょう。",
+   "zh": "那么，我们开始吧。"
+  },
+  "audio": "audio/ja/ja_それでは.ogg",
+  "distractors": [
+   "それから",
+   "それに",
+   "ところで"
+  ],
+  "tags": [
+   "core",
+   "speaking"
+  ]
+ },
+ {
+  "id": "ja_じゃあ",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 10,
+  "lemma": "じゃあ",
+  "kana": "じゃあ",
+  "kanji": null,
+  "romaji": "jaa",
+  "pos": "接",
+  "pron": "[jaa]",
+  "meaning_zh": "那么，那就",
+  "syn": [
+   "それでは"
+  ],
+  "colloc": [
+   "じゃあ、また",
+   "じゃあね"
+  ],
+  "example": {
+   "t": "じゃあ、また明日。",
+   "zh": "那么，明天见。"
+  },
+  "audio": "audio/ja/ja_じゃあ.ogg",
+  "distractors": [
+   "それに",
+   "そして",
+   "でも"
+  ],
+  "tags": [
+   "core",
+   "speaking"
+  ]
+ },
+ {
+  "id": "ja_だが",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 23,
+  "lemma": "だが",
+  "kana": "だが",
+  "kanji": null,
+  "romaji": "daga",
+  "pos": "接",
+  "pron": "[daga]",
+  "meaning_zh": "但是，然而（书面）",
+  "syn": [
+   "しかし"
+  ],
+  "colloc": [
+   "だが、～"
+  ],
+  "example": {
+   "t": "努力した。だが、結果は出なかった。",
+   "zh": "努力了。但是，没有结果。"
+  },
+  "audio": "audio/ja/ja_だが.ogg",
+  "distractors": [
+   "そして",
+   "だから",
+   "それで"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_ただし",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 21,
+  "lemma": "ただし",
+  "kana": "ただし",
+  "kanji": null,
+  "romaji": "tadashi",
+  "pos": "接",
+  "pron": "[tadashi]",
+  "meaning_zh": "但是，不过（补充条件）",
+  "colloc": [
+   "ただし、～場合"
+  ],
+  "example": {
+   "t": "入場は無料です。ただし、予約が必要です。",
+   "zh": "入场免费。不过需要预约。"
+  },
+  "audio": "audio/ja/ja_ただし.ogg",
+  "distractors": [
+   "しかし",
+   "つまり",
+   "そして"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_なぜなら",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 22,
+  "lemma": "なぜなら",
+  "kana": "なぜなら",
+  "kanji": null,
+  "romaji": "nazenara",
+  "pos": "接",
+  "pron": "[nazenara]",
+  "meaning_zh": "因为（用于说明理由）",
+  "colloc": [
+   "なぜなら～からだ"
+  ],
+  "example": {
+   "t": "行きません。なぜなら、用事があるからです。",
+   "zh": "不去。因为有事。"
+  },
+  "audio": "audio/ja/ja_なぜなら.ogg",
+  "distractors": [
+   "だから",
+   "つまり",
+   "しかし"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_したがって",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 24,
+  "lemma": "したがって",
+  "kana": "したがって",
+  "kanji": null,
+  "romaji": "shitagatte",
+  "pos": "接",
+  "pron": "[shitagatte]",
+  "meaning_zh": "因此，所以（书面）",
+  "syn": [
+   "だから"
+  ],
+  "colloc": [
+   "したがって、～"
+  ],
+  "example": {
+   "t": "雨が降った。したがって、試合は中止です。",
+   "zh": "下雨了。因此比赛取消。"
+  },
+  "audio": "audio/ja/ja_したがって.ogg",
+  "distractors": [
+   "しかし",
+   "つまり",
+   "それに"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_それとも",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 13,
+  "lemma": "それとも",
+  "kana": "それとも",
+  "kanji": null,
+  "romaji": "soretomo",
+  "pos": "接",
+  "pron": "[soretomo]",
+  "meaning_zh": "或者，还是（表选择）",
+  "colloc": [
+   "～か、それとも～か"
+  ],
+  "example": {
+   "t": "コーヒーにしますか。それとも、お茶にしますか。",
+   "zh": "您要咖啡，还是茶？"
+  },
+  "audio": "audio/ja/ja_それとも.ogg",
+  "distractors": [
+   "そして",
+   "それから",
+   "それに"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_及び",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 24,
+  "lemma": "及び",
+  "kana": "および",
+  "kanji": "及び",
+  "romaji": "oyobi",
+  "pos": "接",
+  "pron": "[oyobi]",
+  "meaning_zh": "以及（书面）",
+  "syn": [
+   "と"
+  ],
+  "colloc": [
+   "A及びB"
+  ],
+  "example": {
+   "t": "名前及び住所を書いてください。",
+   "zh": "请写下姓名以及住址。"
+  },
+  "audio": "audio/ja/ja_及び.ogg",
+  "distractors": [
+   "または",
+   "つまり",
+   "そして"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_その上",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 21,
+  "lemma": "その上",
+  "kana": "そのうえ",
+  "kanji": "その上",
+  "romaji": "sonoue",
+  "pos": "接",
+  "pron": "[sonoue]",
+  "meaning_zh": "而且，再加上",
+  "syn": [
+   "それに"
+  ],
+  "colloc": [
+   "その上、～も"
+  ],
+  "example": {
+   "t": "値段が安い。その上、品質もいい。",
+   "zh": "价格便宜，而且质量也好。"
+  },
+  "audio": "audio/ja/ja_その上.ogg",
+  "distractors": [
+   "そのうち",
+   "それで",
+   "ところで"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_ところが",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 20,
+  "lemma": "ところが",
+  "kana": "ところが",
+  "kanji": null,
+  "romaji": "tokoroga",
+  "pos": "接",
+  "pron": "[tokoroga]",
+  "meaning_zh": "然而，可是（出乎意料）",
+  "colloc": [
+   "ところが、～た"
+  ],
+  "example": {
+   "t": "出かけようとした。ところが、雨が降り出した。",
+   "zh": "正要出门。然而下起雨来了。"
+  },
+  "audio": "audio/ja/ja_ところが.ogg",
+  "distractors": [
+   "ところで",
+   "だから",
+   "そして"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_ですから",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 9,
+  "lemma": "ですから",
+  "kana": "ですから",
+  "kanji": null,
+  "romaji": "desukara",
+  "pos": "接",
+  "pron": "[desukara]",
+  "meaning_zh": "所以，因此",
+  "syn": [
+   "だから"
+  ],
+  "colloc": [
+   "ですから、～"
+  ],
+  "example": {
+   "t": "寒いですから、コートを着てください。",
+   "zh": "因为冷，请穿上大衣。"
+  },
+  "audio": "audio/ja/ja_ですから.ogg",
+  "distractors": [
+   "しかし",
+   "そして",
+   "ところで"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_について",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "について",
+  "kana": "について",
+  "kanji": null,
+  "romaji": "nitsuite",
+  "pos": "慣",
+  "pron": "[nitsuite]",
+  "meaning_zh": "关于，就…",
+  "colloc": [
+   "～について話す",
+   "～について考える"
+  ],
+  "example": {
+   "t": "日本の文化について勉強しています。",
+   "zh": "正在学习关于日本文化的内容。"
+  },
+  "audio": "audio/ja/ja_について.ogg",
+  "distractors": [
+   "にとって",
+   "によって",
+   "として"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_によって",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 20,
+  "lemma": "によって",
+  "kana": "によって",
+  "kanji": null,
+  "romaji": "niyotte",
+  "pos": "慣",
+  "pron": "[niyotte]",
+  "meaning_zh": "根据；由于；由（被动施动者）",
+  "colloc": [
+   "～によって違う",
+   "～によって作られた"
+  ],
+  "example": {
+   "t": "天気によって、予定が変わります。",
+   "zh": "根据天气，计划会改变。"
+  },
+  "audio": "audio/ja/ja_によって.ogg",
+  "distractors": [
+   "について",
+   "にとって",
+   "のために"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_のために",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 13,
+  "lemma": "のために",
+  "kana": "のために",
+  "kanji": null,
+  "romaji": "notameni",
+  "pos": "慣",
+  "pron": "[notameni]",
+  "meaning_zh": "为了；因为",
+  "colloc": [
+   "～のために働く",
+   "～のために"
+  ],
+  "example": {
+   "t": "家族のために働いています。",
+   "zh": "为了家人而工作。"
+  },
+  "audio": "audio/ja/ja_のために.ogg",
+  "distractors": [
+   "のくせに",
+   "のかわりに",
+   "について"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_のかわりに",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 17,
+  "lemma": "のかわりに",
+  "kana": "のかわりに",
+  "kanji": null,
+  "romaji": "nokawarini",
+  "pos": "慣",
+  "pron": "[nokawarini]",
+  "meaning_zh": "代替，作为交换",
+  "colloc": [
+   "～のかわりに～する"
+  ],
+  "example": {
+   "t": "母のかわりにご飯を作りました。",
+   "zh": "代替妈妈做了饭。"
+  },
+  "audio": "audio/ja/ja_のかわりに.ogg",
+  "distractors": [
+   "のために",
+   "について",
+   "のかしら"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_ばかり",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 15,
+  "lemma": "ばかり",
+  "kana": "ばかり",
+  "kanji": null,
+  "romaji": "bakari",
+  "pos": "助",
+  "pron": "[bakari]",
+  "meaning_zh": "光是，净是；刚刚",
+  "colloc": [
+   "～てばかりいる",
+   "～たばかり"
+  ],
+  "example": {
+   "t": "彼は遊んでばかりいます。",
+   "zh": "他光是在玩。"
+  },
+  "audio": "audio/ja/ja_ばかり.ogg",
+  "distractors": [
+   "だけ",
+   "しか",
+   "ほど"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_しか",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 11,
+  "lemma": "しか",
+  "kana": "しか",
+  "kanji": null,
+  "romaji": "shika",
+  "pos": "助",
+  "pron": "[shika]",
+  "meaning_zh": "只，仅（后接否定）",
+  "colloc": [
+   "～しか～ない"
+  ],
+  "example": {
+   "t": "お金が百円しかありません。",
+   "zh": "只有一百日元。"
+  },
+  "audio": "audio/ja/ja_しか.ogg",
+  "distractors": [
+   "だけ",
+   "ばかり",
+   "ほど"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_ながら",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "ながら",
+  "kana": "ながら",
+  "kanji": null,
+  "romaji": "nagara",
+  "pos": "助",
+  "pron": "[nagara]",
+  "meaning_zh": "一边…一边；虽然",
+  "colloc": [
+   "～ながら～する"
+  ],
+  "example": {
+   "t": "音楽を聞きながら勉強します。",
+   "zh": "一边听音乐一边学习。"
+  },
+  "audio": "audio/ja/ja_ながら.ogg",
+  "distractors": [
+   "ので",
+   "のに",
+   "ばかり"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_ので",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 14,
+  "lemma": "ので",
+  "kana": "ので",
+  "kanji": null,
+  "romaji": "node",
+  "pos": "助",
+  "pron": "[node]",
+  "meaning_zh": "因为，由于",
+  "colloc": [
+   "～ので、～"
+  ],
+  "example": {
+   "t": "用事があるので、先に帰ります。",
+   "zh": "因为有事，我先回去了。"
+  },
+  "audio": "audio/ja/ja_ので.ogg",
+  "distractors": [
+   "のに",
+   "から",
+   "ながら"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_のに",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 17,
+  "lemma": "のに",
+  "kana": "のに",
+  "kanji": null,
+  "romaji": "noni",
+  "pos": "助",
+  "pron": "[noni]",
+  "meaning_zh": "却，尽管（表意外或不满）",
+  "colloc": [
+   "～のに、～"
+  ],
+  "example": {
+   "t": "一生懸命勉強したのに、合格しませんでした。",
+   "zh": "明明拼命学习了，却没通过。"
+  },
+  "audio": "audio/ja/ja_のに.ogg",
+  "distractors": [
+   "ので",
+   "ながら",
+   "ばかり"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_として",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 20,
+  "lemma": "として",
+  "kana": "として",
+  "kanji": null,
+  "romaji": "toshite",
+  "pos": "慣",
+  "pron": "[toshite]",
+  "meaning_zh": "作为，以…身份",
+  "colloc": [
+   "～として働く",
+   "～として知られる"
+  ],
+  "example": {
+   "t": "彼は先生として働いています。",
+   "zh": "他作为老师工作着。"
+  },
+  "audio": "audio/ja/ja_として.ogg",
+  "distractors": [
+   "について",
+   "によって",
+   "にとって"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_に対して",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 22,
+  "lemma": "に対して",
+  "kana": "にたいして",
+  "kanji": "に対して",
+  "romaji": "nitaishite",
+  "pos": "慣",
+  "pron": "[nitaishite]",
+  "meaning_zh": "对于，与…相对",
+  "colloc": [
+   "～に対して～する"
+  ],
+  "example": {
+   "t": "お客様に対して丁寧に話します。",
+   "zh": "对客人礼貌地说话。"
+  },
+  "audio": "audio/ja/ja_に対して.ogg",
+  "distractors": [
+   "について",
+   "にとって",
+   "によって"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_に関して",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 23,
+  "lemma": "に関して",
+  "kana": "にかんして",
+  "kanji": "に関して",
+  "romaji": "nikanshite",
+  "pos": "慣",
+  "pron": "[nikanshite]",
+  "meaning_zh": "关于，就…（较正式）",
+  "syn": [
+   "について"
+  ],
+  "colloc": [
+   "～に関して～する"
+  ],
+  "example": {
+   "t": "この問題に関して意見を述べてください。",
+   "zh": "请就这个问题陈述意见。"
+  },
+  "audio": "audio/ja/ja_に関して.ogg",
+  "distractors": [
+   "に対して",
+   "にとって",
+   "として"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_にとって",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 21,
+  "lemma": "にとって",
+  "kana": "にとって",
+  "kanji": null,
+  "romaji": "nitotte",
+  "pos": "慣",
+  "pron": "[nitotte]",
+  "meaning_zh": "对…来说",
+  "colloc": [
+   "～にとって～だ"
+  ],
+  "example": {
+   "t": "私にとって、家族が一番大切です。",
+   "zh": "对我来说，家人最重要。"
+  },
+  "audio": "audio/ja/ja_にとって.ogg",
+  "distractors": [
+   "について",
+   "によって",
+   "に対して"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_おかげで",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 20,
+  "lemma": "おかげで",
+  "kana": "おかげで",
+  "kanji": null,
+  "romaji": "okagede",
+  "pos": "慣",
+  "pron": "[okagede]",
+  "meaning_zh": "多亏，托…的福",
+  "colloc": [
+   "～のおかげで"
+  ],
+  "example": {
+   "t": "先生のおかげで、合格できました。",
+   "zh": "多亏老师，我才通过了。"
+  },
+  "audio": "audio/ja/ja_おかげで.ogg",
+  "distractors": [
+   "せいで",
+   "ために",
+   "くせに"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_せいで",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 22,
+  "lemma": "せいで",
+  "kana": "せいで",
+  "kanji": null,
+  "romaji": "seide",
+  "pos": "慣",
+  "pron": "[seide]",
+  "meaning_zh": "由于，都怪（坏原因）",
+  "colloc": [
+   "～のせいで"
+  ],
+  "example": {
+   "t": "雨のせいで、試合が中止になりました。",
+   "zh": "都怪下雨，比赛取消了。"
+  },
+  "audio": "audio/ja/ja_せいで.ogg",
+  "distractors": [
+   "おかげで",
+   "ために",
+   "ばかり"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_たびに",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 14,
+  "lemma": "たびに",
+  "kana": "たびに",
+  "kanji": null,
+  "romaji": "tabini",
+  "pos": "慣",
+  "pron": "[tabini]",
+  "meaning_zh": "每次，每逢",
+  "colloc": [
+   "～たびに～する"
+  ],
+  "example": {
+   "t": "この写真を見るたびに、故郷を思い出します。",
+   "zh": "每次看到这张照片，就会想起故乡。"
+  },
+  "audio": "audio/ja/ja_たびに.ogg",
+  "distractors": [
+   "ばかりに",
+   "うちに",
+   "ために"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_ても",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 17,
+  "lemma": "ても",
+  "kana": "ても",
+  "kanji": null,
+  "romaji": "temo",
+  "pos": "助",
+  "pron": "[temo]",
+  "meaning_zh": "即使…也",
+  "colloc": [
+   "～ても、～"
+  ],
+  "example": {
+   "t": "雨が降っても、行きます。",
+   "zh": "即使下雨也去。"
+  },
+  "audio": "audio/ja/ja_ても.ogg",
+  "distractors": [
+   "のに",
+   "ので",
+   "ながら"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_ため",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 14,
+  "lemma": "ため",
+  "kana": "ため",
+  "kanji": null,
+  "romaji": "tame",
+  "pos": "助",
+  "pron": "[tame]",
+  "meaning_zh": "因为；为了",
+  "colloc": [
+   "～のため",
+   "～ために"
+  ],
+  "example": {
+   "t": "安全のため、ここでは走らないでください。",
+   "zh": "为了安全，请不要在这里跑。"
+  },
+  "audio": "audio/ja/ja_ため.ogg",
+  "distractors": [
+   "ので",
+   "のに",
+   "ばかり"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_ように",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 15,
+  "lemma": "ように",
+  "kana": "ように",
+  "kanji": null,
+  "romaji": "youni",
+  "pos": "助",
+  "pron": "[youni]",
+  "meaning_zh": "为了；像…一样",
+  "colloc": [
+   "～ように～する",
+   "～ように言う"
+  ],
+  "example": {
+   "t": "忘れないように、メモをしてください。",
+   "zh": "为了不忘，请做笔记。"
+  },
+  "audio": "audio/ja/ja_ように.ogg",
+  "distractors": [
+   "ために",
+   "ので",
+   "のに"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_ことになる",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 19,
+  "lemma": "ことになる",
+  "kana": "ことになる",
+  "kanji": null,
+  "romaji": "kotoninaru",
+  "pos": "慣",
+  "pron": "[kotoninaru]",
+  "meaning_zh": "决定；成为…（结果）",
+  "colloc": [
+   "～ことになる"
+  ],
+  "example": {
+   "t": "来月、大阪へ出張することになりました。",
+   "zh": "定下来下个月去大阪出差。"
+  },
+  "audio": "audio/ja/ja_ことになる.ogg",
+  "distractors": [
+   "ことにする",
+   "ようになる",
+   "ことだ"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_ことにする",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 19,
+  "lemma": "ことにする",
+  "kana": "ことにする",
+  "kanji": null,
+  "romaji": "konisuru",
+  "pos": "慣",
+  "pron": "[konisuru]",
+  "meaning_zh": "（自己）决定",
+  "colloc": [
+   "～ことにする"
+  ],
+  "example": {
+   "t": "毎日運動することにしました。",
+   "zh": "我决定每天运动。"
+  },
+  "audio": "audio/ja/ja_ことにする.ogg",
+  "distractors": [
+   "ことになる",
+   "ようにする",
+   "ことだ"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_つもり",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 13,
+  "lemma": "つもり",
+  "kana": "つもり",
+  "kanji": null,
+  "romaji": "tsumori",
+  "pos": "助",
+  "pron": "[tsumori]",
+  "meaning_zh": "打算，计划",
+  "colloc": [
+   "～つもりです",
+   "～たつもり"
+  ],
+  "example": {
+   "t": "夏休みに日本へ行くつもりです。",
+   "zh": "打算暑假去日本。"
+  },
+  "audio": "audio/ja/ja_つもり.ogg",
+  "distractors": [
+   "はず",
+   "わけ",
+   "ため"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_はず",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 19,
+  "lemma": "はず",
+  "kana": "はず",
+  "kanji": null,
+  "romaji": "hazu",
+  "pos": "助",
+  "pron": "[hazu]",
+  "meaning_zh": "应该，理应",
+  "colloc": [
+   "～はずです",
+   "～はずがない"
+  ],
+  "example": {
+   "t": "彼はもう着いたはずです。",
+   "zh": "他应该已经到了。"
+  },
+  "audio": "audio/ja/ja_はず.ogg",
+  "distractors": [
+   "つもり",
+   "わけ",
+   "こと"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_ほど",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 12,
+  "lemma": "ほど",
+  "kana": "ほど",
+  "kanji": null,
+  "romaji": "hodo",
+  "pos": "助",
+  "pron": "[hodo]",
+  "meaning_zh": "程度；越…越",
+  "colloc": [
+   "～ほど～",
+   "～ば～ほど"
+  ],
+  "example": {
+   "t": "死ぬほど疲れました。",
+   "zh": "累得要死。"
+  },
+  "audio": "audio/ja/ja_ほど.ogg",
+  "distractors": [
+   "ばかり",
+   "しか",
+   "まで"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_つまらない",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 14,
+  "lemma": "つまらない",
+  "kana": "つまらない",
+  "kanji": null,
+  "romaji": "tsumaranai",
+  "pos": "形",
+  "pron": "[tsumaranai]",
+  "meaning_zh": "无聊的，没意思的",
+  "ant": [
+   "面白い"
+  ],
+  "colloc": [
+   "つまらない映画",
+   "つまらない話"
+  ],
+  "example": {
+   "t": "この映画はつまらないです。",
+   "zh": "这部电影很无聊。"
+  },
+  "audio": "audio/ja/ja_つまらない.ogg",
+  "distractors": [
+   "面白い",
+   "楽しい",
+   "うるさい"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_すごい",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 13,
+  "lemma": "すごい",
+  "kana": "すごい",
+  "kanji": null,
+  "romaji": "sugoi",
+  "pos": "形",
+  "pron": "[sugoi]",
+  "meaning_zh": "厉害的，了不起的",
+  "syn": [
+   "素晴らしい"
+  ],
+  "colloc": [
+   "すごい人",
+   "すごい勢い"
+  ],
+  "example": {
+   "t": "彼の日本語はすごいです。",
+   "zh": "他的日语很厉害。"
+  },
+  "audio": "audio/ja/ja_すごい.ogg",
+  "distractors": [
+   "ひどい",
+   "少ない",
+   "つまらない"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_ひどい",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 15,
+  "lemma": "ひどい",
+  "kana": "ひどい",
+  "kanji": null,
+  "romaji": "hidoi",
+  "pos": "形",
+  "pron": "[hidoi]",
+  "meaning_zh": "过分的，严重的",
+  "ant": [
+   "優しい"
+  ],
+  "colloc": [
+   "ひどい雨",
+   "ひどいことを言う"
+  ],
+  "example": {
+   "t": "昨日はひどい雨でした。",
+   "zh": "昨天雨下得很厉害。"
+  },
+  "audio": "audio/ja/ja_ひどい.ogg",
+  "distractors": [
+   "すごい",
+   "大変",
+   "悪い"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_さびしい",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "さびしい",
+  "kana": "さびしい",
+  "kanji": null,
+  "romaji": "sabishii",
+  "pos": "形",
+  "pron": "[sabishii]",
+  "meaning_zh": "寂寞的，孤单的",
+  "syn": [
+   "悲しい"
+  ],
+  "colloc": [
+   "さびしい思い",
+   "さびしくなる"
+  ],
+  "example": {
+   "t": "一人で住むのはさびしいです。",
+   "zh": "一个人住很寂寞。"
+  },
+  "audio": "audio/ja/ja_さびしい.ogg",
+  "distractors": [
+   "悲しい",
+   "嬉しい",
+   "つまらない"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_親切",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 12,
+  "lemma": "親切",
+  "kana": "しんせつ",
+  "kanji": "親切",
+  "romaji": "shinsetsu",
+  "pos": "形動",
+  "pron": "[shinsetsu]",
+  "meaning_zh": "亲切的，热心的",
+  "colloc": [
+   "親切な人",
+   "親切にする"
+  ],
+  "example": {
+   "t": "彼はとても親切な人です。",
+   "zh": "他是非常亲切的人。"
+  },
+  "audio": "audio/ja/ja_親切.ogg",
+  "distractors": [
+   "丁寧",
+   "真面目",
+   "上手"
+  ],
+  "tags": [
+   "core",
+   "person"
+  ]
+ },
+ {
+  "id": "ja_丁寧",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 20,
+  "lemma": "丁寧",
+  "kana": "ていねい",
+  "kanji": "丁寧",
+  "romaji": "teinei",
+  "pos": "形動",
+  "pron": "[teinei]",
+  "meaning_zh": "有礼貌的，细致的",
+  "syn": [
+   "親切"
+  ],
+  "colloc": [
+   "丁寧な言葉",
+   "丁寧に説明する"
+  ],
+  "example": {
+   "t": "彼女は丁寧に説明しました。",
+   "zh": "她细致地做了说明。"
+  },
+  "audio": "audio/ja/ja_丁寧.ogg",
+  "distractors": [
+   "親切",
+   "真面目",
+   "大変"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_安全",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 18,
+  "lemma": "安全",
+  "kana": "あんぜん",
+  "kanji": "安全",
+  "romaji": "anzen",
+  "pos": "形動",
+  "pron": "[anzen]",
+  "meaning_zh": "安全的",
+  "ant": [
+   "危険"
+  ],
+  "colloc": [
+   "安全な場所",
+   "安全を守る"
+  ],
+  "example": {
+   "t": "この道は安全です。",
+   "zh": "这条路很安全。"
+  },
+  "audio": "audio/ja/ja_安全.ogg",
+  "distractors": [
+   "危険",
+   "安心",
+   "便利"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_危険",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 18,
+  "lemma": "危険",
+  "kana": "きけん",
+  "kanji": "危険",
+  "romaji": "kiken",
+  "pos": "形動",
+  "pron": "[kiken]",
+  "meaning_zh": "危险的",
+  "ant": [
+   "安全"
+  ],
+  "colloc": [
+   "危険な場所",
+   "危険だ"
+  ],
+  "example": {
+   "t": "ここで泳ぐのは危険です。",
+   "zh": "在这里游泳很危险。"
+  },
+  "audio": "audio/ja/ja_危険.ogg",
+  "distractors": [
+   "安全",
+   "危ない",
+   "大変"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_珍しい",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 19,
+  "lemma": "珍しい",
+  "kana": "めずらしい",
+  "kanji": "珍しい",
+  "romaji": "mezurashii",
+  "pos": "形",
+  "pron": "[mezurashii]",
+  "meaning_zh": "罕见的，稀奇的",
+  "ant": [
+   "普通"
+  ],
+  "colloc": [
+   "珍しい物",
+   "珍しいこと"
+  ],
+  "example": {
+   "t": "珍しい花を見つけました。",
+   "zh": "发现了一朵罕见的花。"
+  },
+  "audio": "audio/ja/ja_珍しい.ogg",
+  "distractors": [
+   "新しい",
+   "古い",
+   "難しい"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_恥ずかしい",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "恥ずかしい",
+  "kana": "はずかしい",
+  "kanji": "恥ずかしい",
+  "romaji": "hazukashii",
+  "pos": "形",
+  "pron": "[hazukashii]",
+  "meaning_zh": "害羞的，羞耻的",
+  "colloc": [
+   "恥ずかしい話",
+   "恥ずかしくなる"
+  ],
+  "example": {
+   "t": "みんなの前で話すのは恥ずかしいです。",
+   "zh": "在大家面前说话很害羞。"
+  },
+  "audio": "audio/ja/ja_恥ずかしい.ogg",
+  "distractors": [
+   "嬉しい",
+   "悲しい",
+   "怖い"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_おかしい",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 17,
+  "lemma": "おかしい",
+  "kana": "おかしい",
+  "kanji": null,
+  "romaji": "okashii",
+  "pos": "形",
+  "pron": "[okashii]",
+  "meaning_zh": "奇怪的；可笑的",
+  "syn": [
+   "変"
+  ],
+  "colloc": [
+   "おかしい話",
+   "おかしくなる"
+  ],
+  "example": {
+   "t": "彼の話し方はおかしいです。",
+   "zh": "他的说话方式很奇怪。"
+  },
+  "audio": "audio/ja/ja_おかしい.ogg",
+  "distractors": [
+   "面白い",
+   "悲しい",
+   "正しい"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_美しい",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 19,
+  "lemma": "美しい",
+  "kana": "うつくしい",
+  "kanji": "美しい",
+  "romaji": "utsukushii",
+  "pos": "形",
+  "pron": "[utsukushii]",
+  "meaning_zh": "美丽的",
+  "syn": [
+   "綺麗"
+  ],
+  "colloc": [
+   "美しい景色",
+   "美しい声"
+  ],
+  "example": {
+   "t": "この町の景色は美しいです。",
+   "zh": "这个城镇的景色很美。"
+  },
+  "audio": "audio/ja/ja_美しい.ogg",
+  "distractors": [
+   "可愛い",
+   "楽しい",
+   "優しい"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_可愛い",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 15,
+  "lemma": "可愛い",
+  "kana": "かわいい",
+  "kanji": "可愛い",
+  "romaji": "kawaii",
+  "pos": "形",
+  "pron": "[kawaii]",
+  "meaning_zh": "可爱的",
+  "colloc": [
+   "可愛い猫",
+   "可愛い子"
+  ],
+  "example": {
+   "t": "この猫はとても可愛いです。",
+   "zh": "这只猫非常可爱。"
+  },
+  "audio": "audio/ja/ja_可愛い.ogg",
+  "distractors": [
+   "美しい",
+   "綺麗",
+   "素敵"
+  ],
+  "tags": [
+   "core",
+   "daily"
+  ]
+ },
+ {
+  "id": "ja_かっこいい",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 13,
+  "lemma": "かっこいい",
+  "kana": "かっこいい",
+  "kanji": null,
+  "romaji": "kakkoii",
+  "pos": "形",
+  "pron": "[kakkoii]",
+  "meaning_zh": "帅气的，酷的",
+  "colloc": [
+   "かっこいい人",
+   "かっこいい車"
+  ],
+  "example": {
+   "t": "彼はかっこいいですね。",
+   "zh": "他真帅啊。"
+  },
+  "audio": "audio/ja/ja_かっこいい.ogg",
+  "distractors": [
+   "可愛い",
+   "美しい",
+   "素敵"
+  ],
+  "tags": [
+   "core",
+   "daily"
+  ]
+ },
+ {
+  "id": "ja_深い",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 12,
+  "lemma": "深い",
+  "kana": "ふかい",
+  "kanji": "深い",
+  "romaji": "fukai",
+  "pos": "形",
+  "pron": "[fukai]",
+  "meaning_zh": "深的；深刻的",
+  "ant": [
+   "浅い"
+  ],
+  "colloc": [
+   "深い川",
+   "深い意味"
+  ],
+  "example": {
+   "t": "この川はとても深いです。",
+   "zh": "这条河非常深。"
+  },
+  "audio": "audio/ja/ja_深い.ogg",
+  "distractors": [
+   "浅い",
+   "高い",
+   "広い"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_浅い",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 12,
+  "lemma": "浅い",
+  "kana": "あさい",
+  "kanji": "浅い",
+  "romaji": "asai",
+  "pos": "形",
+  "pron": "[asai]",
+  "meaning_zh": "浅的",
+  "ant": [
+   "深い"
+  ],
+  "colloc": [
+   "浅い川",
+   "浅い経験"
+  ],
+  "example": {
+   "t": "ここは浅いので、安全です。",
+   "zh": "这里很浅，所以安全。"
+  },
+  "audio": "audio/ja/ja_浅い.ogg",
+  "distractors": [
+   "深い",
+   "低い",
+   "狭い"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_厚い",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 11,
+  "lemma": "厚い",
+  "kana": "あつい",
+  "kanji": "厚い",
+  "romaji": "atsui",
+  "pos": "形",
+  "pron": "[atsui]",
+  "meaning_zh": "厚的；深厚的",
+  "ant": [
+   "薄い"
+  ],
+  "colloc": [
+   "厚い本",
+   "厚い壁"
+  ],
+  "example": {
+   "t": "この本はとても厚いです。",
+   "zh": "这本书非常厚。"
+  },
+  "audio": "audio/ja/ja_厚い.ogg",
+  "distractors": [
+   "薄い",
+   "重い",
+   "太い"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_薄い",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 11,
+  "lemma": "薄い",
+  "kana": "うすい",
+  "kanji": "薄い",
+  "romaji": "usui",
+  "pos": "形",
+  "pron": "[usui]",
+  "meaning_zh": "薄的；淡的",
+  "ant": [
+   "厚い"
+  ],
+  "colloc": [
+   "薄い紙",
+   "薄い味"
+  ],
+  "example": {
+   "t": "この紙は薄いです。",
+   "zh": "这张纸很薄。"
+  },
+  "audio": "audio/ja/ja_薄い.ogg",
+  "distractors": [
+   "厚い",
+   "細い",
+   "軽い"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_硬い",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "硬い",
+  "kana": "かたい",
+  "kanji": "硬い",
+  "romaji": "katai",
+  "pos": "形",
+  "pron": "[katai]",
+  "meaning_zh": "硬的，坚硬的",
+  "ant": [
+   "柔らかい"
+  ],
+  "colloc": [
+   "硬いパン",
+   "硬い石"
+  ],
+  "example": {
+   "t": "このパンは硬くて食べにくいです。",
+   "zh": "这个面包很硬，不好吃。"
+  },
+  "audio": "audio/ja/ja_硬い.ogg",
+  "distractors": [
+   "柔らかい",
+   "重い",
+   "強い"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_柔らかい",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "柔らかい",
+  "kana": "やわらかい",
+  "kanji": "柔らかい",
+  "romaji": "yawarakai",
+  "pos": "形",
+  "pron": "[yawarakai]",
+  "meaning_zh": "柔软的",
+  "ant": [
+   "硬い"
+  ],
+  "colloc": [
+   "柔らかい椅子",
+   "柔らかい物"
+  ],
+  "example": {
+   "t": "この椅子は柔らかくて気持ちがいいです。",
+   "zh": "这把椅子很软，很舒服。"
+  },
+  "audio": "audio/ja/ja_柔らかい.ogg",
+  "distractors": [
+   "硬い",
+   "優しい",
+   "軽い"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_温かい",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 8,
+  "lemma": "温かい",
+  "kana": "あたたかい",
+  "kanji": "温かい",
+  "romaji": "atatakai",
+  "pos": "形",
+  "pron": "[atatakai]",
+  "meaning_zh": "温暖的（物、心）",
+  "ant": [
+   "冷たい"
+  ],
+  "colloc": [
+   "温かいお茶",
+   "温かい心"
+  ],
+  "example": {
+   "t": "温かいお茶を飲みました。",
+   "zh": "喝了热茶。"
+  },
+  "audio": "audio/ja/ja_温かい.ogg",
+  "distractors": [
+   "暖かい",
+   "熱い",
+   "冷たい"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_酸っぱい",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 9,
+  "lemma": "酸っぱい",
+  "kana": "すっぱい",
+  "kanji": "酸っぱい",
+  "romaji": "suppai",
+  "pos": "形",
+  "pron": "[suppai]",
+  "meaning_zh": "酸的",
+  "colloc": [
+   "酸っぱい味"
+  ],
+  "example": {
+   "t": "このレモンはとても酸っぱいです。",
+   "zh": "这个柠檬非常酸。"
+  },
+  "audio": "audio/ja/ja_酸っぱい.ogg",
+  "distractors": [
+   "甘い",
+   "辛い",
+   "苦い"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_まずい",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 9,
+  "lemma": "まずい",
+  "kana": "まずい",
+  "kanji": null,
+  "romaji": "mazui",
+  "pos": "形",
+  "pron": "[mazui]",
+  "meaning_zh": "难吃的；不妙的",
+  "ant": [
+   "美味しい"
+  ],
+  "colloc": [
+   "まずい料理",
+   "まずいことになる"
+  ],
+  "example": {
+   "t": "この料理はまずいです。",
+   "zh": "这道菜很难吃。"
+  },
+  "audio": "audio/ja/ja_まずい.ogg",
+  "distractors": [
+   "美味しい",
+   "甘い",
+   "苦い"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_真面目",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "真面目",
+  "kana": "まじめ",
+  "kanji": "真面目",
+  "romaji": "majime",
+  "pos": "形動",
+  "pron": "[majime]",
+  "meaning_zh": "认真的，正经的",
+  "colloc": [
+   "真面目な人",
+   "真面目に勉強する"
+  ],
+  "example": {
+   "t": "彼は真面目な学生です。",
+   "zh": "他是个认真的学生。"
+  },
+  "audio": "audio/ja/ja_真面目.ogg",
+  "distractors": [
+   "親切",
+   "上手",
+   "有名"
+  ],
+  "tags": [
+   "core",
+   "person"
+  ]
+ },
+ {
+  "id": "ja_派手",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 14,
+  "lemma": "派手",
+  "kana": "はで",
+  "kanji": "派手",
+  "romaji": "hade",
+  "pos": "形動",
+  "pron": "[hade]",
+  "meaning_zh": "花哨的，华丽的",
+  "ant": [
+   "地味"
+  ],
+  "colloc": [
+   "派手な服",
+   "派手な色"
+  ],
+  "example": {
+   "t": "この服は少し派手です。",
+   "zh": "这件衣服有点花哨。"
+  },
+  "audio": "audio/ja/ja_派手.ogg",
+  "distractors": [
+   "地味",
+   "綺麗",
+   "素敵"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_地味",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 14,
+  "lemma": "地味",
+  "kana": "じみ",
+  "kanji": "地味",
+  "romaji": "jimi",
+  "pos": "形動",
+  "pron": "[jimi]",
+  "meaning_zh": "朴素的，不起眼的",
+  "ant": [
+   "派手"
+  ],
+  "colloc": [
+   "地味な服",
+   "地味な色"
+  ],
+  "example": {
+   "t": "地味な色が好きです。",
+   "zh": "我喜欢朴素的颜色。"
+  },
+  "audio": "audio/ja/ja_地味.ogg",
+  "distractors": [
+   "派手",
+   "綺麗",
+   "簡単"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_素敵",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 13,
+  "lemma": "素敵",
+  "kana": "すてき",
+  "kanji": "素敵",
+  "romaji": "suteki",
+  "pos": "形動",
+  "pron": "[suteki]",
+  "meaning_zh": "极好的，漂亮的",
+  "syn": [
+   "綺麗"
+  ],
+  "colloc": [
+   "素敵な人",
+   "素敵な服"
+  ],
+  "example": {
+   "t": "素敵なプレゼントをありがとう。",
+   "zh": "谢谢你的漂亮礼物。"
+  },
+  "audio": "audio/ja/ja_素敵.ogg",
+  "distractors": [
+   "立派",
+   "地味",
+   "派手"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_幸せ",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 18,
+  "lemma": "幸せ",
+  "kana": "しあわせ",
+  "kanji": "幸せ",
+  "romaji": "shiawase",
+  "pos": "形動",
+  "pron": "[shiawase]",
+  "meaning_zh": "幸福的",
+  "syn": [
+   "嬉しい"
+  ],
+  "colloc": [
+   "幸せな生活",
+   "幸せになる"
+  ],
+  "example": {
+   "t": "家族と一緒にいると幸せです。",
+   "zh": "和家人在一起很幸福。"
+  },
+  "audio": "audio/ja/ja_幸せ.ogg",
+  "distractors": [
+   "楽しい",
+   "元気",
+   "残念"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_不思議",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 21,
+  "lemma": "不思議",
+  "kana": "ふしぎ",
+  "kanji": "不思議",
+  "romaji": "fushigi",
+  "pos": "形動",
+  "pron": "[fushigi]",
+  "meaning_zh": "不可思议的，奇怪的",
+  "colloc": [
+   "不思議な話",
+   "不思議に思う"
+  ],
+  "example": {
+   "t": "不思議な夢を見ました。",
+   "zh": "做了个不可思议的梦。"
+  },
+  "audio": "audio/ja/ja_不思議.ogg",
+  "distractors": [
+   "特別",
+   "変",
+   "面白い"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_正直",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 20,
+  "lemma": "正直",
+  "kana": "しょうじき",
+  "kanji": "正直",
+  "romaji": "shoujiki",
+  "pos": "形動",
+  "pron": "[shoujiki]",
+  "meaning_zh": "诚实的；说实话",
+  "colloc": [
+   "正直な人",
+   "正直に言う"
+  ],
+  "example": {
+   "t": "正直に話してください。",
+   "zh": "请说实话。"
+  },
+  "audio": "audio/ja/ja_正直.ogg",
+  "distractors": [
+   "真面目",
+   "親切",
+   "丁寧"
+  ],
+  "tags": [
+   "core",
+   "person"
+  ]
+ },
+ {
+  "id": "ja_豊か",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 23,
+  "lemma": "豊か",
+  "kana": "ゆたか",
+  "kanji": "豊か",
+  "romaji": "yutaka",
+  "pos": "形動",
+  "pron": "[yutaka]",
+  "meaning_zh": "丰富的，富裕的",
+  "ant": [
+   "貧しい"
+  ],
+  "colloc": [
+   "豊かな自然",
+   "心が豊かだ"
+  ],
+  "example": {
+   "t": "この国は自然が豊かです。",
+   "zh": "这个国家自然资源丰富。"
+  },
+  "audio": "audio/ja/ja_豊か.ogg",
+  "distractors": [
+   "立派",
+   "便利",
+   "有名"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_眩しい",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 12,
+  "lemma": "眩しい",
+  "kana": "まぶしい",
+  "kanji": "眩しい",
+  "romaji": "mabushii",
+  "pos": "形",
+  "pron": "[mabushii]",
+  "meaning_zh": "刺眼的，耀眼的",
+  "colloc": [
+   "眩しい光",
+   "眩しい太陽"
+  ],
+  "example": {
+   "t": "太陽が眩しくて目を開けられません。",
+   "zh": "太阳太刺眼，睁不开眼睛。"
+  },
+  "audio": "audio/ja/ja_眩しい.ogg",
+  "distractors": [
+   "明るい",
+   "美しい",
+   "痛い"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_偉い",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "偉い",
+  "kana": "えらい",
+  "kanji": "偉い",
+  "romaji": "erai",
+  "pos": "形",
+  "pron": "[erai]",
+  "meaning_zh": "伟大的，了不起的",
+  "syn": [
+   "立派"
+  ],
+  "colloc": [
+   "偉い人",
+   "偉いね"
+  ],
+  "example": {
+   "t": "一人で頑張って、偉いですね。",
+   "zh": "一个人努力，真了不起。"
+  },
+  "audio": "audio/ja/ja_偉い.ogg",
+  "distractors": [
+   "上手",
+   "親切",
+   "すごい"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_単純",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 17,
+  "lemma": "単純",
+  "kana": "たんじゅん",
+  "kanji": "単純",
+  "romaji": "tanjun",
+  "pos": "形動",
+  "pron": "[tanjun]",
+  "meaning_zh": "单纯的，简单的",
+  "ant": [
+   "複雑"
+  ],
+  "colloc": [
+   "単純な問題",
+   "単純に考える"
+  ],
+  "example": {
+   "t": "この問題は単純です。",
+   "zh": "这个问题很简单。"
+  },
+  "audio": "audio/ja/ja_単純.ogg",
+  "distractors": [
+   "複雑",
+   "簡単",
+   "特別"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_面倒",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 15,
+  "lemma": "面倒",
+  "kana": "めんどう",
+  "kanji": "面倒",
+  "romaji": "mendou",
+  "pos": "形動",
+  "pron": "[mendou]",
+  "meaning_zh": "麻烦的；费事的",
+  "colloc": [
+   "面倒な仕事",
+   "面倒を見る"
+  ],
+  "example": {
+   "t": "掃除は面倒です。",
+   "zh": "打扫很麻烦。"
+  },
+  "audio": "audio/ja/ja_面倒.ogg",
+  "distractors": [
+   "大変",
+   "簡単",
+   "無理"
+  ],
+  "tags": [
+   "core"
+  ]
+ },
+ {
+  "id": "ja_楽",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 13,
+  "lemma": "楽",
+  "kana": "らく",
+  "kanji": "楽",
+  "romaji": "raku",
+  "pos": "形動",
+  "pron": "[raku]",
+  "meaning_zh": "轻松的，舒适的",
+  "ant": [
+   "大変"
+  ],
+  "colloc": [
+   "楽な仕事",
+   "楽になる"
+  ],
+  "example": {
+   "t": "この仕事は楽です。",
+   "zh": "这份工作很轻松。"
+  },
+  "audio": "audio/ja/ja_楽.ogg",
+  "distractors": [
+   "簡単",
+   "面倒",
+   "無理"
+  ],
+  "tags": [
+   "core"
+  ]
+ }
+]

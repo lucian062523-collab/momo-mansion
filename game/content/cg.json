@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "note": "CG 鉴赏数据。画廊格数固定：界面给了 5 个页码 × 每页 6 框 = 30 格，没放 CG 的格子用未解锁纯白框占位，隐藏页码/隐藏格子都会让画廊看起来缺块。",
+  "per_page": 6,
+  "unlock_all_initial": true,
+  "unlock_all_note": "首版全部解锁，方便你验证欣赏模式；改成 false 即走真实解锁。",
+  "viewer": {
+    "note": "点「查看」进入沉浸欣赏模式的参数",
+    "backdrop": "rgba(18,14,11,0.94)",
+    "prev_key": "ArrowLeft",
+    "next_key": "ArrowRight",
+    "exit_key": "Escape"
+  },
+  "cgs": [
+    { "id": "shaoyao",  "name": "芍药",   "img": "芍药.webp" },
+    { "id": "xiazhe",   "name": "夏祭",   "img": "夏祭.webp" },
+    { "id": "jinhai",   "name": "金海",   "img": "金海.webp" },
+    { "id": "xianglu",  "name": "香炉",   "img": "香炉.webp" },
+    { "id": "woli",     "name": "卧里",   "img": "卧房.webp" },
+    { "id": "shangwu",  "name": "商务",   "img": "商务.webp" },
+    { "id": "shuihua",  "name": "水花",   "img": "水花.webp" },
+    { "id": "qiucao",   "name": "秋草",   "img": "秋草.webp" },
+    { "id": "wangqiu",  "name": "网球",   "img": "网球.webp" },
+    { "id": "nongquan", "name": "弄权",   "img": "弄权.webp" },
+    { "id": "yeting",   "name": "野外",   "img": "野外.webp" },
+    { "id": "yuting",   "name": "雨汀",   "img": "雨汀.webp" },
+    { "id": "xiaokan",  "name": "小憩",   "img": "小憩.webp" },
+    { "id": "hongxie",  "name": "红泻",   "img": "红泻.webp" },
+    { "id": "shuihuaer","name": "水花儿", "img": "水花儿.webp" },
+    { "id": "kuangquan","name": "矿泉水", "img": "矿泉水.webp" },
+    { "id": "shangxuelu", "name": "上学路上", "img": "上学路上.webp" },
+    { "id": "xiawucha",   "name": "下午茶",   "img": "下午茶.webp" },
+    { "id": "jiaoshibian","name": "教室床边", "img": "教室床边.webp" },
+    { "id": "ziluolan",   "name": "紫罗兰",   "img": "紫罗兰.webp" },
+    { "id": "lushuiguqin","name": "绿水古琴", "img": "绿水古琴.webp" },
+    { "id": "kuihuahai",  "name": "葵花海",   "img": "葵花海.webp" },
+    { "id": "jiandie",    "name": "间谍任务", "img": "间谍任务.webp" }
+  ]
+}

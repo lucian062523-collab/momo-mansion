@@ -1,0 +1,1605 @@
+[
+ {
+  "id": "en_abandon",
+  "lang": "en",
+  "tier": 1,
+  "lemma": "abandon",
+  "kana": null,
+  "kanji": null,
+  "romaji": null,
+  "pos": "v.",
+  "pron": "/əˈbændən/",
+  "meaning_zh": "放弃；抛弃",
+  "example": {
+   "t": "He abandoned his car in the snow.",
+   "zh": "他把车丢在了雪里。"
+  },
+  "audio": "audio/en/en_abandon.ogg",
+  "distractors": [
+   "abundant",
+   "band",
+   "abandoned"
+  ],
+  "tags": [
+   "core",
+   "reading",
+   "verb"
+  ]
+ },
+ {
+  "id": "en_absorb",
+  "lang": "en",
+  "tier": 1,
+  "lemma": "absorb",
+  "kana": null,
+  "kanji": null,
+  "romaji": null,
+  "pos": "v.",
+  "pron": "/əbˈzɔːb/",
+  "meaning_zh": "吸收；理解",
+  "example": {
+   "t": "Plants absorb water through their roots.",
+   "zh": "植物通过根部吸收水分。"
+  },
+  "audio": "audio/en/en_absorb.ogg",
+  "distractors": [
+   "adsorb",
+   "observe",
+   "abuse"
+  ],
+  "tags": [
+   "core",
+   "reading",
+   "verb"
+  ]
+ },
+ {
+  "id": "en_accurate",
+  "lang": "en",
+  "tier": 1,
+  "lemma": "accurate",
+  "kana": null,
+  "kanji": null,
+  "romaji": null,
+  "pos": "adj.",
+  "pron": "/ˈækjərət/",
+  "meaning_zh": "准确的；精确的",
+  "example": {
+   "t": "Her report was accurate in every detail.",
+   "zh": "她的报告在每个细节上都准确无误。"
+  },
+  "audio": "audio/en/en_accurate.ogg",
+  "distractors": [
+   "adequate",
+   "acute",
+   "accustomed"
+  ],
+  "tags": [
+   "core",
+   "writing"
+  ]
+ },
+ {
+  "id": "en_achieve",
+  "lang": "en",
+  "tier": 1,
+  "lemma": "achieve",
+  "kana": null,
+  "kanji": null,
+  "romaji": null,
+  "pos": "v.",
+  "pron": "/əˈtʃiːv/",
+  "meaning_zh": "实现；达到",
+  "example": {
+   "t": "She achieved her goal after years of study.",
+   "zh": "经过多年学习，她实现了自己的目标。"
+  },
+  "audio": "audio/en/en_achieve.ogg",
+  "distractors": [
+   "arrive",
+   "receive",
+   "believe"
+  ],
+  "tags": [
+   "core",
+   "writing",
+   "verb"
+  ]
+ },
+ {
+  "id": "en_adapt",
+  "lang": "en",
+  "tier": 1,
+  "lemma": "adapt",
+  "kana": null,
+  "kanji": null,
+  "romaji": null,
+  "pos": "v.",
+  "pron": "/əˈdæpt/",
+  "meaning_zh": "适应；改编",
+  "example": {
+   "t": "Children adapt quickly to new schools.",
+   "zh": "孩子们能很快适应新学校。"
+  },
+  "audio": "audio/en/en_adapt.ogg",
+  "distractors": [
+   "adopt",
+   "adjust",
+   "adept"
+  ],
+  "tags": [
+   "core",
+   "reading",
+   "verb"
+  ]
+ },
+ {
+  "id": "en_adequate",
+  "lang": "en",
+  "tier": 1,
+  "lemma": "adequate",
+  "kana": null,
+  "kanji": null,
+  "romaji": null,
+  "pos": "adj.",
+  "pron": "/ˈædɪkwət/",
+  "meaning_zh": "足够的；适当的",
+  "example": {
+   "t": "The room was adequate for two guests.",
+   "zh": "这个房间对两位客人来说够用了。"
+  },
+  "audio": "audio/en/en_adequate.ogg",
+  "distractors": [
+   "accurate",
+   "inadequate",
+   "absolute"
+  ],
+  "tags": [
+   "core",
+   "reading"
+  ]
+ },
+ {
+  "id": "en_affect",
+  "lang": "en",
+  "tier": 1,
+  "lemma": "affect",
+  "kana": null,
+  "kanji": null,
+  "romaji": null,
+  "pos": "v.",
+  "pron": "/əˈfekt/",
+  "meaning_zh": "影响；感染",
+  "example": {
+   "t": "Noise can affect your ability to concentrate.",
+   "zh": "噪音会影响你的注意力。"
+  },
+  "audio": "audio/en/en_affect.ogg",
+  "distractors": [
+   "effect",
+   "infect",
+   "afford"
+  ],
+  "tags": [
+   "core",
+   "writing",
+   "verb"
+  ]
+ },
+ {
+  "id": "en_alternative",
+  "lang": "en",
+  "tier": 1,
+  "lemma": "alternative",
+  "kana": null,
+  "kanji": null,
+  "romaji": null,
+  "pos": "n.",
+  "pron": "/ɔːlˈtɜːnətɪv/",
+  "meaning_zh": "替代方案；选择",
+  "example": {
+   "t": "We need an alternative to this expensive plan.",
+   "zh": "我们需要一个替代这个昂贵方案的办法。"
+  },
+  "audio": "audio/en/en_alternative.ogg",
+  "distractors": [
+   "option",
+   "alternate",
+   "alteration"
+  ],
+  "tags": [
+   "core",
+   "writing",
+   "noun"
+  ]
+ },
+ {
+  "id": "en_analyse",
+  "lang": "en",
+  "tier": 1,
+  "lemma": "analyse",
+  "kana": null,
+  "kanji": null,
+  "romaji": null,
+  "pos": "v.",
+  "pron": "/ˈænəlaɪz/",
+  "meaning_zh": "分析；解析",
+  "example": {
+   "t": "Scientists analyse the data carefully.",
+   "zh": "科学家们仔细分析这些数据。"
+  },
+  "audio": "audio/en/en_analyse.ogg",
+  "distractors": [
+   "evaluate",
+   "paralyse",
+   "criticise"
+  ],
+  "tags": [
+   "core",
+   "reading",
+   "verb"
+  ]
+ },
+ {
+  "id": "en_apparent",
+  "lang": "en",
+  "tier": 1,
+  "lemma": "apparent",
+  "kana": null,
+  "kanji": null,
+  "romaji": null,
+  "pos": "adj.",
+  "pron": "/əˈpærənt/",
+  "meaning_zh": "明显的；表面上的",
+  "example": {
+   "t": "It soon became apparent that he was lying.",
+   "zh": "很快就能看出他在说谎。"
+  },
+  "audio": "audio/en/en_apparent.ogg",
+  "distractors": [
+   "transparent",
+   "evident",
+   "relevant"
+  ],
+  "tags": [
+   "core",
+   "reading"
+  ]
+ },
+ {
+  "id": "en_approach",
+  "lang": "en",
+  "tier": 1,
+  "lemma": "approach",
+  "kana": null,
+  "kanji": null,
+  "romaji": null,
+  "pos": "n.",
+  "pron": "/əˈprəʊtʃ/",
+  "meaning_zh": "方法；途径",
+  "example": {
+   "t": "We tried a new approach to the problem.",
+   "zh": "我们对这个问题尝试了新方法。"
+  },
+  "audio": "audio/en/en_approach.ogg",
+  "distractors": [
+   "reproach",
+   "approval",
+   "appliance"
+  ],
+  "tags": [
+   "core",
+   "writing",
+   "noun"
+  ]
+ },
+ {
+  "id": "en_appropriate",
+  "lang": "en",
+  "tier": 1,
+  "lemma": "appropriate",
+  "kana": null,
+  "kanji": null,
+  "romaji": null,
+  "pos": "adj.",
+  "pron": "/əˈprəʊpriət/",
+  "meaning_zh": "适当的；合适的",
+  "example": {
+   "t": "Jeans are not appropriate for a formal dinner.",
+   "zh": "牛仔裤不适合正式晚宴。"
+  },
+  "audio": "audio/en/en_appropriate.ogg",
+  "distractors": [
+   "approximate",
+   "proper",
+   "appreciative"
+  ],
+  "tags": [
+   "core",
+   "writing"
+  ]
+ },
+ {
+  "id": "en_assess",
+  "lang": "en",
+  "tier": 1,
+  "lemma": "assess",
+  "kana": null,
+  "kanji": null,
+  "romaji": null,
+  "pos": "v.",
+  "pron": "/əˈses/",
+  "meaning_zh": "评估；评定",
+  "example": {
+   "t": "Teachers assess students' progress each term.",
+   "zh": "老师每学期评估学生的进步。"
+  },
+  "audio": "audio/en/en_assess.ogg",
+  "distractors": [
+   "access",
+   "assist",
+   "possess"
+  ],
+  "tags": [
+   "core",
+   "reading",
+   "verb"
+  ]
+ },
+ {
+  "id": "en_assume",
+  "lang": "en",
+  "tier": 1,
+  "lemma": "assume",
+  "kana": null,
+  "kanji": null,
+  "romaji": null,
+  "pos": "v.",
+  "pron": "/əˈsjuːm/",
+  "meaning_zh": "假定；承担",
+  "example": {
+   "t": "Do not assume that everyone agrees with you.",
+   "zh": "不要以为每个人都同意你。"
+  },
+  "audio": "audio/en/en_assume.ogg",
+  "distractors": [
+   "consume",
+   "resume",
+   "presume"
+  ],
+  "tags": [
+   "core",
+   "writing",
+   "verb"
+  ]
+ },
+ {
+  "id": "en_attitude",
+  "lang": "en",
+  "tier": 1,
+  "lemma": "attitude",
+  "kana": null,
+  "kanji": null,
+  "romaji": null,
+  "pos": "n.",
+  "pron": "/ˈætɪtjuːd/",
+  "meaning_zh": "态度；看法",
+  "example": {
+   "t": "Her positive attitude impressed the interviewer.",
+   "zh": "她积极的态度给面试官留下了深刻印象。"
+  },
+  "audio": "audio/en/en_attitude.ogg",
+  "distractors": [
+   "altitude",
+   "aptitude",
+   "attribute"
+  ],
+  "tags": [
+   "core",
+   "writing",
+   "noun"
+  ]
+ },
+ {
+  "id": "en_benefit",
+  "lang": "en",
+  "tier": 1,
+  "lemma": "benefit",
+  "kana": null,
+  "kanji": null,
+  "romaji": null,
+  "pos": "n.",
+  "pron": "/ˈbenɪfɪt/",
+  "meaning_zh": "好处；益处",
+  "example": {
+   "t": "Regular exercise has many health benefits.",
+   "zh": "经常锻炼对健康有很多好处。"
+  },
+  "audio": "audio/en/en_benefit.ogg",
+  "distractors": [
+   "profit",
+   "beneficiary",
+   "advantage"
+  ],
+  "tags": [
+   "core",
+   "writing",
+   "noun"
+  ]
+ },
+ {
+  "id": "en_challenge",
+  "lang": "en",
+  "tier": 1,
+  "lemma": "challenge",
+  "kana": null,
+  "kanji": null,
+  "romaji": null,
+  "pos": "n.",
+  "pron": "/ˈtʃælɪndʒ/",
+  "meaning_zh": "挑战；难题",
+  "example": {
+   "t": "Learning a language is a real challenge.",
+   "zh": "学一门语言是个真正的挑战。"
+  },
+  "audio": "audio/en/en_challenge.ogg",
+  "distractors": [
+   "challenger",
+   "change",
+   "charge"
+  ],
+  "tags": [
+   "core",
+   "reading",
+   "noun"
+  ]
+ },
+ {
+  "id": "en_community",
+  "lang": "en",
+  "tier": 1,
+  "lemma": "community",
+  "kana": null,
+  "kanji": null,
+  "romaji": null,
+  "pos": "n.",
+  "pron": "/kəˈmjuːnəti/",
+  "meaning_zh": "社区；团体",
+  "example": {
+   "t": "The whole community came to the festival.",
+   "zh": "整个社区都来参加节日活动。"
+  },
+  "audio": "audio/en/en_community.ogg",
+  "distractors": [
+   "commission",
+   "communism",
+   "communication"
+  ],
+  "tags": [
+   "core",
+   "reading",
+   "noun"
+  ]
+ },
+ {
+  "id": "en_complex",
+  "lang": "en",
+  "tier": 1,
+  "lemma": "complex",
+  "kana": null,
+  "kanji": null,
+  "romaji": null,
+  "pos": "adj.",
+  "pron": "/ˈkɒmpleks/",
+  "meaning_zh": "复杂的；综合的",
+  "example": {
+   "t": "The human brain is extremely complex.",
+   "zh": "人脑极其复杂。"
+  },
+  "audio": "audio/en/en_complex.ogg",
+  "distractors": [
+   "complicated",
+   "complete",
+   "compact"
+  ],
+  "tags": [
+   "core",
+   "reading"
+  ]
+ },
+ {
+  "id": "en_concept",
+  "lang": "en",
+  "tier": 1,
+  "lemma": "concept",
+  "kana": null,
+  "kanji": null,
+  "romaji": null,
+  "pos": "n.",
+  "pron": "/ˈkɒnsept/",
+  "meaning_zh": "概念；观念",
+  "example": {
+   "t": "The concept is simple but hard to explain.",
+   "zh": "这个概念很简单，却很难解释。"
+  },
+  "audio": "audio/en/en_concept.ogg",
+  "distractors": [
+   "concert",
+   "conceit",
+   "context"
+  ],
+  "tags": [
+   "core",
+   "reading",
+   "noun"
+  ]
+ },
+ {
+  "id": "en_conclude",
+  "lang": "en",
+  "tier": 1,
+  "lemma": "conclude",
+  "kana": null,
+  "kanji": null,
+  "romaji": null,
+  "pos": "v.",
+  "pron": "/kənˈkluːd/",
+  "meaning_zh": "得出结论；结束",
+  "example": {
+   "t": "The study concluded that sleep improves memory.",
+   "zh": "该研究得出结论：睡眠能改善记忆力。"
+  },
+  "audio": "audio/en/en_conclude.ogg",
+  "distractors": [
+   "include",
+   "exclude",
+   "confide"
+  ],
+  "tags": [
+   "core",
+   "writing",
+   "verb"
+  ]
+ },
+ {
+  "id": "en_consequence",
+  "lang": "en",
+  "tier": 1,
+  "lemma": "consequence",
+  "kana": null,
+  "kanji": null,
+  "romaji": null,
+  "pos": "n.",
+  "pron": "/ˈkɒnsɪkwəns/",
+  "meaning_zh": "后果；结果",
+  "example": {
+   "t": "Poor planning had serious consequences.",
+   "zh": "计划不周带来了严重后果。"
+  },
+  "audio": "audio/en/en_consequence.ogg",
+  "distractors": [
+   "sequence",
+   "conquest",
+   "conscience"
+  ],
+  "tags": [
+   "core",
+   "writing",
+   "noun"
+  ]
+ },
+ {
+  "id": "en_considerable",
+  "lang": "en",
+  "tier": 1,
+  "lemma": "considerable",
+  "kana": null,
+  "kanji": null,
+  "romaji": null,
+  "pos": "adj.",
+  "pron": "/kənˈsɪdərəbl/",
+  "meaning_zh": "相当大的；可观的",
+  "example": {
+   "t": "The project took a considerable amount of time.",
+   "zh": "这个项目花费了相当多的时间。"
+  },
+  "audio": "audio/en/en_considerable.ogg",
+  "distractors": [
+   "considerate",
+   "consistent",
+   "conservative"
+  ],
+  "tags": [
+   "core",
+   "writing"
+  ]
+ },
+ {
+  "id": "en_consume",
+  "lang": "en",
+  "tier": 1,
+  "lemma": "consume",
+  "kana": null,
+  "kanji": null,
+  "romaji": null,
+  "pos": "v.",
+  "pron": "/kənˈsjuːm/",
+  "meaning_zh": "消耗；消费",
+  "example": {
+   "t": "This machine consumes too much electricity.",
+   "zh": "这台机器耗电太多。"
+  },
+  "audio": "audio/en/en_consume.ogg",
+  "distractors": [
+   "assume",
+   "resume",
+   "produce"
+  ],
+  "tags": [
+   "core",
+   "reading",
+   "verb"
+  ]
+ },
+ {
+  "id": "en_contribute",
+  "lang": "en",
+  "tier": 1,
+  "lemma": "contribute",
+  "kana": null,
+  "kanji": null,
+  "romaji": null,
+  "pos": "v.",
+  "pron": "/kənˈtrɪbjuːt/",
+  "meaning_zh": "贡献；促成",
+  "example": {
+   "t": "Everyone contributed ideas to the discussion.",
+   "zh": "每个人都为讨论贡献了想法。"
+  },
+  "audio": "audio/en/en_contribute.ogg",
+  "distractors": [
+   "distribute",
+   "attribute",
+   "constitute"
+  ],
+  "tags": [
+   "core",
+   "writing",
+   "verb"
+  ]
+ },
+ {
+  "id": "en_crucial",
+  "lang": "en",
+  "tier": 1,
+  "lemma": "crucial",
+  "kana": null,
+  "kanji": null,
+  "romaji": null,
+  "pos": "adj.",
+  "pron": "/ˈkruːʃl/",
+  "meaning_zh": "至关重要的；关键的",
+  "example": {
+   "t": "Water is crucial for all living things.",
+   "zh": "水对所有生物都至关重要。"
+  },
+  "audio": "audio/en/en_crucial.ogg",
+  "distractors": [
+   "casual",
+   "critical",
+   "cruel"
+  ],
+  "tags": [
+   "core",
+   "writing"
+  ]
+ },
+ {
+  "id": "en_decline",
+  "lang": "en",
+  "tier": 1,
+  "lemma": "decline",
+  "kana": null,
+  "kanji": null,
+  "romaji": null,
+  "pos": "v.",
+  "pron": "/dɪˈklaɪn/",
+  "meaning_zh": "下降；拒绝",
+  "example": {
+   "t": "Sales declined sharply last winter.",
+   "zh": "去年冬天销售额急剧下降。"
+  },
+  "audio": "audio/en/en_decline.ogg",
+  "distractors": [
+   "incline",
+   "recline",
+   "declare"
+  ],
+  "tags": [
+   "core",
+   "reading",
+   "verb"
+  ]
+ },
+ {
+  "id": "en_demand",
+  "lang": "en",
+  "tier": 1,
+  "lemma": "demand",
+  "kana": null,
+  "kanji": null,
+  "romaji": null,
+  "pos": "n.",
+  "pron": "/dɪˈmɑːnd/",
+  "meaning_zh": "需求；要求",
+  "example": {
+   "t": "There is growing demand for clean energy.",
+   "zh": "对清洁能源的需求日益增长。"
+  },
+  "audio": "audio/en/en_demand.ogg",
+  "distractors": [
+   "command",
+   "mandate",
+   "request"
+  ],
+  "tags": [
+   "core",
+   "writing",
+   "noun"
+  ]
+ },
+ {
+  "id": "en_demonstrate",
+  "lang": "en",
+  "tier": 1,
+  "lemma": "demonstrate",
+  "kana": null,
+  "kanji": null,
+  "romaji": null,
+  "pos": "v.",
+  "pron": "/ˈdemənstreɪt/",
+  "meaning_zh": "证明；演示",
+  "example": {
+   "t": "The teacher demonstrated the experiment twice.",
+   "zh": "老师演示了两次这个实验。"
+  },
+  "audio": "audio/en/en_demonstrate.ogg",
+  "distractors": [
+   "remonstrate",
+   "depict",
+   "dominate"
+  ],
+  "tags": [
+   "core",
+   "writing",
+   "verb"
+  ]
+ },
+ {
+  "id": "en_develop",
+  "lang": "en",
+  "tier": 1,
+  "lemma": "develop",
+  "kana": null,
+  "kanji": null,
+  "romaji": null,
+  "pos": "v.",
+  "pron": "/dɪˈveləp/",
+  "meaning_zh": "发展；开发",
+  "example": {
+   "t": "The company developed a new app.",
+   "zh": "这家公司开发了一款新应用。"
+  },
+  "audio": "audio/en/en_develop.ogg",
+  "distractors": [
+   "envelop",
+   "deliver",
+   "deploy"
+  ],
+  "tags": [
+   "core",
+   "writing",
+   "verb"
+  ]
+ },
+ {
+  "id": "en_distinct",
+  "lang": "en",
+  "tier": 1,
+  "lemma": "distinct",
+  "kana": null,
+  "kanji": null,
+  "romaji": null,
+  "pos": "adj.",
+  "pron": "/dɪˈstɪŋkt/",
+  "meaning_zh": "明显的；截然不同的",
+  "example": {
+   "t": "There are two distinct types of soil here.",
+   "zh": "这里有两种截然不同的土壤。"
+  },
+  "audio": "audio/en/en_distinct.ogg",
+  "distractors": [
+   "distinctive",
+   "instinctive",
+   "distant"
+  ],
+  "tags": [
+   "core",
+   "reading"
+  ]
+ },
+ {
+  "id": "en_economy",
+  "lang": "en",
+  "tier": 1,
+  "lemma": "economy",
+  "kana": null,
+  "kanji": null,
+  "romaji": null,
+  "pos": "n.",
+  "pron": "/ɪˈkɒnəmi/",
+  "meaning_zh": "经济；节约",
+  "example": {
+   "t": "Tourism plays a key role in the economy.",
+   "zh": "旅游业在经济中起着关键作用。"
+  },
+  "audio": "audio/en/en_economy.ogg",
+  "distractors": [
+   "ecology",
+   "economics",
+   "economist"
+  ],
+  "tags": [
+   "core",
+   "reading",
+   "noun"
+  ]
+ },
+ {
+  "id": "en_efficient",
+  "lang": "en",
+  "tier": 1,
+  "lemma": "efficient",
+  "kana": null,
+  "kanji": null,
+  "romaji": null,
+  "pos": "adj.",
+  "pron": "/ɪˈfɪʃnt/",
+  "meaning_zh": "高效的；效率高的",
+  "example": {
+   "t": "The new system is far more efficient.",
+   "zh": "新系统效率高得多。"
+  },
+  "audio": "audio/en/en_efficient.ogg",
+  "distractors": [
+   "sufficient",
+   "effective",
+   "proficient"
+  ],
+  "tags": [
+   "core",
+   "writing"
+  ]
+ },
+ {
+  "id": "en_emphasis",
+  "lang": "en",
+  "tier": 1,
+  "lemma": "emphasis",
+  "kana": null,
+  "kanji": null,
+  "romaji": null,
+  "pos": "n.",
+  "pron": "/ˈemfəsɪs/",
+  "meaning_zh": "强调；重点",
+  "example": {
+   "t": "The course puts emphasis on speaking skills.",
+   "zh": "这门课强调口语能力。"
+  },
+  "audio": "audio/en/en_emphasis.ogg",
+  "distractors": [
+   "crisis",
+   "analysis",
+   "basis"
+  ],
+  "tags": [
+   "core",
+   "writing",
+   "noun"
+  ]
+ },
+ {
+  "id": "en_environment",
+  "lang": "en",
+  "tier": 1,
+  "lemma": "environment",
+  "kana": null,
+  "kanji": null,
+  "romaji": null,
+  "pos": "n.",
+  "pron": "/ɪnˈvaɪrənmənt/",
+  "meaning_zh": "环境；周围状况",
+  "example": {
+   "t": "We must protect the environment for future generations.",
+   "zh": "我们必须为后代保护环境。"
+  },
+  "audio": "audio/en/en_environment.ogg",
+  "distractors": [
+   "circumstance",
+   "surrounding",
+   "environs"
+  ],
+  "tags": [
+   "core",
+   "reading",
+   "noun"
+  ]
+ },
+ {
+  "id": "en_essential",
+  "lang": "en",
+  "tier": 1,
+  "lemma": "essential",
+  "kana": null,
+  "kanji": null,
+  "romaji": null,
+  "pos": "adj.",
+  "pron": "/ɪˈsenʃl/",
+  "meaning_zh": "必不可少的；本质的",
+  "example": {
+   "t": "Good sleep is essential for good health.",
+   "zh": "良好睡眠对健康必不可少。"
+  },
+  "audio": "audio/en/en_essential.ogg",
+  "distractors": [
+   "potential",
+   "influential",
+   "elemental"
+  ],
+  "tags": [
+   "core",
+   "writing"
+  ]
+ },
+ {
+  "id": "en_establish",
+  "lang": "en",
+  "tier": 1,
+  "lemma": "establish",
+  "kana": null,
+  "kanji": null,
+  "romaji": null,
+  "pos": "v.",
+  "pron": "/ɪˈstæblɪʃ/",
+  "meaning_zh": "建立；确立",
+  "example": {
+   "t": "The college was established in 1890.",
+   "zh": "这所学院建于1890年。"
+  },
+  "audio": "audio/en/en_establish.ogg",
+  "distractors": [
+   "distinguish",
+   "extinguish",
+   "publish"
+  ],
+  "tags": [
+   "core",
+   "reading",
+   "verb"
+  ]
+ },
+ {
+  "id": "en_evidence",
+  "lang": "en",
+  "tier": 1,
+  "lemma": "evidence",
+  "kana": null,
+  "kanji": null,
+  "romaji": null,
+  "pos": "n.",
+  "pron": "/ˈevɪdəns/",
+  "meaning_zh": "证据；迹象",
+  "example": {
+   "t": "There is no evidence to support his claim.",
+   "zh": "没有证据支持他的说法。"
+  },
+  "audio": "audio/en/en_evidence.ogg",
+  "distractors": [
+   "incidence",
+   "confidence",
+   "audience"
+  ],
+  "tags": [
+   "core",
+   "reading",
+   "noun"
+  ]
+ },
+ {
+  "id": "en_expand",
+  "lang": "en",
+  "tier": 1,
+  "lemma": "expand",
+  "kana": null,
+  "kanji": null,
+  "romaji": null,
+  "pos": "v.",
+  "pron": "/ɪkˈspænd/",
+  "meaning_zh": "扩大；扩张",
+  "example": {
+   "t": "The company plans to expand overseas.",
+   "zh": "公司计划向海外扩张。"
+  },
+  "audio": "audio/en/en_expand.ogg",
+  "distractors": [
+   "expend",
+   "extend",
+   "explain"
+  ],
+  "tags": [
+   "core",
+   "writing",
+   "verb"
+  ]
+ },
+ {
+  "id": "en_factor",
+  "lang": "en",
+  "tier": 1,
+  "lemma": "factor",
+  "kana": null,
+  "kanji": null,
+  "romaji": null,
+  "pos": "n.",
+  "pron": "/ˈfæktə/",
+  "meaning_zh": "因素；要素",
+  "example": {
+   "t": "Cost is an important factor in our decision.",
+   "zh": "成本是我们决策的重要因素。"
+  },
+  "audio": "audio/en/en_factor.ogg",
+  "distractors": [
+   "factory",
+   "fact",
+   "faction"
+  ],
+  "tags": [
+   "core",
+   "writing",
+   "noun"
+  ]
+ },
+ {
+  "id": "en_flexible",
+  "lang": "en",
+  "tier": 1,
+  "lemma": "flexible",
+  "kana": null,
+  "kanji": null,
+  "romaji": null,
+  "pos": "adj.",
+  "pron": "/ˈfleksəbl/",
+  "meaning_zh": "灵活的；可变通的",
+  "example": {
+   "t": "Our working hours are quite flexible.",
+   "zh": "我们的工作时间相当灵活。"
+  },
+  "audio": "audio/en/en_flexible.ogg",
+  "distractors": [
+   "sensible",
+   "feasible",
+   "sensitive"
+  ],
+  "tags": [
+   "core",
+   "writing"
+  ]
+ },
+ {
+  "id": "en_focus",
+  "lang": "en",
+  "tier": 1,
+  "lemma": "focus",
+  "kana": null,
+  "kanji": null,
+  "romaji": null,
+  "pos": "v.",
+  "pron": "/ˈfəʊkəs/",
+  "meaning_zh": "集中；聚焦",
+  "example": {
+   "t": "Please focus on the main idea.",
+   "zh": "请把注意力集中在主要观点上。"
+  },
+  "audio": "audio/en/en_focus.ogg",
+  "distractors": [
+   "force",
+   "fake",
+   "fuse"
+  ],
+  "tags": [
+   "core",
+   "writing",
+   "verb"
+  ]
+ },
+ {
+  "id": "en_generate",
+  "lang": "en",
+  "tier": 1,
+  "lemma": "generate",
+  "kana": null,
+  "kanji": null,
+  "romaji": null,
+  "pos": "v.",
+  "pron": "/ˈdʒenəreɪt/",
+  "meaning_zh": "产生；生成",
+  "example": {
+   "t": "Wind farms generate clean electricity.",
+   "zh": "风电场产生清洁电力。"
+  },
+  "audio": "audio/en/en_generate.ogg",
+  "distractors": [
+   "regenerate",
+   "generalise",
+   "liberate"
+  ],
+  "tags": [
+   "core",
+   "reading",
+   "verb"
+  ]
+ },
+ {
+  "id": "en_gradually",
+  "lang": "en",
+  "tier": 1,
+  "lemma": "gradually",
+  "kana": null,
+  "kanji": null,
+  "romaji": null,
+  "pos": "adv.",
+  "pron": "/ˈɡrædʒuəli/",
+  "meaning_zh": "逐渐地；渐渐地",
+  "example": {
+   "t": "The weather gradually got warmer.",
+   "zh": "天气渐渐变暖了。"
+  },
+  "audio": "audio/en/en_gradually.ogg",
+  "distractors": [
+   "gratefully",
+   "eventually",
+   "immediately"
+  ],
+  "tags": [
+   "core",
+   "writing"
+  ]
+ },
+ {
+  "id": "en_impact",
+  "lang": "en",
+  "tier": 1,
+  "lemma": "impact",
+  "kana": null,
+  "kanji": null,
+  "romaji": null,
+  "pos": "n.",
+  "pron": "/ˈɪmpækt/",
+  "meaning_zh": "影响；冲击",
+  "example": {
+   "t": "Social media has a huge impact on teenagers.",
+   "zh": "社交媒体对青少年有巨大影响。"
+  },
+  "audio": "audio/en/en_impact.ogg",
+  "distractors": [
+   "impulse",
+   "impasse",
+   "imprint"
+  ],
+  "tags": [
+   "core",
+   "writing",
+   "noun"
+  ]
+ },
+ {
+  "id": "en_individual",
+  "lang": "en",
+  "tier": 1,
+  "lemma": "individual",
+  "kana": null,
+  "kanji": null,
+  "romaji": null,
+  "pos": "n.",
+  "pron": "/ˌɪndɪˈvɪdʒuəl/",
+  "meaning_zh": "个人；个体",
+  "example": {
+   "t": "Each individual has different needs.",
+   "zh": "每个人都有不同的需求。"
+  },
+  "audio": "audio/en/en_individual.ogg",
+  "distractors": [
+   "individuality",
+   "individualist",
+   "interval"
+  ],
+  "tags": [
+   "core",
+   "writing",
+   "noun"
+  ]
+ },
+ {
+  "id": "en_influence",
+  "lang": "en",
+  "tier": 1,
+  "lemma": "influence",
+  "kana": null,
+  "kanji": null,
+  "romaji": null,
+  "pos": "n.",
+  "pron": "/ˈɪnfluəns/",
+  "meaning_zh": "影响；影响力",
+  "example": {
+   "t": "His teacher had a lasting influence on him.",
+   "zh": "他的老师对他产生了持久的影响。"
+  },
+  "audio": "audio/en/en_influence.ogg",
+  "distractors": [
+   "influenza",
+   "affluence",
+   "sequence"
+  ],
+  "tags": [
+   "core",
+   "writing",
+   "noun"
+  ]
+ },
+ {
+  "id": "en_maintain",
+  "lang": "en",
+  "tier": 1,
+  "lemma": "maintain",
+  "kana": null,
+  "kanji": null,
+  "romaji": null,
+  "pos": "v.",
+  "pron": "/meɪnˈteɪn/",
+  "meaning_zh": "维持；主张",
+  "example": {
+   "t": "It is hard to maintain a healthy diet.",
+   "zh": "保持健康饮食很难。"
+  },
+  "audio": "audio/en/en_maintain.ogg",
+  "distractors": [
+   "contain",
+   "obtain",
+   "remain"
+  ],
+  "tags": [
+   "core",
+   "writing",
+   "verb"
+  ]
+ },
+ {
+  "id": "en_majority",
+  "lang": "en",
+  "tier": 1,
+  "lemma": "majority",
+  "kana": null,
+  "kanji": null,
+  "romaji": null,
+  "pos": "n.",
+  "pron": "/məˈdʒɒrəti/",
+  "meaning_zh": "大多数；多数",
+  "example": {
+   "t": "The majority of students passed the exam.",
+   "zh": "大多数学生通过了考试。"
+  },
+  "audio": "audio/en/en_majority.ogg",
+  "distractors": [
+   "minority",
+   "majesty",
+   "charity"
+  ],
+  "tags": [
+   "core",
+   "reading",
+   "noun"
+  ]
+ },
+ {
+  "id": "en_potential",
+  "lang": "en",
+  "tier": 1,
+  "lemma": "potential",
+  "kana": null,
+  "kanji": null,
+  "romaji": null,
+  "pos": "adj.",
+  "pron": "/pəˈtenʃl/",
+  "meaning_zh": "潜在的；可能的",
+  "example": {
+   "t": "She is a potential leader of the team.",
+   "zh": "她可能是团队的领导者。"
+  },
+  "audio": "audio/en/en_potential.ogg",
+  "distractors": [
+   "potent",
+   "essential",
+   "influential"
+  ],
+  "tags": [
+   "core",
+   "writing"
+  ]
+ },
+ {
+  "id": "en_previous",
+  "lang": "en",
+  "tier": 1,
+  "lemma": "previous",
+  "kana": null,
+  "kanji": null,
+  "romaji": null,
+  "pos": "adj.",
+  "pron": "/ˈpriːviəs/",
+  "meaning_zh": "以前的；先前的",
+  "example": {
+   "t": "My previous job was in a bank.",
+   "zh": "我上一份工作是在银行。"
+  },
+  "audio": "audio/en/en_previous.ogg",
+  "distractors": [
+   "precious",
+   "obvious",
+   "various"
+  ],
+  "tags": [
+   "core",
+   "writing"
+  ]
+ },
+ {
+  "id": "en_reduce",
+  "lang": "en",
+  "tier": 1,
+  "lemma": "reduce",
+  "kana": null,
+  "kanji": null,
+  "romaji": null,
+  "pos": "v.",
+  "pron": "/rɪˈdjuːs/",
+  "meaning_zh": "减少；降低",
+  "example": {
+   "t": "We should reduce the amount of plastic we use.",
+   "zh": "我们应该减少塑料的使用量。"
+  },
+  "audio": "audio/en/en_reduce.ogg",
+  "distractors": [
+   "produce",
+   "deduce",
+   "seduce"
+  ],
+  "tags": [
+   "core",
+   "writing",
+   "verb"
+  ]
+ },
+ {
+  "id": "en_relatively",
+  "lang": "en",
+  "tier": 1,
+  "lemma": "relatively",
+  "kana": null,
+  "kanji": null,
+  "romaji": null,
+  "pos": "adv.",
+  "pron": "/ˈrelətɪvli/",
+  "meaning_zh": "相对地；比较而言",
+  "example": {
+   "t": "The test was relatively easy for me.",
+   "zh": "这次考试对我来说相对容易。"
+  },
+  "audio": "audio/en/en_relatively.ogg",
+  "distractors": [
+   "directly",
+   "repeatedly",
+   "generally"
+  ],
+  "tags": [
+   "core",
+   "writing"
+  ]
+ },
+ {
+  "id": "en_require",
+  "lang": "en",
+  "tier": 1,
+  "lemma": "require",
+  "kana": null,
+  "kanji": null,
+  "romaji": null,
+  "pos": "v.",
+  "pron": "/rɪˈkwaɪə/",
+  "meaning_zh": "需要；要求",
+  "example": {
+   "t": "This job requires good communication skills.",
+   "zh": "这份工作需要良好的沟通能力。"
+  },
+  "audio": "audio/en/en_require.ogg",
+  "distractors": [
+   "acquire",
+   "enquire",
+   "inquire"
+  ],
+  "tags": [
+   "core",
+   "writing",
+   "verb"
+  ]
+ },
+ {
+  "id": "en_resource",
+  "lang": "en",
+  "tier": 1,
+  "lemma": "resource",
+  "kana": null,
+  "kanji": null,
+  "romaji": null,
+  "pos": "n.",
+  "pron": "/rɪˈsɔːs/",
+  "meaning_zh": "资源；财力",
+  "example": {
+   "t": "The country lacks natural resources.",
+   "zh": "这个国家缺乏自然资源。"
+  },
+  "audio": "audio/en/en_resource.ogg",
+  "distractors": [
+   "source",
+   "resort",
+   "recourse"
+  ],
+  "tags": [
+   "core",
+   "reading",
+   "noun"
+  ]
+ },
+ {
+  "id": "en_respond",
+  "lang": "en",
+  "tier": 1,
+  "lemma": "respond",
+  "kana": null,
+  "kanji": null,
+  "romaji": null,
+  "pos": "v.",
+  "pron": "/rɪˈspɒnd/",
+  "meaning_zh": "回应；反应",
+  "example": {
+   "t": "She responded to my email within an hour.",
+   "zh": "她在一小时内回复了我的邮件。"
+  },
+  "audio": "audio/en/en_respond.ogg",
+  "distractors": [
+   "correspond",
+   "despond",
+   "reason"
+  ],
+  "tags": [
+   "core",
+   "writing",
+   "verb"
+  ]
+ },
+ {
+  "id": "en_significant",
+  "lang": "en",
+  "tier": 1,
+  "lemma": "significant",
+  "kana": null,
+  "kanji": null,
+  "romaji": null,
+  "pos": "adj.",
+  "pron": "/sɪɡˈnɪfɪkənt/",
+  "meaning_zh": "重要的；显著的",
+  "example": {
+   "t": "There was a significant rise in prices.",
+   "zh": "物价显著上涨。"
+  },
+  "audio": "audio/en/en_significant.ogg",
+  "distractors": [
+   "magnificent",
+   "significative",
+   "sufficient"
+  ],
+  "tags": [
+   "core",
+   "writing"
+  ]
+ },
+ {
+  "id": "en_subsequent",
+  "lang": "en",
+  "tier": 1,
+  "lemma": "subsequent",
+  "kana": null,
+  "kanji": null,
+  "romaji": null,
+  "pos": "adj.",
+  "pron": "/ˈsʌbsɪkwənt/",
+  "meaning_zh": "随后的；接着的",
+  "example": {
+   "t": "Subsequent events proved her right.",
+   "zh": "后来的事件证明她是对的。"
+  },
+  "audio": "audio/en/en_subsequent.ogg",
+  "distractors": [
+   "consequent",
+   "frequent",
+   "sequent"
+  ],
+  "tags": [
+   "core",
+   "writing"
+  ]
+ },
+ {
+  "id": "en_theory",
+  "lang": "en",
+  "tier": 1,
+  "lemma": "theory",
+  "kana": null,
+  "kanji": null,
+  "romaji": null,
+  "pos": "n.",
+  "pron": "/ˈθɪəri/",
+  "meaning_zh": "理论；学说",
+  "example": {
+   "t": "The theory was later proved correct.",
+   "zh": "该理论后来被证明是正确的。"
+  },
+  "audio": "audio/en/en_theory.ogg",
+  "distractors": [
+   "therapy",
+   "theorem",
+   "theology"
+  ],
+  "tags": [
+   "core",
+   "reading",
+   "noun"
+  ]
+ },
+ {
+  "id": "en_trend",
+  "lang": "en",
+  "tier": 1,
+  "lemma": "trend",
+  "kana": null,
+  "kanji": null,
+  "romaji": null,
+  "pos": "n.",
+  "pron": "/trend/",
+  "meaning_zh": "趋势；潮流",
+  "example": {
+   "t": "There is a growing trend towards cycling.",
+   "zh": "骑车出行的趋势日益增长。"
+  },
+  "audio": "audio/en/en_trend.ogg",
+  "distractors": [
+   "trench",
+   "tendency",
+   "brand"
+  ],
+  "tags": [
+   "core",
+   "reading",
+   "noun"
+  ]
+ }
+]

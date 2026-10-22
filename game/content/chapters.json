@@ -1,0 +1,42 @@
+{
+ "version": 1,
+ "note": "主线章节表（心之桥八灯）。每推进一章点亮一盏灯；灯 = 墨墨的勇气与能力，死亡/换周目不清（与方案 §8 同构：归零的是关系，不是成长）。gates = 解锁门槛（好感等级 × 陪伴天数）；open_script / end_branches 指向 dialogues.json「脚本」桶；event_module = 实现章内玩法事件的引擎模块；event_data = 该模块的对局数据文件名（game/content/ 下）。",
+ "bridge": {
+  "lamps": 8,
+  "note": "心之桥八盏灯。存档落 store.bridge.lit（0~8）。"
+ },
+ "lamps": [
+  {
+   "n": 1,
+   "name": "勇气",
+   "note": "入席的勇气：敢坐到陌生人中间，敢说谎，敢被看见。"
+  }
+ ],
+ "chapters": [
+  {
+   "id": "ch1",
+   "title": "月见茶会",
+   "lamp": 1,
+   "lamp_name": "勇气",
+   "gates": {
+    "affection_lv": 3,
+    "days_total": 7
+   },
+   "scene": {
+    "room": "卧房",
+    "floor": "F1"
+   },
+   "open_script": "ch1_前言",
+   "flag": "bridge.ch1_done",
+   "wordpack": "s1c1",
+   "hub_open": true,
+   "hub_open_note": "入口就是剧情通道（2026-10-12 作者定）：点「进入」即从《前言》开头演起，不受门槛限制，方便随时试演",
+   "note": "第一章：前言 → 正文（作者 1/5）→ 茶会前（月见/ NPC 出场/规则/小法术/抽身份）→ tea:ai（AI 狼人杀）。末茶人设定已删除。",
+   "scripts": [
+    "ch1_前言",
+    "ch1_正文",
+    "ch1_茶会前"
+   ]
+  }
+ ]
+}

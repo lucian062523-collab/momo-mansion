@@ -1,0 +1,182 @@
+{
+ "ja_学生": {
+  "lesson": 1
+ },
+ "ja_先生": {
+  "lesson": 1
+ },
+ "ja_友達": {
+  "lesson": 1
+ },
+ "ja_学校": {
+  "lesson": 3
+ },
+ "ja_病院": {
+  "lesson": 3
+ },
+ "ja_駅": {
+  "lesson": 3
+ },
+ "ja_家": {
+  "lesson": 3
+ },
+ "ja_起きる": {
+  "lesson": 4
+ },
+ "ja_寝る": {
+  "lesson": 4
+ },
+ "ja_毎日": {
+  "lesson": 4
+ },
+ "ja_朝": {
+  "lesson": 4
+ },
+ "ja_夜": {
+  "lesson": 4
+ },
+ "ja_今日": {
+  "lesson": 4
+ },
+ "ja_明日": {
+  "lesson": 4
+ },
+ "ja_昨日": {
+  "lesson": 4
+ },
+ "ja_時間": {
+  "lesson": 4
+ },
+ "ja_仕事": {
+  "lesson": 4
+ },
+ "ja_勉強する": {
+  "lesson": 4
+ },
+ "ja_電車": {
+  "lesson": 5
+ },
+ "ja_車": {
+  "lesson": 5
+ },
+ "ja_行く": {
+  "lesson": 5
+ },
+ "ja_来る": {
+  "lesson": 5
+ },
+ "ja_食べる": {
+  "lesson": 6
+ },
+ "ja_飲む": {
+  "lesson": 6
+ },
+ "ja_見る": {
+  "lesson": 6
+ },
+ "ja_聞く": {
+  "lesson": 6
+ },
+ "ja_読む": {
+  "lesson": 6
+ },
+ "ja_書く": {
+  "lesson": 6
+ },
+ "ja_買う": {
+  "lesson": 6
+ },
+ "ja_話す": {
+  "lesson": 6
+ },
+ "ja_食べ物": {
+  "lesson": 6
+ },
+ "ja_映画": {
+  "lesson": 6
+ },
+ "ja_音楽": {
+  "lesson": 6
+ },
+ "ja_水": {
+  "lesson": 6
+ },
+ "ja_花": {
+  "lesson": 7
+ },
+ "ja_お金": {
+  "lesson": 7
+ },
+ "ja_電話": {
+  "lesson": 7
+ },
+ "ja_りんご": {
+  "lesson": 7
+ },
+ "ja_大きい": {
+  "lesson": 8
+ },
+ "ja_小さい": {
+  "lesson": 8
+ },
+ "ja_新しい": {
+  "lesson": 8
+ },
+ "ja_古い": {
+  "lesson": 8
+ },
+ "ja_高い": {
+  "lesson": 8
+ },
+ "ja_安い": {
+  "lesson": 8
+ },
+ "ja_暑い": {
+  "lesson": 8
+ },
+ "ja_寒い": {
+  "lesson": 8
+ },
+ "ja_難しい": {
+  "lesson": 8
+ },
+ "ja_忙しい": {
+  "lesson": 8
+ },
+ "ja_静か": {
+  "lesson": 8
+ },
+ "ja_便利": {
+  "lesson": 8
+ },
+ "ja_有名": {
+  "lesson": 8
+ },
+ "ja_元気": {
+  "lesson": 8
+ },
+ "ja_大切": {
+  "lesson": 8
+ },
+ "ja_天気": {
+  "lesson": 9
+ },
+ "ja_家族": {
+  "lesson": 9
+ },
+ "ja_上": {
+  "lesson": 10
+ },
+ "ja_下": {
+  "lesson": 10
+ },
+ "ja_前": {
+  "lesson": 10
+ },
+ "ja_後ろ": {
+  "lesson": 10
+ },
+ "ja_隣": {
+  "lesson": 10
+ }
+}

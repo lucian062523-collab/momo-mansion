@@ -1,0 +1,4349 @@
+[
+ {
+  "id": "ja_JC企画",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 1,
+  "lemma": "JC企画",
+  "kana": "ジェーシーきかく",
+  "kanji": "JC企画",
+  "romaji": "jeeshiikikaku",
+  "pos": "专",
+  "pron": "[jeeshiikikaku]",
+  "meaning_zh": "JC策划公司",
+  "audio": "audio/ja/ja_JC企画.ogg",
+  "tags": [
+   "core",
+   "name"
+  ],
+  "distractors": [
+   "王",
+   "張",
+   "李"
+  ],
+  "example": {
+   "t": "田中さんはJC企画の社員です。",
+   "zh": "田中先生是JC策划公司的职员。"
+  }
+ },
+ {
+  "id": "ja_あっ",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 1,
+  "lemma": "あっ",
+  "kana": "あっ",
+  "kanji": null,
+  "romaji": "a",
+  "pos": "叹",
+  "pron": "[a]",
+  "meaning_zh": "哎,哎呀",
+  "audio": "audio/ja/ja_あっ.ogg",
+  "tags": [
+   "core",
+   "interj"
+  ],
+  "distractors": [
+   "いいえ",
+   "中国人",
+   "はい"
+  ],
+  "example": {
+   "t": "あっ、田中さん、おはようございます。",
+   "zh": "哎呀，田中先生，早上好。"
+  }
+ },
+ {
+  "id": "ja_あなた",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 1,
+  "lemma": "あなた",
+  "kana": "あなた",
+  "kanji": null,
+  "romaji": "anata",
+  "pos": "代",
+  "pron": "[anata]",
+  "meaning_zh": "你",
+  "audio": "audio/ja/ja_あなた.ogg",
+  "tags": [
+   "core",
+   "pron"
+  ],
+  "distractors": [
+   "わたし",
+   "中国人",
+   "日本人"
+  ],
+  "example": {
+   "t": "あなたは学生ですか。",
+   "zh": "你是学生吗？"
+  }
+ },
+ {
+  "id": "ja_あの人",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 1,
+  "lemma": "あの人",
+  "kana": "あのひと",
+  "kanji": "あの人",
+  "romaji": "anohito",
+  "pos": "名",
+  "pron": "[anohito]",
+  "meaning_zh": "那个人",
+  "audio": "audio/ja/ja_あの人.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "日本人",
+   "韓国人",
+   "中国人"
+  ],
+  "example": {
+   "t": "あの人は日本人です。",
+   "zh": "那个人是日本人。"
+  }
+ },
+ {
+  "id": "ja_いいえ",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 1,
+  "lemma": "いいえ",
+  "kana": "いいえ",
+  "kanji": null,
+  "romaji": "iie",
+  "pos": "叹",
+  "pron": "[iie]",
+  "meaning_zh": "不,不是",
+  "audio": "audio/ja/ja_いいえ.ogg",
+  "tags": [
+   "core",
+   "interj"
+  ],
+  "distractors": [
+   "はい",
+   "あっ",
+   "中国人"
+  ],
+  "example": {
+   "t": "いいえ、私は学生ではありません。",
+   "zh": "不，我不是学生。"
+  }
+ },
+ {
+  "id": "ja_こちらこそ",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 1,
+  "lemma": "こちらこそ",
+  "kana": "こちらこそ",
+  "kanji": null,
+  "romaji": "kochirakoso",
+  "pos": "短语",
+  "pron": "[kochirakoso]",
+  "meaning_zh": "我才要(请您～)",
+  "audio": "audio/ja/ja_こちらこそ.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "こんにちは",
+   "すみません",
+   "どうぞ"
+  ],
+  "example": {
+   "t": "こちらこそ、よろしくお願いします。",
+   "zh": "我才要请您多多关照。"
+  }
+ },
+ {
+  "id": "ja_こんにちは",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 1,
+  "lemma": "こんにちは",
+  "kana": "こんにちは",
+  "kanji": null,
+  "romaji": "konnichiha",
+  "pos": "短语",
+  "pron": "[konnichiha]",
+  "meaning_zh": "你好",
+  "audio": "audio/ja/ja_こんにちは.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "どうぞ",
+   "よろしくお願いします",
+   "すみません"
+  ],
+  "example": {
+   "t": "こんにちは、田中さん。",
+   "zh": "你好，田中先生。"
+  }
+ },
+ {
+  "id": "ja_すみません",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 1,
+  "lemma": "すみません",
+  "kana": "すみません",
+  "kanji": null,
+  "romaji": "sumimasen",
+  "pos": "短语",
+  "pron": "[sumimasen]",
+  "meaning_zh": "对不起;请问",
+  "audio": "audio/ja/ja_すみません.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "よろしくお願いします",
+   "こんにちは",
+   "どうぞ"
+  ],
+  "example": {
+   "t": "すみません、これはいくらですか。",
+   "zh": "请问，这个多少钱？"
+  }
+ },
+ {
+  "id": "ja_そうです",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 1,
+  "lemma": "そうです",
+  "kana": "そうです",
+  "kanji": null,
+  "romaji": "soudesu",
+  "pos": "短语",
+  "pron": "[soudesu]",
+  "meaning_zh": "是(这样)",
+  "audio": "audio/ja/ja_そうです.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "すみません",
+   "どうぞ",
+   "こんにちは"
+  ],
+  "example": {
+   "t": "はい、そうです。",
+   "zh": "是的，是这样。"
+  }
+ },
+ {
+  "id": "ja_ちがいます",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 1,
+  "lemma": "ちがいます",
+  "kana": "ちがいます",
+  "kanji": null,
+  "romaji": "chigaimasu",
+  "pos": "短语",
+  "pron": "[chigaimasu]",
+  "meaning_zh": "不是",
+  "audio": "audio/ja/ja_ちがいます.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "どうぞ",
+   "こんにちは",
+   "すみません"
+  ],
+  "example": {
+   "t": "いいえ、ちがいます。",
+   "zh": "不，不是的。"
+  }
+ },
+ {
+  "id": "ja_どうぞ",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 1,
+  "lemma": "どうぞ",
+  "kana": "どうぞ",
+  "kanji": null,
+  "romaji": "douzo",
+  "pos": "短语",
+  "pron": "[douzo]",
+  "meaning_zh": "请",
+  "audio": "audio/ja/ja_どうぞ.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "こんにちは",
+   "すみません",
+   "よろしくお願いします"
+  ],
+  "example": {
+   "t": "どうぞ、お入りください。",
+   "zh": "请进。"
+  }
+ },
+ {
+  "id": "ja_どうも",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 1,
+  "lemma": "どうも",
+  "kana": "どうも",
+  "kanji": null,
+  "romaji": "doumo",
+  "pos": "副",
+  "pron": "[doumo]",
+  "meaning_zh": "非常,很",
+  "audio": "audio/ja/ja_どうも.ogg",
+  "tags": [
+   "core",
+   "adv"
+  ],
+  "distractors": [
+   "日本人",
+   "韓国人",
+   "中国人"
+  ],
+  "example": {
+   "t": "どうもありがとうございます。",
+   "zh": "非常感谢。"
+  }
+ },
+ {
+  "id": "ja_どうもすみません",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 1,
+  "lemma": "どうもすみません",
+  "kana": "どうもすみません",
+  "kanji": null,
+  "romaji": "doumosumimasen",
+  "pos": "短语",
+  "pron": "[doumosumimasen]",
+  "meaning_zh": "实在对不起",
+  "audio": "audio/ja/ja_どうもすみません.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "すみません",
+   "どうぞ",
+   "こんにちは"
+  ],
+  "example": {
+   "t": "どうもすみません、遅れました。",
+   "zh": "实在对不起，我迟到了。"
+  }
+ },
+ {
+  "id": "ja_はい",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 1,
+  "lemma": "はい",
+  "kana": "はい",
+  "kanji": null,
+  "romaji": "hai",
+  "pos": "叹",
+  "pron": "[hai]",
+  "meaning_zh": "哎,是(应答);是的",
+  "audio": "audio/ja/ja_はい.ogg",
+  "tags": [
+   "core",
+   "interj"
+  ],
+  "distractors": [
+   "中国人",
+   "いいえ",
+   "あっ"
+  ],
+  "example": {
+   "t": "はい、どうぞ。",
+   "zh": "好的，请。"
+  }
+ },
+ {
+  "id": "ja_はじめまして",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 1,
+  "lemma": "はじめまして",
+  "kana": "はじめまして",
+  "kanji": null,
+  "romaji": "hajimemashite",
+  "pos": "短语",
+  "pron": "[hajimemashite]",
+  "meaning_zh": "初次见面",
+  "audio": "audio/ja/ja_はじめまして.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "どうぞ",
+   "こんにちは",
+   "すみません"
+  ],
+  "example": {
+   "t": "はじめまして、田中です。",
+   "zh": "初次见面，我是田中。"
+  }
+ },
+ {
+  "id": "ja_よろしくお願いします",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 1,
+  "lemma": "よろしくお願いします",
+  "kana": "おねがいします",
+  "kanji": "よろしくお願いします",
+  "romaji": "onegaishimasu",
+  "pos": "短语",
+  "pron": "[onegaishimasu]",
+  "meaning_zh": "请多关照",
+  "audio": "audio/ja/ja_よろしくお願いします.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "すみません",
+   "どうぞ",
+   "こんにちは"
+  ],
+  "example": {
+   "t": "はじめまして、よろしくお願いします。",
+   "zh": "初次见面，请多关照。"
+  }
+ },
+ {
+  "id": "ja_わたし",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 1,
+  "lemma": "わたし",
+  "kana": "わたし",
+  "kanji": null,
+  "romaji": "watashi",
+  "pos": "代",
+  "pron": "[watashi]",
+  "meaning_zh": "我",
+  "audio": "audio/ja/ja_わたし.ogg",
+  "tags": [
+   "core",
+   "pron"
+  ],
+  "distractors": [
+   "日本人",
+   "あなた",
+   "中国人"
+  ],
+  "example": {
+   "t": "わたしは学生です。",
+   "zh": "我是学生。"
+  }
+ },
+ {
+  "id": "ja_アメリカ人",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 1,
+  "lemma": "アメリカ人",
+  "kana": "アメリカじん",
+  "kanji": "アメリカ人",
+  "romaji": "amerikajin",
+  "pos": "名",
+  "pron": "[amerikajin]",
+  "meaning_zh": "美国人",
+  "audio": "audio/ja/ja_アメリカ人.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "中国人",
+   "日本人",
+   "韓国人"
+  ],
+  "example": {
+   "t": "スミスさんはアメリカ人です。",
+   "zh": "史密斯先生是美国人。"
+  }
+ },
+ {
+  "id": "ja_ジョンソン",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 1,
+  "lemma": "ジョンソン",
+  "kana": "ジョンソン",
+  "kanji": null,
+  "romaji": "jonson",
+  "pos": "专",
+  "pron": "[jonson]",
+  "meaning_zh": "约翰逊",
+  "audio": "audio/ja/ja_ジョンソン.ogg",
+  "tags": [
+   "core",
+   "name"
+  ],
+  "distractors": [
+   "李",
+   "王",
+   "張"
+  ],
+  "example": {
+   "t": "ジョンソンさんはアメリカ人です。",
+   "zh": "约翰逊先生是美国人。"
+  }
+ },
+ {
+  "id": "ja_スミス",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 1,
+  "lemma": "スミス",
+  "kana": "スミス",
+  "kanji": null,
+  "romaji": "sumisu",
+  "pos": "专",
+  "pron": "[sumisu]",
+  "meaning_zh": "史密斯",
+  "audio": "audio/ja/ja_スミス.ogg",
+  "tags": [
+   "core",
+   "name"
+  ],
+  "distractors": [
+   "張",
+   "李",
+   "王"
+  ],
+  "example": {
+   "t": "スミスさんは会社員です。",
+   "zh": "史密斯先生是公司职员。"
+  }
+ },
+ {
+  "id": "ja_デュポン",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 1,
+  "lemma": "デュポン",
+  "kana": "デュポン",
+  "kanji": null,
+  "romaji": "depon",
+  "pos": "专",
+  "pron": "[depon]",
+  "meaning_zh": "迪蓬",
+  "audio": "audio/ja/ja_デュポン.ogg",
+  "tags": [
+   "core",
+   "name"
+  ],
+  "distractors": [
+   "王",
+   "張",
+   "李"
+  ],
+  "example": {
+   "t": "デュポンさんはフランス人です。",
+   "zh": "迪蓬先生是法国人。"
+  }
+ },
+ {
+  "id": "ja_フランス人",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 1,
+  "lemma": "フランス人",
+  "kana": "フランスじん",
+  "kanji": "フランス人",
+  "romaji": "furansujin",
+  "pos": "名",
+  "pron": "[furansujin]",
+  "meaning_zh": "法国人",
+  "audio": "audio/ja/ja_フランス人.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "日本人",
+   "韓国人",
+   "中国人"
+  ],
+  "example": {
+   "t": "あの人はフランス人です。",
+   "zh": "那个人是法国人。"
+  }
+ },
+ {
+  "id": "ja_中国",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 1,
+  "lemma": "中国",
+  "kana": "ちゅうごく",
+  "kanji": "中国",
+  "romaji": "chuugoku",
+  "pos": "专",
+  "pron": "[chuugoku]",
+  "meaning_zh": "中国",
+  "audio": "audio/ja/ja_中国.ogg",
+  "tags": [
+   "core",
+   "name"
+  ],
+  "distractors": [
+   "王",
+   "張",
+   "李"
+  ],
+  "example": {
+   "t": "父は中国にいます。",
+   "zh": "我父亲在中国。"
+  }
+ },
+ {
+  "id": "ja_中国人",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 1,
+  "lemma": "中国人",
+  "kana": "ちゅうごくじん",
+  "kanji": "中国人",
+  "romaji": "chuugokujin",
+  "pos": "名",
+  "pron": "[chuugokujin]",
+  "meaning_zh": "中国人",
+  "audio": "audio/ja/ja_中国人.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "日本人",
+   "韓国人",
+   "アメリカ人"
+  ],
+  "example": {
+   "t": "李さんは中国人です。",
+   "zh": "小李是中国人。"
+  }
+ },
+ {
+  "id": "ja_中村",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 1,
+  "lemma": "中村",
+  "kana": "なかむら",
+  "kanji": "中村",
+  "romaji": "nakamura",
+  "pos": "专",
+  "pron": "[nakamura]",
+  "meaning_zh": "中村",
+  "audio": "audio/ja/ja_中村.ogg",
+  "tags": [
+   "core",
+   "name"
+  ],
+  "distractors": [
+   "王",
+   "張",
+   "李"
+  ],
+  "example": {
+   "t": "中村さんは課長です。",
+   "zh": "中村先生是科长。"
+  }
+ },
+ {
+  "id": "ja_企業",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 1,
+  "lemma": "企業",
+  "kana": "きぎょう",
+  "kanji": "企業",
+  "romaji": "kigyou",
+  "pos": "名",
+  "pron": "[kigyou]",
+  "meaning_zh": "企业",
+  "audio": "audio/ja/ja_企業.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "日本人",
+   "韓国人",
+   "中国人"
+  ],
+  "example": {
+   "t": "あの企業は大きいです。",
+   "zh": "那家企业很大。"
+  }
+ },
+ {
+  "id": "ja_会社員",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 1,
+  "lemma": "会社員",
+  "kana": "かいしゃいん",
+  "kanji": "会社員",
+  "romaji": "kaishain",
+  "pos": "名",
+  "pron": "[kaishain]",
+  "meaning_zh": "公司职员",
+  "audio": "audio/ja/ja_会社員.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "日本人",
+   "韓国人",
+   "中国人"
+  ],
+  "example": {
+   "t": "わたしは会社員です。",
+   "zh": "我是公司职员。"
+  }
+ },
+ {
+  "id": "ja_先生",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 1,
+  "lemma": "先生",
+  "kana": "せんせい",
+  "kanji": "先生",
+  "romaji": "sensei",
+  "pos": "名",
+  "pron": "[sensei]",
+  "meaning_zh": "老师",
+  "audio": "audio/ja/ja_先生.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "中国人",
+   "日本人",
+   "韓国人"
+  ],
+  "example": {
+   "t": "田中先生は日本語の先生です。",
+   "zh": "田中老师是日语老师。"
+  }
+ },
+ {
+  "id": "ja_出迎え",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 1,
+  "lemma": "出迎え",
+  "kana": "でむかえ",
+  "kanji": "出迎え",
+  "romaji": "demukae",
+  "pos": "名",
+  "pron": "[demukae]",
+  "meaning_zh": "迎接",
+  "audio": "audio/ja/ja_出迎え.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "中国人",
+   "日本人",
+   "韓国人"
+  ],
+  "example": {
+   "t": "空港へ出迎えに行きます。",
+   "zh": "去机场迎接。"
+  }
+ },
+ {
+  "id": "ja_分かりません",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 1,
+  "lemma": "分かりません",
+  "kana": "わかりません",
+  "kanji": "分かりません",
+  "romaji": "wakarimasen",
+  "pos": "短语",
+  "pron": "[wakarimasen]",
+  "meaning_zh": "不知道",
+  "audio": "audio/ja/ja_分かりません.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "こんにちは",
+   "すみません",
+   "どうぞ"
+  ],
+  "example": {
+   "t": "すみません、分かりません。",
+   "zh": "对不起，我不知道。"
+  }
+ },
+ {
+  "id": "ja_北京大学",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 1,
+  "lemma": "北京大学",
+  "kana": "ペキンだいがく",
+  "kanji": "北京大学",
+  "romaji": "pekindaigaku",
+  "pos": "专",
+  "pron": "[pekindaigaku]",
+  "meaning_zh": "北京大学",
+  "audio": "audio/ja/ja_北京大学.ogg",
+  "tags": [
+   "core",
+   "name"
+  ],
+  "distractors": [
+   "李",
+   "王",
+   "張"
+  ],
+  "example": {
+   "t": "李さんは北京大学の学生です。",
+   "zh": "小李是北京大学的学生。"
+  }
+ },
+ {
+  "id": "ja_北京旅行社",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 1,
+  "lemma": "北京旅行社",
+  "kana": "ペキンりょこうしゃ",
+  "kanji": "北京旅行社",
+  "romaji": "pekinryokousha",
+  "pos": "专",
+  "pron": "[pekinryokousha]",
+  "meaning_zh": "北京旅行社",
+  "audio": "audio/ja/ja_北京旅行社.ogg",
+  "tags": [
+   "core",
+   "name"
+  ],
+  "distractors": [
+   "張",
+   "李",
+   "王"
+  ],
+  "example": {
+   "t": "王さんは北京旅行社の社員です。",
+   "zh": "小王是北京旅行社的职员。"
+  }
+ },
+ {
+  "id": "ja_吉田",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 1,
+  "lemma": "吉田",
+  "kana": "よしだ",
+  "kanji": "吉田",
+  "romaji": "yoshida",
+  "pos": "专",
+  "pron": "[yoshida]",
+  "meaning_zh": "吉田",
+  "audio": "audio/ja/ja_吉田.ogg",
+  "tags": [
+   "core",
+   "name"
+  ],
+  "distractors": [
+   "張",
+   "李",
+   "王"
+  ],
+  "example": {
+   "t": "吉田さんは日本人です。",
+   "zh": "吉田先生是日本人。"
+  }
+ },
+ {
+  "id": "ja_大学",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 1,
+  "lemma": "大学",
+  "kana": "だいがく",
+  "kanji": "大学",
+  "romaji": "daigaku",
+  "pos": "名",
+  "pron": "[daigaku]",
+  "meaning_zh": "大学",
+  "audio": "audio/ja/ja_大学.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "韓国人",
+   "中国人",
+   "日本人"
+  ],
+  "example": {
+   "t": "兄は大学に行きます。",
+   "zh": "我哥哥去大学。"
+  }
+ },
+ {
+  "id": "ja_太郎",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 1,
+  "lemma": "太郎",
+  "kana": "たろう",
+  "kanji": "太郎",
+  "romaji": "tarou",
+  "pos": "专",
+  "pron": "[tarou]",
+  "meaning_zh": "太郎",
+  "audio": "audio/ja/ja_太郎.ogg",
+  "tags": [
+   "core",
+   "name"
+  ],
+  "distractors": [
+   "張",
+   "李",
+   "王"
+  ],
+  "example": {
+   "t": "太郎は私の弟です。",
+   "zh": "太郎是我弟弟。"
+  }
+ },
+ {
+  "id": "ja_学生",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 1,
+  "lemma": "学生",
+  "kana": "がくせい",
+  "kanji": "学生",
+  "romaji": "gakusei",
+  "pos": "名",
+  "pron": "[gakusei]",
+  "meaning_zh": "(大)学生",
+  "audio": "audio/ja/ja_学生.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "韓国人",
+   "中国人",
+   "日本人"
+  ],
+  "example": {
+   "t": "あの人は学生です。",
+   "zh": "那个人是学生。"
+  }
+ },
+ {
+  "id": "ja_小野",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 1,
+  "lemma": "小野",
+  "kana": "おの",
+  "kanji": "小野",
+  "romaji": "ono",
+  "pos": "专",
+  "pron": "[ono]",
+  "meaning_zh": "小野",
+  "audio": "audio/ja/ja_小野.ogg",
+  "tags": [
+   "core",
+   "name"
+  ],
+  "distractors": [
+   "王",
+   "張",
+   "李"
+  ],
+  "example": {
+   "t": "小野さんは社員です。",
+   "zh": "小野女士是职员。"
+  }
+ },
+ {
+  "id": "ja_店員",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 1,
+  "lemma": "店員",
+  "kana": "てんいん",
+  "kanji": "店員",
+  "romaji": "ten'in",
+  "pos": "名",
+  "pron": "[ten'in]",
+  "meaning_zh": "店员",
+  "audio": "audio/ja/ja_店員.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "韓国人",
+   "中国人",
+   "日本人"
+  ],
+  "example": {
+   "t": "あの人は店員です。",
+   "zh": "那个人是店员。"
+  }
+ },
+ {
+  "id": "ja_張",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 1,
+  "lemma": "張",
+  "kana": "ちょう",
+  "kanji": "張",
+  "romaji": "chou",
+  "pos": "专",
+  "pron": "[chou]",
+  "meaning_zh": "张",
+  "audio": "audio/ja/ja_張.ogg",
+  "tags": [
+   "core",
+   "name"
+  ],
+  "distractors": [
+   "王",
+   "森",
+   "李"
+  ],
+  "example": {
+   "t": "張さんは中国人です。",
+   "zh": "小张是中国人。"
+  }
+ },
+ {
+  "id": "ja_教授",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 1,
+  "lemma": "教授",
+  "kana": "きょうじゅ",
+  "kanji": "教授",
+  "romaji": "kyouju",
+  "pos": "名",
+  "pron": "[kyouju]",
+  "meaning_zh": "教授",
+  "audio": "audio/ja/ja_教授.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "韓国人",
+   "中国人",
+   "日本人"
+  ],
+  "example": {
+   "t": "あの人は東京大学の教授です。",
+   "zh": "那个人是东京大学的教授。"
+  }
+ },
+ {
+  "id": "ja_日中商事",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 1,
+  "lemma": "日中商事",
+  "kana": "にっちゅうしょうじ",
+  "kanji": "日中商事",
+  "romaji": "nitchuushouji",
+  "pos": "专",
+  "pron": "[nitchuushouji]",
+  "meaning_zh": "日中商社",
+  "audio": "audio/ja/ja_日中商事.ogg",
+  "tags": [
+   "core",
+   "name"
+  ],
+  "distractors": [
+   "李",
+   "王",
+   "張"
+  ],
+  "example": {
+   "t": "田中さんは日中商事の社員です。",
+   "zh": "田中先生是日中商社的职员。"
+  }
+ },
+ {
+  "id": "ja_日本人",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 1,
+  "lemma": "日本人",
+  "kana": "にほんじん",
+  "kanji": "日本人",
+  "romaji": "nihonjin",
+  "pos": "名",
+  "pron": "[nihonjin]",
+  "meaning_zh": "日本人",
+  "audio": "audio/ja/ja_日本人.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "韓国人",
+   "アメリカ人",
+   "中国人"
+  ],
+  "example": {
+   "t": "林さんは日本人です。",
+   "zh": "小林是日本人。"
+  }
+ },
+ {
+  "id": "ja_李",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 1,
+  "lemma": "李",
+  "kana": "り",
+  "kanji": "李",
+  "romaji": "ri",
+  "pos": "专",
+  "pron": "[ri]",
+  "meaning_zh": "李",
+  "audio": "audio/ja/ja_李.ogg",
+  "tags": [
+   "core",
+   "name"
+  ],
+  "distractors": [
+   "森",
+   "王",
+   "張"
+  ],
+  "example": {
+   "t": "李さんは留学生です。",
+   "zh": "小李是留学生。"
+  }
+ },
+ {
+  "id": "ja_東京大学",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 1,
+  "lemma": "東京大学",
+  "kana": "とうきょうだいがく",
+  "kanji": "東京大学",
+  "romaji": "toukyoudaigaku",
+  "pos": "专",
+  "pron": "[toukyoudaigaku]",
+  "meaning_zh": "东京大学",
+  "audio": "audio/ja/ja_東京大学.ogg",
+  "tags": [
+   "core",
+   "name"
+  ],
+  "distractors": [
+   "張",
+   "李",
+   "王"
+  ],
+  "example": {
+   "t": "小野さんは東京大学の学生です。",
+   "zh": "小野是东京大学的学生。"
+  }
+ },
+ {
+  "id": "ja_林",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 1,
+  "lemma": "林",
+  "kana": "はやし",
+  "kanji": "林",
+  "romaji": "hayashi",
+  "pos": "专",
+  "pron": "[hayashi]",
+  "meaning_zh": "林",
+  "audio": "audio/ja/ja_林.ogg",
+  "tags": [
+   "core",
+   "name"
+  ],
+  "distractors": [
+   "李",
+   "王",
+   "張"
+  ],
+  "example": {
+   "t": "林さんは学生です。",
+   "zh": "小林是学生。"
+  }
+ },
+ {
+  "id": "ja_森",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 1,
+  "lemma": "森",
+  "kana": "もり",
+  "kanji": "森",
+  "romaji": "mori",
+  "pos": "专",
+  "pron": "[mori]",
+  "meaning_zh": "森",
+  "audio": "audio/ja/ja_森.ogg",
+  "tags": [
+   "core",
+   "name"
+  ],
+  "distractors": [
+   "張",
+   "李",
+   "王"
+  ],
+  "example": {
+   "t": "森さんは会社員です。",
+   "zh": "森先生是公司职员。"
+  }
+ },
+ {
+  "id": "ja_父",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 1,
+  "lemma": "父",
+  "kana": "ちち",
+  "kanji": "父",
+  "romaji": "chichi",
+  "pos": "名",
+  "pron": "[chichi]",
+  "meaning_zh": "(我)父亲",
+  "audio": "audio/ja/ja_父.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "中国人",
+   "日本人",
+   "韓国人"
+  ],
+  "example": {
+   "t": "父は会社員です。",
+   "zh": "我父亲是公司职员。"
+  }
+ },
+ {
+  "id": "ja_王",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 1,
+  "lemma": "王",
+  "kana": "おう",
+  "kanji": "王",
+  "romaji": "ou",
+  "pos": "专",
+  "pron": "[ou]",
+  "meaning_zh": "王",
+  "audio": "audio/ja/ja_王.ogg",
+  "tags": [
+   "core",
+   "name"
+  ],
+  "distractors": [
+   "李",
+   "張",
+   "森"
+  ],
+  "example": {
+   "t": "王さんは学生です。",
+   "zh": "小王是学生。"
+  }
+ },
+ {
+  "id": "ja_田中",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 1,
+  "lemma": "田中",
+  "kana": "たなか",
+  "kanji": "田中",
+  "romaji": "tanaka",
+  "pos": "专",
+  "pron": "[tanaka]",
+  "meaning_zh": "田中",
+  "audio": "audio/ja/ja_田中.ogg",
+  "tags": [
+   "core",
+   "name"
+  ],
+  "distractors": [
+   "李",
+   "王",
+   "張"
+  ],
+  "example": {
+   "t": "田中さんは先生です。",
+   "zh": "田中先生是老师。"
+  }
+ },
+ {
+  "id": "ja_留学生",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 1,
+  "lemma": "留学生",
+  "kana": "りゅうがくせい",
+  "kanji": "留学生",
+  "romaji": "ryuugakusei",
+  "pos": "名",
+  "pron": "[ryuugakusei]",
+  "meaning_zh": "留学生",
+  "audio": "audio/ja/ja_留学生.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "日本人",
+   "韓国人",
+   "中国人"
+  ],
+  "example": {
+   "t": "あの人は留学生です。",
+   "zh": "那个人是留学生。"
+  }
+ },
+ {
+  "id": "ja_研修生",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 1,
+  "lemma": "研修生",
+  "kana": "けんしゅうせい",
+  "kanji": "研修生",
+  "romaji": "kenshuusei",
+  "pos": "名",
+  "pron": "[kenshuusei]",
+  "meaning_zh": "进修生",
+  "audio": "audio/ja/ja_研修生.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "中国人",
+   "日本人",
+   "韓国人"
+  ],
+  "example": {
+   "t": "森さんは研修生です。",
+   "zh": "森先生是进修生。"
+  }
+ },
+ {
+  "id": "ja_社員",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 1,
+  "lemma": "社員",
+  "kana": "しゃいん",
+  "kanji": "社員",
+  "romaji": "shain",
+  "pos": "名",
+  "pron": "[shain]",
+  "meaning_zh": "职员",
+  "audio": "audio/ja/ja_社員.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "中国人",
+   "日本人",
+   "韓国人"
+  ],
+  "example": {
+   "t": "あの人は会社の社員です。",
+   "zh": "那个人是公司的职员。"
+  }
+ },
+ {
+  "id": "ja_社長",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 1,
+  "lemma": "社長",
+  "kana": "しゃちょう",
+  "kanji": "社長",
+  "romaji": "shachou",
+  "pos": "名",
+  "pron": "[shachou]",
+  "meaning_zh": "总经理,社长",
+  "audio": "audio/ja/ja_社長.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "韓国人",
+   "中国人",
+   "日本人"
+  ],
+  "example": {
+   "t": "あの人は社長です。",
+   "zh": "那个人是总经理。"
+  }
+ },
+ {
+  "id": "ja_課長",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 1,
+  "lemma": "課長",
+  "kana": "かちょう",
+  "kanji": "課長",
+  "romaji": "kachou",
+  "pos": "名",
+  "pron": "[kachou]",
+  "meaning_zh": "科长",
+  "audio": "audio/ja/ja_課長.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "日本人",
+   "韓国人",
+   "中国人"
+  ],
+  "example": {
+   "t": "あの人は課長です。",
+   "zh": "那个人是科长。"
+  }
+ },
+ {
+  "id": "ja_金",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 1,
+  "lemma": "金",
+  "kana": "キム",
+  "kanji": "金",
+  "romaji": "kimu",
+  "pos": "专",
+  "pron": "[kimu]",
+  "meaning_zh": "金",
+  "audio": "audio/ja/ja_金.ogg",
+  "tags": [
+   "core",
+   "name"
+  ],
+  "distractors": [
+   "李",
+   "王",
+   "張"
+  ],
+  "example": {
+   "t": "金さんは韓国人です。",
+   "zh": "小金是韩国人。"
+  }
+ },
+ {
+  "id": "ja_韓国人",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 1,
+  "lemma": "韓国人",
+  "kana": "かんこくじん",
+  "kanji": "韓国人",
+  "romaji": "kankokujin",
+  "pos": "名",
+  "pron": "[kankokujin]",
+  "meaning_zh": "韩国人",
+  "audio": "audio/ja/ja_韓国人.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "アメリカ人",
+   "中国人",
+   "日本人"
+  ],
+  "example": {
+   "t": "あの人は韓国人です。",
+   "zh": "那个人是韩国人。"
+  }
+ },
+ {
+  "id": "ja_～さん",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 1,
+  "lemma": "～さん",
+  "kana": "さん",
+  "kanji": "～さん",
+  "romaji": "san",
+  "pos": "短语",
+  "pron": "[san]",
+  "meaning_zh": "…先生／女士（敬称）",
+  "audio": "audio/ja/ja_～さん.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "どうぞ",
+   "こんにちは",
+   "すみません"
+  ],
+  "example": {
+   "t": "あの方は田中さんです。",
+   "zh": "那位是田中先生。"
+  }
+ },
+ {
+  "id": "ja_～君",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 1,
+  "lemma": "～君",
+  "kana": "くん",
+  "kanji": "～君",
+  "romaji": "kun",
+  "pos": "短语",
+  "pron": "[kun]",
+  "meaning_zh": "…君（对平辈、晚辈的称呼）",
+  "audio": "audio/ja/ja_～君.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "こんにちは",
+   "すみません",
+   "どうぞ"
+  ],
+  "example": {
+   "t": "太郎君は学生です。",
+   "zh": "太郎是学生。"
+  }
+ },
+ {
+  "id": "ja_あの",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 2,
+  "lemma": "あの",
+  "kana": "あの",
+  "kanji": null,
+  "romaji": "ano",
+  "pos": "连体",
+  "pron": "[ano]",
+  "meaning_zh": "那,那个",
+  "audio": "audio/ja/ja_あの.ogg",
+  "tags": [
+   "core",
+   "adj"
+  ],
+  "distractors": [
+   "どの",
+   "この",
+   "その"
+  ],
+  "example": {
+   "t": "あの人は先生です。",
+   "zh": "那个人是老师。"
+  }
+ },
+ {
+  "id": "ja_ありがとうございます",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 2,
+  "lemma": "ありがとうございます",
+  "kana": "ありがとうございます",
+  "kanji": null,
+  "romaji": "arigatougozaimasu",
+  "pos": "短语",
+  "pron": "[arigatougozaimasu]",
+  "meaning_zh": "谢谢",
+  "audio": "audio/ja/ja_ありがとうございます.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "～歳",
+   "おいくつ",
+   "何～"
+  ],
+  "example": {
+   "t": "わあ、ありがとうございます。",
+   "zh": "哇，谢谢！"
+  }
+ },
+ {
+  "id": "ja_あれ",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 2,
+  "lemma": "あれ",
+  "kana": "あれ",
+  "kanji": null,
+  "romaji": "are",
+  "pos": "代",
+  "pron": "[are]",
+  "meaning_zh": "那,那个",
+  "audio": "audio/ja/ja_あれ.ogg",
+  "tags": [
+   "core",
+   "pron"
+  ],
+  "distractors": [
+   "それ",
+   "本",
+   "これ"
+  ],
+  "example": {
+   "t": "あれは何ですか。",
+   "zh": "那是什么？"
+  }
+ },
+ {
+  "id": "ja_いす",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 2,
+  "lemma": "いす",
+  "kana": "いす",
+  "kanji": null,
+  "romaji": "isu",
+  "pos": "名",
+  "pron": "[isu]",
+  "meaning_zh": "椅子",
+  "audio": "audio/ja/ja_いす.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "かばん",
+   "ノート",
+   "本"
+  ],
+  "example": {
+   "t": "これはいすです。",
+   "zh": "这是椅子。"
+  }
+ },
+ {
+  "id": "ja_ええ",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 2,
+  "lemma": "ええ",
+  "kana": "ええ",
+  "kanji": null,
+  "romaji": "ee",
+  "pos": "叹",
+  "pron": "[ee]",
+  "meaning_zh": "(应答)嗯,是",
+  "audio": "audio/ja/ja_ええ.ogg",
+  "tags": [
+   "core",
+   "interj"
+  ],
+  "distractors": [
+   "えっ",
+   "わあ",
+   "本"
+  ],
+  "example": {
+   "t": "ええ、そうです。",
+   "zh": "嗯，是的。"
+  }
+ },
+ {
+  "id": "ja_えっ",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 2,
+  "lemma": "えっ",
+  "kana": "えっ",
+  "kanji": null,
+  "romaji": "e",
+  "pos": "叹",
+  "pron": "[e]",
+  "meaning_zh": "啊",
+  "audio": "audio/ja/ja_えっ.ogg",
+  "tags": [
+   "core",
+   "interj"
+  ],
+  "distractors": [
+   "ええ",
+   "本",
+   "わあ"
+  ],
+  "example": {
+   "t": "えっ、本当ですか。",
+   "zh": "啊，真的吗？"
+  }
+ },
+ {
+  "id": "ja_おいくつ",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 2,
+  "lemma": "おいくつ",
+  "kana": "おいくつ",
+  "kanji": null,
+  "romaji": "oikutsu",
+  "pos": "短语",
+  "pron": "[oikutsu]",
+  "meaning_zh": "多大",
+  "audio": "audio/ja/ja_おいくつ.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "ありがとうございます",
+   "何～",
+   "～歳"
+  ],
+  "example": {
+   "t": "田中さんはおいくつですか。",
+   "zh": "田中先生多大年纪？"
+  }
+ },
+ {
+  "id": "ja_お土産",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 2,
+  "lemma": "お土産",
+  "kana": "おみやげ",
+  "kanji": "お土産",
+  "romaji": "omiyage",
+  "pos": "名",
+  "pron": "[omiyage]",
+  "meaning_zh": "礼物",
+  "audio": "audio/ja/ja_お土産.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "ノート",
+   "本",
+   "かばん"
+  ],
+  "example": {
+   "t": "これは京都のお土産です。",
+   "zh": "这是京都的礼物。"
+  }
+ },
+ {
+  "id": "ja_お母さん",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 2,
+  "lemma": "お母さん",
+  "kana": "おかあさん",
+  "kanji": "お母さん",
+  "romaji": "okaasan",
+  "pos": "名",
+  "pron": "[okaasan]",
+  "meaning_zh": "母亲",
+  "audio": "audio/ja/ja_お母さん.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "ノート",
+   "本",
+   "かばん"
+  ],
+  "example": {
+   "t": "お母さんはどこですか。",
+   "zh": "你母亲在哪里？"
+  }
+ },
+ {
+  "id": "ja_かぎ",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 2,
+  "lemma": "かぎ",
+  "kana": "かぎ",
+  "kanji": null,
+  "romaji": "kagi",
+  "pos": "名",
+  "pron": "[kagi]",
+  "meaning_zh": "钥匙,锁",
+  "audio": "audio/ja/ja_かぎ.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "ノート",
+   "本",
+   "かばん"
+  ],
+  "example": {
+   "t": "これは家のかぎです。",
+   "zh": "这是家里的钥匙。"
+  }
+ },
+ {
+  "id": "ja_かばん",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 2,
+  "lemma": "かばん",
+  "kana": "かばん",
+  "kanji": null,
+  "romaji": "kaban",
+  "pos": "名",
+  "pron": "[kaban]",
+  "meaning_zh": "包,公文包",
+  "audio": "audio/ja/ja_かばん.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "鉛筆",
+   "本",
+   "ノート"
+  ],
+  "example": {
+   "t": "このかばんは私のです。",
+   "zh": "这个包是我的。"
+  }
+ },
+ {
+  "id": "ja_この",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 2,
+  "lemma": "この",
+  "kana": "この",
+  "kanji": null,
+  "romaji": "kono",
+  "pos": "连体",
+  "pron": "[kono]",
+  "meaning_zh": "这,这个",
+  "audio": "audio/ja/ja_この.ogg",
+  "tags": [
+   "core",
+   "adj"
+  ],
+  "distractors": [
+   "その",
+   "あの",
+   "どの"
+  ],
+  "example": {
+   "t": "この人はだれですか。",
+   "zh": "这个人是谁？"
+  }
+ },
+ {
+  "id": "ja_これ",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 2,
+  "lemma": "これ",
+  "kana": "これ",
+  "kanji": null,
+  "romaji": "kore",
+  "pos": "代",
+  "pron": "[kore]",
+  "meaning_zh": "这,这个",
+  "audio": "audio/ja/ja_これ.ogg",
+  "tags": [
+   "core",
+   "pron"
+  ],
+  "distractors": [
+   "本",
+   "それ",
+   "あれ"
+  ],
+  "example": {
+   "t": "これは私の辞書です。",
+   "zh": "这是我的词典。"
+  }
+ },
+ {
+  "id": "ja_その",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 2,
+  "lemma": "その",
+  "kana": "その",
+  "kanji": null,
+  "romaji": "sono",
+  "pos": "连体",
+  "pron": "[sono]",
+  "meaning_zh": "那,那个",
+  "audio": "audio/ja/ja_その.ogg",
+  "tags": [
+   "core",
+   "adj"
+  ],
+  "distractors": [
+   "あの",
+   "どの",
+   "この"
+  ],
+  "example": {
+   "t": "その傘はあなたのですか。",
+   "zh": "那把伞是你的吗？"
+  }
+ },
+ {
+  "id": "ja_それ",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 2,
+  "lemma": "それ",
+  "kana": "それ",
+  "kanji": null,
+  "romaji": "sore",
+  "pos": "代",
+  "pron": "[sore]",
+  "meaning_zh": "那,那个",
+  "audio": "audio/ja/ja_それ.ogg",
+  "tags": [
+   "core",
+   "pron"
+  ],
+  "distractors": [
+   "これ",
+   "あれ",
+   "本"
+  ],
+  "example": {
+   "t": "それは私のかばんではありません。",
+   "zh": "那不是我的包。"
+  }
+ },
+ {
+  "id": "ja_だれ",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 2,
+  "lemma": "だれ",
+  "kana": "だれ",
+  "kanji": null,
+  "romaji": "dare",
+  "pos": "疑",
+  "pron": "[dare]",
+  "meaning_zh": "谁",
+  "audio": "audio/ja/ja_だれ.ogg",
+  "tags": [
+   "core",
+   "question"
+  ],
+  "distractors": [
+   "何",
+   "どなた",
+   "どれ"
+  ],
+  "example": {
+   "t": "あの人はだれですか。",
+   "zh": "那个人是谁？"
+  }
+ },
+ {
+  "id": "ja_どなた",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 2,
+  "lemma": "どなた",
+  "kana": "どなた",
+  "kanji": null,
+  "romaji": "donata",
+  "pos": "疑",
+  "pron": "[donata]",
+  "meaning_zh": "哪位",
+  "audio": "audio/ja/ja_どなた.ogg",
+  "tags": [
+   "core",
+   "question"
+  ],
+  "distractors": [
+   "だれ",
+   "どれ",
+   "何"
+  ],
+  "example": {
+   "t": "あなたの先生はどなたですか。",
+   "zh": "你的老师是哪位？"
+  }
+ },
+ {
+  "id": "ja_どの",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 2,
+  "lemma": "どの",
+  "kana": "どの",
+  "kanji": null,
+  "romaji": "dono",
+  "pos": "连体",
+  "pron": "[dono]",
+  "meaning_zh": "哪个",
+  "audio": "audio/ja/ja_どの.ogg",
+  "tags": [
+   "core",
+   "adj"
+  ],
+  "distractors": [
+   "この",
+   "その",
+   "あの"
+  ],
+  "example": {
+   "t": "田中さんはどの人ですか。",
+   "zh": "田中是哪个人？"
+  }
+ },
+ {
+  "id": "ja_どれ",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 2,
+  "lemma": "どれ",
+  "kana": "どれ",
+  "kanji": null,
+  "romaji": "dore",
+  "pos": "疑",
+  "pron": "[dore]",
+  "meaning_zh": "哪个",
+  "audio": "audio/ja/ja_どれ.ogg",
+  "tags": [
+   "core",
+   "question"
+  ],
+  "distractors": [
+   "どなた",
+   "何",
+   "だれ"
+  ],
+  "example": {
+   "t": "あなたの傘はどれですか。",
+   "zh": "你的伞是哪把？"
+  }
+ },
+ {
+  "id": "ja_わあ",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 2,
+  "lemma": "わあ",
+  "kana": "わあ",
+  "kanji": null,
+  "romaji": "waa",
+  "pos": "叹",
+  "pron": "[waa]",
+  "meaning_zh": "哇",
+  "audio": "audio/ja/ja_わあ.ogg",
+  "tags": [
+   "core",
+   "interj"
+  ],
+  "distractors": [
+   "本",
+   "えっ",
+   "ええ"
+  ],
+  "example": {
+   "t": "わあ、きれいですね。",
+   "zh": "哇，真漂亮啊。"
+  }
+ },
+ {
+  "id": "ja_カメラ",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 2,
+  "lemma": "カメラ",
+  "kana": "カメラ",
+  "kanji": null,
+  "romaji": "kamera",
+  "pos": "名",
+  "pron": "[kamera]",
+  "meaning_zh": "照相机",
+  "audio": "audio/ja/ja_カメラ.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "かばん",
+   "ノート",
+   "本"
+  ],
+  "example": {
+   "t": "これは日本のカメラです。",
+   "zh": "这是日本的照相机。"
+  }
+ },
+ {
+  "id": "ja_シルク",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 2,
+  "lemma": "シルク",
+  "kana": "シルク",
+  "kanji": null,
+  "romaji": "shiruku",
+  "pos": "名",
+  "pron": "[shiruku]",
+  "meaning_zh": "丝绸",
+  "audio": "audio/ja/ja_シルク.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "かばん",
+   "ノート",
+   "本"
+  ],
+  "example": {
+   "t": "これはシルクのハンカチです。",
+   "zh": "这是丝绸手绢。"
+  }
+ },
+ {
+  "id": "ja_スワトウ",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 2,
+  "lemma": "スワトウ",
+  "kana": "スワトウ",
+  "kanji": null,
+  "romaji": "suwatou",
+  "pos": "专",
+  "pron": "[suwatou]",
+  "meaning_zh": "汕头",
+  "audio": "audio/ja/ja_スワトウ.ogg",
+  "tags": [
+   "core",
+   "name"
+  ],
+  "distractors": [
+   "長島",
+   "日本",
+   "ロンドン"
+  ],
+  "example": {
+   "t": "これはスワトウのシルクです。",
+   "zh": "这是汕头的丝绸。"
+  }
+ },
+ {
+  "id": "ja_テレビ",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 2,
+  "lemma": "テレビ",
+  "kana": "テレビ",
+  "kanji": null,
+  "romaji": "terebi",
+  "pos": "名",
+  "pron": "[terebi]",
+  "meaning_zh": "电视机",
+  "audio": "audio/ja/ja_テレビ.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "ノート",
+   "本",
+   "かばん"
+  ],
+  "example": {
+   "t": "あのテレビは新しいですか。",
+   "zh": "那台电视机是新的吗？"
+  }
+ },
+ {
+  "id": "ja_ノート",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 2,
+  "lemma": "ノート",
+  "kana": "ノート",
+  "kanji": null,
+  "romaji": "nooto",
+  "pos": "名",
+  "pron": "[nooto]",
+  "meaning_zh": "笔记本,本子",
+  "audio": "audio/ja/ja_ノート.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "本",
+   "かばん",
+   "鉛筆"
+  ],
+  "example": {
+   "t": "これは日本語のノートです。",
+   "zh": "这是日语笔记本。"
+  }
+ },
+ {
+  "id": "ja_ハンカチ",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 2,
+  "lemma": "ハンカチ",
+  "kana": "ハンカチ",
+  "kanji": null,
+  "romaji": "hankachi",
+  "pos": "名",
+  "pron": "[hankachi]",
+  "meaning_zh": "手绢",
+  "audio": "audio/ja/ja_ハンカチ.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "ノート",
+   "本",
+   "かばん"
+  ],
+  "example": {
+   "t": "このハンカチはシルクです。",
+   "zh": "这块手绢是丝绸的。"
+  }
+ },
+ {
+  "id": "ja_パソコン",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 2,
+  "lemma": "パソコン",
+  "kana": "パソコン",
+  "kanji": null,
+  "romaji": "pasokon",
+  "pos": "名",
+  "pron": "[pasokon]",
+  "meaning_zh": "个人电脑",
+  "audio": "audio/ja/ja_パソコン.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "本",
+   "かばん",
+   "ノート"
+  ],
+  "example": {
+   "t": "それは私のパソコンです。",
+   "zh": "那是我的电脑。"
+  }
+ },
+ {
+  "id": "ja_ラジオ",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 2,
+  "lemma": "ラジオ",
+  "kana": "ラジオ",
+  "kanji": null,
+  "romaji": "rajio",
+  "pos": "名",
+  "pron": "[rajio]",
+  "meaning_zh": "收音机",
+  "audio": "audio/ja/ja_ラジオ.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "かばん",
+   "ノート",
+   "本"
+  ],
+  "example": {
+   "t": "このラジオは古いです。",
+   "zh": "这台收音机很旧。"
+  }
+ },
+ {
+  "id": "ja_ロンドン",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 2,
+  "lemma": "ロンドン",
+  "kana": "ロンドン",
+  "kanji": null,
+  "romaji": "rondon",
+  "pos": "专",
+  "pron": "[rondon]",
+  "meaning_zh": "伦敦",
+  "audio": "audio/ja/ja_ロンドン.ogg",
+  "tags": [
+   "core",
+   "name"
+  ],
+  "distractors": [
+   "日本",
+   "スワトウ",
+   "長島"
+  ],
+  "example": {
+   "t": "これはロンドンの写真です。",
+   "zh": "这是伦敦的照片。"
+  }
+ },
+ {
+  "id": "ja_中国語",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 2,
+  "lemma": "中国語",
+  "kana": "ちゅうごくご",
+  "kanji": "中国語",
+  "romaji": "chuugokugo",
+  "pos": "名",
+  "pron": "[chuugokugo]",
+  "meaning_zh": "汉语,中文",
+  "audio": "audio/ja/ja_中国語.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "かばん",
+   "ノート",
+   "本"
+  ],
+  "example": {
+   "t": "わたしは中国語を勉強します。",
+   "zh": "我学习汉语。"
+  }
+ },
+ {
+  "id": "ja_人",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 2,
+  "lemma": "人",
+  "kana": "ひと",
+  "kanji": "人",
+  "romaji": "hito",
+  "pos": "名",
+  "pron": "[hito]",
+  "meaning_zh": "人",
+  "audio": "audio/ja/ja_人.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "ノート",
+   "本",
+   "かばん"
+  ],
+  "example": {
+   "t": "田中さんはいい人です。",
+   "zh": "田中是个好人。"
+  }
+ },
+ {
+  "id": "ja_会社",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 2,
+  "lemma": "会社",
+  "kana": "かいしゃ",
+  "kanji": "会社",
+  "romaji": "kaisha",
+  "pos": "名",
+  "pron": "[kaisha]",
+  "meaning_zh": "公司",
+  "audio": "audio/ja/ja_会社.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "本",
+   "かばん",
+   "ノート"
+  ],
+  "example": {
+   "t": "父は会社に行きます。",
+   "zh": "父亲去公司。"
+  }
+ },
+ {
+  "id": "ja_何",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 2,
+  "lemma": "何",
+  "kana": "なん",
+  "kanji": "何",
+  "romaji": "nan",
+  "pos": "疑",
+  "pron": "[nan]",
+  "meaning_zh": "什么",
+  "audio": "audio/ja/ja_何.ogg",
+  "tags": [
+   "core",
+   "question"
+  ],
+  "distractors": [
+   "どれ",
+   "だれ",
+   "どなた"
+  ],
+  "example": {
+   "t": "これは何ですか。",
+   "zh": "这是什么？"
+  }
+ },
+ {
+  "id": "ja_何～",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 2,
+  "lemma": "何～",
+  "kana": "なん",
+  "kanji": "何～",
+  "romaji": "nan",
+  "pos": "短语",
+  "pron": "[nan]",
+  "meaning_zh": "几…（接量词）",
+  "audio": "audio/ja/ja_何～.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "おいくつ",
+   "～歳",
+   "ありがとうございます"
+  ],
+  "example": {
+   "t": "ここは何階ですか。",
+   "zh": "这里是几层？"
+  }
+ },
+ {
+  "id": "ja_傘",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 2,
+  "lemma": "傘",
+  "kana": "かさ",
+  "kanji": "傘",
+  "romaji": "kasa",
+  "pos": "名",
+  "pron": "[kasa]",
+  "meaning_zh": "伞",
+  "audio": "audio/ja/ja_傘.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "ノート",
+   "本",
+   "かばん"
+  ],
+  "example": {
+   "t": "これは私の傘です。",
+   "zh": "这是我的伞。"
+  }
+ },
+ {
+  "id": "ja_写真",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 2,
+  "lemma": "写真",
+  "kana": "しゃしん",
+  "kanji": "写真",
+  "romaji": "shashin",
+  "pos": "名",
+  "pron": "[shashin]",
+  "meaning_zh": "照片",
+  "audio": "audio/ja/ja_写真.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "ノート",
+   "本",
+   "かばん"
+  ],
+  "example": {
+   "t": "この写真はきれいです。",
+   "zh": "这张照片很漂亮。"
+  }
+ },
+ {
+  "id": "ja_名産品",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 2,
+  "lemma": "名産品",
+  "kana": "めいさんひん",
+  "kanji": "名産品",
+  "romaji": "meisanhin",
+  "pos": "名",
+  "pron": "[meisanhin]",
+  "meaning_zh": "特产,名产",
+  "audio": "audio/ja/ja_名産品.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "本",
+   "かばん",
+   "ノート"
+  ],
+  "example": {
+   "t": "スワトウの名産品はシルクです。",
+   "zh": "汕头的特产是丝绸。"
+  }
+ },
+ {
+  "id": "ja_家族",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 2,
+  "lemma": "家族",
+  "kana": "かぞく",
+  "kanji": "家族",
+  "romaji": "kazoku",
+  "pos": "名",
+  "pron": "[kazoku]",
+  "meaning_zh": "家人,家属",
+  "audio": "audio/ja/ja_家族.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "本",
+   "かばん",
+   "ノート"
+  ],
+  "example": {
+   "t": "わたしの家族は四人です。",
+   "zh": "我家有四口人。"
+  }
+ },
+ {
+  "id": "ja_手帳",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 2,
+  "lemma": "手帳",
+  "kana": "てちょう",
+  "kanji": "手帳",
+  "romaji": "techou",
+  "pos": "名",
+  "pron": "[techou]",
+  "meaning_zh": "记事本",
+  "audio": "audio/ja/ja_手帳.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "かばん",
+   "ノート",
+   "本"
+  ],
+  "example": {
+   "t": "これは新しい手帳です。",
+   "zh": "这是新的记事本。"
+  }
+ },
+ {
+  "id": "ja_新聞",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 2,
+  "lemma": "新聞",
+  "kana": "しんぶん",
+  "kanji": "新聞",
+  "romaji": "shinbun",
+  "pos": "名",
+  "pron": "[shinbun]",
+  "meaning_zh": "报纸",
+  "audio": "audio/ja/ja_新聞.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "かばん",
+   "ノート",
+   "本"
+  ],
+  "example": {
+   "t": "父は毎日新聞を読みます。",
+   "zh": "父亲每天看报纸。"
+  }
+ },
+ {
+  "id": "ja_方",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 2,
+  "lemma": "方",
+  "kana": "かた",
+  "kanji": "方",
+  "romaji": "kata",
+  "pos": "名",
+  "pron": "[kata]",
+  "meaning_zh": "(敬称)位,人",
+  "audio": "audio/ja/ja_方.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "かばん",
+   "ノート",
+   "本"
+  ],
+  "example": {
+   "t": "あの方も先生です。",
+   "zh": "那位也是老师。"
+  }
+ },
+ {
+  "id": "ja_日本",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 2,
+  "lemma": "日本",
+  "kana": "にほん",
+  "kanji": "日本",
+  "romaji": "nihon",
+  "pos": "专",
+  "pron": "[nihon]",
+  "meaning_zh": "日本",
+  "audio": "audio/ja/ja_日本.ogg",
+  "tags": [
+   "core",
+   "name"
+  ],
+  "distractors": [
+   "ロンドン",
+   "長島",
+   "スワトウ"
+  ],
+  "example": {
+   "t": "日本はきれいな国です。",
+   "zh": "日本是美丽的国家。"
+  }
+ },
+ {
+  "id": "ja_日本語",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 2,
+  "lemma": "日本語",
+  "kana": "にほんご",
+  "kanji": "日本語",
+  "romaji": "nihongo",
+  "pos": "名",
+  "pron": "[nihongo]",
+  "meaning_zh": "日语",
+  "audio": "audio/ja/ja_日本語.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "本",
+   "かばん",
+   "ノート"
+  ],
+  "example": {
+   "t": "わたしは日本語を勉強します。",
+   "zh": "我学习日语。"
+  }
+ },
+ {
+  "id": "ja_時計",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 2,
+  "lemma": "時計",
+  "kana": "とけい",
+  "kanji": "時計",
+  "romaji": "tokei",
+  "pos": "名",
+  "pron": "[tokei]",
+  "meaning_zh": "钟,表",
+  "audio": "audio/ja/ja_時計.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "本",
+   "かばん",
+   "ノート"
+  ],
+  "example": {
+   "t": "この時計はいくらですか。",
+   "zh": "这块表多少钱？"
+  }
+ },
+ {
+  "id": "ja_本",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 2,
+  "lemma": "本",
+  "kana": "ほん",
+  "kanji": "本",
+  "romaji": "hon",
+  "pos": "名",
+  "pron": "[hon]",
+  "meaning_zh": "书",
+  "audio": "audio/ja/ja_本.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "ノート",
+   "鉛筆",
+   "かばん"
+  ],
+  "example": {
+   "t": "この本はとてもいいです。",
+   "zh": "这本书非常好。"
+  }
+ },
+ {
+  "id": "ja_机",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 2,
+  "lemma": "机",
+  "kana": "つくえ",
+  "kanji": "机",
+  "romaji": "tsukue",
+  "pos": "名",
+  "pron": "[tsukue]",
+  "meaning_zh": "桌子,书桌",
+  "audio": "audio/ja/ja_机.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "本",
+   "かばん",
+   "ノート"
+  ],
+  "example": {
+   "t": "これは私の机です。",
+   "zh": "这是我的桌子。"
+  }
+ },
+ {
+  "id": "ja_母",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 2,
+  "lemma": "母",
+  "kana": "はは",
+  "kanji": "母",
+  "romaji": "haha",
+  "pos": "名",
+  "pron": "[haha]",
+  "meaning_zh": "(我)母亲",
+  "audio": "audio/ja/ja_母.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "かばん",
+   "ノート",
+   "本"
+  ],
+  "example": {
+   "t": "母は先生です。",
+   "zh": "我母亲是老师。"
+  }
+ },
+ {
+  "id": "ja_自転車",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 2,
+  "lemma": "自転車",
+  "kana": "じてんしゃ",
+  "kanji": "自転車",
+  "romaji": "jitensha",
+  "pos": "名",
+  "pron": "[jitensha]",
+  "meaning_zh": "自行车",
+  "audio": "audio/ja/ja_自転車.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "かばん",
+   "ノート",
+   "本"
+  ],
+  "example": {
+   "t": "これは私の自転車です。",
+   "zh": "这是我的自行车。"
+  }
+ },
+ {
+  "id": "ja_車",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 2,
+  "lemma": "車",
+  "kana": "くるま",
+  "kanji": "車",
+  "romaji": "kuruma",
+  "pos": "名",
+  "pron": "[kuruma]",
+  "meaning_zh": "车",
+  "audio": "audio/ja/ja_車.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "本",
+   "かばん",
+   "ノート"
+  ],
+  "example": {
+   "t": "あれは父の車です。",
+   "zh": "那是我父亲的车。"
+  }
+ },
+ {
+  "id": "ja_辞書",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 2,
+  "lemma": "辞書",
+  "kana": "じしょ",
+  "kanji": "辞書",
+  "romaji": "jisho",
+  "pos": "名",
+  "pron": "[jisho]",
+  "meaning_zh": "词典",
+  "audio": "audio/ja/ja_辞書.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "本",
+   "かばん",
+   "ノート"
+  ],
+  "example": {
+   "t": "これは日本語の辞書です。",
+   "zh": "这是日语词典。"
+  }
+ },
+ {
+  "id": "ja_鉛筆",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 2,
+  "lemma": "鉛筆",
+  "kana": "えんぴつ",
+  "kanji": "鉛筆",
+  "romaji": "enpitsu",
+  "pos": "名",
+  "pron": "[enpitsu]",
+  "meaning_zh": "铅笔",
+  "audio": "audio/ja/ja_鉛筆.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "かばん",
+   "ノート",
+   "本"
+  ],
+  "example": {
+   "t": "これは私の鉛筆です。",
+   "zh": "这是我的铅笔。"
+  }
+ },
+ {
+  "id": "ja_長島",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 2,
+  "lemma": "長島",
+  "kana": "ながしま",
+  "kanji": "長島",
+  "romaji": "nagashima",
+  "pos": "专",
+  "pron": "[nagashima]",
+  "meaning_zh": "长岛",
+  "audio": "audio/ja/ja_長島.ogg",
+  "tags": [
+   "core",
+   "name"
+  ],
+  "distractors": [
+   "スワトウ",
+   "ロンドン",
+   "日本"
+  ],
+  "example": {
+   "t": "長島さんは日本人です。",
+   "zh": "长岛先生是日本人。"
+  }
+ },
+ {
+  "id": "ja_雑誌",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 2,
+  "lemma": "雑誌",
+  "kana": "ざっし",
+  "kanji": "雑誌",
+  "romaji": "zasshi",
+  "pos": "名",
+  "pron": "[zasshi]",
+  "meaning_zh": "杂志",
+  "audio": "audio/ja/ja_雑誌.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "ノート",
+   "本",
+   "かばん"
+  ],
+  "example": {
+   "t": "これは日本の雑誌です。",
+   "zh": "这是日本的杂志。"
+  }
+ },
+ {
+  "id": "ja_電話",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 2,
+  "lemma": "電話",
+  "kana": "でんわ",
+  "kanji": "電話",
+  "romaji": "denwa",
+  "pos": "名",
+  "pron": "[denwa]",
+  "meaning_zh": "电话",
+  "audio": "audio/ja/ja_電話.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "ノート",
+   "本",
+   "かばん"
+  ],
+  "example": {
+   "t": "これは会社の電話です。",
+   "zh": "这是公司的电话。"
+  }
+ },
+ {
+  "id": "ja_靴",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 2,
+  "lemma": "靴",
+  "kana": "くつ",
+  "kanji": "靴",
+  "romaji": "kutsu",
+  "pos": "名",
+  "pron": "[kutsu]",
+  "meaning_zh": "鞋",
+  "audio": "audio/ja/ja_靴.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "本",
+   "かばん",
+   "ノート"
+  ],
+  "example": {
+   "t": "この靴はいくらですか。",
+   "zh": "这双鞋多少钱？"
+  }
+ },
+ {
+  "id": "ja_～歳",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 2,
+  "lemma": "～歳",
+  "kana": "さい",
+  "kanji": "～歳",
+  "romaji": "sai",
+  "pos": "短语",
+  "pron": "[sai]",
+  "meaning_zh": "…岁",
+  "audio": "audio/ja/ja_～歳.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "何～",
+   "ありがとうございます",
+   "おいくつ"
+  ],
+  "example": {
+   "t": "わたしは二十歳です。",
+   "zh": "我二十岁。"
+  }
+ },
+ {
+  "id": "ja_あそこ",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 3,
+  "lemma": "あそこ",
+  "kana": "あそこ",
+  "kanji": null,
+  "romaji": "asoko",
+  "pos": "代",
+  "pron": "[asoko]",
+  "meaning_zh": "那里,那儿",
+  "audio": "audio/ja/ja_あそこ.ogg",
+  "tags": [
+   "core",
+   "pron"
+  ],
+  "distractors": [
+   "ここ",
+   "そこ",
+   "こちら"
+  ],
+  "example": {
+   "t": "あそこは私の学校です。",
+   "zh": "那里是我的学校。"
+  }
+ },
+ {
+  "id": "ja_あちら",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 3,
+  "lemma": "あちら",
+  "kana": "あちら",
+  "kanji": null,
+  "romaji": "achira",
+  "pos": "代",
+  "pron": "[achira]",
+  "meaning_zh": "那儿,那边",
+  "audio": "audio/ja/ja_あちら.ogg",
+  "tags": [
+   "core",
+   "pron"
+  ],
+  "distractors": [
+   "ここ",
+   "そこ",
+   "あそこ"
+  ],
+  "example": {
+   "t": "受付はあちらです。",
+   "zh": "接待处在那边。"
+  }
+ },
+ {
+  "id": "ja_あのう",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 3,
+  "lemma": "あのう",
+  "kana": "あのう",
+  "kanji": null,
+  "romaji": "anou",
+  "pos": "叹",
+  "pron": "[anou]",
+  "meaning_zh": "请问,对不起",
+  "audio": "audio/ja/ja_あのう.ogg",
+  "tags": [
+   "core",
+   "interj"
+  ],
+  "distractors": [
+   "デパート",
+   "食堂",
+   "郵便局"
+  ],
+  "example": {
+   "t": "あのう、これは何ですか。",
+   "zh": "请问，这是什么？"
+  }
+ },
+ {
+  "id": "ja_いくら",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 3,
+  "lemma": "いくら",
+  "kana": "いくら",
+  "kanji": null,
+  "romaji": "ikura",
+  "pos": "短语",
+  "pron": "[ikura]",
+  "meaning_zh": "多少钱",
+  "audio": "audio/ja/ja_いくら.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "お～",
+   "～階",
+   "～円"
+  ],
+  "example": {
+   "t": "この傘はいくらですか。",
+   "zh": "这把伞多少钱？"
+  }
+ },
+ {
+  "id": "ja_お～",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 3,
+  "lemma": "お～",
+  "kana": "お",
+  "kanji": "お～",
+  "romaji": "o",
+  "pos": "短语",
+  "pron": "[o]",
+  "meaning_zh": "敬语接头辞（美化语）",
+  "audio": "audio/ja/ja_お～.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "～階",
+   "～円",
+   "いくら"
+  ],
+  "example": {
+   "t": "お茶をどうぞ。",
+   "zh": "请喝茶。"
+  }
+ },
+ {
+  "id": "ja_ここ",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 3,
+  "lemma": "ここ",
+  "kana": "ここ",
+  "kanji": null,
+  "romaji": "koko",
+  "pos": "代",
+  "pron": "[koko]",
+  "meaning_zh": "这里,这儿",
+  "audio": "audio/ja/ja_ここ.ogg",
+  "tags": [
+   "core",
+   "pron"
+  ],
+  "distractors": [
+   "あそこ",
+   "こちら",
+   "そこ"
+  ],
+  "example": {
+   "t": "ここは食堂です。",
+   "zh": "这里是食堂。"
+  }
+ },
+ {
+  "id": "ja_こちら",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 3,
+  "lemma": "こちら",
+  "kana": "こちら",
+  "kanji": null,
+  "romaji": "kochira",
+  "pos": "代",
+  "pron": "[kochira]",
+  "meaning_zh": "这儿,这边",
+  "audio": "audio/ja/ja_こちら.ogg",
+  "tags": [
+   "core",
+   "pron"
+  ],
+  "distractors": [
+   "そこ",
+   "あそこ",
+   "ここ"
+  ],
+  "example": {
+   "t": "こちらは私の会社です。",
+   "zh": "这是我的公司。"
+  }
+ },
+ {
+  "id": "ja_そこ",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 3,
+  "lemma": "そこ",
+  "kana": "そこ",
+  "kanji": null,
+  "romaji": "soko",
+  "pos": "代",
+  "pron": "[soko]",
+  "meaning_zh": "那里,那儿",
+  "audio": "audio/ja/ja_そこ.ogg",
+  "tags": [
+   "core",
+   "pron"
+  ],
+  "distractors": [
+   "こちら",
+   "ここ",
+   "あそこ"
+  ],
+  "example": {
+   "t": "そこは受付です。",
+   "zh": "那里是接待处。"
+  }
+ },
+ {
+  "id": "ja_そちら",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 3,
+  "lemma": "そちら",
+  "kana": "そちら",
+  "kanji": null,
+  "romaji": "sochira",
+  "pos": "代",
+  "pron": "[sochira]",
+  "meaning_zh": "那儿,那边",
+  "audio": "audio/ja/ja_そちら.ogg",
+  "tags": [
+   "core",
+   "pron"
+  ],
+  "distractors": [
+   "あそこ",
+   "ここ",
+   "そこ"
+  ],
+  "example": {
+   "t": "そちらは何階ですか。",
+   "zh": "那边是几层？"
+  }
+ },
+ {
+  "id": "ja_どこ",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 3,
+  "lemma": "どこ",
+  "kana": "どこ",
+  "kanji": null,
+  "romaji": "doko",
+  "pos": "疑",
+  "pron": "[doko]",
+  "meaning_zh": "哪里,哪儿",
+  "audio": "audio/ja/ja_どこ.ogg",
+  "tags": [
+   "core",
+   "question"
+  ],
+  "distractors": [
+   "デパート",
+   "食堂",
+   "どちら"
+  ],
+  "example": {
+   "t": "駅はどこですか。",
+   "zh": "车站在哪里？"
+  }
+ },
+ {
+  "id": "ja_どちら",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 3,
+  "lemma": "どちら",
+  "kana": "どちら",
+  "kanji": null,
+  "romaji": "dochira",
+  "pos": "疑",
+  "pron": "[dochira]",
+  "meaning_zh": "哪儿,哪边",
+  "audio": "audio/ja/ja_どちら.ogg",
+  "tags": [
+   "core",
+   "question"
+  ],
+  "distractors": [
+   "食堂",
+   "どこ",
+   "デパート"
+  ],
+  "example": {
+   "t": "トイレはどちらですか。",
+   "zh": "厕所在哪边？"
+  }
+ },
+ {
+  "id": "ja_エスカレーター",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 3,
+  "lemma": "エスカレーター",
+  "kana": "エスカレーター",
+  "kanji": null,
+  "romaji": "esukareetaa",
+  "pos": "名",
+  "pron": "[esukareetaa]",
+  "meaning_zh": "自动扶梯",
+  "audio": "audio/ja/ja_エスカレーター.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "郵便局",
+   "デパート",
+   "食堂"
+  ],
+  "example": {
+   "t": "エスカレーターはあちらです。",
+   "zh": "自动扶梯在那边。"
+  }
+ },
+ {
+  "id": "ja_コンビニ",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 3,
+  "lemma": "コンビニ",
+  "kana": "コンビニ",
+  "kanji": null,
+  "romaji": "konbini",
+  "pos": "名",
+  "pron": "[konbini]",
+  "meaning_zh": "便利店",
+  "audio": "audio/ja/ja_コンビニ.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "食堂",
+   "郵便局",
+   "デパート"
+  ],
+  "example": {
+   "t": "あれはコンビニです。",
+   "zh": "那是便利店。"
+  }
+ },
+ {
+  "id": "ja_コート",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 3,
+  "lemma": "コート",
+  "kana": "コート",
+  "kanji": null,
+  "romaji": "kooto",
+  "pos": "名",
+  "pron": "[kooto]",
+  "meaning_zh": "风衣,大衣",
+  "audio": "audio/ja/ja_コート.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "食堂",
+   "郵便局",
+   "デパート"
+  ],
+  "example": {
+   "t": "このコートはいくらですか。",
+   "zh": "这件大衣多少钱？"
+  }
+ },
+ {
+  "id": "ja_デジカメ",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 3,
+  "lemma": "デジカメ",
+  "kana": "デジカメ",
+  "kanji": null,
+  "romaji": "dejikame",
+  "pos": "名",
+  "pron": "[dejikame]",
+  "meaning_zh": "数码相机",
+  "audio": "audio/ja/ja_デジカメ.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "郵便局",
+   "デパート",
+   "食堂"
+  ],
+  "example": {
+   "t": "これは新しいデジカメです。",
+   "zh": "这是新的数码相机。"
+  }
+ },
+ {
+  "id": "ja_デパート",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 3,
+  "lemma": "デパート",
+  "kana": "デパート",
+  "kanji": null,
+  "romaji": "depaato",
+  "pos": "名",
+  "pron": "[depaato]",
+  "meaning_zh": "百货商店",
+  "audio": "audio/ja/ja_デパート.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "食堂",
+   "郵便局",
+   "銀行"
+  ],
+  "example": {
+   "t": "デパートはあそこです。",
+   "zh": "百货商店在那里。"
+  }
+ },
+ {
+  "id": "ja_トイレ",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 3,
+  "lemma": "トイレ",
+  "kana": "トイレ",
+  "kanji": null,
+  "romaji": "toire",
+  "pos": "名",
+  "pron": "[toire]",
+  "meaning_zh": "厕所,盥洗室",
+  "audio": "audio/ja/ja_トイレ.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "デパート",
+   "食堂",
+   "郵便局"
+  ],
+  "example": {
+   "t": "トイレはどこですか。",
+   "zh": "厕所在哪里？"
+  }
+ },
+ {
+  "id": "ja_バーゲン会場",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 3,
+  "lemma": "バーゲン会場",
+  "kana": "バーゲンかいじょう",
+  "kanji": "バーゲン会場",
+  "romaji": "baagenkaijou",
+  "pos": "名",
+  "pron": "[baagenkaijou]",
+  "meaning_zh": "降价处理大卖场",
+  "audio": "audio/ja/ja_バーゲン会場.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "食堂",
+   "郵便局",
+   "デパート"
+  ],
+  "example": {
+   "t": "今日はデパートのバーゲン会場へ行きます。",
+   "zh": "今天去百货商店的降价卖场。"
+  }
+ },
+ {
+  "id": "ja_ビル",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 3,
+  "lemma": "ビル",
+  "kana": "ビル",
+  "kanji": null,
+  "romaji": "biru",
+  "pos": "名",
+  "pron": "[biru]",
+  "meaning_zh": "大楼,大厦",
+  "audio": "audio/ja/ja_ビル.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "デパート",
+   "食堂",
+   "郵便局"
+  ],
+  "example": {
+   "t": "あのビルは銀行です。",
+   "zh": "那栋大楼是银行。"
+  }
+ },
+ {
+  "id": "ja_ホテル",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 3,
+  "lemma": "ホテル",
+  "kana": "ホテル",
+  "kanji": null,
+  "romaji": "hoteru",
+  "pos": "名",
+  "pron": "[hoteru]",
+  "meaning_zh": "宾馆",
+  "audio": "audio/ja/ja_ホテル.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "デパート",
+   "食堂",
+   "郵便局"
+  ],
+  "example": {
+   "t": "あそこはホテルです。",
+   "zh": "那里是宾馆。"
+  }
+ },
+ {
+  "id": "ja_マンション",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 3,
+  "lemma": "マンション",
+  "kana": "マンション",
+  "kanji": null,
+  "romaji": "manshon",
+  "pos": "名",
+  "pron": "[manshon]",
+  "meaning_zh": "(高级)公寓",
+  "audio": "audio/ja/ja_マンション.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "郵便局",
+   "デパート",
+   "食堂"
+  ],
+  "example": {
+   "t": "あのマンションは新しいです。",
+   "zh": "那栋公寓很新。"
+  }
+ },
+ {
+  "id": "ja_レストラン",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 3,
+  "lemma": "レストラン",
+  "kana": "レストラン",
+  "kanji": null,
+  "romaji": "resutoran",
+  "pos": "名",
+  "pron": "[resutoran]",
+  "meaning_zh": "餐馆,西餐馆",
+  "audio": "audio/ja/ja_レストラン.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "郵便局",
+   "デパート",
+   "食堂"
+  ],
+  "example": {
+   "t": "このレストランはきれいです。",
+   "zh": "这家餐馆很干净漂亮。"
+  }
+ },
+ {
+  "id": "ja_上海",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 3,
+  "lemma": "上海",
+  "kana": "シャンハイ",
+  "kanji": "上海",
+  "romaji": "shanhai",
+  "pos": "专",
+  "pron": "[shanhai]",
+  "meaning_zh": "上海",
+  "audio": "audio/ja/ja_上海.ogg",
+  "tags": [
+   "core",
+   "name"
+  ],
+  "distractors": [
+   "デパート",
+   "食堂",
+   "東京"
+  ],
+  "example": {
+   "t": "上海はとても大きいです。",
+   "zh": "上海非常大。"
+  }
+ },
+ {
+  "id": "ja_事務所",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 3,
+  "lemma": "事務所",
+  "kana": "じむしょ",
+  "kanji": "事務所",
+  "romaji": "jimusho",
+  "pos": "名",
+  "pron": "[jimusho]",
+  "meaning_zh": "事务所,办事处",
+  "audio": "audio/ja/ja_事務所.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "郵便局",
+   "デパート",
+   "食堂"
+  ],
+  "example": {
+   "t": "事務所は三階です。",
+   "zh": "事务所在三楼。"
+  }
+ },
+ {
+  "id": "ja_今日",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 3,
+  "lemma": "今日",
+  "kana": "きょう",
+  "kanji": "今日",
+  "romaji": "kyou",
+  "pos": "名",
+  "pron": "[kyou]",
+  "meaning_zh": "今天",
+  "audio": "audio/ja/ja_今日.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "食堂",
+   "郵便局",
+   "デパート"
+  ],
+  "example": {
+   "t": "今日は暑いです。",
+   "zh": "今天很热。"
+  }
+ },
+ {
+  "id": "ja_入り口",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 3,
+  "lemma": "入り口",
+  "kana": "いりぐち",
+  "kanji": "入り口",
+  "romaji": "iriguchi",
+  "pos": "名",
+  "pron": "[iriguchi]",
+  "meaning_zh": "入口",
+  "audio": "audio/ja/ja_入り口.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "食堂",
+   "郵便局",
+   "デパート"
+  ],
+  "example": {
+   "t": "入り口はあちらです。",
+   "zh": "入口在那边。"
+  }
+ },
+ {
+  "id": "ja_受付",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 3,
+  "lemma": "受付",
+  "kana": "うけつけ",
+  "kanji": "受付",
+  "romaji": "uketsuke",
+  "pos": "名",
+  "pron": "[uketsuke]",
+  "meaning_zh": "接待处",
+  "audio": "audio/ja/ja_受付.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "デパート",
+   "食堂",
+   "郵便局"
+  ],
+  "example": {
+   "t": "受付は一階です。",
+   "zh": "接待处在一楼。"
+  }
+ },
+ {
+  "id": "ja_周辺",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 3,
+  "lemma": "周辺",
+  "kana": "しゅうへん",
+  "kanji": "周辺",
+  "romaji": "shuuhen",
+  "pos": "名",
+  "pron": "[shuuhen]",
+  "meaning_zh": "附近,周边",
+  "audio": "audio/ja/ja_周辺.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "デパート",
+   "食堂",
+   "郵便局"
+  ],
+  "example": {
+   "t": "会社の周辺は静かです。",
+   "zh": "公司周边很安静。"
+  }
+ },
+ {
+  "id": "ja_喫茶店",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 3,
+  "lemma": "喫茶店",
+  "kana": "きっさてん",
+  "kanji": "喫茶店",
+  "romaji": "kissaten",
+  "pos": "名",
+  "pron": "[kissaten]",
+  "meaning_zh": "咖啡馆",
+  "audio": "audio/ja/ja_喫茶店.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "郵便局",
+   "デパート",
+   "食堂"
+  ],
+  "example": {
+   "t": "あれは喫茶店です。",
+   "zh": "那是咖啡馆。"
+  }
+ },
+ {
+  "id": "ja_図書館",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 3,
+  "lemma": "図書館",
+  "kana": "としょかん",
+  "kanji": "図書館",
+  "romaji": "toshokan",
+  "pos": "名",
+  "pron": "[toshokan]",
+  "meaning_zh": "图书馆",
+  "audio": "audio/ja/ja_図書館.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "食堂",
+   "郵便局",
+   "デパート"
+  ],
+  "example": {
+   "t": "図書館は静かです。",
+   "zh": "图书馆很安静。"
+  }
+ },
+ {
+  "id": "ja_国",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 3,
+  "lemma": "国",
+  "kana": "くに",
+  "kanji": "国",
+  "romaji": "kuni",
+  "pos": "名",
+  "pron": "[kuni]",
+  "meaning_zh": "国,国家",
+  "audio": "audio/ja/ja_国.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "デパート",
+   "食堂",
+   "郵便局"
+  ],
+  "example": {
+   "t": "あなたの国はどこですか。",
+   "zh": "你的国家是哪里？"
+  }
+ },
+ {
+  "id": "ja_地図",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 3,
+  "lemma": "地図",
+  "kana": "ちず",
+  "kanji": "地図",
+  "romaji": "chizu",
+  "pos": "名",
+  "pron": "[chizu]",
+  "meaning_zh": "地图",
+  "audio": "audio/ja/ja_地図.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "食堂",
+   "郵便局",
+   "デパート"
+  ],
+  "example": {
+   "t": "これは東京の地図です。",
+   "zh": "这是东京的地图。"
+  }
+ },
+ {
+  "id": "ja_売り場",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 3,
+  "lemma": "売り場",
+  "kana": "うりば",
+  "kanji": "売り場",
+  "romaji": "uriba",
+  "pos": "名",
+  "pron": "[uriba]",
+  "meaning_zh": "柜台,出售处",
+  "audio": "audio/ja/ja_売り場.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "郵便局",
+   "デパート",
+   "食堂"
+  ],
+  "example": {
+   "t": "シルクの売り場はどこですか。",
+   "zh": "丝绸柜台在哪里？"
+  }
+ },
+ {
+  "id": "ja_建物",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 3,
+  "lemma": "建物",
+  "kana": "たてもの",
+  "kanji": "建物",
+  "romaji": "tatemono",
+  "pos": "名",
+  "pron": "[tatemono]",
+  "meaning_zh": "大楼,建筑物",
+  "audio": "audio/ja/ja_建物.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "食堂",
+   "郵便局",
+   "デパート"
+  ],
+  "example": {
+   "t": "あの建物は図書館です。",
+   "zh": "那栋建筑是图书馆。"
+  }
+ },
+ {
+  "id": "ja_服",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 3,
+  "lemma": "服",
+  "kana": "ふく",
+  "kanji": "服",
+  "romaji": "fuku",
+  "pos": "名",
+  "pron": "[fuku]",
+  "meaning_zh": "衣服",
+  "audio": "audio/ja/ja_服.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "デパート",
+   "食堂",
+   "郵便局"
+  ],
+  "example": {
+   "t": "この服はかわいいです。",
+   "zh": "这件衣服很可爱。"
+  }
+ },
+ {
+  "id": "ja_木曜日",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 3,
+  "lemma": "木曜日",
+  "kana": "もくようび",
+  "kanji": "木曜日",
+  "romaji": "mokuyoubi",
+  "pos": "名",
+  "pron": "[mokuyoubi]",
+  "meaning_zh": "星期四",
+  "audio": "audio/ja/ja_木曜日.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "デパート",
+   "食堂",
+   "郵便局"
+  ],
+  "example": {
+   "t": "今日は木曜日です。",
+   "zh": "今天是星期四。"
+  }
+ },
+ {
+  "id": "ja_本屋",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 3,
+  "lemma": "本屋",
+  "kana": "ほんや",
+  "kanji": "本屋",
+  "romaji": "hon'ya",
+  "pos": "名",
+  "pron": "[hon'ya]",
+  "meaning_zh": "书店",
+  "audio": "audio/ja/ja_本屋.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "食堂",
+   "郵便局",
+   "デパート"
+  ],
+  "example": {
+   "t": "本屋で本を買います。",
+   "zh": "在书店买书。"
+  }
+ },
+ {
+  "id": "ja_東京",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 3,
+  "lemma": "東京",
+  "kana": "とうきょう",
+  "kanji": "東京",
+  "romaji": "toukyou",
+  "pos": "专",
+  "pron": "[toukyou]",
+  "meaning_zh": "东京",
+  "audio": "audio/ja/ja_東京.ogg",
+  "tags": [
+   "core",
+   "name"
+  ],
+  "distractors": [
+   "食堂",
+   "上海",
+   "デパート"
+  ],
+  "example": {
+   "t": "あれは東京のビルです。",
+   "zh": "那是东京的大楼。"
+  }
+ },
+ {
+  "id": "ja_水曜日",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 3,
+  "lemma": "水曜日",
+  "kana": "すいようび",
+  "kanji": "水曜日",
+  "romaji": "suiyoubi",
+  "pos": "名",
+  "pron": "[suiyoubi]",
+  "meaning_zh": "星期三",
+  "audio": "audio/ja/ja_水曜日.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "郵便局",
+   "デパート",
+   "食堂"
+  ],
+  "example": {
+   "t": "明日は水曜日です。",
+   "zh": "明天是星期三。"
+  }
+ },
+ {
+  "id": "ja_病院",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 3,
+  "lemma": "病院",
+  "kana": "びょういん",
+  "kanji": "病院",
+  "romaji": "byouin",
+  "pos": "名",
+  "pron": "[byouin]",
+  "meaning_zh": "医院",
+  "audio": "audio/ja/ja_病院.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "デパート",
+   "食堂",
+   "郵便局"
+  ],
+  "example": {
+   "t": "父は病院に行きます。",
+   "zh": "父亲去医院。"
+  }
+ },
+ {
+  "id": "ja_郵便局",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 3,
+  "lemma": "郵便局",
+  "kana": "ゆうびんきょく",
+  "kanji": "郵便局",
+  "romaji": "yuubinkyoku",
+  "pos": "名",
+  "pron": "[yuubinkyoku]",
+  "meaning_zh": "邮局",
+  "audio": "audio/ja/ja_郵便局.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "銀行",
+   "デパート",
+   "食堂"
+  ],
+  "example": {
+   "t": "あそこは郵便局です。",
+   "zh": "那里是邮局。"
+  }
+ },
+ {
+  "id": "ja_銀行",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 3,
+  "lemma": "銀行",
+  "kana": "ぎんこう",
+  "kanji": "銀行",
+  "romaji": "ginkou",
+  "pos": "名",
+  "pron": "[ginkou]",
+  "meaning_zh": "银行",
+  "audio": "audio/ja/ja_銀行.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "デパート",
+   "食堂",
+   "郵便局"
+  ],
+  "example": {
+   "t": "あのビルは銀行です。",
+   "zh": "那栋大楼是银行。"
+  }
+ },
+ {
+  "id": "ja_隣",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 3,
+  "lemma": "隣",
+  "kana": "となり",
+  "kanji": "隣",
+  "romaji": "tonari",
+  "pos": "名",
+  "pron": "[tonari]",
+  "meaning_zh": "旁边",
+  "audio": "audio/ja/ja_隣.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "郵便局",
+   "デパート",
+   "食堂"
+  ],
+  "example": {
+   "t": "郵便局は銀行の隣です。",
+   "zh": "邮局在银行旁边。"
+  }
+ },
+ {
+  "id": "ja_食堂",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 3,
+  "lemma": "食堂",
+  "kana": "しょくどう",
+  "kanji": "食堂",
+  "romaji": "shokudou",
+  "pos": "名",
+  "pron": "[shokudou]",
+  "meaning_zh": "食堂",
+  "audio": "audio/ja/ja_食堂.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "郵便局",
+   "銀行",
+   "デパート"
+  ],
+  "example": {
+   "t": "ここは会社の食堂です。",
+   "zh": "这里是公司的食堂。"
+  }
+ },
+ {
+  "id": "ja_～円",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 3,
+  "lemma": "～円",
+  "kana": "えん",
+  "kanji": "～円",
+  "romaji": "en",
+  "pos": "短语",
+  "pron": "[en]",
+  "meaning_zh": "…日元",
+  "audio": "audio/ja/ja_～円.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "いくら",
+   "お～",
+   "～階"
+  ],
+  "example": {
+   "t": "これは五百円です。",
+   "zh": "这个五百日元。"
+  }
+ },
+ {
+  "id": "ja_～曜日",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 3,
+  "lemma": "～曜日",
+  "kana": "ようび",
+  "kanji": "～曜日",
+  "romaji": "youbi",
+  "pos": "短语",
+  "pron": "[youbi]",
+  "meaning_zh": "星期…",
+  "audio": "audio/ja/ja_～曜日.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "お～",
+   "～階",
+   "いくら"
+  ],
+  "example": {
+   "t": "今日は何曜日ですか。",
+   "zh": "今天星期几？"
+  }
+ },
+ {
+  "id": "ja_～階",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 3,
+  "lemma": "～階",
+  "kana": "かい",
+  "kanji": "～階",
+  "romaji": "kai",
+  "pos": "短语",
+  "pron": "[kai]",
+  "meaning_zh": "…层（楼层的量词）",
+  "audio": "audio/ja/ja_～階.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "～円",
+   "いくら",
+   "お～"
+  ],
+  "example": {
+   "t": "売り場は五階です。",
+   "zh": "柜台在五楼。"
+  }
+ }
+]

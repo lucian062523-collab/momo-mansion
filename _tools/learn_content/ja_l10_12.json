@@ -1,0 +1,3788 @@
+[
+ {
+  "id": "ja_あれえ",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 10,
+  "lemma": "あれえ",
+  "kana": "あれえ",
+  "kanji": null,
+  "romaji": "aree",
+  "pos": "叹",
+  "pron": "[aree]",
+  "meaning_zh": "咦",
+  "audio": "audio/ja/ja_あれえ.ogg",
+  "tags": [
+   "core",
+   "interj"
+  ],
+  "distractors": [
+   "通り",
+   "紅葉",
+   "故郷"
+  ],
+  "example": {
+   "t": "あれえ、これは何ですか。",
+   "zh": "咦，这是什么？"
+  }
+ },
+ {
+  "id": "ja_いかが",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 10,
+  "lemma": "いかが",
+  "kana": "いかが",
+  "kanji": null,
+  "romaji": "ikaga",
+  "pos": "副",
+  "pron": "[ikaga]",
+  "meaning_zh": "如何",
+  "audio": "audio/ja/ja_いかが.ogg",
+  "tags": [
+   "core",
+   "adv"
+  ],
+  "distractors": [
+   "どう",
+   "いろいろ",
+   "紅葉"
+  ],
+  "example": {
+   "t": "コーヒーはいかがですか。",
+   "zh": "来杯咖啡怎么样？"
+  }
+ },
+ {
+  "id": "ja_いろいろ",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 10,
+  "lemma": "いろいろ",
+  "kana": "いろいろ",
+  "kanji": null,
+  "romaji": "iroiro",
+  "pos": "副",
+  "pron": "[iroiro]",
+  "meaning_zh": "各种各样",
+  "audio": "audio/ja/ja_いろいろ.ogg",
+  "tags": [
+   "core",
+   "adv"
+  ],
+  "distractors": [
+   "いかが",
+   "紅葉",
+   "どう"
+  ],
+  "example": {
+   "t": "京都でいろいろな所を見ました。",
+   "zh": "在京都看了各种各样的地方。"
+  }
+ },
+ {
+  "id": "ja_お店",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 10,
+  "lemma": "お店",
+  "kana": "おみせ",
+  "kanji": "お店",
+  "romaji": "omise",
+  "pos": "名",
+  "pron": "[omise]",
+  "meaning_zh": "餐馆;商店",
+  "audio": "audio/ja/ja_お店.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "故郷",
+   "通り",
+   "紅葉"
+  ],
+  "example": {
+   "t": "駅の近くにお店があります。",
+   "zh": "车站附近有一家店。"
+  }
+ },
+ {
+  "id": "ja_お菓子",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 10,
+  "lemma": "お菓子",
+  "kana": "おかし",
+  "kanji": "お菓子",
+  "romaji": "okashi",
+  "pos": "名",
+  "pron": "[okashi]",
+  "meaning_zh": "点心",
+  "audio": "audio/ja/ja_お菓子.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "通り",
+   "紅葉",
+   "故郷"
+  ],
+  "example": {
+   "t": "母はお菓子を作ります。",
+   "zh": "妈妈做点心。"
+  }
+ },
+ {
+  "id": "ja_きれい",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 10,
+  "lemma": "きれい",
+  "kana": "きれい",
+  "kanji": null,
+  "romaji": "kirei",
+  "pos": "形2",
+  "pron": "[kirei]",
+  "meaning_zh": "漂亮,干净",
+  "audio": "audio/ja/ja_きれい.ogg",
+  "tags": [
+   "core",
+   "adj"
+  ],
+  "distractors": [
+   "にぎやか",
+   "静か",
+   "暇"
+  ],
+  "example": {
+   "t": "この花はとてもきれいです。",
+   "zh": "这朵花非常漂亮。"
+  }
+ },
+ {
+  "id": "ja_そして",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 10,
+  "lemma": "そして",
+  "kana": "そして",
+  "kanji": null,
+  "romaji": "soshite",
+  "pos": "连",
+  "pron": "[soshite]",
+  "meaning_zh": "而且,于是",
+  "audio": "audio/ja/ja_そして.ogg",
+  "tags": [
+   "core",
+   "conj"
+  ],
+  "distractors": [
+   "でも",
+   "ところで",
+   "紅葉"
+  ],
+  "example": {
+   "t": "私は日本語を習います。そして、毎日練習します。",
+   "zh": "我学习日语。而且每天练习。"
+  }
+ },
+ {
+  "id": "ja_でも",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 10,
+  "lemma": "でも",
+  "kana": "でも",
+  "kanji": null,
+  "romaji": "demo",
+  "pos": "连",
+  "pron": "[demo]",
+  "meaning_zh": "可是,不过",
+  "audio": "audio/ja/ja_でも.ogg",
+  "tags": [
+   "core",
+   "conj"
+  ],
+  "distractors": [
+   "紅葉",
+   "そして",
+   "ところで"
+  ],
+  "example": {
+   "t": "日本語は難しいです。でも、おもしろいです。",
+   "zh": "日语很难。不过，很有意思。"
+  }
+ },
+ {
+  "id": "ja_ところで",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 10,
+  "lemma": "ところで",
+  "kana": "ところで",
+  "kanji": null,
+  "romaji": "tokorode",
+  "pos": "连",
+  "pron": "[tokorode]",
+  "meaning_zh": "(转换话题）哎",
+  "audio": "audio/ja/ja_ところで.ogg",
+  "tags": [
+   "core",
+   "conj"
+  ],
+  "distractors": [
+   "そして",
+   "紅葉",
+   "でも"
+  ],
+  "example": {
+   "t": "ところで、明日は何曜日ですか。",
+   "zh": "对了，明天是星期几？"
+  }
+ },
+ {
+  "id": "ja_どう",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 10,
+  "lemma": "どう",
+  "kana": "どう",
+  "kanji": null,
+  "romaji": "dou",
+  "pos": "副",
+  "pron": "[dou]",
+  "meaning_zh": "怎样,如何",
+  "audio": "audio/ja/ja_どう.ogg",
+  "tags": [
+   "core",
+   "adv"
+  ],
+  "distractors": [
+   "紅葉",
+   "いかが",
+   "いろいろ"
+  ],
+  "example": {
+   "t": "日本の生活はどうですか。",
+   "zh": "日本的生活怎么样？"
+  }
+ },
+ {
+  "id": "ja_どんな",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 10,
+  "lemma": "どんな",
+  "kana": "どんな",
+  "kanji": null,
+  "romaji": "donna",
+  "pos": "疑",
+  "pron": "[donna]",
+  "meaning_zh": "什么样的,怎样的",
+  "audio": "audio/ja/ja_どんな.ogg",
+  "tags": [
+   "core",
+   "question"
+  ],
+  "distractors": [
+   "故郷",
+   "通り",
+   "紅葉"
+  ],
+  "example": {
+   "t": "どんな音楽が好きですか。",
+   "zh": "你喜欢什么样的音乐？"
+  }
+ },
+ {
+  "id": "ja_にぎやか",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 10,
+  "lemma": "にぎやか",
+  "kana": "にぎやか",
+  "kanji": null,
+  "romaji": "nigiyaka",
+  "pos": "形2",
+  "pron": "[nigiyaka]",
+  "meaning_zh": "热闹,繁华",
+  "audio": "audio/ja/ja_にぎやか.ogg",
+  "tags": [
+   "core",
+   "adj"
+  ],
+  "distractors": [
+   "暇",
+   "きれい",
+   "静か"
+  ],
+  "example": {
+   "t": "この町はとてもにぎやかです。",
+   "zh": "这座城市非常热闹。"
+  }
+ },
+ {
+  "id": "ja_もう少し",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 10,
+  "lemma": "もう少し",
+  "kana": "もうすこし",
+  "kanji": "もう少し",
+  "romaji": "mousukoshi",
+  "pos": "短语",
+  "pron": "[mousukoshi]",
+  "meaning_zh": "再～一点",
+  "audio": "audio/ja/ja_もう少し.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "故郷",
+   "～中",
+   "紅葉"
+  ],
+  "example": {
+   "t": "もう少し大きい声で話してください。",
+   "zh": "请再大一点声说。"
+  }
+ },
+ {
+  "id": "ja_シーズン",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 10,
+  "lemma": "シーズン",
+  "kana": "シーズン",
+  "kanji": null,
+  "romaji": "shiizun",
+  "pos": "名",
+  "pron": "[shiizun]",
+  "meaning_zh": "季节",
+  "audio": "audio/ja/ja_シーズン.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "故郷",
+   "通り",
+   "紅葉"
+  ],
+  "example": {
+   "t": "今はスキーのシーズンです。",
+   "zh": "现在是滑雪的季节。"
+  }
+ },
+ {
+  "id": "ja_ハンサム",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 10,
+  "lemma": "ハンサム",
+  "kana": "ハンサム",
+  "kanji": null,
+  "romaji": "hansamu",
+  "pos": "形2",
+  "pron": "[hansamu]",
+  "meaning_zh": "英俊,帅气",
+  "audio": "audio/ja/ja_ハンサム.ogg",
+  "tags": [
+   "core",
+   "adj"
+  ],
+  "distractors": [
+   "きれい",
+   "にぎやか",
+   "静か"
+  ],
+  "example": {
+   "t": "彼はとてもハンサムです。",
+   "zh": "他非常帅气。"
+  }
+ },
+ {
+  "id": "ja_不便",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 10,
+  "lemma": "不便",
+  "kana": "ふべん",
+  "kanji": "不便",
+  "romaji": "fuben",
+  "pos": "形2",
+  "pron": "[fuben]",
+  "meaning_zh": "不方便",
+  "audio": "audio/ja/ja_不便.ogg",
+  "tags": [
+   "core",
+   "adj"
+  ],
+  "distractors": [
+   "きれい",
+   "にぎやか",
+   "静か"
+  ],
+  "example": {
+   "t": "この所はとても不便です。",
+   "zh": "这个地方非常不方便。"
+  }
+ },
+ {
+  "id": "ja_世界",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 10,
+  "lemma": "世界",
+  "kana": "せかい",
+  "kanji": "世界",
+  "romaji": "sekai",
+  "pos": "名",
+  "pron": "[sekai]",
+  "meaning_zh": "世界",
+  "audio": "audio/ja/ja_世界.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "紅葉",
+   "故郷",
+   "通り"
+  ],
+  "example": {
+   "t": "世界にはたくさんの国があります。",
+   "zh": "世界上有很多国家。"
+  }
+ },
+ {
+  "id": "ja_人形",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 10,
+  "lemma": "人形",
+  "kana": "にんぎょう",
+  "kanji": "人形",
+  "romaji": "ningyou",
+  "pos": "名",
+  "pron": "[ningyou]",
+  "meaning_zh": "玩偶",
+  "audio": "audio/ja/ja_人形.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "通り",
+   "紅葉",
+   "故郷"
+  ],
+  "example": {
+   "t": "これは日本の人形です。",
+   "zh": "这是日本的玩偶。"
+  }
+ },
+ {
+  "id": "ja_作品",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 10,
+  "lemma": "作品",
+  "kana": "さくひん",
+  "kanji": "作品",
+  "romaji": "sakuhin",
+  "pos": "名",
+  "pron": "[sakuhin]",
+  "meaning_zh": "作品",
+  "audio": "audio/ja/ja_作品.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "紅葉",
+   "故郷",
+   "通り"
+  ],
+  "example": {
+   "t": "この写真は彼の作品です。",
+   "zh": "这张照片是他的作品。"
+  }
+ },
+ {
+  "id": "ja_作家",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 10,
+  "lemma": "作家",
+  "kana": "さっか",
+  "kanji": "作家",
+  "romaji": "sakka",
+  "pos": "名",
+  "pron": "[sakka]",
+  "meaning_zh": "作家",
+  "audio": "audio/ja/ja_作家.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "故郷",
+   "通り",
+   "紅葉"
+  ],
+  "example": {
+   "t": "彼は有名な作家です。",
+   "zh": "他是有名的作家。"
+  }
+ },
+ {
+  "id": "ja_便利",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 10,
+  "lemma": "便利",
+  "kana": "べんり",
+  "kanji": "便利",
+  "romaji": "benri",
+  "pos": "形2",
+  "pron": "[benri]",
+  "meaning_zh": "方便",
+  "audio": "audio/ja/ja_便利.ogg",
+  "tags": [
+   "core",
+   "adj"
+  ],
+  "distractors": [
+   "静か",
+   "きれい",
+   "にぎやか"
+  ],
+  "example": {
+   "t": "コンピュータはとても便利です。",
+   "zh": "电脑非常方便。"
+  }
+ },
+ {
+  "id": "ja_修学旅行",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 10,
+  "lemma": "修学旅行",
+  "kana": "しゅうがくりょこう",
+  "kanji": "修学旅行",
+  "romaji": "shuugakuryokou",
+  "pos": "名",
+  "pron": "[shuugakuryokou]",
+  "meaning_zh": "修学旅行",
+  "audio": "audio/ja/ja_修学旅行.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "通り",
+   "紅葉",
+   "故郷"
+  ],
+  "example": {
+   "t": "来月、修学旅行に行きます。",
+   "zh": "下个月去修学旅行。"
+  }
+ },
+ {
+  "id": "ja_元気",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 10,
+  "lemma": "元気",
+  "kana": "げんき",
+  "kanji": "元気",
+  "romaji": "genki",
+  "pos": "形2",
+  "pron": "[genki]",
+  "meaning_zh": "健康,有精神",
+  "audio": "audio/ja/ja_元気.ogg",
+  "tags": [
+   "core",
+   "adj"
+  ],
+  "distractors": [
+   "にぎやか",
+   "静か",
+   "きれい"
+  ],
+  "example": {
+   "t": "お父さんは元気ですか。",
+   "zh": "你父亲身体好吗？"
+  }
+ },
+ {
+  "id": "ja_奈良",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 10,
+  "lemma": "奈良",
+  "kana": "なら",
+  "kanji": "奈良",
+  "romaji": "nara",
+  "pos": "专",
+  "pron": "[nara]",
+  "meaning_zh": "奈良",
+  "audio": "audio/ja/ja_奈良.ogg",
+  "tags": [
+   "core",
+   "name"
+  ],
+  "distractors": [
+   "富士山",
+   "紅葉",
+   "故郷"
+  ],
+  "example": {
+   "t": "奈良は古い町です。",
+   "zh": "奈良是一座古老的城市。"
+  }
+ },
+ {
+  "id": "ja_好き",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 10,
+  "lemma": "好き",
+  "kana": "すき",
+  "kanji": "好き",
+  "romaji": "suki",
+  "pos": "形2",
+  "pron": "[suki]",
+  "meaning_zh": "喜欢",
+  "audio": "audio/ja/ja_好き.ogg",
+  "tags": [
+   "core",
+   "adj"
+  ],
+  "distractors": [
+   "きれい",
+   "にぎやか",
+   "静か"
+  ],
+  "example": {
+   "t": "私は日本の歌が好きです。",
+   "zh": "我喜欢日本歌。"
+  }
+ },
+ {
+  "id": "ja_嫌い",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 10,
+  "lemma": "嫌い",
+  "kana": "きらい",
+  "kanji": "嫌い",
+  "romaji": "kirai",
+  "pos": "形2",
+  "pron": "[kirai]",
+  "meaning_zh": "讨厌",
+  "audio": "audio/ja/ja_嫌い.ogg",
+  "tags": [
+   "core",
+   "adj"
+  ],
+  "distractors": [
+   "にぎやか",
+   "静か",
+   "きれい"
+  ],
+  "example": {
+   "t": "私は虫が嫌いです。",
+   "zh": "我讨厌虫子。"
+  }
+ },
+ {
+  "id": "ja_富士山",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 10,
+  "lemma": "富士山",
+  "kana": "ふじさん",
+  "kanji": "富士山",
+  "romaji": "fujisan",
+  "pos": "专",
+  "pron": "[fujisan]",
+  "meaning_zh": "富士山",
+  "audio": "audio/ja/ja_富士山.ogg",
+  "tags": [
+   "core",
+   "name"
+  ],
+  "distractors": [
+   "紅葉",
+   "故郷",
+   "奈良"
+  ],
+  "example": {
+   "t": "富士山は日本でいちばん高い山です。",
+   "zh": "富士山是日本最高的山。"
+  }
+ },
+ {
+  "id": "ja_平日",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 10,
+  "lemma": "平日",
+  "kana": "へいじつ",
+  "kanji": "平日",
+  "romaji": "heijitsu",
+  "pos": "名",
+  "pron": "[heijitsu]",
+  "meaning_zh": "平日,非休息日",
+  "audio": "audio/ja/ja_平日.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "紅葉",
+   "故郷",
+   "通り"
+  ],
+  "example": {
+   "t": "平日はいつも働きます。",
+   "zh": "平日总是工作。"
+  }
+ },
+ {
+  "id": "ja_彫刻",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 10,
+  "lemma": "彫刻",
+  "kana": "ちょうこく",
+  "kanji": "彫刻",
+  "romaji": "choukoku",
+  "pos": "名",
+  "pron": "[choukoku]",
+  "meaning_zh": "雕刻",
+  "audio": "audio/ja/ja_彫刻.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "故郷",
+   "通り",
+   "紅葉"
+  ],
+  "example": {
+   "t": "この寺には古い彫刻があります。",
+   "zh": "这座寺庙里有古老的雕刻。"
+  }
+ },
+ {
+  "id": "ja_所",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 10,
+  "lemma": "所",
+  "kana": "ところ",
+  "kanji": "所",
+  "romaji": "tokoro",
+  "pos": "名",
+  "pron": "[tokoro]",
+  "meaning_zh": "场所",
+  "audio": "audio/ja/ja_所.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "紅葉",
+   "故郷",
+   "通り"
+  ],
+  "example": {
+   "t": "静かな所で本を読みます。",
+   "zh": "在安静的地方读书。"
+  }
+ },
+ {
+  "id": "ja_故郷",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 10,
+  "lemma": "故郷",
+  "kana": "こきょう",
+  "kanji": "故郷",
+  "romaji": "kokyou",
+  "pos": "名",
+  "pron": "[kokyou]",
+  "meaning_zh": "故乡",
+  "audio": "audio/ja/ja_故郷.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "紅葉",
+   "通り",
+   "町"
+  ],
+  "example": {
+   "t": "私の故郷は小さい町です。",
+   "zh": "我的故乡是座小城。"
+  }
+ },
+ {
+  "id": "ja_日",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 10,
+  "lemma": "日",
+  "kana": "ひ",
+  "kanji": "日",
+  "romaji": "hi",
+  "pos": "名",
+  "pron": "[hi]",
+  "meaning_zh": "日子",
+  "audio": "audio/ja/ja_日.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "故郷",
+   "通り",
+   "紅葉"
+  ],
+  "example": {
+   "t": "今日はいい日です。",
+   "zh": "今天是个好日子。"
+  }
+ },
+ {
+  "id": "ja_晴れ",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 10,
+  "lemma": "晴れ",
+  "kana": "はれ",
+  "kanji": "晴れ",
+  "romaji": "hare",
+  "pos": "名",
+  "pron": "[hare]",
+  "meaning_zh": "晴天",
+  "audio": "audio/ja/ja_晴れ.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "故郷",
+   "通り",
+   "紅葉"
+  ],
+  "example": {
+   "t": "明日は晴れです。",
+   "zh": "明天是晴天。"
+  }
+ },
+ {
+  "id": "ja_暇",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 10,
+  "lemma": "暇",
+  "kana": "ひま",
+  "kanji": "暇",
+  "romaji": "hima",
+  "pos": "形2",
+  "pron": "[hima]",
+  "meaning_zh": "空闲",
+  "audio": "audio/ja/ja_暇.ogg",
+  "tags": [
+   "core",
+   "adj"
+  ],
+  "distractors": [
+   "にぎやか",
+   "静か",
+   "きれい"
+  ],
+  "example": {
+   "t": "今日はとても暇です。",
+   "zh": "今天非常空闲。"
+  }
+ },
+ {
+  "id": "ja_曇り",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 10,
+  "lemma": "曇り",
+  "kana": "くもり",
+  "kanji": "曇り",
+  "romaji": "kumori",
+  "pos": "名",
+  "pron": "[kumori]",
+  "meaning_zh": "阴天",
+  "audio": "audio/ja/ja_曇り.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "紅葉",
+   "故郷",
+   "通り"
+  ],
+  "example": {
+   "t": "今日は曇りです。",
+   "zh": "今天是阴天。"
+  }
+ },
+ {
+  "id": "ja_有名",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 10,
+  "lemma": "有名",
+  "kana": "ゆうめい",
+  "kanji": "有名",
+  "romaji": "yuumei",
+  "pos": "形1",
+  "pron": "[yuumei]",
+  "meaning_zh": "有名",
+  "audio": "audio/ja/ja_有名.ogg",
+  "tags": [
+   "core",
+   "adj"
+  ],
+  "distractors": [
+   "紅葉",
+   "故郷",
+   "汚い"
+  ],
+  "example": {
+   "t": "この店の料理は有名です。",
+   "zh": "这家店的菜很有名。"
+  }
+ },
+ {
+  "id": "ja_汚い",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 10,
+  "lemma": "汚い",
+  "kana": "きたない",
+  "kanji": "汚い",
+  "romaji": "kitanai",
+  "pos": "形1",
+  "pron": "[kitanai]",
+  "meaning_zh": "脏",
+  "audio": "audio/ja/ja_汚い.ogg",
+  "tags": [
+   "core",
+   "adj"
+  ],
+  "distractors": [
+   "故郷",
+   "有名",
+   "紅葉"
+  ],
+  "example": {
+   "t": "この部屋はとても汚いです。",
+   "zh": "这个房间非常脏。"
+  }
+ },
+ {
+  "id": "ja_物",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 10,
+  "lemma": "物",
+  "kana": "もの",
+  "kanji": "物",
+  "romaji": "mono",
+  "pos": "名",
+  "pron": "[mono]",
+  "meaning_zh": "物品,东西",
+  "audio": "audio/ja/ja_物.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "紅葉",
+   "故郷",
+   "通り"
+  ],
+  "example": {
+   "t": "この店は安い物が多いです。",
+   "zh": "这家店便宜的东西很多。"
+  }
+ },
+ {
+  "id": "ja_生活",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 10,
+  "lemma": "生活",
+  "kana": "せいかつ",
+  "kanji": "生活",
+  "romaji": "seikatsu",
+  "pos": "名",
+  "pron": "[seikatsu]",
+  "meaning_zh": "生活",
+  "audio": "audio/ja/ja_生活.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "通り",
+   "紅葉",
+   "故郷"
+  ],
+  "example": {
+   "t": "日本の生活はとても楽しいです。",
+   "zh": "日本的生活非常愉快。"
+  }
+ },
+ {
+  "id": "ja_町",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 10,
+  "lemma": "町",
+  "kana": "まち",
+  "kanji": "町",
+  "romaji": "machi",
+  "pos": "名",
+  "pron": "[machi]",
+  "meaning_zh": "城市,街道",
+  "audio": "audio/ja/ja_町.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "通り",
+   "紅葉",
+   "故郷"
+  ],
+  "example": {
+   "t": "私の町は静かです。",
+   "zh": "我住的城市很安静。"
+  }
+ },
+ {
+  "id": "ja_簡単",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 10,
+  "lemma": "簡単",
+  "kana": "かんたん",
+  "kanji": "簡単",
+  "romaji": "kantan",
+  "pos": "形2",
+  "pron": "[kantan]",
+  "meaning_zh": "简单",
+  "audio": "audio/ja/ja_簡単.ogg",
+  "tags": [
+   "core",
+   "adj"
+  ],
+  "distractors": [
+   "静か",
+   "きれい",
+   "にぎやか"
+  ],
+  "example": {
+   "t": "この問題はとても簡単です。",
+   "zh": "这个问题非常简单。"
+  }
+ },
+ {
+  "id": "ja_紅葉",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 10,
+  "lemma": "紅葉",
+  "kana": "もみじ",
+  "kanji": "紅葉",
+  "romaji": "momiji",
+  "pos": "名",
+  "pron": "[momiji]",
+  "meaning_zh": "红叶",
+  "audio": "audio/ja/ja_紅葉.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "町",
+   "故郷",
+   "通り"
+  ],
+  "example": {
+   "t": "秋は紅葉がきれいです。",
+   "zh": "秋天的红叶很美。"
+  }
+ },
+ {
+  "id": "ja_自動車",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 10,
+  "lemma": "自動車",
+  "kana": "じどうしゃ",
+  "kanji": "自動車",
+  "romaji": "jidousha",
+  "pos": "名",
+  "pron": "[jidousha]",
+  "meaning_zh": "汽车",
+  "audio": "audio/ja/ja_自動車.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "通り",
+   "紅葉",
+   "故郷"
+  ],
+  "example": {
+   "t": "父は自動車を運転します。",
+   "zh": "爸爸开汽车。"
+  }
+ },
+ {
+  "id": "ja_親切",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 10,
+  "lemma": "親切",
+  "kana": "しんせつ",
+  "kanji": "親切",
+  "romaji": "shinsetsu",
+  "pos": "形2",
+  "pron": "[shinsetsu]",
+  "meaning_zh": "热情",
+  "audio": "audio/ja/ja_親切.ogg",
+  "tags": [
+   "core",
+   "adj"
+  ],
+  "distractors": [
+   "静か",
+   "きれい",
+   "にぎやか"
+  ],
+  "example": {
+   "t": "李さんはとても親切です。",
+   "zh": "小李非常热情。"
+  }
+ },
+ {
+  "id": "ja_観光客",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 10,
+  "lemma": "観光客",
+  "kana": "かんこうきゃく",
+  "kanji": "観光客",
+  "romaji": "kankoukyaku",
+  "pos": "名",
+  "pron": "[kankoukyaku]",
+  "meaning_zh": "游客",
+  "audio": "audio/ja/ja_観光客.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "紅葉",
+   "故郷",
+   "通り"
+  ],
+  "example": {
+   "t": "この町には観光客が多いです。",
+   "zh": "这座城市游客很多。"
+  }
+ },
+ {
+  "id": "ja_通り",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 10,
+  "lemma": "通り",
+  "kana": "とおり",
+  "kanji": "通り",
+  "romaji": "toori",
+  "pos": "名",
+  "pron": "[toori]",
+  "meaning_zh": "大街",
+  "audio": "audio/ja/ja_通り.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "故郷",
+   "町",
+   "紅葉"
+  ],
+  "example": {
+   "t": "この通りはにぎやかです。",
+   "zh": "这条大街很热闹。"
+  }
+ },
+ {
+  "id": "ja_道具",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 10,
+  "lemma": "道具",
+  "kana": "どうぐ",
+  "kanji": "道具",
+  "romaji": "dougu",
+  "pos": "名",
+  "pron": "[dougu]",
+  "meaning_zh": "工具",
+  "audio": "audio/ja/ja_道具.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "紅葉",
+   "故郷",
+   "通り"
+  ],
+  "example": {
+   "t": "これは料理の道具です。",
+   "zh": "这是做菜的工具。"
+  }
+ },
+ {
+  "id": "ja_部長",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 10,
+  "lemma": "部長",
+  "kana": "ぶちょう",
+  "kanji": "部長",
+  "romaji": "buchou",
+  "pos": "名",
+  "pron": "[buchou]",
+  "meaning_zh": "部长",
+  "audio": "audio/ja/ja_部長.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "通り",
+   "紅葉",
+   "故郷"
+  ],
+  "example": {
+   "t": "あの人は会社の部長です。",
+   "zh": "那个人是公司的部长。"
+  }
+ },
+ {
+  "id": "ja_雨",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 10,
+  "lemma": "雨",
+  "kana": "あめ",
+  "kanji": "雨",
+  "romaji": "ame",
+  "pos": "名",
+  "pron": "[ame]",
+  "meaning_zh": "雨,下雨",
+  "audio": "audio/ja/ja_雨.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "通り",
+   "紅葉",
+   "故郷"
+  ],
+  "example": {
+   "t": "明日は雨が降ります。",
+   "zh": "明天下雨。"
+  }
+ },
+ {
+  "id": "ja_雪",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 10,
+  "lemma": "雪",
+  "kana": "ゆき",
+  "kanji": "雪",
+  "romaji": "yuki",
+  "pos": "名",
+  "pron": "[yuki]",
+  "meaning_zh": "雪",
+  "audio": "audio/ja/ja_雪.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "故郷",
+   "通り",
+   "紅葉"
+  ],
+  "example": {
+   "t": "北の国では雪が多いです。",
+   "zh": "北方国家雪很多。"
+  }
+ },
+ {
+  "id": "ja_静か",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 10,
+  "lemma": "静か",
+  "kana": "しずか",
+  "kanji": "静か",
+  "romaji": "shizuka",
+  "pos": "形2",
+  "pron": "[shizuka]",
+  "meaning_zh": "安静",
+  "audio": "audio/ja/ja_静か.ogg",
+  "tags": [
+   "core",
+   "adj"
+  ],
+  "distractors": [
+   "きれい",
+   "にぎやか",
+   "暇"
+  ],
+  "example": {
+   "t": "図書館は静かです。",
+   "zh": "图书馆很安静。"
+  }
+ },
+ {
+  "id": "ja_魚",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 10,
+  "lemma": "魚",
+  "kana": "さかな",
+  "kanji": "魚",
+  "romaji": "sakana",
+  "pos": "名",
+  "pron": "[sakana]",
+  "meaning_zh": "鱼",
+  "audio": "audio/ja/ja_魚.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "故郷",
+   "通り",
+   "紅葉"
+  ],
+  "example": {
+   "t": "私は魚が好きです。",
+   "zh": "我喜欢鱼。"
+  }
+ },
+ {
+  "id": "ja_～中",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 10,
+  "lemma": "～中",
+  "kana": "じゅう",
+  "kanji": "～中",
+  "romaji": "juu",
+  "pos": "短语",
+  "pron": "[juu]",
+  "meaning_zh": "…之中；整个…",
+  "audio": "audio/ja/ja_～中.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "もう少し",
+   "紅葉",
+   "故郷"
+  ],
+  "example": {
+   "t": "今、会議中ですから、静かにしてください。",
+   "zh": "现在正在开会，请安静。"
+  }
+ },
+ {
+  "id": "ja_うーん",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 11,
+  "lemma": "うーん",
+  "kana": "うーん",
+  "kanji": null,
+  "romaji": "uun",
+  "pos": "叹",
+  "pron": "[uun]",
+  "meaning_zh": "嗯……,这个……",
+  "audio": "audio/ja/ja_うーん.ogg",
+  "tags": [
+   "core",
+   "interj"
+  ],
+  "distractors": [
+   "歌",
+   "カラオケ",
+   "ロック"
+  ],
+  "example": {
+   "t": "うーん、ちょっと分かりません。",
+   "zh": "嗯……有点不明白。"
+  }
+ },
+ {
+  "id": "ja_お酒",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 11,
+  "lemma": "お酒",
+  "kana": "おさけ",
+  "kanji": "お酒",
+  "romaji": "osake",
+  "pos": "名",
+  "pron": "[osake]",
+  "meaning_zh": "酒,酒类",
+  "audio": "audio/ja/ja_お酒.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "歌",
+   "カラオケ",
+   "ロック"
+  ],
+  "example": {
+   "t": "お酒はあまり飲みません。",
+   "zh": "我不太喝酒。"
+  }
+ },
+ {
+  "id": "ja_たまに",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 11,
+  "lemma": "たまに",
+  "kana": "たまに",
+  "kanji": null,
+  "romaji": "tamani",
+  "pos": "副",
+  "pron": "[tamani]",
+  "meaning_zh": "偶尔,很少",
+  "audio": "audio/ja/ja_たまに.ogg",
+  "tags": [
+   "core",
+   "adv"
+  ],
+  "distractors": [
+   "また",
+   "時々",
+   "よく"
+  ],
+  "example": {
+   "t": "たまに映画を見ます。",
+   "zh": "偶尔看电影。"
+  }
+ },
+ {
+  "id": "ja_だから",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 11,
+  "lemma": "だから",
+  "kana": "だから",
+  "kanji": null,
+  "romaji": "dakara",
+  "pos": "连",
+  "pron": "[dakara]",
+  "meaning_zh": "所以,因此",
+  "audio": "audio/ja/ja_だから.ogg",
+  "tags": [
+   "core",
+   "conj"
+  ],
+  "syn": [
+   "ですから"
+  ],
+  "distractors": [
+   "ロック",
+   "歌",
+   "カラオケ"
+  ],
+  "example": {
+   "t": "今日は寒いです。だから、コートを着ます。",
+   "zh": "今天很冷。所以穿大衣。"
+  }
+ },
+ {
+  "id": "ja_できます",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 11,
+  "lemma": "できます",
+  "kana": "できます",
+  "kanji": null,
+  "romaji": "dekimasu",
+  "pos": "动2",
+  "pron": "[dekimasu]",
+  "meaning_zh": "会;能;完成",
+  "audio": "audio/ja/ja_できます.ogg",
+  "tags": [
+   "core",
+   "verb"
+  ],
+  "distractors": [
+   "歌",
+   "閉めます",
+   "疲れます"
+  ],
+  "example": {
+   "t": "私はピアノができます。",
+   "zh": "我会弹钢琴。"
+  }
+ },
+ {
+  "id": "ja_どうして",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 11,
+  "lemma": "どうして",
+  "kana": "どうして",
+  "kanji": null,
+  "romaji": "doushite",
+  "pos": "副",
+  "pron": "[doushite]",
+  "meaning_zh": "为什么",
+  "audio": "audio/ja/ja_どうして.ogg",
+  "tags": [
+   "core",
+   "adv"
+  ],
+  "distractors": [
+   "よく",
+   "たまに",
+   "時々"
+  ],
+  "example": {
+   "t": "どうして日本語を勉強しますか。",
+   "zh": "为什么学习日语？"
+  }
+ },
+ {
+  "id": "ja_ぼく",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 11,
+  "lemma": "ぼく",
+  "kana": "ぼく",
+  "kanji": null,
+  "romaji": "boku",
+  "pos": "代",
+  "pron": "[boku]",
+  "meaning_zh": "我(男性自称)",
+  "audio": "audio/ja/ja_ぼく.ogg",
+  "tags": [
+   "core",
+   "pron"
+  ],
+  "distractors": [
+   "ロック",
+   "歌",
+   "カラオケ"
+  ],
+  "example": {
+   "t": "ぼくはサッカーが好きです。",
+   "zh": "我喜欢足球。"
+  }
+ },
+ {
+  "id": "ja_また",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 11,
+  "lemma": "また",
+  "kana": "また",
+  "kanji": null,
+  "romaji": "mata",
+  "pos": "副",
+  "pron": "[mata]",
+  "meaning_zh": "还,再,又",
+  "audio": "audio/ja/ja_また.ogg",
+  "tags": [
+   "core",
+   "adv"
+  ],
+  "distractors": [
+   "時々",
+   "よく",
+   "たまに"
+  ],
+  "example": {
+   "t": "また明日会いましょう。",
+   "zh": "明天再见吧。"
+  }
+ },
+ {
+  "id": "ja_よく",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 11,
+  "lemma": "よく",
+  "kana": "よく",
+  "kanji": null,
+  "romaji": "yoku",
+  "pos": "副",
+  "pron": "[yoku]",
+  "meaning_zh": "经常,常常",
+  "audio": "audio/ja/ja_よく.ogg",
+  "tags": [
+   "core",
+   "adv"
+  ],
+  "distractors": [
+   "たまに",
+   "また",
+   "時々"
+  ],
+  "example": {
+   "t": "私はよく音楽を聞きます。",
+   "zh": "我经常听音乐。"
+  }
+ },
+ {
+  "id": "ja_カラオケ",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 11,
+  "lemma": "カラオケ",
+  "kana": "カラオケ",
+  "kanji": null,
+  "romaji": "karaoke",
+  "pos": "名",
+  "pron": "[karaoke]",
+  "meaning_zh": "卡拉OK",
+  "audio": "audio/ja/ja_カラオケ.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "ポップス",
+   "歌",
+   "ロック"
+  ],
+  "example": {
+   "t": "週末に友達とカラオケに行きます。",
+   "zh": "周末和朋友去唱卡拉OK。"
+  }
+ },
+ {
+  "id": "ja_クラシック",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 11,
+  "lemma": "クラシック",
+  "kana": "クラシック",
+  "kanji": null,
+  "romaji": "kurashikku",
+  "pos": "名",
+  "pron": "[kurashikku]",
+  "meaning_zh": "西方古典音乐",
+  "audio": "audio/ja/ja_クラシック.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "ロック",
+   "歌",
+   "カラオケ"
+  ],
+  "example": {
+   "t": "私はクラシックが好きです。",
+   "zh": "我喜欢古典音乐。"
+  }
+ },
+ {
+  "id": "ja_コンピュータ",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 11,
+  "lemma": "コンピュータ",
+  "kana": "コンピュータ",
+  "kanji": null,
+  "romaji": "konpyuuta",
+  "pos": "名",
+  "pron": "[konpyuuta]",
+  "meaning_zh": "计算机,电脑",
+  "audio": "audio/ja/ja_コンピュータ.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "歌",
+   "カラオケ",
+   "ロック"
+  ],
+  "example": {
+   "t": "コンピュータで音楽を聞きます。",
+   "zh": "用电脑听音乐。"
+  }
+ },
+ {
+  "id": "ja_ゴルフ",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 11,
+  "lemma": "ゴルフ",
+  "kana": "ゴルフ",
+  "kanji": null,
+  "romaji": "gorufu",
+  "pos": "名",
+  "pron": "[gorufu]",
+  "meaning_zh": "高尔夫球",
+  "audio": "audio/ja/ja_ゴルフ.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "歌",
+   "カラオケ",
+   "ロック"
+  ],
+  "example": {
+   "t": "父は毎週ゴルフをします。",
+   "zh": "爸爸每周打高尔夫。"
+  }
+ },
+ {
+  "id": "ja_スペイン語",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 11,
+  "lemma": "スペイン語",
+  "kana": "スペインご",
+  "kanji": "スペイン語",
+  "romaji": "supeingo",
+  "pos": "名",
+  "pron": "[supeingo]",
+  "meaning_zh": "西班牙语",
+  "audio": "audio/ja/ja_スペイン語.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "歌",
+   "カラオケ",
+   "ロック"
+  ],
+  "example": {
+   "t": "彼はスペイン語が分かります。",
+   "zh": "他懂西班牙语。"
+  }
+ },
+ {
+  "id": "ja_スポーツ",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 11,
+  "lemma": "スポーツ",
+  "kana": "スポーツ",
+  "kanji": null,
+  "romaji": "supootsu",
+  "pos": "名",
+  "pron": "[supootsu]",
+  "meaning_zh": "体育,运动",
+  "audio": "audio/ja/ja_スポーツ.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "カラオケ",
+   "ロック",
+   "歌"
+  ],
+  "example": {
+   "t": "毎朝スポーツをします。",
+   "zh": "每天早上做运动。"
+  }
+ },
+ {
+  "id": "ja_バラ",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 11,
+  "lemma": "バラ",
+  "kana": "バラ",
+  "kanji": null,
+  "romaji": "bara",
+  "pos": "名",
+  "pron": "[bara]",
+  "meaning_zh": "蔷薇,玫瑰",
+  "audio": "audio/ja/ja_バラ.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "ロック",
+   "歌",
+   "カラオケ"
+  ],
+  "example": {
+   "t": "このバラはとてもきれいです。",
+   "zh": "这朵玫瑰非常漂亮。"
+  }
+ },
+ {
+  "id": "ja_ヒマワリ",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 11,
+  "lemma": "ヒマワリ",
+  "kana": "ヒマワリ",
+  "kanji": null,
+  "romaji": "himawari",
+  "pos": "名",
+  "pron": "[himawari]",
+  "meaning_zh": "向日葵",
+  "audio": "audio/ja/ja_ヒマワリ.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "カラオケ",
+   "ロック",
+   "歌"
+  ],
+  "example": {
+   "t": "庭に大きなヒマワリがあります。",
+   "zh": "院子里有一棵大向日葵。"
+  }
+ },
+ {
+  "id": "ja_ピアノ",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 11,
+  "lemma": "ピアノ",
+  "kana": "ピアノ",
+  "kanji": null,
+  "romaji": "piano",
+  "pos": "名",
+  "pron": "[piano]",
+  "meaning_zh": "钢琴",
+  "audio": "audio/ja/ja_ピアノ.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "歌",
+   "カラオケ",
+   "ロック"
+  ],
+  "example": {
+   "t": "私はピアノを弾きます。",
+   "zh": "我弹钢琴。"
+  }
+ },
+ {
+  "id": "ja_ポップス",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 11,
+  "lemma": "ポップス",
+  "kana": "ポップス",
+  "kanji": null,
+  "romaji": "poppusu",
+  "pos": "名",
+  "pron": "[poppusu]",
+  "meaning_zh": "流行音乐",
+  "audio": "audio/ja/ja_ポップス.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "カラオケ",
+   "ロック",
+   "歌"
+  ],
+  "example": {
+   "t": "若い人はポップスが好きです。",
+   "zh": "年轻人喜欢流行音乐。"
+  }
+ },
+ {
+  "id": "ja_ロック",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 11,
+  "lemma": "ロック",
+  "kana": "ロック",
+  "kanji": null,
+  "romaji": "rokku",
+  "pos": "名",
+  "pron": "[rokku]",
+  "meaning_zh": "摇滚乐",
+  "audio": "audio/ja/ja_ロック.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "歌",
+   "カラオケ",
+   "ポップス"
+  ],
+  "example": {
+   "t": "兄はロックをよく聞きます。",
+   "zh": "哥哥经常听摇滚乐。"
+  }
+ },
+ {
+  "id": "ja_上手",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 11,
+  "lemma": "上手",
+  "kana": "じょうず",
+  "kanji": "上手",
+  "romaji": "jouzu",
+  "pos": "形2",
+  "pron": "[jouzu]",
+  "meaning_zh": "擅长,高明,水平高",
+  "audio": "audio/ja/ja_上手.ogg",
+  "tags": [
+   "core",
+   "adj"
+  ],
+  "distractors": [
+   "下手",
+   "苦手",
+   "歌"
+  ],
+  "example": {
+   "t": "李さんは歌が上手です。",
+   "zh": "小李唱歌很好。"
+  }
+ },
+ {
+  "id": "ja_下手",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 11,
+  "lemma": "下手",
+  "kana": "へた",
+  "kanji": "下手",
+  "romaji": "heta",
+  "pos": "形2",
+  "pron": "[heta]",
+  "meaning_zh": "不高明,水平低",
+  "audio": "audio/ja/ja_下手.ogg",
+  "tags": [
+   "core",
+   "adj"
+  ],
+  "distractors": [
+   "苦手",
+   "歌",
+   "上手"
+  ],
+  "example": {
+   "t": "私は歌が下手です。",
+   "zh": "我唱歌不好。"
+  }
+ },
+ {
+  "id": "ja_会議",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 11,
+  "lemma": "会議",
+  "kana": "かいぎ",
+  "kanji": "会議",
+  "romaji": "kaigi",
+  "pos": "名",
+  "pron": "[kaigi]",
+  "meaning_zh": "会议",
+  "audio": "audio/ja/ja_会議.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "歌",
+   "カラオケ",
+   "ロック"
+  ],
+  "example": {
+   "t": "明日、会議があります。",
+   "zh": "明天有会议。"
+  }
+ },
+ {
+  "id": "ja_写真展",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 11,
+  "lemma": "写真展",
+  "kana": "しゃしんてん",
+  "kanji": "写真展",
+  "romaji": "shashinten",
+  "pos": "名",
+  "pron": "[shashinten]",
+  "meaning_zh": "摄影展",
+  "audio": "audio/ja/ja_写真展.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "歌",
+   "カラオケ",
+   "ロック"
+  ],
+  "example": {
+   "t": "日曜日に写真展を見に行きます。",
+   "zh": "星期天去看摄影展。"
+  }
+ },
+ {
+  "id": "ja_分かります",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 11,
+  "lemma": "分かります",
+  "kana": "わかります",
+  "kanji": "分かります",
+  "romaji": "wakarimasu",
+  "pos": "动1",
+  "pron": "[wakarimasu]",
+  "meaning_zh": "懂,明白",
+  "audio": "audio/ja/ja_分かります.ogg",
+  "tags": [
+   "core",
+   "verb"
+  ],
+  "distractors": [
+   "迷います",
+   "歌",
+   "カラオケ"
+  ],
+  "example": {
+   "t": "この言葉の意味が分かります。",
+   "zh": "我明白这个词的意思。"
+  }
+ },
+ {
+  "id": "ja_別荘",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 11,
+  "lemma": "別荘",
+  "kana": "べっそう",
+  "kanji": "別荘",
+  "romaji": "bessou",
+  "pos": "名",
+  "pron": "[bessou]",
+  "meaning_zh": "别墅",
+  "audio": "audio/ja/ja_別荘.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "ロック",
+   "歌",
+   "カラオケ"
+  ],
+  "example": {
+   "t": "父は山に別荘を持っています。",
+   "zh": "爸爸在山里有别墅。"
+  }
+ },
+ {
+  "id": "ja_外国",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 11,
+  "lemma": "外国",
+  "kana": "がいこく",
+  "kanji": "外国",
+  "romaji": "gaikoku",
+  "pos": "名",
+  "pron": "[gaikoku]",
+  "meaning_zh": "外国",
+  "audio": "audio/ja/ja_外国.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "ロック",
+   "歌",
+   "カラオケ"
+  ],
+  "example": {
+   "t": "外国の友達がいます。",
+   "zh": "我有外国朋友。"
+  }
+ },
+ {
+  "id": "ja_寄木細工",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 11,
+  "lemma": "寄木細工",
+  "kana": "よせぎざいく",
+  "kanji": "寄木細工",
+  "romaji": "yosegizaiku",
+  "pos": "名",
+  "pron": "[yosegizaiku]",
+  "meaning_zh": "木片儿拼花工艺品",
+  "audio": "audio/ja/ja_寄木細工.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "歌",
+   "カラオケ",
+   "ロック"
+  ],
+  "example": {
+   "t": "これは箱根の寄木細工です。",
+   "zh": "这是箱根的木片拼花工艺品。"
+  }
+ },
+ {
+  "id": "ja_怖い",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 11,
+  "lemma": "怖い",
+  "kana": "こわい",
+  "kanji": "怖い",
+  "romaji": "kowai",
+  "pos": "形1",
+  "pron": "[kowai]",
+  "meaning_zh": "害怕,恐怖",
+  "audio": "audio/ja/ja_怖い.ogg",
+  "tags": [
+   "core",
+   "adj"
+  ],
+  "distractors": [
+   "赤い",
+   "痛い",
+   "歌"
+  ],
+  "example": {
+   "t": "この映画はとても怖いです。",
+   "zh": "这部电影非常可怕。"
+  }
+ },
+ {
+  "id": "ja_散歩します",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 11,
+  "lemma": "散歩します",
+  "kana": "さんぽします",
+  "kanji": "散歩します",
+  "romaji": "sanposhimasu",
+  "pos": "动3",
+  "pron": "[sanposhimasu]",
+  "meaning_zh": "散步",
+  "audio": "audio/ja/ja_散歩します.ogg",
+  "tags": [
+   "core",
+   "verb"
+  ],
+  "distractors": [
+   "ロック",
+   "歌",
+   "カラオケ"
+  ],
+  "example": {
+   "t": "毎朝公園を散歩します。",
+   "zh": "每天早上在公园散步。"
+  }
+ },
+ {
+  "id": "ja_旅館",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 11,
+  "lemma": "旅館",
+  "kana": "りょかん",
+  "kanji": "旅館",
+  "romaji": "ryokan",
+  "pos": "名",
+  "pron": "[ryokan]",
+  "meaning_zh": "旅馆,旅店",
+  "audio": "audio/ja/ja_旅館.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "カラオケ",
+   "ロック",
+   "歌"
+  ],
+  "example": {
+   "t": "京都の旅館に泊まりました。",
+   "zh": "在京都的旅馆住了。"
+  }
+ },
+ {
+  "id": "ja_時々",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 11,
+  "lemma": "時々",
+  "kana": "ときどき",
+  "kanji": "時々",
+  "romaji": "tokidoki",
+  "pos": "副",
+  "pron": "[tokidoki]",
+  "meaning_zh": "有时,时不时",
+  "audio": "audio/ja/ja_時々.ogg",
+  "tags": [
+   "core",
+   "adv"
+  ],
+  "distractors": [
+   "よく",
+   "たまに",
+   "また"
+  ],
+  "example": {
+   "t": "時々日本料理を作ります。",
+   "zh": "有时做日本料理。"
+  }
+ },
+ {
+  "id": "ja_果物",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 11,
+  "lemma": "果物",
+  "kana": "くだもの",
+  "kanji": "果物",
+  "romaji": "kudamono",
+  "pos": "名",
+  "pron": "[kudamono]",
+  "meaning_zh": "水果",
+  "audio": "audio/ja/ja_果物.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "歌",
+   "カラオケ",
+   "ロック"
+  ],
+  "example": {
+   "t": "果物は体にいいです。",
+   "zh": "水果对身体好。"
+  }
+ },
+ {
+  "id": "ja_模様",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 11,
+  "lemma": "模様",
+  "kana": "もよう",
+  "kanji": "模様",
+  "romaji": "moyou",
+  "pos": "名",
+  "pron": "[moyou]",
+  "meaning_zh": "花纹,纹案",
+  "audio": "audio/ja/ja_模様.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "カラオケ",
+   "ロック",
+   "歌"
+  ],
+  "example": {
+   "t": "この着物の模様はきれいです。",
+   "zh": "这件和服的花纹很美。"
+  }
+ },
+ {
+  "id": "ja_歌",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 11,
+  "lemma": "歌",
+  "kana": "うた",
+  "kanji": "歌",
+  "romaji": "uta",
+  "pos": "名",
+  "pron": "[uta]",
+  "meaning_zh": "歌,歌曲",
+  "audio": "audio/ja/ja_歌.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "ロック",
+   "ポップス",
+   "カラオケ"
+  ],
+  "example": {
+   "t": "日本の歌を歌います。",
+   "zh": "唱日本歌。"
+  }
+ },
+ {
+  "id": "ja_気に入ります",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 11,
+  "lemma": "気に入ります",
+  "kana": "きにいります",
+  "kanji": "気に入ります",
+  "romaji": "kiniirimasu",
+  "pos": "短语",
+  "pron": "[kiniirimasu]",
+  "meaning_zh": "喜欢,中意",
+  "audio": "audio/ja/ja_気に入ります.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "カラオケ",
+   "結構です",
+   "歌"
+  ],
+  "example": {
+   "t": "この写真がとても気に入りました。",
+   "zh": "我非常喜欢这张照片。"
+  }
+ },
+ {
+  "id": "ja_水泳",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 11,
+  "lemma": "水泳",
+  "kana": "すいえい",
+  "kanji": "水泳",
+  "romaji": "suiei",
+  "pos": "名",
+  "pron": "[suiei]",
+  "meaning_zh": "游泳",
+  "audio": "audio/ja/ja_水泳.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "ロック",
+   "歌",
+   "カラオケ"
+  ],
+  "example": {
+   "t": "私は水泳が好きです。",
+   "zh": "我喜欢游泳。"
+  }
+ },
+ {
+  "id": "ja_疲れます",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 11,
+  "lemma": "疲れます",
+  "kana": "つかれます",
+  "kanji": "疲れます",
+  "romaji": "tsukaremasu",
+  "pos": "动2",
+  "pron": "[tsukaremasu]",
+  "meaning_zh": "疲倦,疲惫",
+  "audio": "audio/ja/ja_疲れます.ogg",
+  "tags": [
+   "core",
+   "verb"
+  ],
+  "distractors": [
+   "閉めます",
+   "歌",
+   "できます"
+  ],
+  "example": {
+   "t": "今日はとても疲れました。",
+   "zh": "今天非常累。"
+  }
+ },
+ {
+  "id": "ja_痛い",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 11,
+  "lemma": "痛い",
+  "kana": "いたい",
+  "kanji": "痛い",
+  "romaji": "itai",
+  "pos": "形1",
+  "pron": "[itai]",
+  "meaning_zh": "疼,疼痛",
+  "audio": "audio/ja/ja_痛い.ogg",
+  "tags": [
+   "core",
+   "adj"
+  ],
+  "distractors": [
+   "歌",
+   "怖い",
+   "赤い"
+  ],
+  "example": {
+   "t": "頭が痛いです。",
+   "zh": "头疼。"
+  }
+ },
+ {
+  "id": "ja_窓",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 11,
+  "lemma": "窓",
+  "kana": "まど",
+  "kanji": "窓",
+  "romaji": "mado",
+  "pos": "名",
+  "pron": "[mado]",
+  "meaning_zh": "窗,窗户",
+  "audio": "audio/ja/ja_窓.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "カラオケ",
+   "ロック",
+   "歌"
+  ],
+  "example": {
+   "t": "窓を開けてください。",
+   "zh": "请把窗户打开。"
+  }
+ },
+ {
+  "id": "ja_結婚式",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 11,
+  "lemma": "結婚式",
+  "kana": "けっこんしき",
+  "kanji": "結婚式",
+  "romaji": "kekkonshiki",
+  "pos": "名",
+  "pron": "[kekkonshiki]",
+  "meaning_zh": "结婚典礼",
+  "audio": "audio/ja/ja_結婚式.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "ロック",
+   "歌",
+   "カラオケ"
+  ],
+  "example": {
+   "t": "来月、友達の結婚式があります。",
+   "zh": "下个月有朋友的婚礼。"
+  }
+ },
+ {
+  "id": "ja_結構です",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 11,
+  "lemma": "結構です",
+  "kana": "けっこうです",
+  "kanji": "結構です",
+  "romaji": "kekkoudesu",
+  "pos": "短语",
+  "pron": "[kekkoudesu]",
+  "meaning_zh": "不用,不要",
+  "audio": "audio/ja/ja_結構です.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "歌",
+   "カラオケ",
+   "気に入ります"
+  ],
+  "example": {
+   "t": "いいえ、結構です。",
+   "zh": "不，不用了。"
+  }
+ },
+ {
+  "id": "ja_絵",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 11,
+  "lemma": "絵",
+  "kana": "え",
+  "kanji": "絵",
+  "romaji": "e",
+  "pos": "名",
+  "pron": "[e]",
+  "meaning_zh": "画儿",
+  "audio": "audio/ja/ja_絵.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "カラオケ",
+   "ロック",
+   "歌"
+  ],
+  "example": {
+   "t": "壁に絵をかけました。",
+   "zh": "在墙上挂了画。"
+  }
+ },
+ {
+  "id": "ja_肉",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 11,
+  "lemma": "肉",
+  "kana": "にく",
+  "kanji": "肉",
+  "romaji": "niku",
+  "pos": "名",
+  "pron": "[niku]",
+  "meaning_zh": "肉",
+  "audio": "audio/ja/ja_肉.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "カラオケ",
+   "ロック",
+   "歌"
+  ],
+  "example": {
+   "t": "毎日肉を食べます。",
+   "zh": "每天吃肉。"
+  }
+ },
+ {
+  "id": "ja_脚",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 11,
+  "lemma": "脚",
+  "kana": "あし",
+  "kanji": "脚",
+  "romaji": "ashi",
+  "pos": "名",
+  "pron": "[ashi]",
+  "meaning_zh": "腿",
+  "audio": "audio/ja/ja_脚.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "カラオケ",
+   "ロック",
+   "歌"
+  ],
+  "example": {
+   "t": "彼女は脚が長いです。",
+   "zh": "她腿很长。"
+  }
+ },
+ {
+  "id": "ja_苦手",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 11,
+  "lemma": "苦手",
+  "kana": "にがて",
+  "kanji": "苦手",
+  "romaji": "nigate",
+  "pos": "形2",
+  "pron": "[nigate]",
+  "meaning_zh": "不擅长,不善于",
+  "audio": "audio/ja/ja_苦手.ogg",
+  "tags": [
+   "core",
+   "adj"
+  ],
+  "distractors": [
+   "歌",
+   "上手",
+   "下手"
+  ],
+  "example": {
+   "t": "私は数学が苦手です。",
+   "zh": "我不擅长数学。"
+  }
+ },
+ {
+  "id": "ja_英語",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 11,
+  "lemma": "英語",
+  "kana": "えいご",
+  "kanji": "英語",
+  "romaji": "eigo",
+  "pos": "名",
+  "pron": "[eigo]",
+  "meaning_zh": "英语",
+  "audio": "audio/ja/ja_英語.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "ロック",
+   "歌",
+   "カラオケ"
+  ],
+  "example": {
+   "t": "英語を勉強しています。",
+   "zh": "我在学英语。"
+  }
+ },
+ {
+  "id": "ja_赤い",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 11,
+  "lemma": "赤い",
+  "kana": "あかい",
+  "kanji": "赤い",
+  "romaji": "akai",
+  "pos": "形1",
+  "pron": "[akai]",
+  "meaning_zh": "红",
+  "audio": "audio/ja/ja_赤い.ogg",
+  "tags": [
+   "core",
+   "adj"
+  ],
+  "distractors": [
+   "痛い",
+   "歌",
+   "怖い"
+  ],
+  "example": {
+   "t": "これは赤いりんごです。",
+   "zh": "这是红苹果。"
+  }
+ },
+ {
+  "id": "ja_迷います",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 11,
+  "lemma": "迷います",
+  "kana": "まよいます",
+  "kanji": "迷います",
+  "romaji": "mayoimasu",
+  "pos": "动1",
+  "pron": "[mayoimasu]",
+  "meaning_zh": "犹豫,难以决定",
+  "audio": "audio/ja/ja_迷います.ogg",
+  "tags": [
+   "core",
+   "verb"
+  ],
+  "distractors": [
+   "歌",
+   "カラオケ",
+   "分かります"
+  ],
+  "example": {
+   "t": "どれを買うか迷います。",
+   "zh": "犹豫买哪个。"
+  }
+ },
+ {
+  "id": "ja_運転",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 11,
+  "lemma": "運転",
+  "kana": "うんてん",
+  "kanji": "運転",
+  "romaji": "unten",
+  "pos": "名",
+  "pron": "[unten]",
+  "meaning_zh": "开车",
+  "audio": "audio/ja/ja_運転.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "カラオケ",
+   "ロック",
+   "歌"
+  ],
+  "example": {
+   "t": "毎日車を運転します。",
+   "zh": "每天开车。"
+  }
+ },
+ {
+  "id": "ja_野菜",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 11,
+  "lemma": "野菜",
+  "kana": "やさい",
+  "kanji": "野菜",
+  "romaji": "yasai",
+  "pos": "名",
+  "pron": "[yasai]",
+  "meaning_zh": "蔬菜",
+  "audio": "audio/ja/ja_野菜.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "ロック",
+   "歌",
+   "カラオケ"
+  ],
+  "example": {
+   "t": "野菜をたくさん食べます。",
+   "zh": "多吃蔬菜。"
+  }
+ },
+ {
+  "id": "ja_閉めます",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 11,
+  "lemma": "閉めます",
+  "kana": "しめます",
+  "kanji": "閉めます",
+  "romaji": "shimemasu",
+  "pos": "动2",
+  "pron": "[shimemasu]",
+  "meaning_zh": "关闭,关门",
+  "audio": "audio/ja/ja_閉めます.ogg",
+  "tags": [
+   "core",
+   "verb"
+  ],
+  "distractors": [
+   "できます",
+   "疲れます",
+   "歌"
+  ],
+  "example": {
+   "t": "寒いですから、窓を閉めます。",
+   "zh": "因为冷，所以关窗。"
+  }
+ },
+ {
+  "id": "ja_飲み物",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 11,
+  "lemma": "飲み物",
+  "kana": "のみもの",
+  "kanji": "飲み物",
+  "romaji": "nomimono",
+  "pos": "名",
+  "pron": "[nomimono]",
+  "meaning_zh": "饮料",
+  "audio": "audio/ja/ja_飲み物.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "ロック",
+   "歌",
+   "カラオケ"
+  ],
+  "example": {
+   "t": "何か飲み物をください。",
+   "zh": "请给我来点饮料。"
+  }
+ },
+ {
+  "id": "ja_いちばん",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 12,
+  "lemma": "いちばん",
+  "kana": "いちばん",
+  "kanji": null,
+  "romaji": "ichiban",
+  "pos": "副",
+  "pron": "[ichiban]",
+  "meaning_zh": "最,第一",
+  "audio": "audio/ja/ja_いちばん.ogg",
+  "tags": [
+   "core",
+   "adv"
+  ],
+  "distractors": [
+   "やはり",
+   "季節",
+   "ずっと"
+  ],
+  "example": {
+   "t": "一年で夏がいちばん好きです。",
+   "zh": "一年之中最喜欢夏天。"
+  }
+ },
+ {
+  "id": "ja_ずっと",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 12,
+  "lemma": "ずっと",
+  "kana": "ずっと",
+  "kanji": null,
+  "romaji": "zutto",
+  "pos": "副",
+  "pron": "[zutto]",
+  "meaning_zh": "～得多",
+  "audio": "audio/ja/ja_ずっと.ogg",
+  "tags": [
+   "core",
+   "adv"
+  ],
+  "distractors": [
+   "季節",
+   "いちばん",
+   "やはり"
+  ],
+  "example": {
+   "t": "今日は昨日よりずっと寒いです。",
+   "zh": "今天比昨天冷得多。"
+  }
+ },
+ {
+  "id": "ja_やはり",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 12,
+  "lemma": "やはり",
+  "kana": "やはり",
+  "kanji": null,
+  "romaji": "yahari",
+  "pos": "副",
+  "pron": "[yahari]",
+  "meaning_zh": "仍然,还是",
+  "audio": "audio/ja/ja_やはり.ogg",
+  "tags": [
+   "core",
+   "adv"
+  ],
+  "syn": [
+   "やっぱり"
+  ],
+  "distractors": [
+   "いちばん",
+   "ずっと",
+   "季節"
+  ],
+  "example": {
+   "t": "やはり、日本の生活は楽しいです。",
+   "zh": "果然，日本的生活很开心。"
+  }
+ },
+ {
+  "id": "ja_ウーロン茶",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 12,
+  "lemma": "ウーロン茶",
+  "kana": "ウーロンちゃ",
+  "kanji": "ウーロン茶",
+  "romaji": "uuroncha",
+  "pos": "名",
+  "pron": "[uuroncha]",
+  "meaning_zh": "乌龙茶",
+  "audio": "audio/ja/ja_ウーロン茶.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "春",
+   "季節",
+   "冬"
+  ],
+  "example": {
+   "t": "私はウーロン茶を飲みます。",
+   "zh": "我喝乌龙茶。"
+  }
+ },
+ {
+  "id": "ja_エベレスト",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 12,
+  "lemma": "エベレスト",
+  "kana": "エベレスト",
+  "kanji": null,
+  "romaji": "eberesuto",
+  "pos": "专",
+  "pron": "[eberesuto]",
+  "meaning_zh": "珠穆朗玛峰",
+  "audio": "audio/ja/ja_エベレスト.ogg",
+  "tags": [
+   "core",
+   "name"
+  ],
+  "distractors": [
+   "冬",
+   "春",
+   "季節"
+  ],
+  "example": {
+   "t": "エベレストは世界でいちばん高い山です。",
+   "zh": "珠穆朗玛峰是世界最高的山。"
+  }
+ },
+ {
+  "id": "ja_クラス",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 12,
+  "lemma": "クラス",
+  "kana": "クラス",
+  "kanji": null,
+  "romaji": "kurasu",
+  "pos": "名",
+  "pron": "[kurasu]",
+  "meaning_zh": "班级",
+  "audio": "audio/ja/ja_クラス.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "春",
+   "季節",
+   "冬"
+  ],
+  "example": {
+   "t": "私のクラスは40人です。",
+   "zh": "我们班有40人。"
+  }
+ },
+ {
+  "id": "ja_ジャスミン茶",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 12,
+  "lemma": "ジャスミン茶",
+  "kana": "ジャスミンちゃ",
+  "kanji": "ジャスミン茶",
+  "romaji": "jasumincha",
+  "pos": "名",
+  "pron": "[jasumincha]",
+  "meaning_zh": "茉莉花茶",
+  "audio": "audio/ja/ja_ジャスミン茶.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "季節",
+   "冬",
+   "春"
+  ],
+  "example": {
+   "t": "この店のジャスミン茶はおいしいです。",
+   "zh": "这家店的茉莉花茶很好喝。"
+  }
+ },
+ {
+  "id": "ja_ジュース",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 12,
+  "lemma": "ジュース",
+  "kana": "ジュース",
+  "kanji": null,
+  "romaji": "juusu",
+  "pos": "名",
+  "pron": "[juusu]",
+  "meaning_zh": "果汁",
+  "audio": "audio/ja/ja_ジュース.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "春",
+   "季節",
+   "冬"
+  ],
+  "example": {
+   "t": "朝、ジュースを飲みます。",
+   "zh": "早上喝果汁。"
+  }
+ },
+ {
+  "id": "ja_ナシ",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 12,
+  "lemma": "ナシ",
+  "kana": "ナシ",
+  "kanji": null,
+  "romaji": "nashi",
+  "pos": "名",
+  "pron": "[nashi]",
+  "meaning_zh": "梨",
+  "audio": "audio/ja/ja_ナシ.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "春",
+   "季節",
+   "冬"
+  ],
+  "example": {
+   "t": "ナシは秋の果物です。",
+   "zh": "梨是秋天的水果。"
+  }
+ },
+ {
+  "id": "ja_バナナ",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 12,
+  "lemma": "バナナ",
+  "kana": "バナナ",
+  "kanji": null,
+  "romaji": "banana",
+  "pos": "名",
+  "pron": "[banana]",
+  "meaning_zh": "香蕉",
+  "audio": "audio/ja/ja_バナナ.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "季節",
+   "冬",
+   "春"
+  ],
+  "example": {
+   "t": "バナナを二本買いました。",
+   "zh": "买了两根香蕉。"
+  }
+ },
+ {
+  "id": "ja_ミカン",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 12,
+  "lemma": "ミカン",
+  "kana": "ミカン",
+  "kanji": null,
+  "romaji": "mikan",
+  "pos": "名",
+  "pron": "[mikan]",
+  "meaning_zh": "橘子",
+  "audio": "audio/ja/ja_ミカン.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "冬",
+   "春",
+   "季節"
+  ],
+  "example": {
+   "t": "冬はミカンがおいしいです。",
+   "zh": "冬天橘子好吃。"
+  }
+ },
+ {
+  "id": "ja_人気",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 12,
+  "lemma": "人気",
+  "kana": "にんき",
+  "kanji": "人気",
+  "romaji": "ninki",
+  "pos": "名",
+  "pron": "[ninki]",
+  "meaning_zh": "声望,受欢迎",
+  "audio": "audio/ja/ja_人気.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "季節",
+   "冬",
+   "春"
+  ],
+  "example": {
+   "t": "この映画は人気が高いです。",
+   "zh": "这部电影很受欢迎。"
+  }
+ },
+ {
+  "id": "ja_人気があります",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 12,
+  "lemma": "人気があります",
+  "kana": "にんきがあります",
+  "kanji": "人気があります",
+  "romaji": "ninkigaarimasu",
+  "pos": "短语",
+  "pron": "[ninkigaarimasu]",
+  "meaning_zh": "受欢迎",
+  "audio": "audio/ja/ja_人気があります.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "冬",
+   "～年間",
+   "季節"
+  ],
+  "example": {
+   "t": "この歌は若い人に人気があります。",
+   "zh": "这首歌在年轻人中很受欢迎。"
+  }
+ },
+ {
+  "id": "ja_兄",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 12,
+  "lemma": "兄",
+  "kana": "あに",
+  "kanji": "兄",
+  "romaji": "ani",
+  "pos": "名",
+  "pron": "[ani]",
+  "meaning_zh": "哥哥,兄长",
+  "audio": "audio/ja/ja_兄.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "春",
+   "季節",
+   "冬"
+  ],
+  "example": {
+   "t": "兄は大学で英語を教えています。",
+   "zh": "哥哥在大学教英语。"
+  }
+ },
+ {
+  "id": "ja_冬",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 12,
+  "lemma": "冬",
+  "kana": "ふゆ",
+  "kanji": "冬",
+  "romaji": "fuyu",
+  "pos": "名",
+  "pron": "[fuyu]",
+  "meaning_zh": "冬天,冬季",
+  "audio": "audio/ja/ja_冬.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "春",
+   "日本料理",
+   "季節"
+  ],
+  "example": {
+   "t": "冬は寒くて、雪が降ります。",
+   "zh": "冬天很冷，会下雪。"
+  }
+ },
+ {
+  "id": "ja_大好き",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 12,
+  "lemma": "大好き",
+  "kana": "だいすき",
+  "kanji": "大好き",
+  "romaji": "daisuki",
+  "pos": "形2",
+  "pron": "[daisuki]",
+  "meaning_zh": "非常喜欢",
+  "audio": "audio/ja/ja_大好き.ogg",
+  "tags": [
+   "core",
+   "adj"
+  ],
+  "distractors": [
+   "季節",
+   "冬",
+   "春"
+  ],
+  "example": {
+   "t": "私は日本のアニメが大好きです。",
+   "zh": "我非常喜欢日本动画。"
+  }
+ },
+ {
+  "id": "ja_季節",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 12,
+  "lemma": "季節",
+  "kana": "きせつ",
+  "kanji": "季節",
+  "romaji": "kisetsu",
+  "pos": "名",
+  "pron": "[kisetsu]",
+  "meaning_zh": "季节",
+  "audio": "audio/ja/ja_季節.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "冬",
+   "春",
+   "日本料理"
+  ],
+  "example": {
+   "t": "春は一番いい季節です。",
+   "zh": "春天是最好的季节。"
+  }
+ },
+ {
+  "id": "ja_寿司",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 12,
+  "lemma": "寿司",
+  "kana": "すし",
+  "kanji": "寿司",
+  "romaji": "sushi",
+  "pos": "名",
+  "pron": "[sushi]",
+  "meaning_zh": "寿司",
+  "audio": "audio/ja/ja_寿司.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "冬",
+   "春",
+   "季節"
+  ],
+  "example": {
+   "t": "日本料理の中で寿司が一番好きです。",
+   "zh": "日本菜里最喜欢寿司。"
+  }
+ },
+ {
+  "id": "ja_席",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 12,
+  "lemma": "席",
+  "kana": "せき",
+  "kanji": "席",
+  "romaji": "seki",
+  "pos": "名",
+  "pron": "[seki]",
+  "meaning_zh": "座位,席位",
+  "audio": "audio/ja/ja_席.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "冬",
+   "春",
+   "季節"
+  ],
+  "example": {
+   "t": "窓の近くの席に座ります。",
+   "zh": "坐在靠窗的座位。"
+  }
+ },
+ {
+  "id": "ja_日本料理",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 12,
+  "lemma": "日本料理",
+  "kana": "にほんりょうり",
+  "kanji": "日本料理",
+  "romaji": "nihonryouri",
+  "pos": "名",
+  "pron": "[nihonryouri]",
+  "meaning_zh": "日式饭菜",
+  "audio": "audio/ja/ja_日本料理.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "季節",
+   "冬",
+   "春"
+  ],
+  "example": {
+   "t": "夜、日本料理を食べに行きます。",
+   "zh": "晚上去吃日本菜。"
+  }
+ },
+ {
+  "id": "ja_日本酒",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 12,
+  "lemma": "日本酒",
+  "kana": "にほんしゅ",
+  "kanji": "日本酒",
+  "romaji": "nihonshu",
+  "pos": "名",
+  "pron": "[nihonshu]",
+  "meaning_zh": "日本酒",
+  "audio": "audio/ja/ja_日本酒.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "季節",
+   "冬",
+   "春"
+  ],
+  "example": {
+   "t": "日本酒は少し強いです。",
+   "zh": "日本酒有点烈。"
+  }
+ },
+ {
+  "id": "ja_春",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 12,
+  "lemma": "春",
+  "kana": "はる",
+  "kanji": "春",
+  "romaji": "haru",
+  "pos": "名",
+  "pron": "[haru]",
+  "meaning_zh": "春天,春季",
+  "audio": "audio/ja/ja_春.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "日本料理",
+   "季節",
+   "冬"
+  ],
+  "example": {
+   "t": "春になると、花が咲きます。",
+   "zh": "到了春天，花就开了。"
+  }
+ },
+ {
+  "id": "ja_暖かい",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 12,
+  "lemma": "暖かい",
+  "kana": "あたたかい",
+  "kanji": "暖かい",
+  "romaji": "atatakai",
+  "pos": "形1",
+  "pron": "[atatakai]",
+  "meaning_zh": "暖和,温暖",
+  "audio": "audio/ja/ja_暖かい.ogg",
+  "tags": [
+   "core",
+   "adj"
+  ],
+  "distractors": [
+   "若い",
+   "涼しい",
+   "速い"
+  ],
+  "example": {
+   "t": "今日はとても暖かいです。",
+   "zh": "今天非常暖和。"
+  }
+ },
+ {
+  "id": "ja_最近",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 12,
+  "lemma": "最近",
+  "kana": "さいきん",
+  "kanji": "最近",
+  "romaji": "saikin",
+  "pos": "名",
+  "pron": "[saikin]",
+  "meaning_zh": "最近,近来",
+  "audio": "audio/ja/ja_最近.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "季節",
+   "冬",
+   "春"
+  ],
+  "example": {
+   "t": "最近、忙しいです。",
+   "zh": "最近很忙。"
+  }
+ },
+ {
+  "id": "ja_涼しい",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 12,
+  "lemma": "涼しい",
+  "kana": "すずしい",
+  "kanji": "涼しい",
+  "romaji": "suzushii",
+  "pos": "形1",
+  "pron": "[suzushii]",
+  "meaning_zh": "凉爽",
+  "audio": "audio/ja/ja_涼しい.ogg",
+  "tags": [
+   "core",
+   "adj"
+  ],
+  "distractors": [
+   "暖かい",
+   "速い",
+   "若い"
+  ],
+  "example": {
+   "t": "秋は涼しくて気持ちがいいです。",
+   "zh": "秋天凉爽，很舒服。"
+  }
+ },
+ {
+  "id": "ja_焼酎",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 12,
+  "lemma": "焼酎",
+  "kana": "しょうちゅう",
+  "kanji": "焼酎",
+  "romaji": "shouchuu",
+  "pos": "名",
+  "pron": "[shouchuu]",
+  "meaning_zh": "烧酒",
+  "audio": "audio/ja/ja_焼酎.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "春",
+   "季節",
+   "冬"
+  ],
+  "example": {
+   "t": "父は焼酎をよく飲みます。",
+   "zh": "爸爸经常喝烧酒。"
+  }
+ },
+ {
+  "id": "ja_種類",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 12,
+  "lemma": "種類",
+  "kana": "しゅるい",
+  "kanji": "種類",
+  "romaji": "shurui",
+  "pos": "名",
+  "pron": "[shurui]",
+  "meaning_zh": "种类",
+  "audio": "audio/ja/ja_種類.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "季節",
+   "冬",
+   "春"
+  ],
+  "example": {
+   "t": "この店にはお茶の種類が多いです。",
+   "zh": "这家店的茶种类很多。"
+  }
+ },
+ {
+  "id": "ja_紅茶",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 12,
+  "lemma": "紅茶",
+  "kana": "こうちゃ",
+  "kanji": "紅茶",
+  "romaji": "koucha",
+  "pos": "名",
+  "pron": "[koucha]",
+  "meaning_zh": "红茶",
+  "audio": "audio/ja/ja_紅茶.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "冬",
+   "春",
+   "季節"
+  ],
+  "example": {
+   "t": "紅茶に砂糖を入れます。",
+   "zh": "往红茶里加糖。"
+  }
+ },
+ {
+  "id": "ja_緑茶",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 12,
+  "lemma": "緑茶",
+  "kana": "りょくちゃ",
+  "kanji": "緑茶",
+  "romaji": "ryokucha",
+  "pos": "名",
+  "pron": "[ryokucha]",
+  "meaning_zh": "绿茶",
+  "audio": "audio/ja/ja_緑茶.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "冬",
+   "春",
+   "季節"
+  ],
+  "example": {
+   "t": "日本では緑茶をよく飲みます。",
+   "zh": "在日本经常喝绿茶。"
+  }
+ },
+ {
+  "id": "ja_背",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 12,
+  "lemma": "背",
+  "kana": "せ",
+  "kanji": "背",
+  "romaji": "se",
+  "pos": "名",
+  "pron": "[se]",
+  "meaning_zh": "个子",
+  "audio": "audio/ja/ja_背.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "冬",
+   "春",
+   "季節"
+  ],
+  "example": {
+   "t": "彼は背が高いです。",
+   "zh": "他个子高。"
+  }
+ },
+ {
+  "id": "ja_若い",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 12,
+  "lemma": "若い",
+  "kana": "わかい",
+  "kanji": "若い",
+  "romaji": "wakai",
+  "pos": "形1",
+  "pron": "[wakai]",
+  "meaning_zh": "年轻",
+  "audio": "audio/ja/ja_若い.ogg",
+  "tags": [
+   "core",
+   "adj"
+  ],
+  "distractors": [
+   "速い",
+   "暖かい",
+   "涼しい"
+  ],
+  "example": {
+   "t": "あの人はまだ若いです。",
+   "zh": "那个人还很年轻。"
+  }
+ },
+ {
+  "id": "ja_速い",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 12,
+  "lemma": "速い",
+  "kana": "はやい",
+  "kanji": "速い",
+  "romaji": "hayai",
+  "pos": "形1",
+  "pron": "[hayai]",
+  "meaning_zh": "快",
+  "audio": "audio/ja/ja_速い.ogg",
+  "tags": [
+   "core",
+   "adj"
+  ],
+  "distractors": [
+   "涼しい",
+   "若い",
+   "暖かい"
+  ],
+  "example": {
+   "t": "この電車はとても速いです。",
+   "zh": "这趟电车非常快。"
+  }
+ },
+ {
+  "id": "ja_降ります",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 12,
+  "lemma": "降ります",
+  "kana": "ふります",
+  "kanji": "降ります",
+  "romaji": "furimasu",
+  "pos": "动1",
+  "pron": "[furimasu]",
+  "meaning_zh": "下(雨,雪),降(雨,雪)",
+  "audio": "audio/ja/ja_降ります.ogg",
+  "tags": [
+   "core",
+   "verb"
+  ],
+  "distractors": [
+   "冬",
+   "春",
+   "季節"
+  ],
+  "example": {
+   "t": "明日は雪が降ります。",
+   "zh": "明天下雪。"
+  }
+ },
+ {
+  "id": "ja_～年間",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 12,
+  "lemma": "～年間",
+  "kana": "ねんかん",
+  "kanji": "～年間",
+  "romaji": "nenkan",
+  "pos": "短语",
+  "pron": "[nenkan]",
+  "meaning_zh": "…年之间",
+  "audio": "audio/ja/ja_～年間.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "人気があります",
+   "季節",
+   "冬"
+  ],
+  "example": {
+   "t": "彼は三年間日本に住んでいました。",
+   "zh": "他在日本住了三年。"
+  }
+ }
+]

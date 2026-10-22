@@ -1,0 +1,3088 @@
+[
+ {
+  "id": "ja_物",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 19,
+  "lemma": "物",
+  "kana": "もの",
+  "kanji": "物",
+  "romaji": "mono",
+  "pos": "名",
+  "pron": "[mono]",
+  "meaning_zh": "东西；物品",
+  "colloc": [
+   "～を買う",
+   "～がある"
+  ],
+  "syn": [
+   "品物"
+  ],
+  "example": {
+   "t": "日本で 珍しい 物を 買った ことが あります。",
+   "zh": "我在日本买过稀罕的东西。"
+  },
+  "audio": "audio/ja/ja_物.ogg",
+  "distractors": [
+   "品物",
+   "物事",
+   "荷物"
+  ],
+  "tags": [
+   "core",
+   "noun"
+  ]
+ },
+ {
+  "id": "ja_値段",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 19,
+  "lemma": "値段",
+  "kana": "ねだん",
+  "kanji": "値段",
+  "romaji": "nedan",
+  "pos": "名",
+  "pron": "[nedan]",
+  "meaning_zh": "价格；价钱",
+  "colloc": [
+   "～が高い",
+   "～を見る"
+  ],
+  "syn": [
+   "価格"
+  ],
+  "example": {
+   "t": "この 店で 安い 値段の 物を 見た ことが あります。",
+   "zh": "我在这家店见过价格便宜的东西。"
+  },
+  "audio": "audio/ja/ja_値段.ogg",
+  "distractors": [
+   "価格",
+   "値引き",
+   "代金"
+  ],
+  "tags": [
+   "core",
+   "noun"
+  ]
+ },
+ {
+  "id": "ja_サイズ",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 19,
+  "lemma": "サイズ",
+  "kana": "サイズ",
+  "kanji": null,
+  "romaji": "saizu",
+  "pos": "名",
+  "pron": "[saizu]",
+  "meaning_zh": "尺寸；大小",
+  "colloc": [
+   "～が合う",
+   "～を選ぶ"
+  ],
+  "example": {
+   "t": "大きい サイズの 靴を 買った ことが あります。",
+   "zh": "我买过大号的鞋。"
+  },
+  "audio": "audio/ja/ja_サイズ.ogg",
+  "distractors": [
+   "大きさ",
+   "寸法",
+   "形"
+  ],
+  "tags": [
+   "core",
+   "noun"
+  ]
+ },
+ {
+  "id": "ja_小説",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 19,
+  "lemma": "小説",
+  "kana": "しょうせつ",
+  "kanji": "小説",
+  "romaji": "shousetsu",
+  "pos": "名",
+  "pron": "[shousetsu]",
+  "meaning_zh": "小说",
+  "colloc": [
+   "～を読む",
+   "～を書く"
+  ],
+  "example": {
+   "t": "日本の 小説を 読んだ ことが あります。",
+   "zh": "我读过日本的小说。"
+  },
+  "audio": "audio/ja/ja_小説.ogg",
+  "distractors": [
+   "物語",
+   "作文",
+   "評論"
+  ],
+  "tags": [
+   "core",
+   "noun"
+  ]
+ },
+ {
+  "id": "ja_デザイン",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 19,
+  "lemma": "デザイン",
+  "kana": "デザイン",
+  "kanji": null,
+  "romaji": "dezain",
+  "pos": "名",
+  "pron": "[dezain]",
+  "meaning_zh": "设计；款式",
+  "colloc": [
+   "～がいい",
+   "～を変える"
+  ],
+  "example": {
+   "t": "この デザインの 服を 着た ことが あります。",
+   "zh": "我穿过这种款式的衣服。"
+  },
+  "audio": "audio/ja/ja_デザイン.ogg",
+  "distractors": [
+   "パターン",
+   "モデル",
+   "スタイル"
+  ],
+  "tags": [
+   "daily",
+   "noun"
+  ]
+ },
+ {
+  "id": "ja_色",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 19,
+  "lemma": "色",
+  "kana": "いろ",
+  "kanji": "色",
+  "romaji": "iro",
+  "pos": "名",
+  "pron": "[iro]",
+  "meaning_zh": "颜色；色彩",
+  "colloc": [
+   "～が好き",
+   "～を選ぶ"
+  ],
+  "example": {
+   "t": "赤い 色の 車を 見た ことが あります。",
+   "zh": "我见过红色的车。"
+  },
+  "audio": "audio/ja/ja_色.ogg",
+  "distractors": [
+   "色彩",
+   "塗料",
+   "模様"
+  ],
+  "tags": [
+   "core",
+   "noun"
+  ]
+ },
+ {
+  "id": "ja_柄",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 19,
+  "lemma": "柄",
+  "kana": "がら",
+  "kanji": "柄",
+  "romaji": "gara",
+  "pos": "名",
+  "pron": "[gara]",
+  "meaning_zh": "花纹；花样",
+  "colloc": [
+   "～がつく",
+   "～の着物"
+  ],
+  "example": {
+   "t": "花の 柄の 着物を 着た ことが あります。",
+   "zh": "我穿过带花纹的和服。"
+  },
+  "audio": "audio/ja/ja_柄.ogg",
+  "distractors": [
+   "模様",
+   "縞",
+   "刺繍"
+  ],
+  "tags": [
+   "daily",
+   "noun"
+  ]
+ },
+ {
+  "id": "ja_革",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 19,
+  "lemma": "革",
+  "kana": "かわ",
+  "kanji": "革",
+  "romaji": "kawa",
+  "pos": "名",
+  "pron": "[kawa]",
+  "meaning_zh": "皮革",
+  "colloc": [
+   "～の鞄",
+   "～で作る"
+  ],
+  "example": {
+   "t": "革の 鞄を 買った ことが あります。",
+   "zh": "我买过皮包。"
+  },
+  "audio": "audio/ja/ja_革.ogg",
+  "distractors": [
+   "皮",
+   "布",
+   "紙"
+  ],
+  "tags": [
+   "daily",
+   "noun"
+  ]
+ },
+ {
+  "id": "ja_素材",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 19,
+  "lemma": "素材",
+  "kana": "そざい",
+  "kanji": "素材",
+  "romaji": "sozai",
+  "pos": "名",
+  "pron": "[sozai]",
+  "meaning_zh": "材质；素材",
+  "colloc": [
+   "～を使う",
+   "～がいい"
+  ],
+  "example": {
+   "t": "木の 素材で 作った 椅子を 見た ことが あります。",
+   "zh": "我见过用木质材料做的椅子。"
+  },
+  "audio": "audio/ja/ja_素材.ogg",
+  "distractors": [
+   "材料",
+   "原料",
+   "具材"
+  ],
+  "tags": [
+   "daily",
+   "noun"
+  ]
+ },
+ {
+  "id": "ja_工場",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 19,
+  "lemma": "工場",
+  "kana": "こうじょう",
+  "kanji": "工場",
+  "romaji": "koujou",
+  "pos": "名",
+  "pron": "[koujou]",
+  "meaning_zh": "工厂",
+  "colloc": [
+   "～で働く",
+   "～を見学する"
+  ],
+  "example": {
+   "t": "工場で 働いた ことが あります。",
+   "zh": "我在工厂工作过。"
+  },
+  "audio": "audio/ja/ja_工場.ogg",
+  "distractors": [
+   "会社",
+   "工事",
+   "農場"
+  ],
+  "tags": [
+   "core",
+   "place"
+  ]
+ },
+ {
+  "id": "ja_一度",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 19,
+  "lemma": "一度",
+  "kana": "いちど",
+  "kanji": "一度",
+  "romaji": "ichido",
+  "pos": "名",
+  "pron": "[ichido]",
+  "meaning_zh": "一次；一回",
+  "colloc": [
+   "～行く",
+   "～も～ない"
+  ],
+  "example": {
+   "t": "一度 京都へ 行った ことが あります。",
+   "zh": "我去过一次京都。"
+  },
+  "audio": "audio/ja/ja_一度.ogg",
+  "distractors": [
+   "一回",
+   "一時",
+   "一般"
+  ],
+  "tags": [
+   "core",
+   "time"
+  ]
+ },
+ {
+  "id": "ja_何回",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 19,
+  "lemma": "何回",
+  "kana": "なんかい",
+  "kanji": "何回",
+  "romaji": "nankai",
+  "pos": "名",
+  "pron": "[nankai]",
+  "meaning_zh": "几次；多少次",
+  "colloc": [
+   "～も",
+   "～行く"
+  ],
+  "example": {
+   "t": "何回も この 映画を 見た ことが あります。",
+   "zh": "这部电影我看过好几遍。"
+  },
+  "audio": "audio/ja/ja_何回.ogg",
+  "distractors": [
+   "何度",
+   "何個",
+   "何人"
+  ],
+  "tags": [
+   "core",
+   "time"
+  ]
+ },
+ {
+  "id": "ja_昔",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 19,
+  "lemma": "昔",
+  "kana": "むかし",
+  "kanji": "昔",
+  "romaji": "mukashi",
+  "pos": "名",
+  "pron": "[mukashi]",
+  "meaning_zh": "从前；过去",
+  "colloc": [
+   "～の話",
+   "～から"
+  ],
+  "ant": [
+   "今"
+  ],
+  "example": {
+   "t": "昔の 写真を 見た ことが あります。",
+   "zh": "我看过以前的照片。"
+  },
+  "audio": "audio/ja/ja_昔.ogg",
+  "distractors": [
+   "今",
+   "昔々",
+   "最近"
+  ],
+  "tags": [
+   "core",
+   "time"
+  ]
+ },
+ {
+  "id": "ja_今度",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 19,
+  "lemma": "今度",
+  "kana": "こんど",
+  "kanji": "今度",
+  "romaji": "kondo",
+  "pos": "名",
+  "pron": "[kondo]",
+  "meaning_zh": "这次；下次",
+  "colloc": [
+   "～行く",
+   "～の休み"
+  ],
+  "example": {
+   "t": "今度 一緒に 京都へ 行ったり、写真を 撮ったり しましょう。",
+   "zh": "下次我们一起去京都、拍拍照吧。"
+  },
+  "audio": "audio/ja/ja_今度.ogg",
+  "distractors": [
+   "今回",
+   "この度",
+   "今週"
+  ],
+  "tags": [
+   "core",
+   "time"
+  ]
+ },
+ {
+  "id": "ja_初めて",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 19,
+  "lemma": "初めて",
+  "kana": "はじめて",
+  "kanji": null,
+  "romaji": "hajimete",
+  "pos": "副",
+  "pron": "[hajimete]",
+  "meaning_zh": "第一次；初次",
+  "colloc": [
+   "～～する",
+   "～会う"
+  ],
+  "example": {
+   "t": "初めて 日本の 歌舞伎を 見た ことが あります。",
+   "zh": "我看过一次日本的歌舞伎。"
+  },
+  "audio": "audio/ja/ja_初めて.ogg",
+  "distractors": [
+   "最初",
+   "再び",
+   "久しぶり"
+  ],
+  "tags": [
+   "core",
+   "time"
+  ]
+ },
+ {
+  "id": "ja_何度も",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 19,
+  "lemma": "何度も",
+  "kana": "なんども",
+  "kanji": null,
+  "romaji": "nandomo",
+  "pos": "副",
+  "pron": "[nandomo]",
+  "meaning_zh": "好几次；多次",
+  "colloc": [
+   "～練習する",
+   "～読む"
+  ],
+  "example": {
+   "t": "何度も 練習した ことが あります。",
+   "zh": "我练习过很多次。"
+  },
+  "audio": "audio/ja/ja_何度も.ogg",
+  "distractors": [
+   "何回も",
+   "何度か",
+   "一度も"
+  ],
+  "tags": [
+   "core",
+   "speaking"
+  ]
+ },
+ {
+  "id": "ja_いつか",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 19,
+  "lemma": "いつか",
+  "kana": "いつか",
+  "kanji": null,
+  "romaji": "itsuka",
+  "pos": "副",
+  "pron": "[itsuka]",
+  "meaning_zh": "某天；将来某时",
+  "colloc": [
+   "～行く",
+   "～会う"
+  ],
+  "example": {
+   "t": "いつか 海で 泳いだり、山に 登ったり したいです。",
+   "zh": "将来某天我想去海里游泳、去爬山。"
+  },
+  "audio": "audio/ja/ja_いつか.ogg",
+  "distractors": [
+   "いつも",
+   "いつまで",
+   "そのうち"
+  ],
+  "tags": [
+   "core",
+   "time"
+  ]
+ },
+ {
+  "id": "ja_ドラマ",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 19,
+  "lemma": "ドラマ",
+  "kana": "ドラマ",
+  "kanji": null,
+  "romaji": "dorama",
+  "pos": "名",
+  "pron": "[dorama]",
+  "meaning_zh": "电视剧；戏剧",
+  "colloc": [
+   "～を見る",
+   "～が好き"
+  ],
+  "example": {
+   "t": "日本の ドラマを 見た ことが あります。",
+   "zh": "我看过日本的电视剧。"
+  },
+  "audio": "audio/ja/ja_ドラマ.ogg",
+  "distractors": [
+   "映画",
+   "演劇",
+   "ドラマー"
+  ],
+  "tags": [
+   "daily",
+   "noun"
+  ]
+ },
+ {
+  "id": "ja_アニメ",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 19,
+  "lemma": "アニメ",
+  "kana": "アニメ",
+  "kanji": null,
+  "romaji": "anime",
+  "pos": "名",
+  "pron": "[anime]",
+  "meaning_zh": "动画片",
+  "colloc": [
+   "～を見る",
+   "～が好き"
+  ],
+  "example": {
+   "t": "日本の アニメを 見た ことが あります。",
+   "zh": "我看过日本的动画片。"
+  },
+  "audio": "audio/ja/ja_アニメ.ogg",
+  "distractors": [
+   "漫画",
+   "動画",
+   "ゲーム"
+  ],
+  "tags": [
+   "daily",
+   "noun"
+  ]
+ },
+ {
+  "id": "ja_漫画",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 19,
+  "lemma": "漫画",
+  "kana": "まんが",
+  "kanji": "漫画",
+  "romaji": "manga",
+  "pos": "名",
+  "pron": "[manga]",
+  "meaning_zh": "漫画",
+  "colloc": [
+   "～を読む",
+   "～を描く"
+  ],
+  "example": {
+   "t": "漫画を 読んだり、アニメを 見たり します。",
+   "zh": "我有时看漫画，有时看动画。"
+  },
+  "audio": "audio/ja/ja_漫画.ogg",
+  "distractors": [
+   "アニメ",
+   "絵本",
+   "雑誌"
+  ],
+  "tags": [
+   "daily",
+   "noun"
+  ]
+ },
+ {
+  "id": "ja_舞台",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 19,
+  "lemma": "舞台",
+  "kana": "ぶたい",
+  "kanji": "舞台",
+  "romaji": "butai",
+  "pos": "名",
+  "pron": "[butai]",
+  "meaning_zh": "舞台",
+  "colloc": [
+   "～に立つ",
+   "～を見る"
+  ],
+  "example": {
+   "t": "歌舞伎の 舞台を 見た ことが あります。",
+   "zh": "我看过歌舞伎的舞台表演。"
+  },
+  "audio": "audio/ja/ja_舞台.ogg",
+  "distractors": [
+   "劇場",
+   "会場",
+   "背景"
+  ],
+  "tags": [
+   "core",
+   "noun"
+  ]
+ },
+ {
+  "id": "ja_演奏",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 19,
+  "lemma": "演奏",
+  "kana": "えんそう",
+  "kanji": "演奏",
+  "romaji": "ensou",
+  "pos": "名",
+  "pron": "[ensou]",
+  "meaning_zh": "演奏",
+  "colloc": [
+   "～を聞く",
+   "～する"
+  ],
+  "example": {
+   "t": "ピアノの 演奏を 聞いた ことが あります。",
+   "zh": "我听过钢琴演奏。"
+  },
+  "audio": "audio/ja/ja_演奏.ogg",
+  "distractors": [
+   "演説",
+   "練習",
+   "講演"
+  ],
+  "tags": [
+   "core",
+   "listening"
+  ]
+ },
+ {
+  "id": "ja_出張",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 19,
+  "lemma": "出張",
+  "kana": "しゅっちょう",
+  "kanji": "出張",
+  "romaji": "shucchou",
+  "pos": "名",
+  "pron": "[shucchou]",
+  "meaning_zh": "出差",
+  "colloc": [
+   "～する",
+   "～で上海へ行く"
+  ],
+  "example": {
+   "t": "上海へ 出張した ことが あります。",
+   "zh": "我去上海出过差。"
+  },
+  "audio": "audio/ja/ja_出張.ogg",
+  "distractors": [
+   "出発",
+   "出勤",
+   "帰宅"
+  ],
+  "tags": [
+   "core",
+   "daily"
+  ]
+ },
+ {
+  "id": "ja_切符",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 19,
+  "lemma": "切符",
+  "kana": "きっぷ",
+  "kanji": "切符",
+  "romaji": "kippu",
+  "pos": "名",
+  "pron": "[kippu]",
+  "meaning_zh": "车票；票",
+  "colloc": [
+   "～を買う",
+   "～を予約する"
+  ],
+  "example": {
+   "t": "新幹線の 切符を 買った ことが あります。",
+   "zh": "我买过新干线的车票。"
+  },
+  "audio": "audio/ja/ja_切符.ogg",
+  "distractors": [
+   "切手",
+   "乗車券",
+   "定期"
+  ],
+  "tags": [
+   "core",
+   "noun"
+  ]
+ },
+ {
+  "id": "ja_会場",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 19,
+  "lemma": "会場",
+  "kana": "かいじょう",
+  "kanji": "会場",
+  "romaji": "kaijou",
+  "pos": "名",
+  "pron": "[kaijou]",
+  "meaning_zh": "会场",
+  "colloc": [
+   "～へ行く",
+   "～が込む"
+  ],
+  "example": {
+   "t": "コンサートの 会場へ 行った ことが あります。",
+   "zh": "我去过音乐会的会场。"
+  },
+  "audio": "audio/ja/ja_会場.ogg",
+  "distractors": [
+   "会議",
+   "運動場",
+   "広場"
+  ],
+  "tags": [
+   "core",
+   "place"
+  ]
+ },
+ {
+  "id": "ja_北海道",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 19,
+  "lemma": "北海道",
+  "kana": "ほっかいどう",
+  "kanji": "北海道",
+  "romaji": "hokkaidou",
+  "pos": "名",
+  "pron": "[hokkaidou]",
+  "meaning_zh": "北海道",
+  "colloc": [
+   "～へ行く",
+   "～でスキーをする"
+  ],
+  "example": {
+   "t": "北海道へ 行った ことが あります。",
+   "zh": "我去过北海道。"
+  },
+  "audio": "audio/ja/ja_北海道.ogg",
+  "distractors": [
+   "東北",
+   "四国",
+   "九州"
+  ],
+  "tags": [
+   "core",
+   "place"
+  ]
+ },
+ {
+  "id": "ja_沖縄",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 19,
+  "lemma": "沖縄",
+  "kana": "おきなわ",
+  "kanji": "沖縄",
+  "romaji": "okinawa",
+  "pos": "名",
+  "pron": "[okinawa]",
+  "meaning_zh": "冲绳",
+  "colloc": [
+   "～へ行く",
+   "～で泳ぐ"
+  ],
+  "example": {
+   "t": "沖縄で 泳いだ ことが あります。",
+   "zh": "我在冲绳游过泳。"
+  },
+  "audio": "audio/ja/ja_沖縄.ogg",
+  "distractors": [
+   "九州",
+   "台湾",
+   "ハワイ"
+  ],
+  "tags": [
+   "core",
+   "place"
+  ]
+ },
+ {
+  "id": "ja_東北",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 19,
+  "lemma": "東北",
+  "kana": "とうほく",
+  "kanji": "東北",
+  "romaji": "touhoku",
+  "pos": "名",
+  "pron": "[touhoku]",
+  "meaning_zh": "东北（地区）",
+  "colloc": [
+   "～へ行く",
+   "～の温泉"
+  ],
+  "example": {
+   "t": "東北の 温泉に 入った ことが あります。",
+   "zh": "我泡过东北的温泉。"
+  },
+  "audio": "audio/ja/ja_東北.ogg",
+  "distractors": [
+   "北海道",
+   "西北",
+   "東海"
+  ],
+  "tags": [
+   "core",
+   "place"
+  ]
+ },
+ {
+  "id": "ja_九州",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 19,
+  "lemma": "九州",
+  "kana": "きゅうしゅう",
+  "kanji": "九州",
+  "romaji": "kyuushuu",
+  "pos": "名",
+  "pron": "[kyuushuu]",
+  "meaning_zh": "九州（地区）",
+  "colloc": [
+   "～へ行く",
+   "～の料理"
+  ],
+  "example": {
+   "t": "九州の 料理を 食べた ことが あります。",
+   "zh": "我吃过九州的菜。"
+  },
+  "audio": "audio/ja/ja_九州.ogg",
+  "distractors": [
+   "四国",
+   "中国",
+   "関西"
+  ],
+  "tags": [
+   "core",
+   "place"
+  ]
+ },
+ {
+  "id": "ja_観光",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 19,
+  "lemma": "観光",
+  "kana": "かんこう",
+  "kanji": "観光",
+  "romaji": "kankou",
+  "pos": "名",
+  "pron": "[kankou]",
+  "meaning_zh": "观光；旅游",
+  "colloc": [
+   "～する",
+   "～に行く"
+  ],
+  "example": {
+   "t": "京都を 観光した ことが あります。",
+   "zh": "我在京都观光过。"
+  },
+  "audio": "audio/ja/ja_観光.ogg",
+  "distractors": [
+   "見学",
+   "旅行",
+   "案内"
+  ],
+  "tags": [
+   "core",
+   "daily"
+  ]
+ },
+ {
+  "id": "ja_思い出",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 19,
+  "lemma": "思い出",
+  "kana": "おもいで",
+  "kanji": "思い出",
+  "romaji": "omoide",
+  "pos": "名",
+  "pron": "[omoide]",
+  "meaning_zh": "回忆；纪念",
+  "colloc": [
+   "～を話す",
+   "～が残る"
+  ],
+  "example": {
+   "t": "子供の 頃の 思い出を 話したり、写真を 見たり します。",
+   "zh": "我有时聊起小时候的回忆，有时看看照片。"
+  },
+  "audio": "audio/ja/ja_思い出.ogg",
+  "distractors": [
+   "記憶",
+   "考え",
+   "記念"
+  ],
+  "tags": [
+   "core",
+   "noun"
+  ]
+ },
+ {
+  "id": "ja_選ぶ",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 19,
+  "lemma": "選ぶ",
+  "kana": "えらぶ",
+  "kanji": "選ぶ",
+  "romaji": "erabu",
+  "pos": "動",
+  "pron": "[erabu]",
+  "meaning_zh": "挑选；选择",
+  "colloc": [
+   "～を～選ぶ",
+   "～物を選ぶ"
+  ],
+  "syn": [
+   "決める"
+  ],
+  "example": {
+   "t": "服を 選んだり、靴を 選んだり します。",
+   "zh": "我有时挑衣服，有时挑鞋。"
+  },
+  "audio": "audio/ja/ja_選ぶ.ogg",
+  "distractors": [
+   "拾う",
+   "決める",
+   "探す"
+  ],
+  "tags": [
+   "core",
+   "verb"
+  ]
+ },
+ {
+  "id": "ja_調べる",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 19,
+  "lemma": "調べる",
+  "kana": "しらべる",
+  "kanji": "調べる",
+  "romaji": "shiraberu",
+  "pos": "動",
+  "pron": "[shiraberu]",
+  "meaning_zh": "查；调查",
+  "colloc": [
+   "～を調べる",
+   "辞書で～"
+  ],
+  "example": {
+   "t": "インターネットで 調べた ことが あります。",
+   "zh": "我在网上查过。"
+  },
+  "audio": "audio/ja/ja_調べる.ogg",
+  "distractors": [
+   "教える",
+   "探す",
+   "覚える"
+  ],
+  "tags": [
+   "core",
+   "verb"
+  ]
+ },
+ {
+  "id": "ja_夏休み",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 20,
+  "lemma": "夏休み",
+  "kana": "なつやすみ",
+  "kanji": "夏休み",
+  "romaji": "natsuyasumi",
+  "pos": "名",
+  "pron": "[natsuyasumi]",
+  "meaning_zh": "暑假",
+  "colloc": [
+   "～に帰る",
+   "～が始まる"
+  ],
+  "example": {
+   "t": "夏休みは 北海道へ 行くと 思います。",
+   "zh": "我想暑假去北海道。"
+  },
+  "audio": "audio/ja/ja_夏休み.ogg",
+  "distractors": [
+   "冬休み",
+   "春休み",
+   "連休"
+  ],
+  "tags": [
+   "core",
+   "time"
+  ]
+ },
+ {
+  "id": "ja_田舎",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 20,
+  "lemma": "田舎",
+  "kana": "いなか",
+  "kanji": "田舎",
+  "romaji": "inaka",
+  "pos": "名",
+  "pron": "[inaka]",
+  "meaning_zh": "乡下；故乡",
+  "colloc": [
+   "～に帰る",
+   "～の生活"
+  ],
+  "ant": [
+   "都会"
+  ],
+  "example": {
+   "t": "田舎に 帰ると 思います。",
+   "zh": "我想回乡下。"
+  },
+  "audio": "audio/ja/ja_田舎.ogg",
+  "distractors": [
+   "都会",
+   "町",
+   "郊外"
+  ],
+  "tags": [
+   "core",
+   "place"
+  ]
+ },
+ {
+  "id": "ja_思う",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 20,
+  "lemma": "思う",
+  "kana": "おもう",
+  "kanji": "思う",
+  "romaji": "omou",
+  "pos": "動",
+  "pron": "[omou]",
+  "meaning_zh": "想；认为",
+  "colloc": [
+   "～と～",
+   "～を思う"
+  ],
+  "syn": [
+   "考える"
+  ],
+  "example": {
+   "t": "明日は 雨が 降ると 思います。",
+   "zh": "我想明天会下雨。"
+  },
+  "audio": "audio/ja/ja_思う.ogg",
+  "distractors": [
+   "考える",
+   "言う",
+   "知る"
+  ],
+  "tags": [
+   "core",
+   "verb"
+  ]
+ },
+ {
+  "id": "ja_お風呂",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 20,
+  "lemma": "お風呂",
+  "kana": "おふろ",
+  "kanji": "お風呂",
+  "romaji": "ofuro",
+  "pos": "名",
+  "pron": "[ofuro]",
+  "meaning_zh": "洗澡；浴池",
+  "colloc": [
+   "～に入る",
+   "～を沸かす"
+  ],
+  "example": {
+   "t": "毎晩 お風呂に 入ると 思います。",
+   "zh": "我想每晚都会泡澡。"
+  },
+  "audio": "audio/ja/ja_お風呂.ogg",
+  "distractors": [
+   "風呂場",
+   "洗面所",
+   "お湯"
+  ],
+  "tags": [
+   "daily",
+   "noun"
+  ]
+ },
+ {
+  "id": "ja_将来",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 20,
+  "lemma": "将来",
+  "kana": "しょうらい",
+  "kanji": "将来",
+  "romaji": "shourai",
+  "pos": "名",
+  "pron": "[shourai]",
+  "meaning_zh": "将来；未来",
+  "colloc": [
+   "～の夢",
+   "～～したい"
+  ],
+  "example": {
+   "t": "将来、医者に なりたいと 思います。",
+   "zh": "我将来想当医生。"
+  },
+  "audio": "audio/ja/ja_将来.ogg",
+  "distractors": [
+   "将来性",
+   "未来",
+   "過去"
+  ],
+  "tags": [
+   "core",
+   "time"
+  ]
+ },
+ {
+  "id": "ja_夢",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 20,
+  "lemma": "夢",
+  "kana": "ゆめ",
+  "kanji": "夢",
+  "romaji": "yume",
+  "pos": "名",
+  "pron": "[yume]",
+  "meaning_zh": "梦；梦想",
+  "colloc": [
+   "～を見る",
+   "～を持つ"
+  ],
+  "example": {
+   "t": "私の 夢は 先生に なることだと 思います。",
+   "zh": "我觉得我的梦想是当老师。"
+  },
+  "audio": "audio/ja/ja_夢.ogg",
+  "distractors": [
+   "希望",
+   "目標",
+   "眠り"
+  ],
+  "tags": [
+   "core",
+   "noun"
+  ]
+ },
+ {
+  "id": "ja_意見",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 20,
+  "lemma": "意見",
+  "kana": "いけん",
+  "kanji": "意見",
+  "romaji": "iken",
+  "pos": "名",
+  "pron": "[iken]",
+  "meaning_zh": "意见；见解",
+  "colloc": [
+   "～を言う",
+   "～を聞く"
+  ],
+  "example": {
+   "t": "皆さんの 意見を 聞きたいと 思います。",
+   "zh": "我想听听大家的意见。"
+  },
+  "audio": "audio/ja/ja_意見.ogg",
+  "distractors": [
+   "意味",
+   "考え",
+   "希望"
+  ],
+  "tags": [
+   "core",
+   "noun"
+  ]
+ },
+ {
+  "id": "ja_考え",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 20,
+  "lemma": "考え",
+  "kana": "かんがえ",
+  "kanji": "考え",
+  "romaji": "kangae",
+  "pos": "名",
+  "pron": "[kangae]",
+  "meaning_zh": "想法；思想",
+  "colloc": [
+   "～を持つ",
+   "～を変える"
+  ],
+  "example": {
+   "t": "あなたの 考えは 正しいと 思います。",
+   "zh": "我觉得你的想法是对的。"
+  },
+  "audio": "audio/ja/ja_考え.ogg",
+  "distractors": [
+   "意見",
+   "思考",
+   "方法"
+  ],
+  "tags": [
+   "core",
+   "noun"
+  ]
+ },
+ {
+  "id": "ja_本当",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 20,
+  "lemma": "本当",
+  "kana": "ほんとう",
+  "kanji": "本当",
+  "romaji": "hontou",
+  "pos": "名",
+  "pron": "[hontou]",
+  "meaning_zh": "真的；事实",
+  "colloc": [
+   "～の話",
+   "～に～"
+  ],
+  "ant": [
+   "嘘"
+  ],
+  "example": {
+   "t": "この 話は 本当だと 思います。",
+   "zh": "我觉得这话是真的。"
+  },
+  "audio": "audio/ja/ja_本当.ogg",
+  "distractors": [
+   "本気",
+   "真実",
+   "実は"
+  ],
+  "tags": [
+   "core",
+   "noun"
+  ]
+ },
+ {
+  "id": "ja_嘘",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 20,
+  "lemma": "嘘",
+  "kana": "うそ",
+  "kanji": "嘘",
+  "romaji": "uso",
+  "pos": "名",
+  "pron": "[uso]",
+  "meaning_zh": "谎话；假的",
+  "colloc": [
+   "～を言う",
+   "～をつく"
+  ],
+  "ant": [
+   "本当"
+  ],
+  "example": {
+   "t": "彼の 話は 嘘だと 思います。",
+   "zh": "我觉得他的话是谎话。"
+  },
+  "audio": "audio/ja/ja_嘘.ogg",
+  "distractors": [
+   "冗談",
+   "本当",
+   "間違い"
+  ],
+  "tags": [
+   "core",
+   "noun"
+  ]
+ },
+ {
+  "id": "ja_多分",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 20,
+  "lemma": "多分",
+  "kana": "たぶん",
+  "kanji": "多分",
+  "romaji": "tabun",
+  "pos": "副",
+  "pron": "[tabun]",
+  "meaning_zh": "大概；也许",
+  "colloc": [
+   "～～でしょう",
+   "～～と思う"
+  ],
+  "syn": [
+   "きっと"
+  ],
+  "example": {
+   "t": "多分、明日は 晴れると 思います。",
+   "zh": "我想明天大概会放晴。"
+  },
+  "audio": "audio/ja/ja_多分.ogg",
+  "distractors": [
+   "大抵",
+   "大変",
+   "多少"
+  ],
+  "tags": [
+   "core",
+   "speaking"
+  ]
+ },
+ {
+  "id": "ja_きっと",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 20,
+  "lemma": "きっと",
+  "kana": "きっと",
+  "kanji": null,
+  "romaji": "kitto",
+  "pos": "副",
+  "pron": "[kitto]",
+  "meaning_zh": "一定；肯定",
+  "colloc": [
+   "～来る",
+   "～～でしょう"
+  ],
+  "example": {
+   "t": "彼は きっと 来ると 思います。",
+   "zh": "我想他一定会来。"
+  },
+  "audio": "audio/ja/ja_きっと.ogg",
+  "distractors": [
+   "必ず",
+   "絶対",
+   "たぶん"
+  ],
+  "tags": [
+   "core",
+   "speaking"
+  ]
+ },
+ {
+  "id": "ja_やっぱり",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 20,
+  "lemma": "やっぱり",
+  "kana": "やっぱり",
+  "kanji": null,
+  "romaji": "yappari",
+  "pos": "副",
+  "pron": "[yappari]",
+  "meaning_zh": "果然；还是",
+  "colloc": [
+   "～～がいい",
+   "～～と思う"
+  ],
+  "syn": [
+   "やはり"
+  ],
+  "example": {
+   "t": "やっぱり 日本料理が 一番 美味しいと 思います。",
+   "zh": "我还是觉得日本菜最好吃。"
+  },
+  "audio": "audio/ja/ja_やっぱり.ogg",
+  "distractors": [
+   "やはり",
+   "すぐに",
+   "たしかに"
+  ],
+  "tags": [
+   "core",
+   "speaking"
+  ]
+ },
+ {
+  "id": "ja_だから",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 20,
+  "lemma": "だから",
+  "kana": "だから",
+  "kanji": null,
+  "romaji": "dakara",
+  "pos": "接",
+  "pron": "[dakara]",
+  "meaning_zh": "所以；因此",
+  "colloc": [
+   "～、～",
+   "～～と思う"
+  ],
+  "example": {
+   "t": "明日は 試験です。だから、今晩 勉強すると 思います。",
+   "zh": "明天有考试。所以我想今晚学习。"
+  },
+  "audio": "audio/ja/ja_だから.ogg",
+  "distractors": [
+   "ですから",
+   "それで",
+   "しかし"
+  ],
+  "tags": [
+   "core",
+   "speaking"
+  ]
+ },
+ {
+  "id": "ja_それで",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 20,
+  "lemma": "それで",
+  "kana": "それで",
+  "kanji": null,
+  "romaji": "sorede",
+  "pos": "接",
+  "pron": "[sorede]",
+  "meaning_zh": "因此；所以",
+  "colloc": [
+   "～、～",
+   "～～と思う"
+  ],
+  "example": {
+   "t": "熱が あります。それで、今日は 休むと 思います。",
+   "zh": "我发烧了。所以我想今天休息。"
+  },
+  "audio": "audio/ja/ja_それで.ogg",
+  "distractors": [
+   "そこで",
+   "それから",
+   "だから"
+  ],
+  "tags": [
+   "core",
+   "speaking"
+  ]
+ },
+ {
+  "id": "ja_雨",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 20,
+  "lemma": "雨",
+  "kana": "あめ",
+  "kanji": "雨",
+  "romaji": "ame",
+  "pos": "名",
+  "pron": "[ame]",
+  "meaning_zh": "雨",
+  "colloc": [
+   "～が降る",
+   "～が止む"
+  ],
+  "example": {
+   "t": "明日は 雨が 降ると 思います。",
+   "zh": "我想明天会下雨。"
+  },
+  "audio": "audio/ja/ja_雨.ogg",
+  "distractors": [
+   "雪",
+   "雲",
+   "晴れ"
+  ],
+  "tags": [
+   "core",
+   "noun"
+  ]
+ },
+ {
+  "id": "ja_降る",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 20,
+  "lemma": "降る",
+  "kana": "ふる",
+  "kanji": "降る",
+  "romaji": "furu",
+  "pos": "動",
+  "pron": "[furu]",
+  "meaning_zh": "下（雨、雪）",
+  "colloc": [
+   "雨が～",
+   "雪が～"
+  ],
+  "example": {
+   "t": "夜 雪が 降ると 思います。",
+   "zh": "我想夜里会下雪。"
+  },
+  "audio": "audio/ja/ja_降る.ogg",
+  "distractors": [
+   "落ちる",
+   "吹く",
+   "止む"
+  ],
+  "tags": [
+   "core",
+   "verb"
+  ]
+ },
+ {
+  "id": "ja_晴れる",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 20,
+  "lemma": "晴れる",
+  "kana": "はれる",
+  "kanji": "晴れる",
+  "romaji": "hareru",
+  "pos": "動",
+  "pron": "[hareru]",
+  "meaning_zh": "放晴；转晴",
+  "colloc": [
+   "空が～",
+   "明日は～"
+  ],
+  "example": {
+   "t": "明日は 晴れると 思います。",
+   "zh": "我想明天会放晴。"
+  },
+  "audio": "audio/ja/ja_晴れる.ogg",
+  "distractors": [
+   "曇る",
+   "降る",
+   "光る"
+  ],
+  "tags": [
+   "core",
+   "verb"
+  ]
+ },
+ {
+  "id": "ja_曇る",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 20,
+  "lemma": "曇る",
+  "kana": "くもる",
+  "kanji": "曇る",
+  "romaji": "kumoru",
+  "pos": "動",
+  "pron": "[kumoru]",
+  "meaning_zh": "阴天；变阴",
+  "colloc": [
+   "空が～",
+   "午後は～"
+  ],
+  "example": {
+   "t": "午後は 曇ると 思います。",
+   "zh": "我想下午会转阴。"
+  },
+  "audio": "audio/ja/ja_曇る.ogg",
+  "distractors": [
+   "晴れる",
+   "降る",
+   "濡れる"
+  ],
+  "tags": [
+   "core",
+   "verb"
+  ]
+ },
+ {
+  "id": "ja_気温",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 20,
+  "lemma": "気温",
+  "kana": "きおん",
+  "kanji": "気温",
+  "romaji": "kion",
+  "pos": "名",
+  "pron": "[kion]",
+  "meaning_zh": "气温",
+  "colloc": [
+   "～が高い",
+   "～が下がる"
+  ],
+  "example": {
+   "t": "明日の 気温は 高いと 思います。",
+   "zh": "我想明天会高温。"
+  },
+  "audio": "audio/ja/ja_気温.ogg",
+  "distractors": [
+   "天気",
+   "温度",
+   "体温"
+  ],
+  "tags": [
+   "core",
+   "noun"
+  ]
+ },
+ {
+  "id": "ja_予報",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 20,
+  "lemma": "予報",
+  "kana": "よほう",
+  "kanji": "予報",
+  "romaji": "yohou",
+  "pos": "名",
+  "pron": "[yohou]",
+  "meaning_zh": "预报",
+  "colloc": [
+   "～を出す",
+   "～によると"
+  ],
+  "example": {
+   "t": "予報では、明日は 寒いと 思います。",
+   "zh": "据预报，我想明天会很冷。"
+  },
+  "audio": "audio/ja/ja_予報.ogg",
+  "distractors": [
+   "報告",
+   "予定",
+   "予想"
+  ],
+  "tags": [
+   "core",
+   "noun"
+  ]
+ },
+ {
+  "id": "ja_天気予報",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 20,
+  "lemma": "天気予報",
+  "kana": "てんきよほう",
+  "kanji": "天気予報",
+  "romaji": "tenkiyohou",
+  "pos": "名",
+  "pron": "[tenkiyohou]",
+  "meaning_zh": "天气预报",
+  "colloc": [
+   "～を見る",
+   "～によると"
+  ],
+  "example": {
+   "t": "天気予報に よると、明日は 雨だと 思います。",
+   "zh": "据天气预报，我想明天有雨。"
+  },
+  "audio": "audio/ja/ja_天気予報.ogg",
+  "distractors": [
+   "天気図",
+   "予定表",
+   "新聞"
+  ],
+  "tags": [
+   "core",
+   "noun"
+  ]
+ },
+ {
+  "id": "ja_授業",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 20,
+  "lemma": "授業",
+  "kana": "じゅぎょう",
+  "kanji": "授業",
+  "romaji": "jugyou",
+  "pos": "名",
+  "pron": "[jugyou]",
+  "meaning_zh": "课；授课",
+  "colloc": [
+   "～がある",
+   "～を受ける"
+  ],
+  "example": {
+   "t": "明日は 授業が あると 思います。",
+   "zh": "我想明天有课。"
+  },
+  "audio": "audio/ja/ja_授業.ogg",
+  "distractors": [
+   "教室",
+   "講義",
+   "宿題"
+  ],
+  "tags": [
+   "core",
+   "noun"
+  ]
+ },
+ {
+  "id": "ja_試験",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 20,
+  "lemma": "試験",
+  "kana": "しけん",
+  "kanji": "試験",
+  "romaji": "shiken",
+  "pos": "名",
+  "pron": "[shiken]",
+  "meaning_zh": "考试；测验",
+  "colloc": [
+   "～を受ける",
+   "～に合格する"
+  ],
+  "example": {
+   "t": "来週 試験が あると 思います。",
+   "zh": "我想下周有考试。"
+  },
+  "audio": "audio/ja/ja_試験.ogg",
+  "distractors": [
+   "実験",
+   "検査",
+   "質問"
+  ],
+  "tags": [
+   "core",
+   "noun"
+  ]
+ },
+ {
+  "id": "ja_合格",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 20,
+  "lemma": "合格",
+  "kana": "ごうかく",
+  "kanji": "合格",
+  "romaji": "goukaku",
+  "pos": "名",
+  "pron": "[goukaku]",
+  "meaning_zh": "合格；及格",
+  "colloc": [
+   "～する",
+   "試験に～"
+  ],
+  "example": {
+   "t": "彼は きっと 合格すると 思います。",
+   "zh": "我想他一定能考过。"
+  },
+  "audio": "audio/ja/ja_合格.ogg",
+  "distractors": [
+   "入学",
+   "不合格",
+   "満点"
+  ],
+  "tags": [
+   "core",
+   "noun"
+  ]
+ },
+ {
+  "id": "ja_卒業",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 20,
+  "lemma": "卒業",
+  "kana": "そつぎょう",
+  "kanji": "卒業",
+  "romaji": "sotsugyou",
+  "pos": "名",
+  "pron": "[sotsugyou]",
+  "meaning_zh": "毕业",
+  "colloc": [
+   "～する",
+   "大学を～"
+  ],
+  "example": {
+   "t": "来年 大学を 卒業すると 思います。",
+   "zh": "我想明年大学毕业。"
+  },
+  "audio": "audio/ja/ja_卒業.ogg",
+  "distractors": [
+   "入学",
+   "退学",
+   "就職"
+  ],
+  "tags": [
+   "core",
+   "noun"
+  ]
+ },
+ {
+  "id": "ja_教師",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 20,
+  "lemma": "教師",
+  "kana": "きょうし",
+  "kanji": "教師",
+  "romaji": "kyoushi",
+  "pos": "名",
+  "pron": "[kyoushi]",
+  "meaning_zh": "教师",
+  "colloc": [
+   "～になる",
+   "～をしている"
+  ],
+  "example": {
+   "t": "彼女は 将来 教師に なると 思います。",
+   "zh": "我想她将来会当教师。"
+  },
+  "audio": "audio/ja/ja_教師.ogg",
+  "distractors": [
+   "教授",
+   "生徒",
+   "校長"
+  ],
+  "tags": [
+   "core",
+   "person"
+  ]
+ },
+ {
+  "id": "ja_医者",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 20,
+  "lemma": "医者",
+  "kana": "いしゃ",
+  "kanji": "医者",
+  "romaji": "isha",
+  "pos": "名",
+  "pron": "[isha]",
+  "meaning_zh": "医生",
+  "colloc": [
+   "～になる",
+   "～に行く"
+  ],
+  "example": {
+   "t": "彼は 医者に なると 思います。",
+   "zh": "我想他会当医生。"
+  },
+  "audio": "audio/ja/ja_医者.ogg",
+  "distractors": [
+   "医学",
+   "患者",
+   "薬"
+  ],
+  "tags": [
+   "core",
+   "person"
+  ]
+ },
+ {
+  "id": "ja_高校",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 20,
+  "lemma": "高校",
+  "kana": "こうこう",
+  "kanji": "高校",
+  "romaji": "koukou",
+  "pos": "名",
+  "pron": "[koukou]",
+  "meaning_zh": "高中",
+  "colloc": [
+   "～に通う",
+   "～を卒業する"
+  ],
+  "example": {
+   "t": "息子は 高校に 通っていると 思います。",
+   "zh": "我想儿子在上高中。"
+  },
+  "audio": "audio/ja/ja_高校.ogg",
+  "distractors": [
+   "中学",
+   "大学",
+   "学校"
+  ],
+  "tags": [
+   "core",
+   "place"
+  ]
+ },
+ {
+  "id": "ja_大学生",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 20,
+  "lemma": "大学生",
+  "kana": "だいがくせい",
+  "kanji": "大学生",
+  "romaji": "daigakusei",
+  "pos": "名",
+  "pron": "[daigakusei]",
+  "meaning_zh": "大学生",
+  "colloc": [
+   "～になる",
+   "～がいる"
+  ],
+  "example": {
+   "t": "妹は 大学生だと 思います。",
+   "zh": "我想妹妹是大学生。"
+  },
+  "audio": "audio/ja/ja_大学生.ogg",
+  "distractors": [
+   "中学生",
+   "高校生",
+   "生徒"
+  ],
+  "tags": [
+   "core",
+   "person"
+  ]
+ },
+ {
+  "id": "ja_素晴らしい",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 20,
+  "lemma": "素晴らしい",
+  "kana": "すばらしい",
+  "kanji": "素晴らしい",
+  "romaji": "subarashii",
+  "pos": "形",
+  "pron": "[subarashii]",
+  "meaning_zh": "极好；出色",
+  "colloc": [
+   "～景色",
+   "～と思う"
+  ],
+  "syn": [
+   "すごい"
+  ],
+  "example": {
+   "t": "この 映画は 素晴らしいと 思います。",
+   "zh": "我觉得这部电影非常棒。"
+  },
+  "audio": "audio/ja/ja_素晴らしい.ogg",
+  "distractors": [
+   "すごい",
+   "正しい",
+   "優しい"
+  ],
+  "tags": [
+   "core",
+   "speaking"
+  ]
+ },
+ {
+  "id": "ja_残念",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 20,
+  "lemma": "残念",
+  "kana": "ざんねん",
+  "kanji": "残念",
+  "romaji": "zannen",
+  "pos": "形動",
+  "pron": "[zannen]",
+  "meaning_zh": "遗憾；可惜",
+  "colloc": [
+   "～だと思う",
+   "～ながら"
+  ],
+  "example": {
+   "t": "それは 残念だと 思います。",
+   "zh": "我觉得那很遗憾。"
+  },
+  "audio": "audio/ja/ja_残念.ogg",
+  "distractors": [
+   "不便",
+   "大変",
+   "不幸"
+  ],
+  "tags": [
+   "core",
+   "speaking"
+  ]
+ },
+ {
+  "id": "ja_心配",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 20,
+  "lemma": "心配",
+  "kana": "しんぱい",
+  "kanji": "心配",
+  "romaji": "shinpai",
+  "pos": "名",
+  "pron": "[shinpai]",
+  "meaning_zh": "担心；挂念",
+  "colloc": [
+   "～する",
+   "～をかける"
+  ],
+  "ant": [
+   "安心"
+  ],
+  "example": {
+   "t": "母は 私を 心配していると 思います。",
+   "zh": "我想妈妈在担心我。"
+  },
+  "audio": "audio/ja/ja_心配.ogg",
+  "distractors": [
+   "安心",
+   "用心",
+   "関心"
+  ],
+  "tags": [
+   "core",
+   "speaking"
+  ]
+ },
+ {
+  "id": "ja_言う",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 21,
+  "lemma": "言う",
+  "kana": "いう",
+  "kanji": "言う",
+  "romaji": "iu",
+  "pos": "動",
+  "pron": "[iu]",
+  "meaning_zh": "说；讲",
+  "colloc": [
+   "～と言う",
+   "～ことを言う"
+  ],
+  "example": {
+   "t": "先生は 明日 試験が あると 言いました。",
+   "zh": "老师说了一句明天有考试。"
+  },
+  "audio": "audio/ja/ja_言う.ogg",
+  "distractors": [
+   "話す",
+   "語る",
+   "尋ねる"
+  ],
+  "tags": [
+   "core",
+   "verb"
+  ]
+ },
+ {
+  "id": "ja_歌舞伎",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 21,
+  "lemma": "歌舞伎",
+  "kana": "かぶき",
+  "kanji": "歌舞伎",
+  "romaji": "kabuki",
+  "pos": "名",
+  "pron": "[kabuki]",
+  "meaning_zh": "歌舞伎",
+  "colloc": [
+   "～を見る",
+   "～が好き"
+  ],
+  "example": {
+   "t": "田中さんは 歌舞伎が 好きだと 言いました。",
+   "zh": "田中说了他喜欢歌舞伎。"
+  },
+  "audio": "audio/ja/ja_歌舞伎.ogg",
+  "distractors": [
+   "相撲",
+   "能",
+   "狂言"
+  ],
+  "tags": [
+   "core",
+   "noun"
+  ]
+ },
+ {
+  "id": "ja_相撲",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 21,
+  "lemma": "相撲",
+  "kana": "すもう",
+  "kanji": "相撲",
+  "romaji": "sumou",
+  "pos": "名",
+  "pron": "[sumou]",
+  "meaning_zh": "相扑",
+  "colloc": [
+   "～を見る",
+   "～をする"
+  ],
+  "example": {
+   "t": "彼は 相撲が 好きだと 言いました。",
+   "zh": "他说他喜欢相扑。"
+  },
+  "audio": "audio/ja/ja_相撲.ogg",
+  "distractors": [
+   "歌舞伎",
+   "柔道",
+   "剣道"
+  ],
+  "tags": [
+   "core",
+   "noun"
+  ]
+ },
+ {
+  "id": "ja_試合",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 21,
+  "lemma": "試合",
+  "kana": "しあい",
+  "kanji": "試合",
+  "romaji": "shiai",
+  "pos": "名",
+  "pron": "[shiai]",
+  "meaning_zh": "比赛",
+  "colloc": [
+   "～をする",
+   "～を見る"
+  ],
+  "example": {
+   "t": "試合は 明日だと 言いました。",
+   "zh": "他说比赛在明天。"
+  },
+  "audio": "audio/ja/ja_試合.ogg",
+  "distractors": [
+   "会場",
+   "練習",
+   "競争"
+  ],
+  "tags": [
+   "core",
+   "noun"
+  ]
+ },
+ {
+  "id": "ja_開演",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 21,
+  "lemma": "開演",
+  "kana": "かいえん",
+  "kanji": "開演",
+  "romaji": "kaien",
+  "pos": "名",
+  "pron": "[kaien]",
+  "meaning_zh": "开演；开演时间",
+  "colloc": [
+   "～は六時",
+   "～する"
+  ],
+  "example": {
+   "t": "開演は 六時でしょう。",
+   "zh": "开演大概是六点吧。"
+  },
+  "audio": "audio/ja/ja_開演.ogg",
+  "distractors": [
+   "開始",
+   "終了",
+   "開会"
+  ],
+  "tags": [
+   "core",
+   "time"
+  ]
+ },
+ {
+  "id": "ja_終了",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 21,
+  "lemma": "終了",
+  "kana": "しゅうりょう",
+  "kanji": "終了",
+  "romaji": "shuuryou",
+  "pos": "名",
+  "pron": "[shuuryou]",
+  "meaning_zh": "结束；终了",
+  "colloc": [
+   "～する",
+   "～は九時"
+  ],
+  "ant": [
+   "開始"
+  ],
+  "example": {
+   "t": "映画の 終了は 九時でしょう。",
+   "zh": "电影大概九点结束吧。"
+  },
+  "audio": "audio/ja/ja_終了.ogg",
+  "distractors": [
+   "開始",
+   "完了",
+   "閉幕"
+  ],
+  "tags": [
+   "core",
+   "time"
+  ]
+ },
+ {
+  "id": "ja_大阪",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 21,
+  "lemma": "大阪",
+  "kana": "おおさか",
+  "kanji": "大阪",
+  "romaji": "oosaka",
+  "pos": "名",
+  "pron": "[oosaka]",
+  "meaning_zh": "大阪",
+  "colloc": [
+   "～へ行く",
+   "～に住む"
+  ],
+  "example": {
+   "t": "大阪は にぎやかでしょう。",
+   "zh": "大阪大概很热闹吧。"
+  },
+  "audio": "audio/ja/ja_大阪.ogg",
+  "distractors": [
+   "東京",
+   "京都",
+   "名古屋"
+  ],
+  "tags": [
+   "core",
+   "place"
+  ]
+ },
+ {
+  "id": "ja_名古屋",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 21,
+  "lemma": "名古屋",
+  "kana": "なごや",
+  "kanji": "名古屋",
+  "romaji": "nagoya",
+  "pos": "名",
+  "pron": "[nagoya]",
+  "meaning_zh": "名古屋",
+  "colloc": [
+   "～へ行く",
+   "～で会う"
+  ],
+  "example": {
+   "t": "彼は 名古屋へ 行ったと 言いました。",
+   "zh": "他说他去了名古屋。"
+  },
+  "audio": "audio/ja/ja_名古屋.ogg",
+  "distractors": [
+   "大阪",
+   "横浜",
+   "神戸"
+  ],
+  "tags": [
+   "core",
+   "place"
+  ]
+ },
+ {
+  "id": "ja_横浜",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 21,
+  "lemma": "横浜",
+  "kana": "よこはま",
+  "kanji": "横浜",
+  "romaji": "yokohama",
+  "pos": "名",
+  "pron": "[yokohama]",
+  "meaning_zh": "横滨",
+  "colloc": [
+   "～へ行く",
+   "～の港"
+  ],
+  "example": {
+   "t": "横浜は 港で 有名でしょう。",
+   "zh": "横滨大概以港口闻名吧。"
+  },
+  "audio": "audio/ja/ja_横浜.ogg",
+  "distractors": [
+   "神戸",
+   "名古屋",
+   "千葉"
+  ],
+  "tags": [
+   "core",
+   "place"
+  ]
+ },
+ {
+  "id": "ja_神戸",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 21,
+  "lemma": "神戸",
+  "kana": "こうべ",
+  "kanji": "神戸",
+  "romaji": "koube",
+  "pos": "名",
+  "pron": "[koube]",
+  "meaning_zh": "神户",
+  "colloc": [
+   "～へ行く",
+   "～の町"
+  ],
+  "example": {
+   "t": "神戸の 町は きれいだと 言いました。",
+   "zh": "他说神户的街道很漂亮。"
+  },
+  "audio": "audio/ja/ja_神戸.ogg",
+  "distractors": [
+   "横浜",
+   "札幌",
+   "福岡"
+  ],
+  "tags": [
+   "core",
+   "place"
+  ]
+ },
+ {
+  "id": "ja_札幌",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 21,
+  "lemma": "札幌",
+  "kana": "さっぽろ",
+  "kanji": "札幌",
+  "romaji": "sapporo",
+  "pos": "名",
+  "pron": "[sapporo]",
+  "meaning_zh": "札幌",
+  "colloc": [
+   "～へ行く",
+   "～は寒い"
+  ],
+  "example": {
+   "t": "札幌は 今 寒いでしょう。",
+   "zh": "札幌现在大概很冷吧。"
+  },
+  "audio": "audio/ja/ja_札幌.ogg",
+  "distractors": [
+   "仙台",
+   "神戸",
+   "京都"
+  ],
+  "tags": [
+   "core",
+   "place"
+  ]
+ },
+ {
+  "id": "ja_ニュース",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 21,
+  "lemma": "ニュース",
+  "kana": "ニュース",
+  "kanji": null,
+  "romaji": "nyuusu",
+  "pos": "名",
+  "pron": "[nyuusu]",
+  "meaning_zh": "新闻",
+  "colloc": [
+   "～を見る",
+   "～で知る"
+  ],
+  "example": {
+   "t": "ニュースで 台風が 来ると 言いました。",
+   "zh": "新闻里说台风要来了。"
+  },
+  "audio": "audio/ja/ja_ニュース.ogg",
+  "distractors": [
+   "新聞",
+   "記事",
+   "報道"
+  ],
+  "tags": [
+   "core",
+   "listening"
+  ]
+ },
+ {
+  "id": "ja_記事",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 21,
+  "lemma": "記事",
+  "kana": "きじ",
+  "kanji": "記事",
+  "romaji": "kiji",
+  "pos": "名",
+  "pron": "[kiji]",
+  "meaning_zh": "报道；文章",
+  "colloc": [
+   "～を読む",
+   "～を書く"
+  ],
+  "example": {
+   "t": "新聞の 記事で 読んだと 言いました。",
+   "zh": "他说在报纸的报道里读到过。"
+  },
+  "audio": "audio/ja/ja_記事.ogg",
+  "distractors": [
+   "新聞",
+   "雑誌",
+   "日記"
+  ],
+  "tags": [
+   "core",
+   "noun"
+  ]
+ },
+ {
+  "id": "ja_伝言",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 21,
+  "lemma": "伝言",
+  "kana": "でんごん",
+  "kanji": "伝言",
+  "romaji": "dengon",
+  "pos": "名",
+  "pron": "[dengon]",
+  "meaning_zh": "口信；留言",
+  "colloc": [
+   "～を頼む",
+   "～を伝える"
+  ],
+  "example": {
+   "t": "母から 伝言が あると 言いました。",
+   "zh": "他说妈妈有话要转告。"
+  },
+  "audio": "audio/ja/ja_伝言.ogg",
+  "distractors": [
+   "返事",
+   "電話",
+   "手紙"
+  ],
+  "tags": [
+   "core",
+   "speaking"
+  ]
+ },
+ {
+  "id": "ja_返事",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 21,
+  "lemma": "返事",
+  "kana": "へんじ",
+  "kanji": "返事",
+  "romaji": "henji",
+  "pos": "名",
+  "pron": "[henji]",
+  "meaning_zh": "回信；回答",
+  "colloc": [
+   "～をする",
+   "～を待つ"
+  ],
+  "example": {
+   "t": "返事は 明日 すると 言いました。",
+   "zh": "他说回复在明天给。"
+  },
+  "audio": "audio/ja/ja_返事.ogg",
+  "distractors": [
+   "伝言",
+   "挨拶",
+   "手紙"
+  ],
+  "tags": [
+   "core",
+   "speaking"
+  ]
+ },
+ {
+  "id": "ja_国際",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 21,
+  "lemma": "国際",
+  "kana": "こくさい",
+  "kanji": "国際",
+  "romaji": "kokusai",
+  "pos": "名",
+  "pron": "[kokusai]",
+  "meaning_zh": "国际",
+  "colloc": [
+   "～的な",
+   "～会議"
+  ],
+  "example": {
+   "t": "東京は 国際的な 都市だと 言いました。",
+   "zh": "他说东京是国际化城市。"
+  },
+  "audio": "audio/ja/ja_国際.ogg",
+  "distractors": [
+   "国内",
+   "外国",
+   "世界"
+  ],
+  "tags": [
+   "core",
+   "noun"
+  ]
+ },
+ {
+  "id": "ja_文化",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 21,
+  "lemma": "文化",
+  "kana": "ぶんか",
+  "kanji": "文化",
+  "romaji": "bunka",
+  "pos": "名",
+  "pron": "[bunka]",
+  "meaning_zh": "文化",
+  "colloc": [
+   "～を学ぶ",
+   "～が違う"
+  ],
+  "example": {
+   "t": "日本の 文化は 面白いと 言いました。",
+   "zh": "他说日本文化很有意思。"
+  },
+  "audio": "audio/ja/ja_文化.ogg",
+  "distractors": [
+   "伝統",
+   "文学",
+   "文明"
+  ],
+  "tags": [
+   "core",
+   "noun"
+  ]
+ },
+ {
+  "id": "ja_伝統",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 21,
+  "lemma": "伝統",
+  "kana": "でんとう",
+  "kanji": "伝統",
+  "romaji": "dentou",
+  "pos": "名",
+  "pron": "[dentou]",
+  "meaning_zh": "传统",
+  "colloc": [
+   "～的な",
+   "～を守る"
+  ],
+  "example": {
+   "t": "京都は 伝統的な 町だと 言いました。",
+   "zh": "他说京都是一座传统城市。"
+  },
+  "audio": "audio/ja/ja_伝統.ogg",
+  "distractors": [
+   "文化",
+   "習慣",
+   "歴史"
+  ],
+  "tags": [
+   "core",
+   "noun"
+  ]
+ },
+ {
+  "id": "ja_芸術",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 21,
+  "lemma": "芸術",
+  "kana": "げいじゅつ",
+  "kanji": "芸術",
+  "romaji": "geijutsu",
+  "pos": "名",
+  "pron": "[geijutsu]",
+  "meaning_zh": "艺术",
+  "colloc": [
+   "～に興味がある",
+   "～作品"
+  ],
+  "example": {
+   "t": "彼は 芸術に 興味が あると 言いました。",
+   "zh": "他说他对艺术感兴趣。"
+  },
+  "audio": "audio/ja/ja_芸術.ogg",
+  "distractors": [
+   "美術",
+   "技術",
+   "芸能"
+  ],
+  "tags": [
+   "core",
+   "noun"
+  ]
+ },
+ {
+  "id": "ja_歴史",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 21,
+  "lemma": "歴史",
+  "kana": "れきし",
+  "kanji": "歴史",
+  "romaji": "rekishi",
+  "pos": "名",
+  "pron": "[rekishi]",
+  "meaning_zh": "历史",
+  "colloc": [
+   "～を学ぶ",
+   "～が長い"
+  ],
+  "example": {
+   "t": "この 寺は 長い 歴史が あると 言いました。",
+   "zh": "他说这座寺庙历史悠久。"
+  },
+  "audio": "audio/ja/ja_歴史.ogg",
+  "distractors": [
+   "地理",
+   "記録",
+   "由来"
+  ],
+  "tags": [
+   "core",
+   "noun"
+  ]
+ },
+ {
+  "id": "ja_世界",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 21,
+  "lemma": "世界",
+  "kana": "せかい",
+  "kanji": "世界",
+  "romaji": "sekai",
+  "pos": "名",
+  "pron": "[sekai]",
+  "meaning_zh": "世界",
+  "colloc": [
+   "～を旅行する",
+   "～中"
+  ],
+  "example": {
+   "t": "世界は 広いと 言いました。",
+   "zh": "他说世界很广阔。"
+  },
+  "audio": "audio/ja/ja_世界.ogg",
+  "distractors": [
+   "国際",
+   "地球",
+   "全国"
+  ],
+  "tags": [
+   "core",
+   "noun"
+  ]
+ },
+ {
+  "id": "ja_言葉",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 21,
+  "lemma": "言葉",
+  "kana": "ことば",
+  "kanji": "言葉",
+  "romaji": "kotoba",
+  "pos": "名",
+  "pron": "[kotoba]",
+  "meaning_zh": "语言；词语",
+  "colloc": [
+   "～を覚える",
+   "～が分かる"
+  ],
+  "example": {
+   "t": "日本の 言葉は 難しいと 言いました。",
+   "zh": "他说日语很难。"
+  },
+  "audio": "audio/ja/ja_言葉.ogg",
+  "distractors": [
+   "言語",
+   "文字",
+   "文章"
+  ],
+  "tags": [
+   "core",
+   "noun"
+  ]
+ },
+ {
+  "id": "ja_表現",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 21,
+  "lemma": "表現",
+  "kana": "ひょうげん",
+  "kanji": "表現",
+  "romaji": "hyougen",
+  "pos": "名",
+  "pron": "[hyougen]",
+  "meaning_zh": "表达；表现",
+  "colloc": [
+   "～を習う",
+   "～が難しい"
+  ],
+  "example": {
+   "t": "この 表現は 正しいと 言いました。",
+   "zh": "他说这种表达是正确的。"
+  },
+  "audio": "audio/ja/ja_表現.ogg",
+  "distractors": [
+   "表明",
+   "描写",
+   "表紙"
+  ],
+  "tags": [
+   "core",
+   "speaking"
+  ]
+ },
+ {
+  "id": "ja_信じる",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 21,
+  "lemma": "信じる",
+  "kana": "しんじる",
+  "kanji": "信じる",
+  "romaji": "shinjiru",
+  "pos": "動",
+  "pron": "[shinjiru]",
+  "meaning_zh": "相信；信任",
+  "colloc": [
+   "～を信じる",
+   "～と信じる"
+  ],
+  "ant": [
+   "疑う"
+  ],
+  "example": {
+   "t": "私は 彼の 話を 信じると 言いました。",
+   "zh": "我说我相信他的话。"
+  },
+  "audio": "audio/ja/ja_信じる.ogg",
+  "distractors": [
+   "疑う",
+   "考える",
+   "確かめる"
+  ],
+  "tags": [
+   "core",
+   "verb"
+  ]
+ },
+ {
+  "id": "ja_伝える",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 21,
+  "lemma": "伝える",
+  "kana": "つたえる",
+  "kanji": "伝える",
+  "romaji": "tsutaeru",
+  "pos": "動",
+  "pron": "[tsutaeru]",
+  "meaning_zh": "传达；转告",
+  "colloc": [
+   "～を伝える",
+   "～に伝える"
+  ],
+  "example": {
+   "t": "彼に 伝えると 言いました。",
+   "zh": "他说会转告他。"
+  },
+  "audio": "audio/ja/ja_伝える.ogg",
+  "distractors": [
+   "伝わる",
+   "話す",
+   "届ける"
+  ],
+  "tags": [
+   "core",
+   "verb"
+  ]
+ },
+ {
+  "id": "ja_尋ねる",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 21,
+  "lemma": "尋ねる",
+  "kana": "たずねる",
+  "kanji": "尋ねる",
+  "romaji": "tazuneru",
+  "pos": "動",
+  "pron": "[tazuneru]",
+  "meaning_zh": "询问；打听",
+  "colloc": [
+   "～を尋ねる",
+   "道を～"
+  ],
+  "syn": [
+   "聞く"
+  ],
+  "example": {
+   "t": "道を 尋ねたと 言いました。",
+   "zh": "他说他问过路。"
+  },
+  "audio": "audio/ja/ja_尋ねる.ogg",
+  "distractors": [
+   "聞く",
+   "答える",
+   "話す"
+  ],
+  "tags": [
+   "core",
+   "verb"
+  ]
+ },
+ {
+  "id": "ja_答える",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 21,
+  "lemma": "答える",
+  "kana": "こたえる",
+  "kanji": "答える",
+  "romaji": "kotaeru",
+  "pos": "動",
+  "pron": "[kotaeru]",
+  "meaning_zh": "回答；答复",
+  "colloc": [
+   "～を答える",
+   "質問に～"
+  ],
+  "example": {
+   "t": "彼は はいと 答えたと 言いました。",
+   "zh": "他说他回答了「是」。"
+  },
+  "audio": "audio/ja/ja_答える.ogg",
+  "distractors": [
+   "尋ねる",
+   "言う",
+   "返す"
+  ],
+  "tags": [
+   "core",
+   "verb"
+  ]
+ },
+ {
+  "id": "ja_質問",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 21,
+  "lemma": "質問",
+  "kana": "しつもん",
+  "kanji": "質問",
+  "romaji": "shitsumon",
+  "pos": "名",
+  "pron": "[shitsumon]",
+  "meaning_zh": "提问；问题",
+  "colloc": [
+   "～をする",
+   "～に答える"
+  ],
+  "example": {
+   "t": "学生は 質問が あると 言いました。",
+   "zh": "学生说有问题要问。"
+  },
+  "audio": "audio/ja/ja_質問.ogg",
+  "distractors": [
+   "問題",
+   "回答",
+   "意見"
+  ],
+  "tags": [
+   "core",
+   "noun"
+  ]
+ },
+ {
+  "id": "ja_理由",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 21,
+  "lemma": "理由",
+  "kana": "りゆう",
+  "kanji": "理由",
+  "romaji": "riyuu",
+  "pos": "名",
+  "pron": "[riyuu]",
+  "meaning_zh": "理由；原因",
+  "colloc": [
+   "～を説明する",
+   "～がある"
+  ],
+  "syn": [
+   "原因"
+  ],
+  "example": {
+   "t": "遅刻の 理由を 説明したと 言いました。",
+   "zh": "他说他说明了迟到的理由。"
+  },
+  "audio": "audio/ja/ja_理由.ogg",
+  "distractors": [
+   "原因",
+   "意味",
+   "結果"
+  ],
+  "tags": [
+   "core",
+   "noun"
+  ]
+ },
+ {
+  "id": "ja_確か",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 21,
+  "lemma": "確か",
+  "kana": "たしか",
+  "kanji": "確か",
+  "romaji": "tashika",
+  "pos": "形動",
+  "pron": "[tashika]",
+  "meaning_zh": "确实；大概（记得）",
+  "colloc": [
+   "～～だった",
+   "～な記憶"
+  ],
+  "example": {
+   "t": "確か 彼は 来ると 言いました。",
+   "zh": "我记得他说过要来。"
+  },
+  "audio": "audio/ja/ja_確か.ogg",
+  "distractors": [
+   "確実",
+   "多分",
+   "本当"
+  ],
+  "tags": [
+   "core",
+   "speaking"
+  ]
+ },
+ {
+  "id": "ja_インタビュー",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 21,
+  "lemma": "インタビュー",
+  "kana": "インタビュー",
+  "kanji": null,
+  "romaji": "intabyuu",
+  "pos": "名",
+  "pron": "[intabyuu]",
+  "meaning_zh": "采访；访谈",
+  "colloc": [
+   "～をする",
+   "～を受ける"
+  ],
+  "example": {
+   "t": "歌手に インタビューしたと 言いました。",
+   "zh": "他说他采访了歌手。"
+  },
+  "audio": "audio/ja/ja_インタビュー.ogg",
+  "distractors": [
+   "アンケート",
+   "スピーチ",
+   "報告"
+  ],
+  "tags": [
+   "core",
+   "speaking"
+  ]
+ },
+ {
+  "id": "ja_アナウンサー",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 21,
+  "lemma": "アナウンサー",
+  "kana": "アナウンサー",
+  "kanji": null,
+  "romaji": "anaunsaa",
+  "pos": "名",
+  "pron": "[anaunsaa]",
+  "meaning_zh": "播音员",
+  "colloc": [
+   "～になる",
+   "～が読む"
+  ],
+  "example": {
+   "t": "アナウンサーは 雨が 降ると 言いました。",
+   "zh": "播音员说了要下雨。"
+  },
+  "audio": "audio/ja/ja_アナウンサー.ogg",
+  "distractors": [
+   "歌手",
+   "記者",
+   "俳優"
+  ],
+  "tags": [
+   "core",
+   "person"
+  ]
+ }
+]

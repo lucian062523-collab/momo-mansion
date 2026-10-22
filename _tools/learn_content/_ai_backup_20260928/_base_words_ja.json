@@ -1,0 +1,1607 @@
+[
+ {
+  "id": "ja_学生",
+  "lang": "ja",
+  "tier": 1,
+  "lemma": "学生",
+  "kana": "がくせい",
+  "kanji": "学生",
+  "romaji": "gakusei",
+  "pos": "名",
+  "pron": "[gakusei]",
+  "meaning_zh": "学生",
+  "example": {
+   "t": "私は学生です。",
+   "zh": "我是学生。"
+  },
+  "audio": "audio/ja/ja_学生.ogg",
+  "distractors": [
+   "学校",
+   "先生",
+   "大学"
+  ],
+  "tags": [
+   "core",
+   "noun",
+   "person"
+  ]
+ },
+ {
+  "id": "ja_先生",
+  "lang": "ja",
+  "tier": 1,
+  "lemma": "先生",
+  "kana": "せんせい",
+  "kanji": "先生",
+  "romaji": "sensei",
+  "pos": "名",
+  "pron": "[sensei]",
+  "meaning_zh": "老师；医生",
+  "example": {
+   "t": "先生はとても親切です。",
+   "zh": "老师非常亲切。"
+  },
+  "audio": "audio/ja/ja_先生.ogg",
+  "distractors": [
+   "学生",
+   "先月",
+   "生徒"
+  ],
+  "tags": [
+   "core",
+   "noun",
+   "person"
+  ]
+ },
+ {
+  "id": "ja_学校",
+  "lang": "ja",
+  "tier": 1,
+  "lemma": "学校",
+  "kana": "がっこう",
+  "kanji": "学校",
+  "romaji": "gakkou",
+  "pos": "名",
+  "pron": "[gakkou]",
+  "meaning_zh": "学校",
+  "example": {
+   "t": "毎日学校へ行きます。",
+   "zh": "我每天去学校。"
+  },
+  "audio": "audio/ja/ja_学校.ogg",
+  "distractors": [
+   "学生",
+   "教科",
+   "大学"
+  ],
+  "tags": [
+   "core",
+   "noun",
+   "place"
+  ]
+ },
+ {
+  "id": "ja_友達",
+  "lang": "ja",
+  "tier": 1,
+  "lemma": "友達",
+  "kana": "ともだち",
+  "kanji": "友達",
+  "romaji": "tomodachi",
+  "pos": "名",
+  "pron": "[tomodachi]",
+  "meaning_zh": "朋友",
+  "example": {
+   "t": "友達と映画を見ます。",
+   "zh": "我和朋友看电影。"
+  },
+  "audio": "audio/ja/ja_友達.ogg",
+  "distractors": [
+   "家族",
+   "仲間",
+   "友人"
+  ],
+  "tags": [
+   "core",
+   "noun",
+   "person"
+  ]
+ },
+ {
+  "id": "ja_家族",
+  "lang": "ja",
+  "tier": 1,
+  "lemma": "家族",
+  "kana": "かぞく",
+  "kanji": "家族",
+  "romaji": "kazoku",
+  "pos": "名",
+  "pron": "[kazoku]",
+  "meaning_zh": "家人；家庭",
+  "example": {
+   "t": "家族は四人です。",
+   "zh": "我家有四口人。"
+  },
+  "audio": "audio/ja/ja_家族.ogg",
+  "distractors": [
+   "友達",
+   "家庭",
+   "家内"
+  ],
+  "tags": [
+   "core",
+   "noun",
+   "person"
+  ]
+ },
+ {
+  "id": "ja_電車",
+  "lang": "ja",
+  "tier": 1,
+  "lemma": "電車",
+  "kana": "でんしゃ",
+  "kanji": "電車",
+  "romaji": "densha",
+  "pos": "名",
+  "pron": "[densha]",
+  "meaning_zh": "电车",
+  "example": {
+   "t": "電車で会社へ行きます。",
+   "zh": "我坐电车去公司。"
+  },
+  "audio": "audio/ja/ja_電車.ogg",
+  "distractors": [
+   "自転車",
+   "自動車",
+   "電灯"
+  ],
+  "tags": [
+   "core",
+   "noun",
+   "daily"
+  ]
+ },
+ {
+  "id": "ja_水",
+  "lang": "ja",
+  "tier": 1,
+  "lemma": "水",
+  "kana": "みず",
+  "kanji": "水",
+  "romaji": "mizu",
+  "pos": "名",
+  "pron": "[mizu]",
+  "meaning_zh": "水",
+  "example": {
+   "t": "水を一杯ください。",
+   "zh": "请给我一杯水。"
+  },
+  "audio": "audio/ja/ja_水.ogg",
+  "distractors": [
+   "お湯",
+   "氷",
+   "池"
+  ],
+  "tags": [
+   "core",
+   "noun",
+   "daily"
+  ]
+ },
+ {
+  "id": "ja_りんご",
+  "lang": "ja",
+  "tier": 1,
+  "lemma": "りんご",
+  "kana": "りんご",
+  "kanji": null,
+  "romaji": "ringo",
+  "pos": "名",
+  "pron": "[ringo]",
+  "meaning_zh": "苹果",
+  "example": {
+   "t": "りんごが好きです。",
+   "zh": "我喜欢苹果。"
+  },
+  "audio": "audio/ja/ja_りんご.ogg",
+  "distractors": [
+   "みかん",
+   "バナナ",
+   "ぶどう"
+  ],
+  "tags": [
+   "core",
+   "noun",
+   "daily"
+  ]
+ },
+ {
+  "id": "ja_天気",
+  "lang": "ja",
+  "tier": 1,
+  "lemma": "天気",
+  "kana": "てんき",
+  "kanji": "天気",
+  "romaji": "tenki",
+  "pos": "名",
+  "pron": "[tenki]",
+  "meaning_zh": "天气",
+  "example": {
+   "t": "今日はいい天気ですね。",
+   "zh": "今天天气真好。"
+  },
+  "audio": "audio/ja/ja_天気.ogg",
+  "distractors": [
+   "電気",
+   "元気",
+   "空気"
+  ],
+  "tags": [
+   "core",
+   "noun",
+   "daily"
+  ]
+ },
+ {
+  "id": "ja_時間",
+  "lang": "ja",
+  "tier": 1,
+  "lemma": "時間",
+  "kana": "じかん",
+  "kanji": "時間",
+  "romaji": "jikan",
+  "pos": "名",
+  "pron": "[jikan]",
+  "meaning_zh": "时间；小时",
+  "example": {
+   "t": "時間がありません。",
+   "zh": "没有时间。"
+  },
+  "audio": "audio/ja/ja_時間.ogg",
+  "distractors": [
+   "時代",
+   "人間",
+   "時計"
+  ],
+  "tags": [
+   "core",
+   "noun",
+   "time"
+  ]
+ },
+ {
+  "id": "ja_仕事",
+  "lang": "ja",
+  "tier": 1,
+  "lemma": "仕事",
+  "kana": "しごと",
+  "kanji": "仕事",
+  "romaji": "shigoto",
+  "pos": "名",
+  "pron": "[shigoto]",
+  "meaning_zh": "工作；职业",
+  "example": {
+   "t": "仕事は忙しいです。",
+   "zh": "工作很忙。"
+  },
+  "audio": "audio/ja/ja_仕事.ogg",
+  "distractors": [
+   "事実",
+   "仕方",
+   "作業"
+  ],
+  "tags": [
+   "core",
+   "noun",
+   "daily"
+  ]
+ },
+ {
+  "id": "ja_お金",
+  "lang": "ja",
+  "tier": 1,
+  "lemma": "お金",
+  "kana": "おかね",
+  "kanji": "お金",
+  "romaji": "okane",
+  "pos": "名",
+  "pron": "[okane]",
+  "meaning_zh": "钱；金钱",
+  "example": {
+   "t": "お金が足りません。",
+   "zh": "钱不够。"
+  },
+  "audio": "audio/ja/ja_お金.ogg",
+  "distractors": [
+   "金曜",
+   "お茶",
+   "財布"
+  ],
+  "tags": [
+   "core",
+   "noun",
+   "daily"
+  ]
+ },
+ {
+  "id": "ja_病院",
+  "lang": "ja",
+  "tier": 1,
+  "lemma": "病院",
+  "kana": "びょういん",
+  "kanji": "病院",
+  "romaji": "byouin",
+  "pos": "名",
+  "pron": "[byouin]",
+  "meaning_zh": "医院",
+  "example": {
+   "t": "病院へ行きました。",
+   "zh": "我去了医院。"
+  },
+  "audio": "audio/ja/ja_病院.ogg",
+  "distractors": [
+   "医院",
+   "病室",
+   "医者"
+  ],
+  "tags": [
+   "core",
+   "noun",
+   "place"
+  ]
+ },
+ {
+  "id": "ja_駅",
+  "lang": "ja",
+  "tier": 1,
+  "lemma": "駅",
+  "kana": "えき",
+  "kanji": "駅",
+  "romaji": "eki",
+  "pos": "名",
+  "pron": "[eki]",
+  "meaning_zh": "车站",
+  "example": {
+   "t": "駅はどこですか。",
+   "zh": "车站在哪里？"
+  },
+  "audio": "audio/ja/ja_駅.ogg",
+  "distractors": [
+   "空港",
+   "港",
+   "道"
+  ],
+  "tags": [
+   "core",
+   "noun",
+   "place"
+  ]
+ },
+ {
+  "id": "ja_映画",
+  "lang": "ja",
+  "tier": 1,
+  "lemma": "映画",
+  "kana": "えいが",
+  "kanji": "映画",
+  "romaji": "eiga",
+  "pos": "名",
+  "pron": "[eiga]",
+  "meaning_zh": "电影",
+  "example": {
+   "t": "映画を見たいです。",
+   "zh": "我想看电影。"
+  },
+  "audio": "audio/ja/ja_映画.ogg",
+  "distractors": [
+   "写真",
+   "映像",
+   "映画館"
+  ],
+  "tags": [
+   "core",
+   "noun",
+   "daily"
+  ]
+ },
+ {
+  "id": "ja_音楽",
+  "lang": "ja",
+  "tier": 1,
+  "lemma": "音楽",
+  "kana": "おんがく",
+  "kanji": "音楽",
+  "romaji": "ongaku",
+  "pos": "名",
+  "pron": "[ongaku]",
+  "meaning_zh": "音乐",
+  "example": {
+   "t": "音楽を聞きます。",
+   "zh": "我听音乐。"
+  },
+  "audio": "audio/ja/ja_音楽.ogg",
+  "distractors": [
+   "楽器",
+   "音",
+   "美術"
+  ],
+  "tags": [
+   "core",
+   "noun",
+   "daily"
+  ]
+ },
+ {
+  "id": "ja_電話",
+  "lang": "ja",
+  "tier": 1,
+  "lemma": "電話",
+  "kana": "でんわ",
+  "kanji": "電話",
+  "romaji": "denwa",
+  "pos": "名",
+  "pron": "[denwa]",
+  "meaning_zh": "电话",
+  "example": {
+   "t": "電話をかけます。",
+   "zh": "我打电话。"
+  },
+  "audio": "audio/ja/ja_電話.ogg",
+  "distractors": [
+   "電気",
+   "電池",
+   "電車"
+  ],
+  "tags": [
+   "core",
+   "noun",
+   "daily"
+  ]
+ },
+ {
+  "id": "ja_食べ物",
+  "lang": "ja",
+  "tier": 1,
+  "lemma": "食べ物",
+  "kana": "たべもの",
+  "kanji": "食べ物",
+  "romaji": "tabemono",
+  "pos": "名",
+  "pron": "[tabemono]",
+  "meaning_zh": "食物；吃的东西",
+  "example": {
+   "t": "好きな食べ物は何ですか。",
+   "zh": "你喜欢的食物是什么？"
+  },
+  "audio": "audio/ja/ja_食べ物.ogg",
+  "distractors": [
+   "飲み物",
+   "買い物",
+   "食べ方"
+  ],
+  "tags": [
+   "core",
+   "noun",
+   "daily"
+  ]
+ },
+ {
+  "id": "ja_花",
+  "lang": "ja",
+  "tier": 1,
+  "lemma": "花",
+  "kana": "はな",
+  "kanji": "花",
+  "romaji": "hana",
+  "pos": "名",
+  "pron": "[hana]",
+  "meaning_zh": "花",
+  "example": {
+   "t": "花がきれいです。",
+   "zh": "花很美。"
+  },
+  "audio": "audio/ja/ja_花.ogg",
+  "distractors": [
+   "草",
+   "木",
+   "葉"
+  ],
+  "tags": [
+   "core",
+   "noun",
+   "daily"
+  ]
+ },
+ {
+  "id": "ja_車",
+  "lang": "ja",
+  "tier": 1,
+  "lemma": "車",
+  "kana": "くるま",
+  "kanji": "車",
+  "romaji": "kuruma",
+  "pos": "名",
+  "pron": "[kuruma]",
+  "meaning_zh": "汽车；车",
+  "example": {
+   "t": "車を買いました。",
+   "zh": "我买了车。"
+  },
+  "audio": "audio/ja/ja_車.ogg",
+  "distractors": [
+   "電車",
+   "自転車",
+   "自動車"
+  ],
+  "tags": [
+   "core",
+   "noun",
+   "daily"
+  ]
+ },
+ {
+  "id": "ja_今日",
+  "lang": "ja",
+  "tier": 1,
+  "lemma": "今日",
+  "kana": "きょう",
+  "kanji": "今日",
+  "romaji": "kyou",
+  "pos": "名",
+  "pron": "[kyou]",
+  "meaning_zh": "今天",
+  "example": {
+   "t": "今日は月曜日です。",
+   "zh": "今天是星期一。"
+  },
+  "audio": "audio/ja/ja_今日.ogg",
+  "distractors": [
+   "昨日",
+   "明日",
+   "今朝"
+  ],
+  "tags": [
+   "core",
+   "noun",
+   "time"
+  ]
+ },
+ {
+  "id": "ja_明日",
+  "lang": "ja",
+  "tier": 1,
+  "lemma": "明日",
+  "kana": "あした",
+  "kanji": "明日",
+  "romaji": "ashita",
+  "pos": "名",
+  "pron": "[ashita]",
+  "meaning_zh": "明天",
+  "example": {
+   "t": "明日は休みです。",
+   "zh": "明天休息。"
+  },
+  "audio": "audio/ja/ja_明日.ogg",
+  "distractors": [
+   "今日",
+   "昨日",
+   "明後日"
+  ],
+  "tags": [
+   "core",
+   "noun",
+   "time"
+  ]
+ },
+ {
+  "id": "ja_昨日",
+  "lang": "ja",
+  "tier": 1,
+  "lemma": "昨日",
+  "kana": "きのう",
+  "kanji": "昨日",
+  "romaji": "kinou",
+  "pos": "名",
+  "pron": "[kinou]",
+  "meaning_zh": "昨天",
+  "example": {
+   "t": "昨日雨が降りました。",
+   "zh": "昨天下雨了。"
+  },
+  "audio": "audio/ja/ja_昨日.ogg",
+  "distractors": [
+   "今日",
+   "明日",
+   "一昨日"
+  ],
+  "tags": [
+   "core",
+   "noun",
+   "time"
+  ]
+ },
+ {
+  "id": "ja_毎日",
+  "lang": "ja",
+  "tier": 1,
+  "lemma": "毎日",
+  "kana": "まいにち",
+  "kanji": "毎日",
+  "romaji": "mainichi",
+  "pos": "名",
+  "pron": "[mainichi]",
+  "meaning_zh": "每天",
+  "example": {
+   "t": "毎日日本語を勉強します。",
+   "zh": "我每天学日语。"
+  },
+  "audio": "audio/ja/ja_毎日.ogg",
+  "distractors": [
+   "毎週",
+   "毎月",
+   "毎年"
+  ],
+  "tags": [
+   "core",
+   "noun",
+   "time"
+  ]
+ },
+ {
+  "id": "ja_朝",
+  "lang": "ja",
+  "tier": 1,
+  "lemma": "朝",
+  "kana": "あさ",
+  "kanji": "朝",
+  "romaji": "asa",
+  "pos": "名",
+  "pron": "[asa]",
+  "meaning_zh": "早上；早晨",
+  "example": {
+   "t": "朝六時に起きます。",
+   "zh": "我早上六点起床。"
+  },
+  "audio": "audio/ja/ja_朝.ogg",
+  "distractors": [
+   "昼",
+   "夜",
+   "夕方"
+  ],
+  "tags": [
+   "core",
+   "noun",
+   "time"
+  ]
+ },
+ {
+  "id": "ja_夜",
+  "lang": "ja",
+  "tier": 1,
+  "lemma": "夜",
+  "kana": "よる",
+  "kanji": "夜",
+  "romaji": "yoru",
+  "pos": "名",
+  "pron": "[yoru]",
+  "meaning_zh": "夜晚；晚上",
+  "example": {
+   "t": "夜は静かです。",
+   "zh": "晚上很安静。"
+  },
+  "audio": "audio/ja/ja_夜.ogg",
+  "distractors": [
+   "朝",
+   "昼",
+   "夜中"
+  ],
+  "tags": [
+   "core",
+   "noun",
+   "time"
+  ]
+ },
+ {
+  "id": "ja_家",
+  "lang": "ja",
+  "tier": 1,
+  "lemma": "家",
+  "kana": "いえ",
+  "kanji": "家",
+  "romaji": "ie",
+  "pos": "名",
+  "pron": "[ie]",
+  "meaning_zh": "家；房子",
+  "example": {
+   "t": "家に帰ります。",
+   "zh": "我回家。"
+  },
+  "audio": "audio/ja/ja_家.ogg",
+  "distractors": [
+   "部屋",
+   "建物",
+   "家族"
+  ],
+  "tags": [
+   "core",
+   "noun",
+   "place"
+  ]
+ },
+ {
+  "id": "ja_上",
+  "lang": "ja",
+  "tier": 1,
+  "lemma": "上",
+  "kana": "うえ",
+  "kanji": "上",
+  "romaji": "ue",
+  "pos": "名",
+  "pron": "[ue]",
+  "meaning_zh": "上面；上方",
+  "example": {
+   "t": "机の上に本があります。",
+   "zh": "桌子上有书。"
+  },
+  "audio": "audio/ja/ja_上.ogg",
+  "distractors": [
+   "下",
+   "中",
+   "外"
+  ],
+  "tags": [
+   "core",
+   "noun",
+   "place"
+  ]
+ },
+ {
+  "id": "ja_下",
+  "lang": "ja",
+  "tier": 1,
+  "lemma": "下",
+  "kana": "した",
+  "kanji": "下",
+  "romaji": "shita",
+  "pos": "名",
+  "pron": "[shita]",
+  "meaning_zh": "下面；下方",
+  "example": {
+   "t": "椅子の下に猫がいます。",
+   "zh": "椅子下面有只猫。"
+  },
+  "audio": "audio/ja/ja_下.ogg",
+  "distractors": [
+   "上",
+   "中",
+   "後ろ"
+  ],
+  "tags": [
+   "core",
+   "noun",
+   "place"
+  ]
+ },
+ {
+  "id": "ja_前",
+  "lang": "ja",
+  "tier": 1,
+  "lemma": "前",
+  "kana": "まえ",
+  "kanji": "前",
+  "romaji": "mae",
+  "pos": "名",
+  "pron": "[mae]",
+  "meaning_zh": "前面；之前",
+  "example": {
+   "t": "駅の前にいます。",
+   "zh": "我在车站前面。"
+  },
+  "audio": "audio/ja/ja_前.ogg",
+  "distractors": [
+   "後ろ",
+   "上",
+   "隣"
+  ],
+  "tags": [
+   "core",
+   "noun",
+   "place"
+  ]
+ },
+ {
+  "id": "ja_後ろ",
+  "lang": "ja",
+  "tier": 1,
+  "lemma": "後ろ",
+  "kana": "うしろ",
+  "kanji": "後ろ",
+  "romaji": "ushiro",
+  "pos": "名",
+  "pron": "[ushiro]",
+  "meaning_zh": "后面；背后",
+  "example": {
+   "t": "学校の後ろです。",
+   "zh": "在学校后面。"
+  },
+  "audio": "audio/ja/ja_後ろ.ogg",
+  "distractors": [
+   "前",
+   "横",
+   "下"
+  ],
+  "tags": [
+   "core",
+   "noun",
+   "place"
+  ]
+ },
+ {
+  "id": "ja_隣",
+  "lang": "ja",
+  "tier": 1,
+  "lemma": "隣",
+  "kana": "となり",
+  "kanji": "隣",
+  "romaji": "tonari",
+  "pos": "名",
+  "pron": "[tonari]",
+  "meaning_zh": "旁边；隔壁",
+  "example": {
+   "t": "隣の部屋です。",
+   "zh": "是隔壁的房间。"
+  },
+  "audio": "audio/ja/ja_隣.ogg",
+  "distractors": [
+   "横",
+   "前",
+   "近く"
+  ],
+  "tags": [
+   "core",
+   "noun",
+   "place"
+  ]
+ },
+ {
+  "id": "ja_大きい",
+  "lang": "ja",
+  "tier": 1,
+  "lemma": "大きい",
+  "kana": "おおきい",
+  "kanji": "大きい",
+  "romaji": "ookii",
+  "pos": "形",
+  "pron": "[ookii]",
+  "meaning_zh": "大的",
+  "example": {
+   "t": "この犬は大きいです。",
+   "zh": "这只狗很大。"
+  },
+  "audio": "audio/ja/ja_大きい.ogg",
+  "distractors": [
+   "小さい",
+   "多い",
+   "広い"
+  ],
+  "tags": [
+   "core",
+   "daily"
+  ]
+ },
+ {
+  "id": "ja_小さい",
+  "lang": "ja",
+  "tier": 1,
+  "lemma": "小さい",
+  "kana": "ちいさい",
+  "kanji": "小さい",
+  "romaji": "chiisai",
+  "pos": "形",
+  "pron": "[chiisai]",
+  "meaning_zh": "小的",
+  "example": {
+   "t": "小さい部屋です。",
+   "zh": "是个小房间。"
+  },
+  "audio": "audio/ja/ja_小さい.ogg",
+  "distractors": [
+   "大きい",
+   "少ない",
+   "狭い"
+  ],
+  "tags": [
+   "core",
+   "daily"
+  ]
+ },
+ {
+  "id": "ja_新しい",
+  "lang": "ja",
+  "tier": 1,
+  "lemma": "新しい",
+  "kana": "あたらしい",
+  "kanji": "新しい",
+  "romaji": "atarashii",
+  "pos": "形",
+  "pron": "[atarashii]",
+  "meaning_zh": "新的",
+  "example": {
+   "t": "新しい車です。",
+   "zh": "是新车。"
+  },
+  "audio": "audio/ja/ja_新しい.ogg",
+  "distractors": [
+   "古い",
+   "若い",
+   "高い"
+  ],
+  "tags": [
+   "core",
+   "daily"
+  ]
+ },
+ {
+  "id": "ja_古い",
+  "lang": "ja",
+  "tier": 1,
+  "lemma": "古い",
+  "kana": "ふるい",
+  "kanji": "古い",
+  "romaji": "furui",
+  "pos": "形",
+  "pron": "[furui]",
+  "meaning_zh": "旧的；古老的",
+  "example": {
+   "t": "古い家に住んでいます。",
+   "zh": "我住在旧房子里。"
+  },
+  "audio": "audio/ja/ja_古い.ogg",
+  "distractors": [
+   "新しい",
+   "早い",
+   "低い"
+  ],
+  "tags": [
+   "core",
+   "daily"
+  ]
+ },
+ {
+  "id": "ja_高い",
+  "lang": "ja",
+  "tier": 1,
+  "lemma": "高い",
+  "kana": "たかい",
+  "kanji": "高い",
+  "romaji": "takai",
+  "pos": "形",
+  "pron": "[takai]",
+  "meaning_zh": "高的；贵的",
+  "example": {
+   "t": "このかばんは高いです。",
+   "zh": "这个包很贵。"
+  },
+  "audio": "audio/ja/ja_高い.ogg",
+  "distractors": [
+   "安い",
+   "低い",
+   "長い"
+  ],
+  "tags": [
+   "core",
+   "daily"
+  ]
+ },
+ {
+  "id": "ja_安い",
+  "lang": "ja",
+  "tier": 1,
+  "lemma": "安い",
+  "kana": "やすい",
+  "kanji": "安い",
+  "romaji": "yasui",
+  "pos": "形",
+  "pron": "[yasui]",
+  "meaning_zh": "便宜的",
+  "example": {
+   "t": "野菜は安いです。",
+   "zh": "蔬菜很便宜。"
+  },
+  "audio": "audio/ja/ja_安い.ogg",
+  "distractors": [
+   "高い",
+   "低い",
+   "細い"
+  ],
+  "tags": [
+   "core",
+   "daily"
+  ]
+ },
+ {
+  "id": "ja_暑い",
+  "lang": "ja",
+  "tier": 1,
+  "lemma": "暑い",
+  "kana": "あつい",
+  "kanji": "暑い",
+  "romaji": "atsui",
+  "pos": "形",
+  "pron": "[atsui]",
+  "meaning_zh": "热的（天气）",
+  "example": {
+   "t": "今日はとても暑いです。",
+   "zh": "今天非常热。"
+  },
+  "audio": "audio/ja/ja_暑い.ogg",
+  "distractors": [
+   "寒い",
+   "熱い",
+   "暖かい"
+  ],
+  "tags": [
+   "core",
+   "daily"
+  ]
+ },
+ {
+  "id": "ja_寒い",
+  "lang": "ja",
+  "tier": 1,
+  "lemma": "寒い",
+  "kana": "さむい",
+  "kanji": "寒い",
+  "romaji": "samui",
+  "pos": "形",
+  "pron": "[samui]",
+  "meaning_zh": "冷的（天气）",
+  "example": {
+   "t": "冬は寒いです。",
+   "zh": "冬天很冷。"
+  },
+  "audio": "audio/ja/ja_寒い.ogg",
+  "distractors": [
+   "暑い",
+   "涼しい",
+   "冷たい"
+  ],
+  "tags": [
+   "core",
+   "daily"
+  ]
+ },
+ {
+  "id": "ja_難しい",
+  "lang": "ja",
+  "tier": 1,
+  "lemma": "難しい",
+  "kana": "むずかしい",
+  "kanji": "難しい",
+  "romaji": "muzukashii",
+  "pos": "形",
+  "pron": "[muzukashii]",
+  "meaning_zh": "难的；困难的",
+  "example": {
+   "t": "日本語は難しいです。",
+   "zh": "日语很难。"
+  },
+  "audio": "audio/ja/ja_難しい.ogg",
+  "distractors": [
+   "易しい",
+   "楽しい",
+   "正しい"
+  ],
+  "tags": [
+   "core",
+   "daily"
+  ]
+ },
+ {
+  "id": "ja_忙しい",
+  "lang": "ja",
+  "tier": 1,
+  "lemma": "忙しい",
+  "kana": "いそがしい",
+  "kanji": "忙しい",
+  "romaji": "isogashii",
+  "pos": "形",
+  "pron": "[isogashii]",
+  "meaning_zh": "忙的；忙碌的",
+  "example": {
+   "t": "今日は忙しいです。",
+   "zh": "今天很忙。"
+  },
+  "audio": "audio/ja/ja_忙しい.ogg",
+  "distractors": [
+   "難しい",
+   "楽しい",
+   "新しい"
+  ],
+  "tags": [
+   "core",
+   "daily"
+  ]
+ },
+ {
+  "id": "ja_元気",
+  "lang": "ja",
+  "tier": 1,
+  "lemma": "元気",
+  "kana": "げんき",
+  "kanji": "元気",
+  "romaji": "genki",
+  "pos": "形動",
+  "pron": "[genki]",
+  "meaning_zh": "健康；有精神",
+  "example": {
+   "t": "元気ですか。",
+   "zh": "你好吗？"
+  },
+  "audio": "audio/ja/ja_元気.ogg",
+  "distractors": [
+   "天気",
+   "人気",
+   "病気"
+  ],
+  "tags": [
+   "core",
+   "daily"
+  ]
+ },
+ {
+  "id": "ja_静か",
+  "lang": "ja",
+  "tier": 1,
+  "lemma": "静か",
+  "kana": "しずか",
+  "kanji": "静か",
+  "romaji": "shizuka",
+  "pos": "形動",
+  "pron": "[shizuka]",
+  "meaning_zh": "安静；宁静",
+  "example": {
+   "t": "この町は静かです。",
+   "zh": "这个小镇很安静。"
+  },
+  "audio": "audio/ja/ja_静か.ogg",
+  "distractors": [
+   "賑やか",
+   "便利",
+   "綺麗"
+  ],
+  "tags": [
+   "core",
+   "daily"
+  ]
+ },
+ {
+  "id": "ja_便利",
+  "lang": "ja",
+  "tier": 1,
+  "lemma": "便利",
+  "kana": "べんり",
+  "kanji": "便利",
+  "romaji": "benri",
+  "pos": "形動",
+  "pron": "[benri]",
+  "meaning_zh": "方便；便利",
+  "example": {
+   "t": "この店は便利です。",
+   "zh": "这家店很方便。"
+  },
+  "audio": "audio/ja/ja_便利.ogg",
+  "distractors": [
+   "静か",
+   "有名",
+   "特別"
+  ],
+  "tags": [
+   "core",
+   "daily"
+  ]
+ },
+ {
+  "id": "ja_有名",
+  "lang": "ja",
+  "tier": 1,
+  "lemma": "有名",
+  "kana": "ゆうめい",
+  "kanji": "有名",
+  "romaji": "yuumei",
+  "pos": "形動",
+  "pron": "[yuumei]",
+  "meaning_zh": "有名；著名",
+  "example": {
+   "t": "彼は有名です。",
+   "zh": "他很有名。"
+  },
+  "audio": "audio/ja/ja_有名.ogg",
+  "distractors": [
+   "便利",
+   "親切",
+   "元気"
+  ],
+  "tags": [
+   "core",
+   "daily"
+  ]
+ },
+ {
+  "id": "ja_大切",
+  "lang": "ja",
+  "tier": 1,
+  "lemma": "大切",
+  "kana": "たいせつ",
+  "kanji": "大切",
+  "romaji": "taisetsu",
+  "pos": "形動",
+  "pron": "[taisetsu]",
+  "meaning_zh": "重要；珍贵",
+  "example": {
+   "t": "家族は大切です。",
+   "zh": "家人很重要。"
+  },
+  "audio": "audio/ja/ja_大切.ogg",
+  "distractors": [
+   "大事",
+   "特別",
+   "便利"
+  ],
+  "tags": [
+   "core",
+   "daily"
+  ]
+ },
+ {
+  "id": "ja_食べる",
+  "lang": "ja",
+  "tier": 1,
+  "lemma": "食べる",
+  "kana": "たべる",
+  "kanji": "食べる",
+  "romaji": "taberu",
+  "pos": "動",
+  "pron": "[taberu]",
+  "meaning_zh": "吃",
+  "example": {
+   "t": "パンを食べます。",
+   "zh": "我吃面包。"
+  },
+  "audio": "audio/ja/ja_食べる.ogg",
+  "distractors": [
+   "飲む",
+   "見る",
+   "作る"
+  ],
+  "tags": [
+   "core",
+   "verb",
+   "daily"
+  ]
+ },
+ {
+  "id": "ja_飲む",
+  "lang": "ja",
+  "tier": 1,
+  "lemma": "飲む",
+  "kana": "のむ",
+  "kanji": "飲む",
+  "romaji": "nomu",
+  "pos": "動",
+  "pron": "[nomu]",
+  "meaning_zh": "喝；服用",
+  "example": {
+   "t": "お茶を飲みます。",
+   "zh": "我喝茶。"
+  },
+  "audio": "audio/ja/ja_飲む.ogg",
+  "distractors": [
+   "食べる",
+   "吸う",
+   "買う"
+  ],
+  "tags": [
+   "core",
+   "verb",
+   "daily"
+  ]
+ },
+ {
+  "id": "ja_行く",
+  "lang": "ja",
+  "tier": 1,
+  "lemma": "行く",
+  "kana": "いく",
+  "kanji": "行く",
+  "romaji": "iku",
+  "pos": "動",
+  "pron": "[iku]",
+  "meaning_zh": "去；前往",
+  "example": {
+   "t": "学校へ行きます。",
+   "zh": "我去学校。"
+  },
+  "audio": "audio/ja/ja_行く.ogg",
+  "distractors": [
+   "来る",
+   "帰る",
+   "出る"
+  ],
+  "tags": [
+   "core",
+   "verb",
+   "daily"
+  ]
+ },
+ {
+  "id": "ja_来る",
+  "lang": "ja",
+  "tier": 1,
+  "lemma": "来る",
+  "kana": "くる",
+  "kanji": "来る",
+  "romaji": "kuru",
+  "pos": "動",
+  "pron": "[kuru]",
+  "meaning_zh": "来；到来",
+  "example": {
+   "t": "友達が来ます。",
+   "zh": "朋友要来。"
+  },
+  "audio": "audio/ja/ja_来る.ogg",
+  "distractors": [
+   "行く",
+   "帰る",
+   "する"
+  ],
+  "tags": [
+   "core",
+   "verb",
+   "daily"
+  ]
+ },
+ {
+  "id": "ja_見る",
+  "lang": "ja",
+  "tier": 1,
+  "lemma": "見る",
+  "kana": "みる",
+  "kanji": "見る",
+  "romaji": "miru",
+  "pos": "動",
+  "pron": "[miru]",
+  "meaning_zh": "看；观看",
+  "example": {
+   "t": "テレビを見ます。",
+   "zh": "我看电视。"
+  },
+  "audio": "audio/ja/ja_見る.ogg",
+  "distractors": [
+   "聞く",
+   "読む",
+   "会う"
+  ],
+  "tags": [
+   "core",
+   "verb",
+   "daily"
+  ]
+ },
+ {
+  "id": "ja_聞く",
+  "lang": "ja",
+  "tier": 1,
+  "lemma": "聞く",
+  "kana": "きく",
+  "kanji": "聞く",
+  "romaji": "kiku",
+  "pos": "動",
+  "pron": "[kiku]",
+  "meaning_zh": "听；询问",
+  "example": {
+   "t": "音楽を聞きます。",
+   "zh": "我听音乐。"
+  },
+  "audio": "audio/ja/ja_聞く.ogg",
+  "distractors": [
+   "見る",
+   "話す",
+   "書く"
+  ],
+  "tags": [
+   "core",
+   "verb",
+   "listening"
+  ]
+ },
+ {
+  "id": "ja_読む",
+  "lang": "ja",
+  "tier": 1,
+  "lemma": "読む",
+  "kana": "よむ",
+  "kanji": "読む",
+  "romaji": "yomu",
+  "pos": "動",
+  "pron": "[yomu]",
+  "meaning_zh": "读；阅读",
+  "example": {
+   "t": "本を読みます。",
+   "zh": "我读书。"
+  },
+  "audio": "audio/ja/ja_読む.ogg",
+  "distractors": [
+   "書く",
+   "見る",
+   "買う"
+  ],
+  "tags": [
+   "core",
+   "verb",
+   "daily"
+  ]
+ },
+ {
+  "id": "ja_書く",
+  "lang": "ja",
+  "tier": 1,
+  "lemma": "書く",
+  "kana": "かく",
+  "kanji": "書く",
+  "romaji": "kaku",
+  "pos": "動",
+  "pron": "[kaku]",
+  "meaning_zh": "写；书写",
+  "example": {
+   "t": "手紙を書きます。",
+   "zh": "我写信。"
+  },
+  "audio": "audio/ja/ja_書く.ogg",
+  "distractors": [
+   "読む",
+   "話す",
+   "聞く"
+  ],
+  "tags": [
+   "core",
+   "verb",
+   "daily"
+  ]
+ },
+ {
+  "id": "ja_話す",
+  "lang": "ja",
+  "tier": 1,
+  "lemma": "話す",
+  "kana": "はなす",
+  "kanji": "話す",
+  "romaji": "hanasu",
+  "pos": "動",
+  "pron": "[hanasu]",
+  "meaning_zh": "说；谈话",
+  "example": {
+   "t": "日本語を話します。",
+   "zh": "我说日语。"
+  },
+  "audio": "audio/ja/ja_話す.ogg",
+  "distractors": [
+   "聞く",
+   "言う",
+   "書く"
+  ],
+  "tags": [
+   "core",
+   "verb",
+   "speaking"
+  ]
+ },
+ {
+  "id": "ja_買う",
+  "lang": "ja",
+  "tier": 1,
+  "lemma": "買う",
+  "kana": "かう",
+  "kanji": "買う",
+  "romaji": "kau",
+  "pos": "動",
+  "pron": "[kau]",
+  "meaning_zh": "买；购买",
+  "example": {
+   "t": "りんごを買います。",
+   "zh": "我买苹果。"
+  },
+  "audio": "audio/ja/ja_買う.ogg",
+  "distractors": [
+   "売る",
+   "作る",
+   "使う"
+  ],
+  "tags": [
+   "core",
+   "verb",
+   "daily"
+  ]
+ },
+ {
+  "id": "ja_起きる",
+  "lang": "ja",
+  "tier": 1,
+  "lemma": "起きる",
+  "kana": "おきる",
+  "kanji": "起きる",
+  "romaji": "okiru",
+  "pos": "動",
+  "pron": "[okiru]",
+  "meaning_zh": "起床；发生",
+  "example": {
+   "t": "毎朝六時に起きます。",
+   "zh": "我每天早上六点起床。"
+  },
+  "audio": "audio/ja/ja_起きる.ogg",
+  "distractors": [
+   "寝る",
+   "働く",
+   "帰る"
+  ],
+  "tags": [
+   "core",
+   "verb",
+   "daily"
+  ]
+ },
+ {
+  "id": "ja_寝る",
+  "lang": "ja",
+  "tier": 1,
+  "lemma": "寝る",
+  "kana": "ねる",
+  "kanji": "寝る",
+  "romaji": "neru",
+  "pos": "動",
+  "pron": "[neru]",
+  "meaning_zh": "睡觉；就寝",
+  "example": {
+   "t": "十一時に寝ます。",
+   "zh": "我十一点睡觉。"
+  },
+  "audio": "audio/ja/ja_寝る.ogg",
+  "distractors": [
+   "起きる",
+   "休む",
+   "遊ぶ"
+  ],
+  "tags": [
+   "core",
+   "verb",
+   "daily"
+  ]
+ },
+ {
+  "id": "ja_勉強する",
+  "lang": "ja",
+  "tier": 1,
+  "lemma": "勉強する",
+  "kana": "べんきょうする",
+  "kanji": "勉強する",
+  "romaji": "benkyou suru",
+  "pos": "動",
+  "pron": "[benkyou suru]",
+  "meaning_zh": "学习；用功",
+  "example": {
+   "t": "日本語を勉強します。",
+   "zh": "我学习日语。"
+  },
+  "audio": "audio/ja/ja_勉強する.ogg",
+  "distractors": [
+   "説明する",
+   "練習する",
+   "運動する"
+  ],
+  "tags": [
+   "core",
+   "verb",
+   "daily"
+  ]
+ }
+]

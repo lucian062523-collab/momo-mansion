@@ -1,0 +1,411 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>错题集 · MISTAKE COLLECTION</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700&family=Noto+Serif+SC:wght@500;600;700;900&display=swap" rel="stylesheet">
+<style>
+  /* ============ 设计令牌（羊皮纸棕金套件） ============ */
+  :root{
+    --cream-hi:  #fbf8eb;
+    --cream:     #f5efe2;
+    --cream-lo:  #eadfc6;
+    --dark-hi:   #4c352a;
+    --dark:      #38261f;
+    --dark-lo:   #1d120d;
+    --gold-hi:   #f1ca97;
+    --gold:      #ddb284;
+    --gold-mid:  #c9a06a;
+    --gold-lo:   #8a6a42;
+    --gold-deep: #734f3a;
+    --text-main: #43331d;
+    --text-sub:  #6d5940;
+    --wrong:     #a8402f;
+    --wrong-deep:#7c2a1e;
+    --okay:      #5f7a3a;
+    --serif-en:  'Cinzel', 'Noto Serif SC', serif;
+    --serif-zh:  'Noto Serif SC', 'Songti SC', 'SimSun', serif;
+  }
+  *{ margin:0; padding:0; box-sizing:border-box; }
+  body{
+    font-family: var(--serif-zh);
+    color: var(--text-main);
+    background:
+      radial-gradient(1200px 600px at 70% -10%, rgba(221,178,132,.07), transparent 60%),
+      radial-gradient(900px 500px at 10% 110%, rgba(221,178,132,.05), transparent 60%),
+      #241a13;
+    min-height:100vh;
+    padding:64px 32px 72px;
+    display:flex; flex-direction:column; align-items:center; gap:24px;
+  }
+  ::selection{ background:var(--gold); color:#241a13; }
+
+  /* ============ 展台 ============ */
+  .show-title{
+    text-align:center; color:var(--cream); font-weight:900;
+    letter-spacing:.35em; text-indent:.35em; font-size:26px;
+    text-shadow:0 2px 0 rgba(0,0,0,.5);
+  }
+  .show-sub{
+    text-align:center; color:var(--gold-mid); font-family:var(--serif-en);
+    font-size:11px; letter-spacing:.5em; text-indent:.5em; margin-top:10px;
+  }
+  .show-rule{
+    width:340px; height:10px; margin:4px 0 20px;
+    background:
+      radial-gradient(circle at center 50%, var(--gold) 0 1.6px, transparent 2.2px) center/14px 10px repeat-x;
+    opacity:.8;
+  }
+  .cell{ display:flex; flex-direction:column; align-items:center; gap:20px; }
+  .cell-tag{
+    display:flex; align-items:center; gap:12px;
+    color:var(--cream-lo); font-size:13px; letter-spacing:.3em; text-indent:.3em;
+  }
+  .cell-tag::before,.cell-tag::after{
+    content:""; width:7px; height:7px; background:var(--gold-mid);
+    transform:rotate(45deg); box-shadow:0 0 0 1px rgba(115,79,58,.6);
+  }
+  .cell-tag small{ font-family:var(--serif-en); font-size:9px; letter-spacing:.25em; color:var(--gold-lo); }
+
+  /* ============ 基础面板工艺 ============ */
+  .panel{
+    position:relative; background:var(--cream); border-radius:14px;
+    border:4px solid var(--gold-deep);
+    box-shadow:
+      inset 0 0 0 2px var(--gold-hi),
+      inset 0 2px 0 rgba(255,255,255,.85),
+      inset 0 -3px 0 var(--gold-mid),
+      0 6px 18px rgba(0,0,0,.45),
+      0 2px 4px rgba(0,0,0,.4);
+  }
+  .panel::before{
+    content:""; position:absolute; inset:6px; border-radius:9px;
+    border:1.5px solid rgba(138,106,66,.55);
+    pointer-events:none;
+  }
+  .corner{
+    position:absolute; width:14px; height:14px; z-index:2;
+    background:var(--gold);
+    -webkit-mask:var(--star);
+    -webkit-mask-composite:xor; mask-composite:exclude;
+    --star:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><path d='M12 0l2.6 9.4L24 12l-9.4 2.6L12 24l-2.6-9.4L0 12l9.4-2.6z'/></svg>") center/contain no-repeat;
+    filter:drop-shadow(0 1px 0 rgba(0,0,0,.35));
+  }
+  .corner.tl{ top:-7px; left:-7px; } .corner.tr{ top:-7px; right:-7px; }
+  .corner.bl{ bottom:-7px; left:-7px; } .corner.br{ bottom:-7px; right:-7px; }
+
+  /* ============ 单词卡片（可翻面） ============ */
+  .flip-wrap{ width:340px; height:472px; perspective:1400px; }
+  .flip{
+    position:relative; width:100%; height:100%;
+    transform-style:preserve-3d;
+    transition:transform .65s cubic-bezier(.2,.7,.25,1);
+  }
+  .flip-wrap.flipped .flip{ transform:rotateY(180deg); }
+  .wordcard{
+    position:absolute; inset:0; backface-visibility:hidden;
+    display:flex; flex-direction:column; padding:26px 26px 22px;
+  }
+  .wordcard.back{ transform:rotateY(180deg); }
+
+  .wc-head{ display:flex; justify-content:space-between; align-items:center; }
+  .wc-level{
+    display:inline-flex; align-items:center; gap:8px;
+    background:var(--dark); color:var(--gold); border-radius:8px;
+    border:1.5px solid var(--gold-lo);
+    box-shadow:inset 0 1px 0 rgba(241,202,151,.35), inset 0 -2px 4px rgba(0,0,0,.5);
+    font-size:11px; letter-spacing:.18em; padding:5px 12px 4px;
+  }
+  .wc-level i{ width:6px; height:6px; background:var(--gold); transform:rotate(45deg); }
+  .star-btn{
+    width:34px; height:34px; border:none; cursor:pointer; background:none;
+    color:var(--gold-mid); padding:0; border-radius:8px;
+    transition:transform .15s ease;
+  }
+  .star-btn:hover{ transform:scale(1.15); color:var(--gold-hi); }
+  .star-btn:focus-visible{ outline:2px solid var(--gold-hi); outline-offset:2px; }
+  .star-btn.collected{ color:#d9a437; }
+
+  .wc-word{
+    margin-top:34px; text-align:center;
+    font-family:var(--serif-en); font-weight:700;
+    font-size:37px; color:var(--dark); line-height:1.05;
+    text-shadow:0 1px 0 rgba(255,255,255,.8);
+    overflow-wrap:anywhere;
+  }
+  .wc-phon{
+    margin-top:12px; text-align:center; color:var(--text-sub);
+    font-size:14px; letter-spacing:.04em;
+  }
+  .wc-phon b{
+    font-family:var(--serif-en); font-weight:700; font-size:11px;
+    background:var(--dark); color:var(--gold);
+    border-radius:6px; padding:3px 9px 2px; margin-left:8px;
+    border:1.5px solid var(--gold-lo);
+    box-shadow:inset 0 1px 0 rgba(241,202,151,.3);
+    letter-spacing:.08em;
+  }
+  .wc-mean{
+    margin:20px auto 0; text-align:center; font-weight:700; font-size:16px;
+    color:var(--text-main); letter-spacing:.1em;
+  }
+  .wc-rule{
+    width:190px; height:8px; margin:16px auto 0;
+    background:radial-gradient(circle at center 50%, var(--gold-mid) 0 1.3px, transparent 1.9px) center/12px 8px repeat-x;
+  }
+  .wc-ex{
+    margin-top:20px; background:rgba(56,38,31,.06);
+    border:1.5px solid rgba(138,106,66,.4); border-radius:10px;
+    padding:14px 16px; font-size:13px; line-height:1.75; color:var(--text-sub);
+  }
+  .wc-ex em{ font-style:normal; color:var(--dark); font-family:var(--serif-en); font-size:12.5px; }
+  .wc-ex strong{ font-weight:700; color:var(--wrong); }
+  .wc-foot{
+    margin-top:auto; display:flex; justify-content:center; align-items:center; gap:10px;
+    color:var(--text-sub); font-size:11px; letter-spacing:.25em;
+  }
+  .wc-foot::before,.wc-foot::after{ content:""; width:36px; height:1.5px; background:linear-gradient(90deg,transparent,var(--gold-mid)); }
+  .wc-foot::after{ transform:scaleX(-1); }
+
+  .wc-back-title{
+    text-align:center; font-size:12px; letter-spacing:.35em; text-indent:.35em;
+    color:var(--gold-lo); margin-top:6px;
+  }
+  .wc-root{
+    margin-top:18px; background:var(--dark); border-radius:10px;
+    border:2px solid var(--gold-lo);
+    box-shadow:inset 0 1px 0 rgba(241,202,151,.3), inset 0 -3px 6px rgba(0,0,0,.5);
+    padding:14px 16px;
+  }
+  .wc-root-row{ display:flex; align-items:baseline; gap:10px; justify-content:center; flex-wrap:wrap; }
+  .wc-root-row + .wc-root-row{ margin-top:8px; }
+  .wc-root-row .seg{ color:var(--cream); font-size:15px; }
+  .wc-root-row .seg i{ font-style:normal; color:var(--gold); font-size:11px; margin-left:4px; }
+  .wc-root-note{ text-align:center; margin-top:10px; color:var(--gold-mid); font-size:12.5px; letter-spacing:.05em; }
+  .wc-list{ margin-top:16px; font-size:13px; line-height:2.05; color:var(--text-sub); }
+  .wc-list b{ color:var(--dark); font-weight:700; letter-spacing:.1em; }
+  .wc-list .en{ font-family:var(--serif-en); font-size:12.5px; }
+  .wc-btn{
+    margin-top:auto; display:block; width:100%; cursor:pointer;
+    background:linear-gradient(180deg, var(--gold-hi), var(--gold) 55%, var(--gold-mid));
+    border:2px solid var(--gold-deep); border-radius:10px;
+    box-shadow:inset 0 1px 0 rgba(255,255,255,.7), inset 0 -2px 0 rgba(115,79,58,.4), 0 3px 6px rgba(0,0,0,.3);
+    color:var(--dark); font-family:var(--serif-zh); font-weight:700;
+    font-size:14px; letter-spacing:.3em; text-indent:.3em; padding:11px 0 10px;
+    transition:transform .12s ease, filter .12s ease;
+  }
+  .wc-btn:hover{ filter:brightness(1.05); transform:translateY(-1px); }
+  .wc-btn:active{ transform:translateY(1px); }
+  .wc-btn:focus-visible{ outline:2px solid var(--dark); outline-offset:2px; }
+  .wc-btn.collected{ filter:saturate(.4) brightness(.96); }
+
+/* ============ 4. 错题集 ============ */
+  .mistake{ width:100%; max-width:560px; }
+  .mk-wax{
+    position:absolute; top:-20px; right:-14px; z-index:3;
+    width:62px; height:62px; border-radius:50%;
+    background:radial-gradient(circle at 35% 30%, #c05a44, var(--wrong) 55%, var(--wrong-deep));
+    box-shadow:0 4px 8px rgba(0,0,0,.45), inset 0 2px 3px rgba(255,255,255,.25), inset 0 -3px 5px rgba(0,0,0,.35);
+    display:flex; align-items:center; justify-content:center;
+    transform:rotate(12deg);
+  }
+  .mk-wax::after{
+    content:""; position:absolute; bottom:-7px; left:50%; transform:translateX(-50%) rotate(45deg);
+    width:14px; height:14px; background:var(--wrong-deep);
+    border-radius:0 0 4px 0;
+  }
+  .mk-wax span{
+    color:#f3d9c9; font-weight:900; font-size:24px;
+    text-shadow:0 1px 1px rgba(0,0,0,.45);
+  }
+  .mk-head{
+    display:flex; align-items:flex-end; justify-content:space-between;
+    padding:22px 28px 14px; border-bottom:2px solid rgba(138,106,66,.45);
+    box-shadow:0 2px 0 rgba(255,255,255,.5);
+  }
+  .mk-title h2{ font-size:20px; font-weight:900; letter-spacing:.2em; color:var(--dark); }
+  .mk-title h2 i{ font-style:normal; color:var(--wrong); }
+  .mk-title small{ display:block; font-family:var(--serif-en); font-size:9px; letter-spacing:.3em; color:var(--gold-lo); margin-top:4px; }
+  .mk-count{
+    font-size:11.5px; color:var(--wrong); font-weight:700; letter-spacing:.1em;
+    border:1.5px solid rgba(168,64,47,.5); background:rgba(168,64,47,.07);
+    border-radius:8px; padding:6px 12px 5px;
+  }
+  .mk-count b{ font-family:var(--serif-en); font-size:14px; }
+  .mk-list{ padding:16px 24px 4px; }
+  .mk-item{ border-radius:12px; border:1.5px solid rgba(138,106,66,.4); overflow:hidden; }
+  .mk-item + .mk-item{ margin-top:12px; }
+  .mk-item summary{
+    list-style:none; cursor:pointer; padding:13px 16px 12px;
+    display:flex; align-items:center; gap:12px;
+    background:linear-gradient(180deg, rgba(255,255,255,.5), rgba(251,248,235,.15));
+    transition:background .15s;
+  }
+  .mk-item summary::-webkit-details-marker{ display:none; }
+  .mk-item summary:hover{ background:linear-gradient(180deg, rgba(255,255,255,.65), rgba(251,248,235,.3)); }
+  .mk-item summary:focus-visible{ outline:2px solid var(--gold-hi); outline-offset:-2px; }
+  .mk-item summary .qno{
+    flex:none; width:26px; height:26px; border-radius:50%;
+    border:2px solid var(--wrong); color:var(--wrong);
+    font-family:var(--serif-en); font-size:12px; font-weight:700;
+    display:flex; align-items:center; justify-content:center;
+    background:rgba(168,64,47,.06);
+  }
+  .mk-item summary .qtext{ flex:1; font-size:13px; color:var(--text-main); line-height:1.6; }
+  .mk-item summary .qtext em{ font-style:normal; font-family:var(--serif-en); }
+  .mk-item summary .chev{
+    flex:none; width:9px; height:9px; border-right:2.5px solid var(--gold-lo); border-bottom:2.5px solid var(--gold-lo);
+    transform:rotate(45deg) translateY(-2px); transition:transform .2s;
+  }
+  .mk-item[open] summary .chev{ transform:rotate(-135deg) translateY(-2px); }
+  .mk-body{
+    padding:14px 18px 15px; border-top:1.5px dashed rgba(138,106,66,.4);
+    background:rgba(56,38,31,.045);
+  }
+  .mk-ans{ display:flex; align-items:center; gap:10px; font-size:13px; }
+  .mk-ans + .mk-ans{ margin-top:8px; }
+  .mk-ans .mark{
+    flex:none; width:20px; height:20px; border-radius:50%;
+    display:flex; align-items:center; justify-content:center;
+    font-size:12px; font-weight:900; color:var(--cream);
+  }
+  .mk-ans.bad .mark{ background:var(--wrong); box-shadow:0 1px 2px rgba(124,42,30,.5); }
+  .mk-ans.good .mark{ background:var(--okay); box-shadow:0 1px 2px rgba(95,122,58,.5); }
+  .mk-ans .txt{ color:var(--text-main); }
+  .mk-ans.bad .txt em{ font-style:normal; font-family:var(--serif-en); text-decoration:line-through; text-decoration-color:rgba(168,64,47,.7); color:var(--text-sub); }
+  .mk-ans.good .txt em{ font-style:normal; font-family:var(--serif-en); font-weight:700; color:var(--okay); }
+  .mk-why{
+    margin-top:12px; font-size:12px; line-height:1.8; color:var(--text-sub);
+    border-left:3px solid var(--gold-mid); padding-left:12px;
+  }
+  .mk-why b{ color:var(--dark); }
+  .mk-op{
+    margin-top:12px; text-align:right;
+  }
+  .mk-drop{
+    cursor:pointer; background:none; font-family:var(--serif-zh); font-size:11px;
+    color:var(--gold-lo); letter-spacing:.15em; border:1.5px solid rgba(138,106,66,.5);
+    border-radius:7px; padding:5px 12px 4px; transition:all .15s;
+  }
+  .mk-drop:hover{ color:var(--dark); border-color:var(--dark); background:rgba(221,178,132,.15); }
+  .mk-drop:focus-visible{ outline:2px solid var(--gold-hi); outline-offset:2px; }
+  .mk-item.removed{ opacity:.45; }
+  .mk-item.removed .qtext{ text-decoration:line-through; text-decoration-color:rgba(115,79,58,.6); }
+  .mk-item.removed .mk-body{ display:none; }
+  .mk-foot{ padding:16px 26px 22px; display:flex; justify-content:center; }
+  .mk-redo{
+    cursor:pointer; font-family:var(--serif-zh); font-weight:700;
+    font-size:14px; letter-spacing:.35em; text-indent:.35em; color:var(--cream);
+    background:linear-gradient(180deg, #5a4433, var(--dark) 55%, var(--dark-lo));
+    border:2px solid var(--gold-lo); border-radius:10px; padding:12px 44px 11px;
+    box-shadow:inset 0 1px 0 rgba(241,202,151,.35), inset 0 -3px 6px rgba(0,0,0,.5), 0 4px 10px rgba(0,0,0,.35);
+    transition:transform .12s, filter .12s;
+  }
+  .mk-redo:hover{ filter:brightness(1.15); transform:translateY(-1px); }
+  .mk-redo:active{ transform:translateY(1px); }
+  .mk-redo:focus-visible{ outline:2px solid var(--gold-hi); outline-offset:2px; }
+  .mk-redo i{ font-style:normal; color:var(--gold); font-family:var(--serif-en); margin-right:8px; }
+
+  @media (prefers-reduced-motion: reduce){
+    *{ transition:none !important; animation:none !important; }
+  }
+</style>
+</head>
+<body>
+  <header>
+    <h1 class="show-title">错题集</h1>
+    <p class="show-sub">MISTAKE COLLECTION</p>
+    <div class="show-rule" aria-hidden="true"></div>
+  </header>
+
+  <main class="cell" aria-label="错题集组件" style="width:100%; max-width:560px;">
+<!-- ========== 4. 错题集 ========== -->
+      <section class="cell" aria-label="错题集组件" >
+        <article class="panel mistake">
+          <i class="corner tl"></i><i class="corner tr"></i><i class="corner bl"></i><i class="corner br"></i>
+          <span class="mk-wax" aria-hidden="true"><span>错</span></span>
+          <header class="mk-head">
+            <div class="mk-title">
+              <h2>错 题 <i>集</i></h2>
+              <small>MISTAKE COLLECTION</small>
+            </div>
+            <span class="mk-count"><b id="mkCount">3</b> 道待重做</span>
+          </header>
+          <div class="mk-list" id="mkList">
+            <details class="mk-item" data-q="1">
+              <summary>
+                <span class="qno">1</span>
+                <span class="qtext">By the time we arrived, the movie <em>___</em>.</span>
+                <span class="chev" aria-hidden="true"></span>
+              </summary>
+              <div class="mk-body">
+                <p class="mk-ans bad"><span class="mark">✗</span><span class="txt">我选　<em>A. has ended</em></span></p>
+                <p class="mk-ans good"><span class="mark">✓</span><span class="txt">正确　<em>B. had ended</em></span></p>
+                <p class="mk-why"><b>错因 · 时态</b>　by the time + 一般过去时，主句应用<b>过去完成时</b>，表示「更早发生的过去」。</p>
+                <div class="mk-op"><button class="mk-drop" data-act="drop">已攻克 · 移出错题集</button></div>
+              </div>
+            </details>
+            <details class="mk-item" data-q="2">
+              <summary>
+                <span class="qno">2</span>
+                <span class="qtext">Neither of the answers <em>___</em> correct.</span>
+                <span class="chev" aria-hidden="true"></span>
+              </summary>
+              <div class="mk-body">
+                <p class="mk-ans bad"><span class="mark">✗</span><span class="txt">我选　<em>B. are</em></span></p>
+                <p class="mk-ans good"><span class="mark">✓</span><span class="txt">正确　<em>A. is</em></span></p>
+                <p class="mk-why"><b>错因 · 主谓一致</b>　<b>neither of + 复数名词</b> 作主语时，谓语动词习惯上用<b>单数</b>。</p>
+                <div class="mk-op"><button class="mk-drop" data-act="drop">已攻克 · 移出错题集</button></div>
+              </div>
+            </details>
+            <details class="mk-item" data-q="3">
+              <summary>
+                <span class="qno">3</span>
+                <span class="qtext">I look forward to <em>___</em> from you.</span>
+                <span class="chev" aria-hidden="true"></span>
+              </summary>
+              <div class="mk-body">
+                <p class="mk-ans bad"><span class="mark">✗</span><span class="txt">我选　<em>A. hear</em></span></p>
+                <p class="mk-ans good"><span class="mark">✓</span><span class="txt">正确　<em>B. hearing</em></span></p>
+                <p class="mk-why"><b>错因 · 介词</b>　这里的 <b>to 是介词</b>而非不定式，后接名词或动名词。</p>
+                <div class="mk-op"><button class="mk-drop" data-act="drop">已攻克 · 移出错题集</button></div>
+              </div>
+            </details>
+          </div>
+          <footer class="mk-foot">
+            <button class="mk-redo" id="mkRedo"><i>⟳</i>重做错题</button>
+          </footer>
+        </article>
+        <p class="cell-tag">错题集 <small>MISTAKES</small></p>
+      </section>
+  </main>
+
+<script>
+/* ===== 4. 错题集：移出 / 重做 ===== */
+  (function(){
+    var list  = document.getElementById('mkList');
+    var count = document.getElementById('mkCount');
+    function refresh(){
+      var n = list.querySelectorAll('.mk-item:not(.removed)').length;
+      count.textContent = n;
+    }
+    list.addEventListener('click', function(e){
+      var btn = e.target.closest('.mk-drop');
+      if (!btn) return;
+      btn.closest('.mk-item').classList.add('removed');
+      refresh();
+    });
+    document.getElementById('mkRedo').addEventListener('click', function(){
+      list.querySelectorAll('.mk-item.removed').forEach(function(it){
+        it.classList.remove('removed');
+        it.removeAttribute('open');
+      });
+      refresh();
+    });
+  })();
+</script>
+</body>
+</html>

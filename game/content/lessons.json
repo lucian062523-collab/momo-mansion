@@ -1,0 +1,298 @@
+{
+  "version": 1,
+  "note": "教案库：每日三时段的编排。引擎按 days[] 逐日推进；slots 定义各时段玩法配比；economy 定义「学习→货币→物资→墨墨生存」的换算。",
+
+  "slots": {
+    "清晨": {
+      "label": "早读",
+      "scenes": ["卧房-早", "玄关-早"],
+      "duration_min": 8,
+      "new_per_lang": 4,
+      "review_cap_per_lang": 6,
+      "activities": [
+        { "type": "flashcard", "source": "new", "self_rating": ["忘了", "模糊", "记得"] },
+        { "type": "flashcard", "source": "due_review" }
+      ],
+      "outputs": ["货币", "心情"]
+    },
+    "午后": {
+      "label": "随堂测",
+      "scenes": ["教室-白天", "图书馆-白天", "琴房-白天"],
+      "duration_min": 8,
+      "quiz_count": 10,
+      "quiz_variants": ["meaning", "cloze", "listen", "collocation"],
+      "puzzles": ["p1_order", "p2_match"],
+      "outputs": ["货币", "心情", "健康"]
+    },
+    "夜晚": {
+      "label": "陪读",
+      "scenes": ["卧房-夜-开灯", "客厅-夜-开灯", "书房-夜-开灯"],
+      "duration_min": 10,
+      "immerse_points": 3,
+      "minigame": "p3_scene_hunt",
+      "settle": { "pass_accuracy": 0.7, "bonus_accuracy": 0.9 },
+      "outputs": ["货币", "心情", "健康", "好感"]
+    }
+  },
+
+  "clock": {
+    "note": "游戏内时段与真实世界时钟绑定（你指定）。所有边界都可调，改这里即可。",
+    "day_rollover": "05:00",
+    "rollover_reason": "日切点定在 05:00 而不是 00:00 —— 凌晨 1 点还在「夜晚」里，不该被算成新的一天而作废。",
+    "slots": {
+      "清晨": { "from": "05:00", "to": "11:00" },
+      "午后": { "from": "11:00", "to": "18:00" },
+      "夜晚": { "from": "18:00", "to": "05:00" }
+    },
+    "slot_note": "深夜归入夜晚，所以一天 24 小时永远有一个可玩的时段 —— 不会出现「现在没得玩」。",
+    "makeup": {
+      "allow": true,
+      "max_per_day": 3,
+      "penalty": { "mood": 0, "affection_factor": 0.5 },
+      "note": "允许当日内补做错过的时段。补做不涨心情、好感减半：保住「规律作息」的压力，但不让作息不规律的学生永久掉队。"
+    },
+    "upkeep_tick": "每次进入游戏时，按真实日期差一次性结算物资消耗（不是按在线时长）。",
+    "absence": {
+      "rule": "按真实自然日差计算；连续未上线天数 > grace_days 即触发死亡",
+      "grace_days": 7,
+      "clock": "以 05:00 为界的自然日"
+    }
+  },
+
+  "economy": {
+    "chain": "学习 → 货币 → 物资 → 墨墨生存",
+    "note": "货币与物资是两种东西：货币是学习产出（商城里的数字），物资是墨墨的生存指标（人物界面的属性条之一）。",
+    "currency_gain": {
+      "daily_target": 240,
+      "daily_target_math": "20×3（三段在线）+ 5×10（早读背单词）+ 8×10（随堂测）+ 50（当天准确率 ≥90%）= 240。开场剧情那句「你每天最少要赚到 240 个金币」就是这个锚点：三段认真做完 + 准确率达标，正好一分不多、一分不少。改任何一个数都要回来重算这条式子。",
+      "slot_online": 20,
+      "slot_online_note": "用户定：监测到该时段玩家在线即奖，不要求完成学习。三段共 60/天 —— 正好等于最低生存成本（12 物资 × 最便宜的 5 金/点 = 60 金），所以「挂机刚好糊口、一分不剩」：躺平饿不死，但也永远买不起衣服、推不动好感。这两个数咬合得很好，别单独改其中一个。",
+      "flashcard_remember": 5,
+      "flashcard_fuzzy": 1,
+      "flashcard_note": "标「记得」给 5、标「模糊」只给 1：诚实有奖励、但不鼓励装懂，和「答错零惩罚」是一套的。",
+      "quiz_correct_srs": 8,
+      "quiz_correct_practice": 2,
+      "quiz_correct_note": "用户定「答对不封顶」。为了不变成刷题机（一下午 200 题 = 1600 金，会把衣服/好感的长期目标一次打穿），按 SRS 分流：只有「到期复习词」答对给 8，其他练习给 2 —— 想多赚就得多复习，赚钱节奏和真实记忆周期绑在一起。",
+      "combo_bonus_per_item": 4,
+      "combo_note": "连对奖励：从连对第 3 题起算，此后每多连对一题就多给 4（和下面 mood.combo_3_plus 的门槛对齐）。",
+      "daily_high_accuracy": 50,
+      "daily_high_accuracy_note": "原为 20，提到 50 是为了让上面的 240 锚点重新成立（用户确认）。",
+      "week_streak": 1000,
+      "week_streak_note": "用户定：连续 7 天不缺席给 1000（原为 100）。均摊约 143/天，是全勤的强激励。"
+    },
+    "supply": {
+      "start": 60,
+      "max": 100,
+      "daily_upkeep": 12,
+      "price_note": "物资单价不在这里定义 —— 它由 items.json 里每件食物的「price ÷ fx.supplies」决定，实际区间 5~15 金/点（最便宜纳豆 20 金给 +4 = 5 金/点，最贵 120 金给 +8 = 15 金/点）。原先这里写死的 price_per_unit: 20 与 items.json 对不上（12 点/天 × 20 = 240 金/天，会把全天收入全吃掉），已删除以免出现两个互相打架的真值源。",
+      "death_threshold": 0
+    },
+    "absence": {
+      "grace_days": 7,
+      "rule": "超过 7 日未上线，或物资耗尽 → 墨墨死亡 → 开启下一周目",
+      "death_resets": ["好感", "心情"],
+      "death_keeps": ["词表掌握记录 SRS", "已解锁 CG / 服装", "周目数 +1"],
+      "assumption": true,
+      "assumption_note": "用户明确指定「好感+心情归零」；学习进度是否保留尚未确认，此处按「保留」实现，待确认后可一行改掉。"
+    },
+    "mood": {
+      "note": "daily_low_accuracy 是唯一的负值项，且与硬规则「答错零惩罚」看似冲突 —— 用户已确认保留。按这个理解算不冲突：它扣的是「一整天整体没考好」这个事实，不是「答错某一道题」；逐题答错的当下仍然零惩罚，负面表达交给墨墨的台词。改这块时别再把它当 bug 顺手删掉。",
+      "correct": 1,
+      "combo_3_plus": 1,
+      "daily_high_accuracy": 8,
+      "daily_low_accuracy": -2,
+      "night_grind": -2,
+      "gift": 10
+    },
+    "health": {
+      "slot_clear": 5,
+      "night_grind": -10
+    },
+    "affection": {
+      "daily_high_accuracy": 3,
+      "slot_clear_all": 2,
+      "week_streak": 10,
+      "gift": 5,
+      "levels": [0, 20, 50, 100, 160, 240, 340, 460, 600, 760]
+    }
+  },
+
+  "days": [
+    {
+      "day": 1,
+      "ng": 1,
+      "chapter": "第一章 · 别想偷懒",
+      "清晨": {
+        "scene": "卧房-早",
+        "new": { "en": ["en_abandon", "en_absorb", "en_accurate", "en_achieve"], "ja": ["ja_学生", "ja_先生", "ja_学校", "ja_友達"] },
+        "review": { "en": [], "ja": [] }
+      },
+      "午后": {
+        "scene": "教室-白天",
+        "quiz": [
+          { "word": "en_abandon", "variant": "meaning" },
+          { "word": "ja_学生", "variant": "meaning" },
+          { "word": "en_absorb", "variant": "cloze" },
+          { "word": "ja_先生", "variant": "meaning" },
+          { "word": "en_achieve", "variant": "collocation" },
+          { "word": "ja_学校", "variant": "listen" }
+        ],
+        "puzzles": [
+          { "type": "p1_order", "lang": "en", "answer": "He abandoned his car in the snow.", "hint": "主语 + 过去式动词 + 宾语 + 地点状语" },
+          { "type": "p2_match", "lang": "ja", "pairs": [["学生", "がくせい"], ["先生", "せんせい"], ["学校", "がっこう"], ["友達", "ともだち"]] }
+        ]
+      },
+      "夜晚": {
+        "scene": "卧房-夜-开灯",
+        "immerse": [
+          { "word": "ja_水", "anchor": "书桌上的玻璃杯", "region": [0.44, 0.62, 0.10, 0.10] },
+          { "word": "ja_花", "anchor": "窗边的花束", "region": [0.28, 0.30, 0.12, 0.14] },
+          { "word": "ja_車", "anchor": "窗外的街道", "region": [0.80, 0.46, 0.14, 0.12] }
+        ],
+        "minigame": { "type": "p3_scene_hunt", "lang": "ja", "scene": "客厅-夜-开灯", "targets": ["ja_水", "ja_花", "ja_車"] }
+      }
+    },
+    {
+      "day": 2,
+      "ng": 1,
+      "chapter": "第一章 · 别想偷懒",
+      "清晨": {
+        "scene": "玄关-早",
+        "new": { "en": ["en_adapt", "en_adequate", "en_affect", "en_alternative"], "ja": ["ja_家族", "ja_電車", "ja_リンゴ", "ja_天気"] },
+        "review": { "en": ["en_abandon", "en_absorb"], "ja": ["ja_学生", "ja_先生", "ja_学校", "ja_友達"] }
+      },
+      "午后": {
+        "scene": "图书馆-白天",
+        "quiz": [
+          { "word": "en_adapt", "variant": "meaning" },
+          { "word": "ja_家族", "variant": "meaning" },
+          { "word": "en_adequate", "variant": "cloze" },
+          { "word": "ja_天気", "variant": "cloze" },
+          { "word": "en_alternative", "variant": "collocation" },
+          { "word": "ja_電車", "variant": "listen" }
+        ],
+        "puzzles": [
+          { "type": "p1_order", "lang": "ja", "answer": "私は学生です。", "hint": "主语 + は + 名词 + です" },
+          { "type": "p2_match", "lang": "en", "pairs": [["abandon", "放弃"], ["absorb", "吸收"], ["accurate", "准确的"], ["achieve", "实现"]] }
+        ]
+      },
+      "夜晚": {
+        "scene": "书房-夜-开灯",
+        "immerse": [
+          { "word": "en_resource", "anchor": "书架上的资料", "region": [0.18, 0.28, 0.14, 0.16] },
+          { "word": "en_evidence", "anchor": "桌上的文件", "region": [0.46, 0.60, 0.12, 0.10] },
+          { "word": "en_factor", "anchor": "墙上的图表", "region": [0.72, 0.34, 0.14, 0.14] }
+        ],
+        "minigame": { "type": "p3_scene_hunt", "lang": "en", "scene": "书房-夜-开灯", "targets": ["en_resource", "en_evidence", "en_factor"] }
+      }
+    },
+    {
+      "day": 3,
+      "ng": 1,
+      "chapter": "第二章 · 别让我等",
+      "清晨": {
+        "scene": "卧房-早",
+        "new": { "en": ["en_analyse", "en_apparent", "en_approach", "en_appropriate"], "ja": ["ja_時間", "ja_仕事", "ja_お金", "ja_病院"] },
+        "review": { "en": ["en_adapt", "en_adequate", "en_alternative"], "ja": ["ja_家族", "ja_電車", "ja_天気"] }
+      },
+      "午后": {
+        "scene": "琴房-白天",
+        "quiz": [
+          { "word": "en_analyse", "variant": "meaning" },
+          { "word": "ja_時間", "variant": "meaning" },
+          { "word": "en_apparent", "variant": "cloze" },
+          { "word": "ja_仕事", "variant": "collocation" },
+          { "word": "en_approach", "variant": "meaning" },
+          { "word": "ja_お金", "variant": "listen" }
+        ],
+        "puzzles": [
+          { "type": "p1_order", "lang": "en", "answer": "Researchers analysed the data carefully.", "hint": "主语 + 动词 + 宾语 + 副词" },
+          { "type": "p2_match", "lang": "ja", "pairs": [["時間", "じかん"], ["仕事", "しごと"], ["お金", "おかね"], ["病院", "びょういん"]] }
+        ]
+      },
+      "夜晚": {
+        "scene": "客厅-夜-开灯",
+        "immerse": [
+          { "word": "ja_時間", "anchor": "墙上的挂钟", "region": [0.60, 0.18, 0.12, 0.12] },
+          { "word": "ja_お金", "anchor": "桌上的钱包", "region": [0.38, 0.66, 0.10, 0.10] },
+          { "word": "ja_音楽", "anchor": "角落的音响", "region": [0.14, 0.52, 0.12, 0.12] }
+        ],
+        "minigame": { "type": "p3_scene_hunt", "lang": "ja", "scene": "客厅-夜-开灯", "targets": ["ja_時間", "ja_お金", "ja_音楽"] }
+      }
+    },
+    {
+      "day": 4,
+      "ng": 1,
+      "chapter": "第二章 · 别让我等",
+      "清晨": {
+        "scene": "玄关-早",
+        "new": { "en": ["en_assess", "en_assume", "en_attitude", "en_benefit"], "ja": ["ja_駅", "ja_映画", "ja_音楽", "ja_電話"] },
+        "review": { "en": ["en_analyse", "en_apparent", "en_approach"], "ja": ["ja_時間", "ja_仕事", "ja_お金", "ja_病院"] }
+      },
+      "午后": {
+        "scene": "教室-白天",
+        "quiz": [
+          { "word": "en_assess", "variant": "meaning" },
+          { "word": "ja_駅", "variant": "meaning" },
+          { "word": "en_assume", "variant": "cloze" },
+          { "word": "ja_映画", "variant": "listen" },
+          { "word": "en_attitude", "variant": "collocation" },
+          { "word": "ja_電話", "variant": "meaning" }
+        ],
+        "puzzles": [
+          { "type": "p1_order", "lang": "ja", "answer": "明日、映画を見ます。", "hint": "时间 + 逗号 + 宾语 + を + 动词" },
+          { "type": "p2_match", "lang": "en", "pairs": [["assess", "评估"], ["assume", "假定"], ["attitude", "态度"], ["benefit", "好处"]] }
+        ]
+      },
+      "夜晚": {
+        "scene": "卧房-夜-开灯",
+        "immerse": [
+          { "word": "en_attitude", "anchor": "书桌上的便签", "region": [0.36, 0.58, 0.12, 0.10] },
+          { "word": "en_benefit", "anchor": "窗台上的绿植", "region": [0.24, 0.34, 0.12, 0.14] },
+          { "word": "ja_夜", "anchor": "窗外的夜色", "region": [0.82, 0.30, 0.14, 0.18] }
+        ],
+        "minigame": { "type": "p3_scene_hunt", "lang": "both", "scene": "卧房-夜-开灯", "targets": ["en_attitude", "en_benefit", "ja_夜"] }
+      }
+    },
+    {
+      "day": 5,
+      "ng": 1,
+      "chapter": "第三章 · 回来就好",
+      "清晨": {
+        "scene": "卧房-早",
+        "new": { "en": ["en_challenge", "en_community", "en_complex", "en_concept"], "ja": ["ja_食べ物", "ja_花", "ja_車", "ja_家"] },
+        "review": { "en": ["en_assess", "en_assume", "en_attitude", "en_benefit"], "ja": ["ja_駅", "ja_映画", "ja_音楽", "ja_電話"] }
+      },
+      "午后": {
+        "scene": "图书馆-白天",
+        "quiz": [
+          { "word": "en_challenge", "variant": "meaning" },
+          { "word": "ja_食べ物", "variant": "meaning" },
+          { "word": "en_community", "variant": "cloze" },
+          { "word": "ja_家", "variant": "collocation" },
+          { "word": "en_complex", "variant": "meaning" },
+          { "word": "ja_花", "variant": "listen" }
+        ],
+        "puzzles": [
+          { "type": "p1_order", "lang": "en", "answer": "This concept is more complex than it appears.", "hint": "主语 + be + 比较级 + than 从句" },
+          { "type": "p2_match", "lang": "ja", "pairs": [["食べ物", "たべもの"], ["花", "はな"], ["車", "くるま"], ["家", "いえ"]] }
+        ]
+      },
+      "夜晚": {
+        "scene": "客厅-夜-开灯",
+        "immerse": [
+          { "word": "ja_食べ物", "anchor": "餐桌上的餐盘", "region": [0.48, 0.64, 0.14, 0.10] },
+          { "word": "ja_家", "anchor": "整个房间", "region": [0.08, 0.20, 0.10, 0.10] },
+          { "word": "en_challenge", "anchor": "墙上的日历", "region": [0.68, 0.26, 0.12, 0.14] }
+        ],
+        "minigame": { "type": "p3_scene_hunt", "lang": "both", "scene": "客厅-夜-开灯", "targets": ["ja_食べ物", "ja_家", "en_challenge"] },
+        "chapter_end": true
+      }
+    }
+  ],
+
+  "next": {
+    "note": "第 6 天起由引擎从 words_*.json 里按 tier + 未掌握优先自动续编，不再手写日程。",
+    "auto_rule": "新词优先取 srs.interval < 7 且从未出现过的词；复习优先取 due <= 今天 的词。"
+  }
+}

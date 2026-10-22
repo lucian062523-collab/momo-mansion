@@ -1,0 +1,3950 @@
+[
+ {
+  "id": "ja_かかります",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 13,
+  "lemma": "かかります",
+  "kana": "かかります",
+  "kanji": null,
+  "romaji": "kakarimasu",
+  "pos": "动1",
+  "pron": "[kakarimasu]",
+  "meaning_zh": "花费(时间,金钱)",
+  "audio": "audio/ja/ja_かかります.ogg",
+  "tags": [
+   "core",
+   "verb"
+  ],
+  "distractors": [
+   "遊びます",
+   "咲きます",
+   "泳ぎます"
+  ],
+  "example": {
+   "t": "家から会社まで一時間かかります。",
+   "zh": "从家到公司要花一个小时。"
+  }
+ },
+ {
+  "id": "ja_だいたい",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 13,
+  "lemma": "だいたい",
+  "kana": "だいたい",
+  "kanji": null,
+  "romaji": "daitai",
+  "pos": "副",
+  "pron": "[daitai]",
+  "meaning_zh": "大约,大概,大体",
+  "audio": "audio/ja/ja_だいたい.ogg",
+  "tags": [
+   "core",
+   "adv"
+  ],
+  "distractors": [
+   "はがき",
+   "とりあえず",
+   "荷物"
+  ],
+  "example": {
+   "t": "宿題はだいたい終わりました。",
+   "zh": "作业大致做完了。"
+  }
+ },
+ {
+  "id": "ja_とりあえず",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 13,
+  "lemma": "とりあえず",
+  "kana": "とりあえず",
+  "kanji": null,
+  "romaji": "toriaezu",
+  "pos": "副",
+  "pron": "[toriaezu]",
+  "meaning_zh": "暂且",
+  "audio": "audio/ja/ja_とりあえず.ogg",
+  "tags": [
+   "core",
+   "adv"
+  ],
+  "distractors": [
+   "だいたい",
+   "荷物",
+   "はがき"
+  ],
+  "example": {
+   "t": "とりあえずビールをお願いします。",
+   "zh": "先来杯啤酒吧。"
+  }
+ },
+ {
+  "id": "ja_どのぐらい",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 13,
+  "lemma": "どのぐらい",
+  "kana": "どのぐらい",
+  "kanji": null,
+  "romaji": "donogurai",
+  "pos": "短语",
+  "pron": "[donogurai]",
+  "meaning_zh": "多久,多少钱",
+  "audio": "audio/ja/ja_どのぐらい.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "syn": [
+   "どれぐらい"
+  ],
+  "distractors": [
+   "～回",
+   "～枚",
+   "～冊"
+  ],
+  "example": {
+   "t": "東京から大阪までどのぐらいかかりますか。",
+   "zh": "从东京到大阪要多久？"
+  }
+ },
+ {
+  "id": "ja_はがき",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 13,
+  "lemma": "はがき",
+  "kana": "はがき",
+  "kanji": null,
+  "romaji": "hagaki",
+  "pos": "名",
+  "pron": "[hagaki]",
+  "meaning_zh": "明信片",
+  "audio": "audio/ja/ja_はがき.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "引き出し",
+   "荷物",
+   "切手"
+  ],
+  "example": {
+   "t": "友達にはがきを出しました。",
+   "zh": "给朋友寄了明信片。"
+  }
+ },
+ {
+  "id": "ja_ほか",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 13,
+  "lemma": "ほか",
+  "kana": "ほか",
+  "kanji": null,
+  "romaji": "hoka",
+  "pos": "名",
+  "pron": "[hoka]",
+  "meaning_zh": "另外,其他",
+  "audio": "audio/ja/ja_ほか.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "はがき",
+   "切手",
+   "荷物"
+  ],
+  "example": {
+   "t": "ほかに質問はありませんか。",
+   "zh": "还有别的问题吗？"
+  }
+ },
+ {
+  "id": "ja_アルバム",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 13,
+  "lemma": "アルバム",
+  "kana": "アルバム",
+  "kanji": null,
+  "romaji": "arubamu",
+  "pos": "名",
+  "pron": "[arubamu]",
+  "meaning_zh": "相册",
+  "audio": "audio/ja/ja_アルバム.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "切手",
+   "荷物",
+   "はがき"
+  ],
+  "example": {
+   "t": "旅行の写真をアルバムに入れました。",
+   "zh": "把旅行的照片放进了相册。"
+  }
+ },
+ {
+  "id": "ja_ガレージ",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 13,
+  "lemma": "ガレージ",
+  "kana": "ガレージ",
+  "kanji": null,
+  "romaji": "gareeji",
+  "pos": "名",
+  "pron": "[gareeji]",
+  "meaning_zh": "车库,汽车房",
+  "audio": "audio/ja/ja_ガレージ.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "切手",
+   "荷物",
+   "はがき"
+  ],
+  "example": {
+   "t": "車はガレージにあります。",
+   "zh": "车在车库里。"
+  }
+ },
+ {
+  "id": "ja_タバコ",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 13,
+  "lemma": "タバコ",
+  "kana": "タバコ",
+  "kanji": null,
+  "romaji": "tabako",
+  "pos": "名",
+  "pron": "[tabako]",
+  "meaning_zh": "烟,烟草",
+  "audio": "audio/ja/ja_タバコ.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "荷物",
+   "はがき",
+   "切手"
+  ],
+  "example": {
+   "t": "ここでタバコを吸ってはいけません。",
+   "zh": "这里不可以吸烟。"
+  }
+ },
+ {
+  "id": "ja_ボーリング",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 13,
+  "lemma": "ボーリング",
+  "kana": "ボーリング",
+  "kanji": null,
+  "romaji": "booringu",
+  "pos": "名",
+  "pron": "[booringu]",
+  "meaning_zh": "保龄球",
+  "audio": "audio/ja/ja_ボーリング.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "荷物",
+   "はがき",
+   "切手"
+  ],
+  "example": {
+   "t": "日曜日に友達とボーリングをしました。",
+   "zh": "星期天和朋友打了保龄球。"
+  }
+ },
+ {
+  "id": "ja_修理",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 13,
+  "lemma": "修理",
+  "kana": "しゅうり",
+  "kanji": "修理",
+  "romaji": "shuuri",
+  "pos": "名",
+  "pron": "[shuuri]",
+  "meaning_zh": "修理",
+  "audio": "audio/ja/ja_修理.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "荷物",
+   "はがき",
+   "切手"
+  ],
+  "example": {
+   "t": "車の修理はもう終わりました。",
+   "zh": "车子的修理已经完成了。"
+  }
+ },
+ {
+  "id": "ja_切ります",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 13,
+  "lemma": "切ります",
+  "kana": "きります",
+  "kanji": "切ります",
+  "romaji": "kirimasu",
+  "pos": "动1",
+  "pron": "[kirimasu]",
+  "meaning_zh": "剪,切,割",
+  "audio": "audio/ja/ja_切ります.ogg",
+  "tags": [
+   "core",
+   "verb"
+  ],
+  "distractors": [
+   "咲きます",
+   "泳ぎます",
+   "かかります"
+  ],
+  "example": {
+   "t": "はさみで紙を切ります。",
+   "zh": "用剪刀剪纸。"
+  }
+ },
+ {
+  "id": "ja_切手",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 13,
+  "lemma": "切手",
+  "kana": "きって",
+  "kanji": "切手",
+  "romaji": "kitte",
+  "pos": "名",
+  "pron": "[kitte]",
+  "meaning_zh": "邮票",
+  "audio": "audio/ja/ja_切手.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "荷物",
+   "はがき",
+   "引き出し"
+  ],
+  "example": {
+   "t": "切手を三枚買いました。",
+   "zh": "买了三张邮票。"
+  }
+ },
+ {
+  "id": "ja_吸います",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 13,
+  "lemma": "吸います",
+  "kana": "すいます",
+  "kanji": "吸います",
+  "romaji": "suimasu",
+  "pos": "动1",
+  "pron": "[suimasu]",
+  "meaning_zh": "吸(烟)",
+  "audio": "audio/ja/ja_吸います.ogg",
+  "tags": [
+   "core",
+   "verb"
+  ],
+  "distractors": [
+   "かかります",
+   "咲きます",
+   "泳ぎます"
+  ],
+  "example": {
+   "t": "父はタバコを吸います。",
+   "zh": "父亲吸烟。"
+  }
+ },
+ {
+  "id": "ja_咲きます",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 13,
+  "lemma": "咲きます",
+  "kana": "さきます",
+  "kanji": "咲きます",
+  "romaji": "sakimasu",
+  "pos": "动1",
+  "pron": "[sakimasu]",
+  "meaning_zh": "花开",
+  "audio": "audio/ja/ja_咲きます.ogg",
+  "tags": [
+   "core",
+   "verb"
+  ],
+  "distractors": [
+   "かかります",
+   "泳ぎます",
+   "遊びます"
+  ],
+  "example": {
+   "t": "春になると、桜が咲きます。",
+   "zh": "一到春天，樱花就开。"
+  }
+ },
+ {
+  "id": "ja_唐揚げ",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 13,
+  "lemma": "唐揚げ",
+  "kana": "からあげ",
+  "kanji": "唐揚げ",
+  "romaji": "karaage",
+  "pos": "名",
+  "pron": "[karaage]",
+  "meaning_zh": "炸鸡,油炸食品",
+  "audio": "audio/ja/ja_唐揚げ.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "はがき",
+   "切手",
+   "荷物"
+  ],
+  "example": {
+   "t": "この店の唐揚げはおいしいです。",
+   "zh": "这家店的炸鸡很好吃。"
+  }
+ },
+ {
+  "id": "ja_居酒屋",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 13,
+  "lemma": "居酒屋",
+  "kana": "いざかや",
+  "kanji": "居酒屋",
+  "romaji": "izakaya",
+  "pos": "名",
+  "pron": "[izakaya]",
+  "meaning_zh": "酒馆",
+  "audio": "audio/ja/ja_居酒屋.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "はがき",
+   "切手",
+   "荷物"
+  ],
+  "example": {
+   "t": "仕事の後で居酒屋へ行きました。",
+   "zh": "下班后去了酒馆。"
+  }
+ },
+ {
+  "id": "ja_引き出し",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 13,
+  "lemma": "引き出し",
+  "kana": "ひきだし",
+  "kanji": "引き出し",
+  "romaji": "hikidashi",
+  "pos": "名",
+  "pron": "[hikidashi]",
+  "meaning_zh": "抽屉",
+  "audio": "audio/ja/ja_引き出し.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "はがき",
+   "切手",
+   "荷物"
+  ],
+  "example": {
+   "t": "はさみは引き出しの中にあります。",
+   "zh": "剪刀在抽屉里。"
+  }
+ },
+ {
+  "id": "ja_昼",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 13,
+  "lemma": "昼",
+  "kana": "ひる",
+  "kanji": "昼",
+  "romaji": "hiru",
+  "pos": "名",
+  "pron": "[hiru]",
+  "meaning_zh": "白天,中午",
+  "audio": "audio/ja/ja_昼.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "荷物",
+   "はがき",
+   "切手"
+  ],
+  "example": {
+   "t": "昼はラーメンを食べました。",
+   "zh": "中午吃了拉面。"
+  }
+ },
+ {
+  "id": "ja_泳ぎます",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 13,
+  "lemma": "泳ぎます",
+  "kana": "およぎます",
+  "kanji": "泳ぎます",
+  "romaji": "oyogimasu",
+  "pos": "动1",
+  "pron": "[oyogimasu]",
+  "meaning_zh": "游泳",
+  "audio": "audio/ja/ja_泳ぎます.ogg",
+  "tags": [
+   "core",
+   "verb"
+  ],
+  "distractors": [
+   "咲きます",
+   "遊びます",
+   "かかります"
+  ],
+  "example": {
+   "t": "夏は海で泳ぎます。",
+   "zh": "夏天在海里游泳。"
+  }
+ },
+ {
+  "id": "ja_漫画",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 13,
+  "lemma": "漫画",
+  "kana": "まんが",
+  "kanji": "漫画",
+  "romaji": "manga",
+  "pos": "名",
+  "pron": "[manga]",
+  "meaning_zh": "漫画",
+  "audio": "audio/ja/ja_漫画.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "はがき",
+   "切手",
+   "荷物"
+  ],
+  "example": {
+   "t": "弟は漫画を読むのが好きです。",
+   "zh": "弟弟喜欢看漫画。"
+  }
+ },
+ {
+  "id": "ja_焼き鳥",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 13,
+  "lemma": "焼き鳥",
+  "kana": "やきとり",
+  "kanji": "焼き鳥",
+  "romaji": "yakitori",
+  "pos": "名",
+  "pron": "[yakitori]",
+  "meaning_zh": "烤鸡肉串",
+  "audio": "audio/ja/ja_焼き鳥.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "荷物",
+   "はがき",
+   "切手"
+  ],
+  "example": {
+   "t": "焼き鳥を五本頼みました。",
+   "zh": "点了五串烤鸡肉串。"
+  }
+ },
+ {
+  "id": "ja_生ビール",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 13,
+  "lemma": "生ビール",
+  "kana": "なまビール",
+  "kanji": "生ビール",
+  "romaji": "namabiiru",
+  "pos": "名",
+  "pron": "[namabiiru]",
+  "meaning_zh": "生啤",
+  "audio": "audio/ja/ja_生ビール.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "切手",
+   "荷物",
+   "はがき"
+  ],
+  "example": {
+   "t": "生ビールを二杯ください。",
+   "zh": "请给我两杯生啤。"
+  }
+ },
+ {
+  "id": "ja_肉じゃが",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 13,
+  "lemma": "肉じゃが",
+  "kana": "にくじゃが",
+  "kanji": "肉じゃが",
+  "romaji": "nikujaga",
+  "pos": "名",
+  "pron": "[nikujaga]",
+  "meaning_zh": "土豆炖肉",
+  "audio": "audio/ja/ja_肉じゃが.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "切手",
+   "荷物",
+   "はがき"
+  ],
+  "example": {
+   "t": "母の肉じゃがはとてもおいしいです。",
+   "zh": "妈妈做的土豆炖肉非常好吃。"
+  }
+ },
+ {
+  "id": "ja_荷物",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 13,
+  "lemma": "荷物",
+  "kana": "にもつ",
+  "kanji": "荷物",
+  "romaji": "nimotsu",
+  "pos": "名",
+  "pron": "[nimotsu]",
+  "meaning_zh": "包裹",
+  "audio": "audio/ja/ja_荷物.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "切手",
+   "引き出し",
+   "はがき"
+  ],
+  "example": {
+   "t": "この荷物を二階に運んでください。",
+   "zh": "请把这个包裹搬到二楼。"
+  }
+ },
+ {
+  "id": "ja_象",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 13,
+  "lemma": "象",
+  "kana": "ぞう",
+  "kanji": "象",
+  "romaji": "zou",
+  "pos": "名",
+  "pron": "[zou]",
+  "meaning_zh": "象,大象",
+  "audio": "audio/ja/ja_象.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "切手",
+   "荷物",
+   "はがき"
+  ],
+  "example": {
+   "t": "象は鼻が長いです。",
+   "zh": "大象鼻子很长。"
+  }
+ },
+ {
+  "id": "ja_遊びます",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 13,
+  "lemma": "遊びます",
+  "kana": "あそびます",
+  "kanji": "遊びます",
+  "romaji": "asobimasu",
+  "pos": "动1",
+  "pron": "[asobimasu]",
+  "meaning_zh": "玩,玩耍",
+  "audio": "audio/ja/ja_遊びます.ogg",
+  "tags": [
+   "core",
+   "verb"
+  ],
+  "distractors": [
+   "泳ぎます",
+   "かかります",
+   "咲きます"
+  ],
+  "example": {
+   "t": "子供たちは公園で遊びます。",
+   "zh": "孩子们在公园玩。"
+  }
+ },
+ {
+  "id": "ja_髪",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 13,
+  "lemma": "髪",
+  "kana": "かみ",
+  "kanji": "髪",
+  "romaji": "kami",
+  "pos": "名",
+  "pron": "[kami]",
+  "meaning_zh": "头发",
+  "audio": "audio/ja/ja_髪.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "はがき",
+   "切手",
+   "荷物"
+  ],
+  "example": {
+   "t": "彼女の髪はとてもきれいです。",
+   "zh": "她的头发很漂亮。"
+  }
+ },
+ {
+  "id": "ja_～か月",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 13,
+  "lemma": "～か月",
+  "kana": "かげつ",
+  "kanji": "～か月",
+  "romaji": "kagetsu",
+  "pos": "短语",
+  "pron": "[kagetsu]",
+  "meaning_zh": "…个月",
+  "audio": "audio/ja/ja_～か月.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "～冊",
+   "～回",
+   "どのぐらい"
+  ],
+  "example": {
+   "t": "日本語を三か月勉強しました。",
+   "zh": "学了三个月日语。"
+  }
+ },
+ {
+  "id": "ja_～つ",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 13,
+  "lemma": "～つ",
+  "kana": "つ",
+  "kanji": "～つ",
+  "romaji": "tsu",
+  "pos": "短语",
+  "pron": "[tsu]",
+  "meaning_zh": "…个（泛指事物的量词）",
+  "audio": "audio/ja/ja_～つ.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "どのぐらい",
+   "～冊",
+   "～回"
+  ],
+  "example": {
+   "t": "りんごを五つ買いました。",
+   "zh": "买了五个苹果。"
+  }
+ },
+ {
+  "id": "ja_～キロメートル",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 13,
+  "lemma": "～キロメートル",
+  "kana": "キロメートル",
+  "kanji": "～キロメートル",
+  "romaji": "kiromeetoru",
+  "pos": "短语",
+  "pron": "[kiromeetoru]",
+  "meaning_zh": "…公里",
+  "audio": "audio/ja/ja_～キロメートル.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "どのぐらい",
+   "～冊",
+   "～回"
+  ],
+  "example": {
+   "t": "駅から学校まで三キロメートルあります。",
+   "zh": "从车站到学校有三公里。"
+  }
+ },
+ {
+  "id": "ja_～人",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 13,
+  "lemma": "～人",
+  "kana": "にん",
+  "kanji": "～人",
+  "romaji": "nin",
+  "pos": "短语",
+  "pron": "[nin]",
+  "meaning_zh": "…人（人数的量词）",
+  "audio": "audio/ja/ja_～人.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "～冊",
+   "～回",
+   "どのぐらい"
+  ],
+  "example": {
+   "t": "教室に学生が十人います。",
+   "zh": "教室里有十个学生。"
+  }
+ },
+ {
+  "id": "ja_～個",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 13,
+  "lemma": "～個",
+  "kana": "こ",
+  "kanji": "～個",
+  "romaji": "ko",
+  "pos": "短语",
+  "pron": "[ko]",
+  "meaning_zh": "…个（量词）",
+  "audio": "audio/ja/ja_～個.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "～回",
+   "どのぐらい",
+   "～冊"
+  ],
+  "example": {
+   "t": "卵を六個買いました。",
+   "zh": "买了六个鸡蛋。"
+  }
+ },
+ {
+  "id": "ja_～冊",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 13,
+  "lemma": "～冊",
+  "kana": "さつ",
+  "kanji": "～冊",
+  "romaji": "satsu",
+  "pos": "短语",
+  "pron": "[satsu]",
+  "meaning_zh": "…本（书、笔记本的量词）",
+  "audio": "audio/ja/ja_～冊.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "～枚",
+   "どのぐらい",
+   "～回"
+  ],
+  "example": {
+   "t": "本を三冊借りました。",
+   "zh": "借了三本书。"
+  }
+ },
+ {
+  "id": "ja_～匹",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 13,
+  "lemma": "～匹",
+  "kana": "ひき",
+  "kanji": "～匹",
+  "romaji": "hiki",
+  "pos": "短语",
+  "pron": "[hiki]",
+  "meaning_zh": "…只（小型动物的量词）",
+  "audio": "audio/ja/ja_～匹.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "～回",
+   "どのぐらい",
+   "～冊"
+  ],
+  "example": {
+   "t": "庭に猫が二匹います。",
+   "zh": "院子里有两只猫。"
+  }
+ },
+ {
+  "id": "ja_～台",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 13,
+  "lemma": "～台",
+  "kana": "だい",
+  "kanji": "～台",
+  "romaji": "dai",
+  "pos": "短语",
+  "pron": "[dai]",
+  "meaning_zh": "…台（机器、车辆的量词）",
+  "audio": "audio/ja/ja_～台.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "～回",
+   "どのぐらい",
+   "～冊"
+  ],
+  "example": {
+   "t": "コンピューターが五台あります。",
+   "zh": "有五台电脑。"
+  }
+ },
+ {
+  "id": "ja_～回",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 13,
+  "lemma": "～回",
+  "kana": "かい",
+  "kanji": "～回",
+  "romaji": "kai",
+  "pos": "短语",
+  "pron": "[kai]",
+  "meaning_zh": "…次（次数）",
+  "audio": "audio/ja/ja_～回.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "どのぐらい",
+   "～冊",
+   "～枚"
+  ],
+  "example": {
+   "t": "週に三回プールへ行きます。",
+   "zh": "一周去三次游泳池。"
+  }
+ },
+ {
+  "id": "ja_～度",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 13,
+  "lemma": "～度",
+  "kana": "ど",
+  "kanji": "～度",
+  "romaji": "do",
+  "pos": "短语",
+  "pron": "[do]",
+  "meaning_zh": "…度（次数、温度、角度）",
+  "audio": "audio/ja/ja_～度.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "～回",
+   "どのぐらい",
+   "～冊"
+  ],
+  "example": {
+   "t": "この店には二度来たことがあります。",
+   "zh": "来过这家店两次。"
+  }
+ },
+ {
+  "id": "ja_～時間",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 13,
+  "lemma": "～時間",
+  "kana": "じかん",
+  "kanji": "～時間",
+  "romaji": "jikan",
+  "pos": "短语",
+  "pron": "[jikan]",
+  "meaning_zh": "…小时",
+  "audio": "audio/ja/ja_～時間.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "～回",
+   "どのぐらい",
+   "～冊"
+  ],
+  "example": {
+   "t": "毎日三時間日本語を勉強します。",
+   "zh": "每天学三个小时日语。"
+  }
+ },
+ {
+  "id": "ja_～本",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 13,
+  "lemma": "～本",
+  "kana": "ほん",
+  "kanji": "～本",
+  "romaji": "hon",
+  "pos": "短语",
+  "pron": "[hon]",
+  "meaning_zh": "…根／瓶（细长物的量词）",
+  "audio": "audio/ja/ja_～本.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "どのぐらい",
+   "～冊",
+   "～回"
+  ],
+  "example": {
+   "t": "ビールを二本買いました。",
+   "zh": "买了两瓶啤酒。"
+  }
+ },
+ {
+  "id": "ja_～杯",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 13,
+  "lemma": "～杯",
+  "kana": "はい",
+  "kanji": "～杯",
+  "romaji": "hai",
+  "pos": "短语",
+  "pron": "[hai]",
+  "meaning_zh": "…杯（容器、杯数的量词）",
+  "audio": "audio/ja/ja_～杯.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "どのぐらい",
+   "～冊",
+   "～回"
+  ],
+  "example": {
+   "t": "コーヒーを一杯飲みました。",
+   "zh": "喝了一杯咖啡。"
+  }
+ },
+ {
+  "id": "ja_～枚",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 13,
+  "lemma": "～枚",
+  "kana": "まい",
+  "kanji": "～枚",
+  "romaji": "mai",
+  "pos": "短语",
+  "pron": "[mai]",
+  "meaning_zh": "…张／枚（薄物的量词）",
+  "audio": "audio/ja/ja_～枚.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "～冊",
+   "～回",
+   "どのぐらい"
+  ],
+  "example": {
+   "t": "紙を二枚ください。",
+   "zh": "请给我两张纸。"
+  }
+ },
+ {
+  "id": "ja_～番",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 13,
+  "lemma": "～番",
+  "kana": "ばん",
+  "kanji": "～番",
+  "romaji": "ban",
+  "pos": "短语",
+  "pron": "[ban]",
+  "meaning_zh": "…号（顺序）",
+  "audio": "audio/ja/ja_～番.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "どのぐらい",
+   "～冊",
+   "～回"
+  ],
+  "example": {
+   "t": "弟は走るのがクラスで一番速いです。",
+   "zh": "弟弟在班里跑得最快。"
+  }
+ },
+ {
+  "id": "ja_～皿",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 13,
+  "lemma": "～皿",
+  "kana": "さら",
+  "kanji": "～皿",
+  "romaji": "sara",
+  "pos": "短语",
+  "pron": "[sara]",
+  "meaning_zh": "…盘（菜肴的量词）",
+  "audio": "audio/ja/ja_～皿.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "～冊",
+   "～回",
+   "どのぐらい"
+  ],
+  "example": {
+   "t": "料理を三皿注文しました。",
+   "zh": "点了三盘菜。"
+  }
+ },
+ {
+  "id": "ja_～着",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 13,
+  "lemma": "～着",
+  "kana": "ちゃく",
+  "kanji": "～着",
+  "romaji": "chaku",
+  "pos": "短语",
+  "pron": "[chaku]",
+  "meaning_zh": "…套（衣服的量词）",
+  "audio": "audio/ja/ja_～着.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "～冊",
+   "～回",
+   "どのぐらい"
+  ],
+  "example": {
+   "t": "服を二着買いました。",
+   "zh": "买了两套衣服。"
+  }
+ },
+ {
+  "id": "ja_～羽",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 13,
+  "lemma": "～羽",
+  "kana": "わ",
+  "kanji": "～羽",
+  "romaji": "wa",
+  "pos": "短语",
+  "pron": "[wa]",
+  "meaning_zh": "…只（鸟、兔的量词）",
+  "audio": "audio/ja/ja_～羽.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "～回",
+   "どのぐらい",
+   "～冊"
+  ],
+  "example": {
+   "t": "庭に鳥が三羽います。",
+   "zh": "院子里有三只鸟。"
+  }
+ },
+ {
+  "id": "ja_～足",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 13,
+  "lemma": "～足",
+  "kana": "そく",
+  "kanji": "～足",
+  "romaji": "soku",
+  "pos": "短语",
+  "pron": "[soku]",
+  "meaning_zh": "…双（鞋袜的量词）",
+  "audio": "audio/ja/ja_～足.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "～冊",
+   "～回",
+   "どのぐらい"
+  ],
+  "example": {
+   "t": "靴を二足買いました。",
+   "zh": "买了两双鞋。"
+  }
+ },
+ {
+  "id": "ja_～週間",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 13,
+  "lemma": "～週間",
+  "kana": "しゅうかん",
+  "kanji": "～週間",
+  "romaji": "shuukan",
+  "pos": "短语",
+  "pron": "[shuukan]",
+  "meaning_zh": "…周",
+  "audio": "audio/ja/ja_～週間.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "どのぐらい",
+   "～冊",
+   "～回"
+  ],
+  "example": {
+   "t": "一週間日本にいました。",
+   "zh": "在日本待了一周。"
+  }
+ },
+ {
+  "id": "ja_～頭",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 13,
+  "lemma": "～頭",
+  "kana": "とう",
+  "kanji": "～頭",
+  "romaji": "tou",
+  "pos": "短语",
+  "pron": "[tou]",
+  "meaning_zh": "…头（大型动物的量词）",
+  "audio": "audio/ja/ja_～頭.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "～冊",
+   "～回",
+   "どのぐらい"
+  ],
+  "example": {
+   "t": "牧場に牛が五頭います。",
+   "zh": "牧场里有五头牛。"
+  }
+ },
+ {
+  "id": "ja_こう",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 14,
+  "lemma": "こう",
+  "kana": "こう",
+  "kanji": null,
+  "romaji": "kou",
+  "pos": "副",
+  "pron": "[kou]",
+  "meaning_zh": "这样,如此",
+  "audio": "audio/ja/ja_こう.ogg",
+  "tags": [
+   "core",
+   "adv"
+  ],
+  "distractors": [
+   "後で",
+   "なかなか",
+   "そう"
+  ],
+  "example": {
+   "t": "こう書いてください。",
+   "zh": "请这样写。"
+  }
+ },
+ {
+  "id": "ja_すみませんが",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 14,
+  "lemma": "すみませんが",
+  "kana": "すみませんが",
+  "kanji": null,
+  "romaji": "sumimasenga",
+  "pos": "短语",
+  "pron": "[sumimasenga]",
+  "meaning_zh": "对不起……,劳驾……",
+  "audio": "audio/ja/ja_すみませんが.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "船便",
+   "書類",
+   "原稿"
+  ],
+  "example": {
+   "t": "すみませんが、この漢字の読み方を教えてください。",
+   "zh": "不好意思，请教我这个汉字的读法。"
+  }
+ },
+ {
+  "id": "ja_そう",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 14,
+  "lemma": "そう",
+  "kana": "そう",
+  "kanji": null,
+  "romaji": "sou",
+  "pos": "副",
+  "pron": "[sou]",
+  "meaning_zh": "那样",
+  "audio": "audio/ja/ja_そう.ogg",
+  "tags": [
+   "core",
+   "adv"
+  ],
+  "syn": [
+   "ああ"
+  ],
+  "distractors": [
+   "なかなか",
+   "こう",
+   "後で"
+  ],
+  "example": {
+   "t": "私もそう思います。",
+   "zh": "我也那样认为。"
+  }
+ },
+ {
+  "id": "ja_それから",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 14,
+  "lemma": "それから",
+  "kana": "それから",
+  "kanji": null,
+  "romaji": "sorekara",
+  "pos": "连",
+  "pron": "[sorekara]",
+  "meaning_zh": "然后",
+  "audio": "audio/ja/ja_それから.ogg",
+  "tags": [
+   "core",
+   "conj"
+  ],
+  "distractors": [
+   "原稿",
+   "船便",
+   "書類"
+  ],
+  "example": {
+   "t": "まず手を洗って、それからご飯を食べます。",
+   "zh": "先洗手，然后吃饭。"
+  }
+ },
+ {
+  "id": "ja_つけます",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 14,
+  "lemma": "つけます",
+  "kana": "つけます",
+  "kanji": null,
+  "romaji": "tsukemasu",
+  "pos": "动2",
+  "pron": "[tsukemasu]",
+  "meaning_zh": "开(灯)",
+  "audio": "audio/ja/ja_つけます.ogg",
+  "tags": [
+   "core",
+   "verb"
+  ],
+  "distractors": [
+   "出かけます",
+   "開けます",
+   "出ます"
+  ],
+  "example": {
+   "t": "部屋が暗いので、電気をつけます。",
+   "zh": "房间很暗，所以要开灯。"
+  }
+ },
+ {
+  "id": "ja_なかなか",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 14,
+  "lemma": "なかなか",
+  "kana": "なかなか",
+  "kanji": null,
+  "romaji": "nakanaka",
+  "pos": "副",
+  "pron": "[nakanaka]",
+  "meaning_zh": "相当,很,非常",
+  "audio": "audio/ja/ja_なかなか.ogg",
+  "tags": [
+   "core",
+   "adv"
+  ],
+  "distractors": [
+   "そう",
+   "後で",
+   "こう"
+  ],
+  "example": {
+   "t": "この料理はなかなかおいしいです。",
+   "zh": "这道菜相当好吃。"
+  }
+ },
+ {
+  "id": "ja_コピーします",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 14,
+  "lemma": "コピーします",
+  "kana": "コピーします",
+  "kanji": null,
+  "romaji": "kopiishimasu",
+  "pos": "动3",
+  "pron": "[kopiishimasu]",
+  "meaning_zh": "复印",
+  "audio": "audio/ja/ja_コピーします.ogg",
+  "tags": [
+   "core",
+   "verb"
+  ],
+  "distractors": [
+   "卒業します",
+   "食事します",
+   "買い物します"
+  ],
+  "example": {
+   "t": "この書類をコピーしてください。",
+   "zh": "请复印这份文件。"
+  }
+ },
+ {
+  "id": "ja_ドア",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 14,
+  "lemma": "ドア",
+  "kana": "ドア",
+  "kanji": null,
+  "romaji": "doa",
+  "pos": "名",
+  "pron": "[doa]",
+  "meaning_zh": "门",
+  "audio": "audio/ja/ja_ドア.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "船便",
+   "書類",
+   "原稿"
+  ],
+  "example": {
+   "t": "ドアを開けてください。",
+   "zh": "请把门打开。"
+  }
+ },
+ {
+  "id": "ja_バーベキュー",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 14,
+  "lemma": "バーベキュー",
+  "kana": "バーベキュー",
+  "kanji": null,
+  "romaji": "baabekyuu",
+  "pos": "名",
+  "pron": "[baabekyuu]",
+  "meaning_zh": "户外烧烤",
+  "audio": "audio/ja/ja_バーベキュー.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "原稿",
+   "船便",
+   "書類"
+  ],
+  "example": {
+   "t": "夏休みにみんなでバーベキューをしました。",
+   "zh": "暑假大家一起搞了烧烤。"
+  }
+ },
+ {
+  "id": "ja_メモ",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 14,
+  "lemma": "メモ",
+  "kana": "メモ",
+  "kanji": null,
+  "romaji": "memo",
+  "pos": "名",
+  "pron": "[memo]",
+  "meaning_zh": "记录",
+  "audio": "audio/ja/ja_メモ.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "船便",
+   "書類",
+   "原稿"
+  ],
+  "example": {
+   "t": "会議の内容をメモしました。",
+   "zh": "把会议内容记了下来。"
+  }
+ },
+ {
+  "id": "ja_下ろします",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 14,
+  "lemma": "下ろします",
+  "kana": "おろします",
+  "kanji": "下ろします",
+  "romaji": "oroshimasu",
+  "pos": "动1",
+  "pron": "[oroshimasu]",
+  "meaning_zh": "取,卸货",
+  "audio": "audio/ja/ja_下ろします.ogg",
+  "tags": [
+   "core",
+   "verb"
+  ],
+  "distractors": [
+   "飛びます",
+   "通ります",
+   "急ぎます"
+  ],
+  "example": {
+   "t": "銀行でお金を下ろします。",
+   "zh": "在银行取钱。"
+  }
+ },
+ {
+  "id": "ja_交差点",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 14,
+  "lemma": "交差点",
+  "kana": "こうさてん",
+  "kanji": "交差点",
+  "romaji": "kousaten",
+  "pos": "名",
+  "pron": "[kousaten]",
+  "meaning_zh": "十字路口",
+  "audio": "audio/ja/ja_交差点.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "書類",
+   "原稿",
+   "船便"
+  ],
+  "example": {
+   "t": "次の交差点を右へ曲がってください。",
+   "zh": "请在下一个十字路口向右拐。"
+  }
+ },
+ {
+  "id": "ja_出かけます",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 14,
+  "lemma": "出かけます",
+  "kana": "でかけます",
+  "kanji": "出かけます",
+  "romaji": "dekakemasu",
+  "pos": "动2",
+  "pron": "[dekakemasu]",
+  "meaning_zh": "外出,出门",
+  "audio": "audio/ja/ja_出かけます.ogg",
+  "tags": [
+   "core",
+   "verb"
+  ],
+  "distractors": [
+   "出ます",
+   "開けます",
+   "過ぎます"
+  ],
+  "example": {
+   "t": "母は買い物に出かけました。",
+   "zh": "妈妈出去买东西了。"
+  }
+ },
+ {
+  "id": "ja_出ます",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 14,
+  "lemma": "出ます",
+  "kana": "でます",
+  "kanji": "出ます",
+  "romaji": "demasu",
+  "pos": "动2",
+  "pron": "[demasu]",
+  "meaning_zh": "离开",
+  "audio": "audio/ja/ja_出ます.ogg",
+  "tags": [
+   "core",
+   "verb"
+  ],
+  "distractors": [
+   "過ぎます",
+   "出かけます",
+   "開けます"
+  ],
+  "example": {
+   "t": "毎朝七時に家を出ます。",
+   "zh": "每天早上七点出门。"
+  }
+ },
+ {
+  "id": "ja_卒業します",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 14,
+  "lemma": "卒業します",
+  "kana": "そつぎょうします",
+  "kanji": "卒業します",
+  "romaji": "sotsugyoushimasu",
+  "pos": "动3",
+  "pron": "[sotsugyoushimasu]",
+  "meaning_zh": "毕业",
+  "audio": "audio/ja/ja_卒業します.ogg",
+  "tags": [
+   "core",
+   "verb"
+  ],
+  "distractors": [
+   "食事します",
+   "整理します",
+   "買い物します"
+  ],
+  "example": {
+   "t": "姉は今年大学を卒業します。",
+   "zh": "姐姐今年大学毕业。"
+  }
+ },
+ {
+  "id": "ja_原稿",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 14,
+  "lemma": "原稿",
+  "kana": "げんこう",
+  "kanji": "原稿",
+  "romaji": "genkou",
+  "pos": "名",
+  "pron": "[genkou]",
+  "meaning_zh": "稿子,原稿",
+  "audio": "audio/ja/ja_原稿.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "書類",
+   "記事",
+   "船便"
+  ],
+  "example": {
+   "t": "明日までに原稿を書きます。",
+   "zh": "明天之前写好稿子。"
+  }
+ },
+ {
+  "id": "ja_右",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 14,
+  "lemma": "右",
+  "kana": "みぎ",
+  "kanji": "右",
+  "romaji": "migi",
+  "pos": "名",
+  "pron": "[migi]",
+  "meaning_zh": "右,右边",
+  "audio": "audio/ja/ja_右.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "原稿",
+   "船便",
+   "書類"
+  ],
+  "example": {
+   "t": "銀行は駅の右にあります。",
+   "zh": "银行在车站的右边。"
+  }
+ },
+ {
+  "id": "ja_売ります",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 14,
+  "lemma": "売ります",
+  "kana": "うります",
+  "kanji": "売ります",
+  "romaji": "urimasu",
+  "pos": "动1",
+  "pron": "[urimasu]",
+  "meaning_zh": "卖,销售",
+  "audio": "audio/ja/ja_売ります.ogg",
+  "tags": [
+   "core",
+   "verb"
+  ],
+  "distractors": [
+   "飛びます",
+   "通ります",
+   "急ぎます"
+  ],
+  "example": {
+   "t": "あの店では果物を売っています。",
+   "zh": "那家店在卖水果。"
+  }
+ },
+ {
+  "id": "ja_大変",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 14,
+  "lemma": "大変",
+  "kana": "たいへん",
+  "kanji": "大変",
+  "romaji": "taihen",
+  "pos": "形2",
+  "pron": "[taihen]",
+  "meaning_zh": "够受的,不得了",
+  "audio": "audio/ja/ja_大変.ogg",
+  "tags": [
+   "core",
+   "adj"
+  ],
+  "distractors": [
+   "船便",
+   "書類",
+   "原稿"
+  ],
+  "example": {
+   "t": "毎日の仕事は大変です。",
+   "zh": "每天的工作很够受的。"
+  }
+ },
+ {
+  "id": "ja_太極拳",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 14,
+  "lemma": "太極拳",
+  "kana": "たいきょくけん",
+  "kanji": "太極拳",
+  "romaji": "taikyokuken",
+  "pos": "名",
+  "pron": "[taikyokuken]",
+  "meaning_zh": "太极拳",
+  "audio": "audio/ja/ja_太極拳.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "原稿",
+   "船便",
+   "書類"
+  ],
+  "example": {
+   "t": "朝、公園で太極拳をします。",
+   "zh": "早上在公园打太极拳。"
+  }
+ },
+ {
+  "id": "ja_左",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 14,
+  "lemma": "左",
+  "kana": "ひだり",
+  "kanji": "左",
+  "romaji": "hidari",
+  "pos": "名",
+  "pron": "[hidari]",
+  "meaning_zh": "左,左边",
+  "audio": "audio/ja/ja_左.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "船便",
+   "書類",
+   "原稿"
+  ],
+  "example": {
+   "t": "郵便局は駅の左にあります。",
+   "zh": "邮局在车站的左边。"
+  }
+ },
+ {
+  "id": "ja_待ちます",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 14,
+  "lemma": "待ちます",
+  "kana": "まちます",
+  "kanji": "待ちます",
+  "romaji": "machimasu",
+  "pos": "动1",
+  "pron": "[machimasu]",
+  "meaning_zh": "等待,等候",
+  "audio": "audio/ja/ja_待ちます.ogg",
+  "tags": [
+   "core",
+   "verb"
+  ],
+  "distractors": [
+   "急ぎます",
+   "飛びます",
+   "通ります"
+  ],
+  "example": {
+   "t": "駅の前で友達を待ちます。",
+   "zh": "在车站前等朋友。"
+  }
+ },
+ {
+  "id": "ja_後で",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 14,
+  "lemma": "後で",
+  "kana": "あとで",
+  "kanji": "後で",
+  "romaji": "atode",
+  "pos": "副",
+  "pron": "[atode]",
+  "meaning_zh": "过会儿",
+  "audio": "audio/ja/ja_後で.ogg",
+  "tags": [
+   "core",
+   "adv"
+  ],
+  "distractors": [
+   "こう",
+   "そう",
+   "なかなか"
+  ],
+  "example": {
+   "t": "後で電話します。",
+   "zh": "过会儿给你打电话。"
+  }
+ },
+ {
+  "id": "ja_急ぎます",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 14,
+  "lemma": "急ぎます",
+  "kana": "いそぎます",
+  "kanji": "急ぎます",
+  "romaji": "isogimasu",
+  "pos": "动1",
+  "pron": "[isogimasu]",
+  "meaning_zh": "急,匆忙",
+  "audio": "audio/ja/ja_急ぎます.ogg",
+  "tags": [
+   "core",
+   "verb"
+  ],
+  "distractors": [
+   "飛びます",
+   "死にます",
+   "通ります"
+  ],
+  "example": {
+   "t": "時間がないので、急ぎましょう。",
+   "zh": "没有时间了，快点吧。"
+  }
+ },
+ {
+  "id": "ja_整理します",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 14,
+  "lemma": "整理します",
+  "kana": "せいりします",
+  "kanji": "整理します",
+  "romaji": "seirishimasu",
+  "pos": "动3",
+  "pron": "[seirishimasu]",
+  "meaning_zh": "整理",
+  "audio": "audio/ja/ja_整理します.ogg",
+  "tags": [
+   "core",
+   "verb"
+  ],
+  "distractors": [
+   "買い物します",
+   "卒業します",
+   "食事します"
+  ],
+  "example": {
+   "t": "部屋を整理しました。",
+   "zh": "整理了房间。"
+  }
+ },
+ {
+  "id": "ja_晩ご飯",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 14,
+  "lemma": "晩ご飯",
+  "kana": "ばんごはん",
+  "kanji": "晩ご飯",
+  "romaji": "bangohan",
+  "pos": "名",
+  "pron": "[bangohan]",
+  "meaning_zh": "晚饭",
+  "audio": "audio/ja/ja_晩ご飯.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "書類",
+   "原稿",
+   "船便"
+  ],
+  "example": {
+   "t": "晩ご飯は何を食べますか。",
+   "zh": "晚饭吃什么？"
+  }
+ },
+ {
+  "id": "ja_暗い",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 14,
+  "lemma": "暗い",
+  "kana": "くらい",
+  "kanji": "暗い",
+  "romaji": "kurai",
+  "pos": "形1",
+  "pron": "[kurai]",
+  "meaning_zh": "黑暗,昏暗",
+  "audio": "audio/ja/ja_暗い.ogg",
+  "tags": [
+   "core",
+   "adj"
+  ],
+  "distractors": [
+   "原稿",
+   "船便",
+   "書類"
+  ],
+  "example": {
+   "t": "外はもう暗いです。",
+   "zh": "外面已经黑了。"
+  }
+ },
+ {
+  "id": "ja_曲がります",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 14,
+  "lemma": "曲がります",
+  "kana": "まがります",
+  "kanji": "曲がります",
+  "romaji": "magarimasu",
+  "pos": "动1",
+  "pron": "[magarimasu]",
+  "meaning_zh": "拐弯,曲折",
+  "audio": "audio/ja/ja_曲がります.ogg",
+  "tags": [
+   "core",
+   "verb"
+  ],
+  "distractors": [
+   "通ります",
+   "急ぎます",
+   "飛びます"
+  ],
+  "example": {
+   "t": "あの角を左に曲がってください。",
+   "zh": "请在那个拐角向左拐。"
+  }
+ },
+ {
+  "id": "ja_書類",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 14,
+  "lemma": "書類",
+  "kana": "しょるい",
+  "kanji": "書類",
+  "romaji": "shorui",
+  "pos": "名",
+  "pron": "[shorui]",
+  "meaning_zh": "文件,文稿",
+  "audio": "audio/ja/ja_書類.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "船便",
+   "原稿",
+   "記事"
+  ],
+  "example": {
+   "t": "ここに書類を置いてください。",
+   "zh": "请把文件放在这里。"
+  }
+ },
+ {
+  "id": "ja_朝ご飯",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 14,
+  "lemma": "朝ご飯",
+  "kana": "あさごはん",
+  "kanji": "朝ご飯",
+  "romaji": "asagohan",
+  "pos": "名",
+  "pron": "[asagohan]",
+  "meaning_zh": "早饭",
+  "audio": "audio/ja/ja_朝ご飯.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "船便",
+   "書類",
+   "原稿"
+  ],
+  "example": {
+   "t": "毎朝、朝ご飯を食べます。",
+   "zh": "每天早上吃早饭。"
+  }
+ },
+ {
+  "id": "ja_横断歩道",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 14,
+  "lemma": "横断歩道",
+  "kana": "おうだんほどう",
+  "kanji": "横断歩道",
+  "romaji": "oudanhodou",
+  "pos": "名",
+  "pron": "[oudanhodou]",
+  "meaning_zh": "人行横道",
+  "audio": "audio/ja/ja_横断歩道.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "書類",
+   "原稿",
+   "船便"
+  ],
+  "example": {
+   "t": "横断歩道を渡りましょう。",
+   "zh": "走人行横道过马路吧。"
+  }
+ },
+ {
+  "id": "ja_橋",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 14,
+  "lemma": "橋",
+  "kana": "はし",
+  "kanji": "橋",
+  "romaji": "hashi",
+  "pos": "名",
+  "pron": "[hashi]",
+  "meaning_zh": "桥,桥梁",
+  "audio": "audio/ja/ja_橋.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "原稿",
+   "船便",
+   "書類"
+  ],
+  "example": {
+   "t": "この橋を渡ると、駅です。",
+   "zh": "过了这座桥就是车站。"
+  }
+ },
+ {
+  "id": "ja_歩きます",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 14,
+  "lemma": "歩きます",
+  "kana": "あるきます",
+  "kanji": "歩きます",
+  "romaji": "arukimasu",
+  "pos": "动1",
+  "pron": "[arukimasu]",
+  "meaning_zh": "步行,行走",
+  "audio": "audio/ja/ja_歩きます.ogg",
+  "tags": [
+   "core",
+   "verb"
+  ],
+  "distractors": [
+   "飛びます",
+   "通ります",
+   "急ぎます"
+  ],
+  "example": {
+   "t": "駅まで歩きます。",
+   "zh": "走到车站。"
+  }
+ },
+ {
+  "id": "ja_死にます",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 14,
+  "lemma": "死にます",
+  "kana": "しにます",
+  "kanji": "死にます",
+  "romaji": "shinimasu",
+  "pos": "动1",
+  "pron": "[shinimasu]",
+  "meaning_zh": "死,死亡",
+  "audio": "audio/ja/ja_死にます.ogg",
+  "tags": [
+   "core",
+   "verb"
+  ],
+  "distractors": [
+   "通ります",
+   "急ぎます",
+   "飛びます"
+  ],
+  "example": {
+   "t": "飼っていた魚が死にました。",
+   "zh": "养的鱼死了。"
+  }
+ },
+ {
+  "id": "ja_洗います",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 14,
+  "lemma": "洗います",
+  "kana": "あらいます",
+  "kanji": "洗います",
+  "romaji": "araimasu",
+  "pos": "动1",
+  "pron": "[araimasu]",
+  "meaning_zh": "洗,洗涤",
+  "audio": "audio/ja/ja_洗います.ogg",
+  "tags": [
+   "core",
+   "verb"
+  ],
+  "distractors": [
+   "急ぎます",
+   "飛びます",
+   "通ります"
+  ],
+  "example": {
+   "t": "食事の前に手を洗います。",
+   "zh": "吃饭前洗手。"
+  }
+ },
+ {
+  "id": "ja_消します",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 14,
+  "lemma": "消します",
+  "kana": "けします",
+  "kanji": "消します",
+  "romaji": "keshimasu",
+  "pos": "动1",
+  "pron": "[keshimasu]",
+  "meaning_zh": "关(灯),消除,去除",
+  "audio": "audio/ja/ja_消します.ogg",
+  "tags": [
+   "core",
+   "verb"
+  ],
+  "distractors": [
+   "急ぎます",
+   "飛びます",
+   "通ります"
+  ],
+  "example": {
+   "t": "寝る前に電気を消します。",
+   "zh": "睡觉前关灯。"
+  }
+ },
+ {
+  "id": "ja_渡ります",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 14,
+  "lemma": "渡ります",
+  "kana": "わたります",
+  "kanji": "渡ります",
+  "romaji": "watarimasu",
+  "pos": "动1",
+  "pron": "[watarimasu]",
+  "meaning_zh": "过(桥,河),穿过(马路)",
+  "audio": "audio/ja/ja_渡ります.ogg",
+  "tags": [
+   "core",
+   "verb"
+  ],
+  "distractors": [
+   "急ぎます",
+   "飛びます",
+   "通ります"
+  ],
+  "example": {
+   "t": "青になってから道を渡ります。",
+   "zh": "变成绿灯后再过马路。"
+  }
+ },
+ {
+  "id": "ja_船便",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 14,
+  "lemma": "船便",
+  "kana": "ふなびん",
+  "kanji": "船便",
+  "romaji": "funabin",
+  "pos": "名",
+  "pron": "[funabin]",
+  "meaning_zh": "海运",
+  "audio": "audio/ja/ja_船便.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "記事",
+   "書類",
+   "原稿"
+  ],
+  "example": {
+   "t": "船便で荷物を送りました。",
+   "zh": "用海运寄了包裹。"
+  }
+ },
+ {
+  "id": "ja_見せます",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 14,
+  "lemma": "見せます",
+  "kana": "みせます",
+  "kanji": "見せます",
+  "romaji": "misemasu",
+  "pos": "动2",
+  "pron": "[misemasu]",
+  "meaning_zh": "给～看;出示",
+  "audio": "audio/ja/ja_見せます.ogg",
+  "tags": [
+   "core",
+   "verb"
+  ],
+  "distractors": [
+   "出ます",
+   "出かけます",
+   "開けます"
+  ],
+  "example": {
+   "t": "その写真を見せてください。",
+   "zh": "请给我看那张照片。"
+  }
+ },
+ {
+  "id": "ja_角",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 14,
+  "lemma": "角",
+  "kana": "かど",
+  "kanji": "角",
+  "romaji": "kado",
+  "pos": "名",
+  "pron": "[kado]",
+  "meaning_zh": "拐角",
+  "audio": "audio/ja/ja_角.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "船便",
+   "書類",
+   "原稿"
+  ],
+  "example": {
+   "t": "あの角に花屋があります。",
+   "zh": "那个拐角有一家花店。"
+  }
+ },
+ {
+  "id": "ja_記事",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 14,
+  "lemma": "記事",
+  "kana": "きじ",
+  "kanji": "記事",
+  "romaji": "kiji",
+  "pos": "名",
+  "pron": "[kiji]",
+  "meaning_zh": "报道",
+  "audio": "audio/ja/ja_記事.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "原稿",
+   "船便",
+   "書類"
+  ],
+  "example": {
+   "t": "新聞でその記事を読みました。",
+   "zh": "在报纸上读了那篇报道。"
+  }
+ },
+ {
+  "id": "ja_話します",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 14,
+  "lemma": "話します",
+  "kana": "はなします",
+  "kanji": "話します",
+  "romaji": "hanashimasu",
+  "pos": "动1",
+  "pron": "[hanashimasu]",
+  "meaning_zh": "说话,说",
+  "audio": "audio/ja/ja_話します.ogg",
+  "tags": [
+   "core",
+   "verb"
+  ],
+  "distractors": [
+   "通ります",
+   "急ぎます",
+   "飛びます"
+  ],
+  "example": {
+   "t": "彼女は英語を話します。",
+   "zh": "她会说英语。"
+  }
+ },
+ {
+  "id": "ja_買い物します",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 14,
+  "lemma": "買い物します",
+  "kana": "かいものします",
+  "kanji": "買い物します",
+  "romaji": "kaimonoshimasu",
+  "pos": "动3",
+  "pron": "[kaimonoshimasu]",
+  "meaning_zh": "买东西",
+  "audio": "audio/ja/ja_買い物します.ogg",
+  "tags": [
+   "core",
+   "verb"
+  ],
+  "distractors": [
+   "卒業します",
+   "食事します",
+   "整理します"
+  ],
+  "example": {
+   "t": "デパートで買い物します。",
+   "zh": "在百货商店买东西。"
+  }
+ },
+ {
+  "id": "ja_通ります",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 14,
+  "lemma": "通ります",
+  "kana": "とおります",
+  "kanji": "通ります",
+  "romaji": "toorimasu",
+  "pos": "动1",
+  "pron": "[toorimasu]",
+  "meaning_zh": "通过,经过",
+  "audio": "audio/ja/ja_通ります.ogg",
+  "tags": [
+   "core",
+   "verb"
+  ],
+  "distractors": [
+   "急ぎます",
+   "飛びます",
+   "死にます"
+  ],
+  "example": {
+   "t": "この道は駅の前を通ります。",
+   "zh": "这条路经过车站前。"
+  }
+ },
+ {
+  "id": "ja_過ぎます",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 14,
+  "lemma": "過ぎます",
+  "kana": "すぎます",
+  "kanji": "過ぎます",
+  "romaji": "sugimasu",
+  "pos": "动2",
+  "pron": "[sugimasu]",
+  "meaning_zh": "过",
+  "audio": "audio/ja/ja_過ぎます.ogg",
+  "tags": [
+   "core",
+   "verb"
+  ],
+  "distractors": [
+   "開けます",
+   "出ます",
+   "出かけます"
+  ],
+  "example": {
+   "t": "もう七時を過ぎました。",
+   "zh": "已经过了七点。"
+  }
+ },
+ {
+  "id": "ja_道",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 14,
+  "lemma": "道",
+  "kana": "みち",
+  "kanji": "道",
+  "romaji": "michi",
+  "pos": "名",
+  "pron": "[michi]",
+  "meaning_zh": "路,道路",
+  "audio": "audio/ja/ja_道.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "原稿",
+   "船便",
+   "書類"
+  ],
+  "example": {
+   "t": "この道をまっすぐ行ってください。",
+   "zh": "请沿这条路一直走。"
+  }
+ },
+ {
+  "id": "ja_選びます",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 14,
+  "lemma": "選びます",
+  "kana": "えらびます",
+  "kanji": "選びます",
+  "romaji": "erabimasu",
+  "pos": "动1",
+  "pron": "[erabimasu]",
+  "meaning_zh": "挑选,选择",
+  "audio": "audio/ja/ja_選びます.ogg",
+  "tags": [
+   "core",
+   "verb"
+  ],
+  "distractors": [
+   "通ります",
+   "急ぎます",
+   "飛びます"
+  ],
+  "example": {
+   "t": "好きな色を選んでください。",
+   "zh": "请选择喜欢的颜色。"
+  }
+ },
+ {
+  "id": "ja_開けます",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 14,
+  "lemma": "開けます",
+  "kana": "あけます",
+  "kanji": "開けます",
+  "romaji": "akemasu",
+  "pos": "动2",
+  "pron": "[akemasu]",
+  "meaning_zh": "开,打开,开启",
+  "audio": "audio/ja/ja_開けます.ogg",
+  "tags": [
+   "core",
+   "verb"
+  ],
+  "distractors": [
+   "出かけます",
+   "過ぎます",
+   "出ます"
+  ],
+  "example": {
+   "t": "窓を開けてもいいですか。",
+   "zh": "可以开窗吗？"
+  }
+ },
+ {
+  "id": "ja_降ります（おります）",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 14,
+  "lemma": "降ります（おります）",
+  "kana": "おります",
+  "kanji": "降ります",
+  "romaji": "orimasu",
+  "pos": "动2",
+  "pron": "[orimasu]",
+  "meaning_zh": "下(车,山)",
+  "audio": "audio/ja/ja_降ります（おります）.ogg",
+  "tags": [
+   "core",
+   "verb"
+  ],
+  "distractors": [
+   "開けます",
+   "出ます",
+   "出かけます"
+  ],
+  "example": {
+   "t": "次の駅で降ります。",
+   "zh": "在下一站下车。"
+  }
+ },
+ {
+  "id": "ja_電気",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 14,
+  "lemma": "電気",
+  "kana": "でんき",
+  "kanji": "電気",
+  "romaji": "denki",
+  "pos": "名",
+  "pron": "[denki]",
+  "meaning_zh": "电,电力",
+  "audio": "audio/ja/ja_電気.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "書類",
+   "原稿",
+   "船便"
+  ],
+  "example": {
+   "t": "電気を大切にしましょう。",
+   "zh": "要节约用电。"
+  }
+ },
+ {
+  "id": "ja_飛びます",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 14,
+  "lemma": "飛びます",
+  "kana": "とびます",
+  "kanji": "飛びます",
+  "romaji": "tobimasu",
+  "pos": "动1",
+  "pron": "[tobimasu]",
+  "meaning_zh": "飞,飞行",
+  "audio": "audio/ja/ja_飛びます.ogg",
+  "tags": [
+   "core",
+   "verb"
+  ],
+  "distractors": [
+   "死にます",
+   "通ります",
+   "急ぎます"
+  ],
+  "example": {
+   "t": "鳥が空を飛んでいます。",
+   "zh": "鸟在天上飞。"
+  }
+ },
+ {
+  "id": "ja_食事します",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 14,
+  "lemma": "食事します",
+  "kana": "しょくじします",
+  "kanji": "食事します",
+  "romaji": "shokujishimasu",
+  "pos": "动3",
+  "pron": "[shokujishimasu]",
+  "meaning_zh": "吃饭,用餐",
+  "audio": "audio/ja/ja_食事します.ogg",
+  "tags": [
+   "core",
+   "verb"
+  ],
+  "distractors": [
+   "整理します",
+   "買い物します",
+   "卒業します"
+  ],
+  "example": {
+   "t": "家族と一緒に食事します。",
+   "zh": "和家人一起吃饭。"
+  }
+ },
+ {
+  "id": "ja_駅前",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 14,
+  "lemma": "駅前",
+  "kana": "えきまえ",
+  "kanji": "駅前",
+  "romaji": "ekimae",
+  "pos": "名",
+  "pron": "[ekimae]",
+  "meaning_zh": "车站一带",
+  "audio": "audio/ja/ja_駅前.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "書類",
+   "原稿",
+   "船便"
+  ],
+  "example": {
+   "t": "駅前で待っています。",
+   "zh": "在车站一带等着。"
+  }
+ },
+ {
+  "id": "ja_いえ",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 15,
+  "lemma": "いえ",
+  "kana": "いえ",
+  "kanji": null,
+  "romaji": "ie",
+  "pos": "叹",
+  "pron": "[ie]",
+  "meaning_zh": "不,不是",
+  "audio": "audio/ja/ja_いえ.ogg",
+  "tags": [
+   "core",
+   "interj"
+  ],
+  "distractors": [
+   "もしもし",
+   "ボート",
+   "ベンチ"
+  ],
+  "example": {
+   "t": "いえ、違います。",
+   "zh": "不，不对。"
+  }
+ },
+ {
+  "id": "ja_いけません",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 15,
+  "lemma": "いけません",
+  "kana": "いけません",
+  "kanji": null,
+  "romaji": "ikemasen",
+  "pos": "短语",
+  "pron": "[ikemasen]",
+  "meaning_zh": "不行,不可以",
+  "audio": "audio/ja/ja_いけません.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "まだです",
+   "お大事に",
+   "かまいません"
+  ],
+  "example": {
+   "t": "ここで写真を撮ってはいけません。",
+   "zh": "这里不可以拍照。"
+  }
+ },
+ {
+  "id": "ja_お大事に",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 15,
+  "lemma": "お大事に",
+  "kana": "おだいじに",
+  "kanji": "お大事に",
+  "romaji": "odaijini",
+  "pos": "短语",
+  "pron": "[odaijini]",
+  "meaning_zh": "请多保重",
+  "audio": "audio/ja/ja_お大事に.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "かまいません",
+   "まだです",
+   "いけません"
+  ],
+  "example": {
+   "t": "風邪ですか。お大事に。",
+   "zh": "感冒了吗？请多保重。"
+  }
+ },
+ {
+  "id": "ja_お風呂",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 15,
+  "lemma": "お風呂",
+  "kana": "おふろ",
+  "kanji": "お風呂",
+  "romaji": "ofuro",
+  "pos": "名",
+  "pron": "[ofuro]",
+  "meaning_zh": "澡堂,浴室",
+  "audio": "audio/ja/ja_お風呂.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "ボート",
+   "ベンチ",
+   "市役所"
+  ],
+  "example": {
+   "t": "お風呂が大好きです。",
+   "zh": "很喜欢泡澡。"
+  }
+ },
+ {
+  "id": "ja_お風呂にはいります",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 15,
+  "lemma": "お風呂にはいります",
+  "kana": "おふろにはいります",
+  "kanji": "お風呂にはいります",
+  "romaji": "ofuronihairimasu",
+  "pos": "短语",
+  "pron": "[ofuronihairimasu]",
+  "meaning_zh": "洗澡",
+  "audio": "audio/ja/ja_お風呂にはいります.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "かまいません",
+   "お大事に",
+   "いけません"
+  ],
+  "example": {
+   "t": "寝る前にお風呂にはいります。",
+   "zh": "睡觉前洗澡。"
+  }
+ },
+ {
+  "id": "ja_かまいません",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 15,
+  "lemma": "かまいません",
+  "kana": "かまいません",
+  "kanji": null,
+  "romaji": "kamaimasen",
+  "pos": "短语",
+  "pron": "[kamaimasen]",
+  "meaning_zh": "没关系,不要紧",
+  "audio": "audio/ja/ja_かまいません.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "お大事に",
+   "いけません",
+   "まだです"
+  ],
+  "example": {
+   "t": "ここに座ってもかまいませんか。",
+   "zh": "可以坐在这里吗？"
+  }
+ },
+ {
+  "id": "ja_だめ",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 15,
+  "lemma": "だめ",
+  "kana": "だめ",
+  "kanji": null,
+  "romaji": "dame",
+  "pos": "形2",
+  "pron": "[dame]",
+  "meaning_zh": "不行,不可以",
+  "audio": "audio/ja/ja_だめ.ogg",
+  "tags": [
+   "core",
+   "adj"
+  ],
+  "distractors": [
+   "ボート",
+   "ベンチ",
+   "大丈夫"
+  ],
+  "example": {
+   "t": "ここで遊んではだめです。",
+   "zh": "不可以在这里玩。"
+  }
+ },
+ {
+  "id": "ja_とります",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 15,
+  "lemma": "とります",
+  "kana": "とります",
+  "kanji": null,
+  "romaji": "torimasu",
+  "pos": "动1",
+  "pron": "[torimasu]",
+  "meaning_zh": "取,取得",
+  "audio": "audio/ja/ja_とります.ogg",
+  "tags": [
+   "core",
+   "verb"
+  ],
+  "distractors": [
+   "使います",
+   "座ります",
+   "乗ります"
+  ],
+  "example": {
+   "t": "授業でノートをとります。",
+   "zh": "上课记笔记。"
+  }
+ },
+ {
+  "id": "ja_まだです",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 15,
+  "lemma": "まだです",
+  "kana": "まだです",
+  "kanji": null,
+  "romaji": "madadesu",
+  "pos": "短语",
+  "pron": "[madadesu]",
+  "meaning_zh": "还没有,仍然……没有",
+  "audio": "audio/ja/ja_まだです.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "いけません",
+   "かまいません",
+   "お大事に"
+  ],
+  "example": {
+   "t": "宿題はもう終わりましたか。いいえ、まだです。",
+   "zh": "作业做完了吗？没有，还没有。"
+  }
+ },
+ {
+  "id": "ja_もしもし",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 15,
+  "lemma": "もしもし",
+  "kana": "もしもし",
+  "kanji": null,
+  "romaji": "moshimoshi",
+  "pos": "叹",
+  "pron": "[moshimoshi]",
+  "meaning_zh": "喂",
+  "audio": "audio/ja/ja_もしもし.ogg",
+  "tags": [
+   "core",
+   "interj"
+  ],
+  "distractors": [
+   "ベンチ",
+   "いえ",
+   "ボート"
+  ],
+  "example": {
+   "t": "もしもし、田中さんですか。",
+   "zh": "喂，是田中先生吗？"
+  }
+ },
+ {
+  "id": "ja_もちろん",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 15,
+  "lemma": "もちろん",
+  "kana": "もちろん",
+  "kanji": null,
+  "romaji": "mochiron",
+  "pos": "副",
+  "pron": "[mochiron]",
+  "meaning_zh": "当然,不用说",
+  "audio": "audio/ja/ja_もちろん.ogg",
+  "tags": [
+   "core",
+   "adv"
+  ],
+  "distractors": [
+   "十分",
+   "ゆっくり",
+   "ボート"
+  ],
+  "example": {
+   "t": "明日も来ますか。もちろんです。",
+   "zh": "明天也来吗？当然。"
+  }
+ },
+ {
+  "id": "ja_ゆっくり",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 15,
+  "lemma": "ゆっくり",
+  "kana": "ゆっくり",
+  "kanji": null,
+  "romaji": "yukkuri",
+  "pos": "副",
+  "pron": "[yukkuri]",
+  "meaning_zh": "好好地,安静地",
+  "audio": "audio/ja/ja_ゆっくり.ogg",
+  "tags": [
+   "core",
+   "adv"
+  ],
+  "distractors": [
+   "もちろん",
+   "ボート",
+   "十分"
+  ],
+  "example": {
+   "t": "ゆっくり休んでください。",
+   "zh": "请好好休息。"
+  }
+ },
+ {
+  "id": "ja_クーラー",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 15,
+  "lemma": "クーラー",
+  "kana": "クーラー",
+  "kanji": null,
+  "romaji": "kuuraa",
+  "pos": "名",
+  "pron": "[kuuraa]",
+  "meaning_zh": "空调",
+  "audio": "audio/ja/ja_クーラー.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "市役所",
+   "ボート",
+   "ベンチ"
+  ],
+  "example": {
+   "t": "暑いので、クーラーをつけます。",
+   "zh": "很热，所以要开空调。"
+  }
+ },
+ {
+  "id": "ja_ベンチ",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 15,
+  "lemma": "ベンチ",
+  "kana": "ベンチ",
+  "kanji": null,
+  "romaji": "benchi",
+  "pos": "名",
+  "pron": "[benchi]",
+  "meaning_zh": "长椅,长凳",
+  "audio": "audio/ja/ja_ベンチ.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "携帯電話",
+   "ボート",
+   "市役所"
+  ],
+  "example": {
+   "t": "公園のベンチに座りました。",
+   "zh": "坐在了公园的长椅上。"
+  }
+ },
+ {
+  "id": "ja_ボート",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 15,
+  "lemma": "ボート",
+  "kana": "ボート",
+  "kanji": null,
+  "romaji": "booto",
+  "pos": "名",
+  "pron": "[booto]",
+  "meaning_zh": "小船,小艇",
+  "audio": "audio/ja/ja_ボート.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "市役所",
+   "携帯電話",
+   "ベンチ"
+  ],
+  "example": {
+   "t": "湖でボートに乗りました。",
+   "zh": "在湖上坐了船。"
+  }
+ },
+ {
+  "id": "ja_乗ります",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 15,
+  "lemma": "乗ります",
+  "kana": "のります",
+  "kanji": "乗ります",
+  "romaji": "norimasu",
+  "pos": "动1",
+  "pron": "[norimasu]",
+  "meaning_zh": "乘坐,乘",
+  "audio": "audio/ja/ja_乗ります.ogg",
+  "tags": [
+   "core",
+   "verb"
+  ],
+  "distractors": [
+   "入ります",
+   "使います",
+   "座ります"
+  ],
+  "example": {
+   "t": "毎日バスに乗ります。",
+   "zh": "每天坐公交车。"
+  }
+ },
+ {
+  "id": "ja_伝えます",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 15,
+  "lemma": "伝えます",
+  "kana": "つたえます",
+  "kanji": "伝えます",
+  "romaji": "tsutaemasu",
+  "pos": "动2",
+  "pron": "[tsutaemasu]",
+  "meaning_zh": "说,传达,转告",
+  "audio": "audio/ja/ja_伝えます.ogg",
+  "tags": [
+   "core",
+   "verb"
+  ],
+  "distractors": [
+   "止めます",
+   "ボート",
+   "ベンチ"
+  ],
+  "example": {
+   "t": "田中さんによろしくと伝えてください。",
+   "zh": "请代我向田中先生问好。"
+  }
+ },
+ {
+  "id": "ja_使います",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 15,
+  "lemma": "使います",
+  "kana": "つかいます",
+  "kanji": "使います",
+  "romaji": "tsukaimasu",
+  "pos": "动1",
+  "pron": "[tsukaimasu]",
+  "meaning_zh": "用,使用",
+  "audio": "audio/ja/ja_使います.ogg",
+  "tags": [
+   "core",
+   "verb"
+  ],
+  "distractors": [
+   "乗ります",
+   "座ります",
+   "入ります"
+  ],
+  "example": {
+   "t": "このペンを使ってもいいですか。",
+   "zh": "可以用这支笔吗？"
+  }
+ },
+ {
+  "id": "ja_入ります",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 15,
+  "lemma": "入ります",
+  "kana": "はいります",
+  "kanji": "入ります",
+  "romaji": "hairimasu",
+  "pos": "动1",
+  "pron": "[hairimasu]",
+  "meaning_zh": "进入,加入",
+  "audio": "audio/ja/ja_入ります.ogg",
+  "tags": [
+   "core",
+   "verb"
+  ],
+  "distractors": [
+   "座ります",
+   "乗ります",
+   "使います"
+  ],
+  "example": {
+   "t": "喫茶店に入りました。",
+   "zh": "进了咖啡店。"
+  }
+ },
+ {
+  "id": "ja_十分",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 15,
+  "lemma": "十分",
+  "kana": "じゅうぶん",
+  "kanji": "十分",
+  "romaji": "juubun",
+  "pos": "副",
+  "pron": "[juubun]",
+  "meaning_zh": "好好地,充足地",
+  "audio": "audio/ja/ja_十分.ogg",
+  "tags": [
+   "core",
+   "adv"
+  ],
+  "distractors": [
+   "ボート",
+   "もちろん",
+   "ゆっくり"
+  ],
+  "example": {
+   "t": "時間は十分あります。",
+   "zh": "时间很充足。"
+  }
+ },
+ {
+  "id": "ja_大丈夫",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 15,
+  "lemma": "大丈夫",
+  "kana": "だいじょうぶ",
+  "kanji": "大丈夫",
+  "romaji": "daijoubu",
+  "pos": "形2",
+  "pron": "[daijoubu]",
+  "meaning_zh": "没关系,放心",
+  "audio": "audio/ja/ja_大丈夫.ogg",
+  "tags": [
+   "core",
+   "adj"
+  ],
+  "distractors": [
+   "だめ",
+   "ボート",
+   "ベンチ"
+  ],
+  "example": {
+   "t": "一人で行っても大丈夫ですか。",
+   "zh": "一个人去也没关系吗？"
+  }
+ },
+ {
+  "id": "ja_市役所",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 15,
+  "lemma": "市役所",
+  "kana": "しやくしょ",
+  "kanji": "市役所",
+  "romaji": "shiyakusho",
+  "pos": "名",
+  "pron": "[shiyakusho]",
+  "meaning_zh": "市政府",
+  "audio": "audio/ja/ja_市役所.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "ボート",
+   "ベンチ",
+   "携帯電話"
+  ],
+  "example": {
+   "t": "市役所で手続きをします。",
+   "zh": "在市政府办手续。"
+  }
+ },
+ {
+  "id": "ja_座ります",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 15,
+  "lemma": "座ります",
+  "kana": "すわります",
+  "kanji": "座ります",
+  "romaji": "suwarimasu",
+  "pos": "动1",
+  "pron": "[suwarimasu]",
+  "meaning_zh": "坐,落座",
+  "audio": "audio/ja/ja_座ります.ogg",
+  "tags": [
+   "core",
+   "verb"
+  ],
+  "distractors": [
+   "使います",
+   "入ります",
+   "乗ります"
+  ],
+  "example": {
+   "t": "どうぞ、ここに座ってください。",
+   "zh": "请坐这里。"
+  }
+ },
+ {
+  "id": "ja_打ち合わせ",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 15,
+  "lemma": "打ち合わせ",
+  "kana": "うちあわせ",
+  "kanji": "打ち合わせ",
+  "romaji": "uchiawase",
+  "pos": "名",
+  "pron": "[uchiawase]",
+  "meaning_zh": "事先商量,碰头,商洽",
+  "audio": "audio/ja/ja_打ち合わせ.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "市役所",
+   "ボート",
+   "ベンチ"
+  ],
+  "example": {
+   "t": "明日、三時に打ち合わせがあります。",
+   "zh": "明天三点有个碰头会。"
+  }
+ },
+ {
+  "id": "ja_携帯電話",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 15,
+  "lemma": "携帯電話",
+  "kana": "けいたいでんわ",
+  "kanji": "携帯電話",
+  "romaji": "keitaidenwa",
+  "pos": "名",
+  "pron": "[keitaidenwa]",
+  "meaning_zh": "手机",
+  "audio": "audio/ja/ja_携帯電話.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "ベンチ",
+   "市役所",
+   "ボート"
+  ],
+  "example": {
+   "t": "携帯電話を家に忘れました。",
+   "zh": "把手机忘在家里了。"
+  }
+ },
+ {
+  "id": "ja_撮影禁止",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 15,
+  "lemma": "撮影禁止",
+  "kana": "さつえいきんし",
+  "kanji": "撮影禁止",
+  "romaji": "satsueikinshi",
+  "pos": "名",
+  "pron": "[satsueikinshi]",
+  "meaning_zh": "禁止拍照",
+  "audio": "audio/ja/ja_撮影禁止.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "ベンチ",
+   "市役所",
+   "ボート"
+  ],
+  "example": {
+   "t": "この建物は撮影禁止です。",
+   "zh": "这栋建筑禁止拍照。"
+  }
+ },
+ {
+  "id": "ja_歌います",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 15,
+  "lemma": "歌います",
+  "kana": "うたいます",
+  "kanji": "歌います",
+  "romaji": "utaimasu",
+  "pos": "动1",
+  "pron": "[utaimasu]",
+  "meaning_zh": "唱,歌唱",
+  "audio": "audio/ja/ja_歌います.ogg",
+  "tags": [
+   "core",
+   "verb"
+  ],
+  "distractors": [
+   "座ります",
+   "乗ります",
+   "使います"
+  ],
+  "example": {
+   "t": "彼女は日本語の歌を歌います。",
+   "zh": "她唱日语歌。"
+  }
+ },
+ {
+  "id": "ja_止めます",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 15,
+  "lemma": "止めます",
+  "kana": "とめます",
+  "kanji": "止めます",
+  "romaji": "tomemasu",
+  "pos": "动2",
+  "pron": "[tomemasu]",
+  "meaning_zh": "停,制止",
+  "audio": "audio/ja/ja_止めます.ogg",
+  "tags": [
+   "core",
+   "verb"
+  ],
+  "distractors": [
+   "ボート",
+   "ベンチ",
+   "伝えます"
+  ],
+  "example": {
+   "t": "ここに車を止めないでください。",
+   "zh": "请不要在这里停车。"
+  }
+ },
+ {
+  "id": "ja_気",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 15,
+  "lemma": "気",
+  "kana": "き",
+  "kanji": "気",
+  "romaji": "ki",
+  "pos": "名",
+  "pron": "[ki]",
+  "meaning_zh": "精神,意识",
+  "audio": "audio/ja/ja_気.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "ベンチ",
+   "市役所",
+   "ボート"
+  ],
+  "example": {
+   "t": "少し休んで、気が楽になりました。",
+   "zh": "休息了一下，心情轻松了。"
+  }
+ },
+ {
+  "id": "ja_気をつけます",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 15,
+  "lemma": "気をつけます",
+  "kana": "きをつけます",
+  "kanji": "気をつけます",
+  "romaji": "kiotsukemasu",
+  "pos": "短语",
+  "pron": "[kiotsukemasu]",
+  "meaning_zh": "注意",
+  "audio": "audio/ja/ja_気をつけます.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "かまいません",
+   "お大事に",
+   "いけません"
+  ],
+  "example": {
+   "t": "車に気をつけます。",
+   "zh": "注意车辆。"
+  }
+ },
+ {
+  "id": "ja_温かい",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 15,
+  "lemma": "温かい",
+  "kana": "あたたかい",
+  "kanji": "温かい",
+  "romaji": "atatakai",
+  "pos": "形1",
+  "pron": "[atatakai]",
+  "meaning_zh": "热乎,温暖",
+  "audio": "audio/ja/ja_温かい.ogg",
+  "tags": [
+   "core",
+   "adj"
+  ],
+  "distractors": [
+   "市役所",
+   "ボート",
+   "ベンチ"
+  ],
+  "example": {
+   "t": "温かいお茶を飲みました。",
+   "zh": "喝了热茶。"
+  }
+ },
+ {
+  "id": "ja_火",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 15,
+  "lemma": "火",
+  "kana": "ひ",
+  "kanji": "火",
+  "romaji": "hi",
+  "pos": "名",
+  "pron": "[hi]",
+  "meaning_zh": "火",
+  "audio": "audio/ja/ja_火.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "ボート",
+   "ベンチ",
+   "市役所"
+  ],
+  "example": {
+   "t": "台所で火を使います。",
+   "zh": "在厨房用火。"
+  }
+ },
+ {
+  "id": "ja_火気厳禁",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 15,
+  "lemma": "火気厳禁",
+  "kana": "かきげんきん",
+  "kanji": "火気厳禁",
+  "romaji": "kakigenkin",
+  "pos": "名",
+  "pron": "[kakigenkin]",
+  "meaning_zh": "严禁烟火",
+  "audio": "audio/ja/ja_火気厳禁.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "ボート",
+   "ベンチ",
+   "市役所"
+  ],
+  "example": {
+   "t": "この倉庫は火気厳禁です。",
+   "zh": "这个仓库严禁烟火。"
+  }
+ },
+ {
+  "id": "ja_無理",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 15,
+  "lemma": "無理",
+  "kana": "むり",
+  "kanji": "無理",
+  "romaji": "muri",
+  "pos": "名",
+  "pron": "[muri]",
+  "meaning_zh": "勉强,难以办到",
+  "audio": "audio/ja/ja_無理.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "ボート",
+   "ベンチ",
+   "市役所"
+  ],
+  "example": {
+   "t": "一日で全部覚えるのは無理です。",
+   "zh": "一天之内全部记住是不可能的。"
+  }
+ },
+ {
+  "id": "ja_無理をします",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 15,
+  "lemma": "無理をします",
+  "kana": "むりをします",
+  "kanji": "無理をします",
+  "romaji": "murioshimasu",
+  "pos": "短语",
+  "pron": "[murioshimasu]",
+  "meaning_zh": "勉强",
+  "audio": "audio/ja/ja_無理をします.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "お大事に",
+   "いけません",
+   "かまいません"
+  ],
+  "example": {
+   "t": "無理をしないでください。",
+   "zh": "请不要勉强自己。"
+  }
+ },
+ {
+  "id": "ja_熱",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 15,
+  "lemma": "熱",
+  "kana": "ねつ",
+  "kanji": "熱",
+  "romaji": "netsu",
+  "pos": "名",
+  "pron": "[netsu]",
+  "meaning_zh": "发烧,体温",
+  "audio": "audio/ja/ja_熱.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "ベンチ",
+   "市役所",
+   "ボート"
+  ],
+  "example": {
+   "t": "熱があって、頭が痛いです。",
+   "zh": "发烧了，头很痛。"
+  }
+ },
+ {
+  "id": "ja_申します",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 15,
+  "lemma": "申します",
+  "kana": "もうします",
+  "kanji": "申します",
+  "romaji": "moushimasu",
+  "pos": "动1",
+  "pron": "[moushimasu]",
+  "meaning_zh": "是,说,讲,告诉",
+  "audio": "audio/ja/ja_申します.ogg",
+  "tags": [
+   "core",
+   "verb"
+  ],
+  "distractors": [
+   "乗ります",
+   "使います",
+   "座ります"
+  ],
+  "example": {
+   "t": "私は王と申します。",
+   "zh": "我叫小王。"
+  }
+ },
+ {
+  "id": "ja_睡眠",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 15,
+  "lemma": "睡眠",
+  "kana": "すいみん",
+  "kanji": "睡眠",
+  "romaji": "suimin",
+  "pos": "名",
+  "pron": "[suimin]",
+  "meaning_zh": "睡眠",
+  "audio": "audio/ja/ja_睡眠.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "市役所",
+   "ボート",
+   "ベンチ"
+  ],
+  "example": {
+   "t": "睡眠が足りません。",
+   "zh": "睡眠不足。"
+  }
+ },
+ {
+  "id": "ja_睡眠をとります",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 15,
+  "lemma": "睡眠をとります",
+  "kana": "すいみんをとります",
+  "kanji": "睡眠をとります",
+  "romaji": "suiminotorimasu",
+  "pos": "短语",
+  "pron": "[suiminotorimasu]",
+  "meaning_zh": "睡觉",
+  "audio": "audio/ja/ja_睡眠をとります.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "いけません",
+   "かまいません",
+   "お大事に"
+  ],
+  "example": {
+   "t": "毎日八時間ぐらい睡眠をとります。",
+   "zh": "每天睡八个小时左右。"
+  }
+ },
+ {
+  "id": "ja_禁煙",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 15,
+  "lemma": "禁煙",
+  "kana": "きんえん",
+  "kanji": "禁煙",
+  "romaji": "kin'en",
+  "pos": "名",
+  "pron": "[kin'en]",
+  "meaning_zh": "禁止吸烟",
+  "audio": "audio/ja/ja_禁煙.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "市役所",
+   "ボート",
+   "ベンチ"
+  ],
+  "example": {
+   "t": "ここは禁煙です。",
+   "zh": "这里禁止吸烟。"
+  }
+ },
+ {
+  "id": "ja_立入禁止",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 15,
+  "lemma": "立入禁止",
+  "kana": "たちいりきんし",
+  "kanji": "立入禁止",
+  "romaji": "tachiirikinshi",
+  "pos": "名",
+  "pron": "[tachiirikinshi]",
+  "meaning_zh": "禁止进入",
+  "audio": "audio/ja/ja_立入禁止.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "市役所",
+   "ボート",
+   "ベンチ"
+  ],
+  "example": {
+   "t": "この部屋は立入禁止です。",
+   "zh": "这个房间禁止进入。"
+  }
+ },
+ {
+  "id": "ja_薬局",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 15,
+  "lemma": "薬局",
+  "kana": "やっきょく",
+  "kanji": "薬局",
+  "romaji": "yakkyoku",
+  "pos": "名",
+  "pron": "[yakkyoku]",
+  "meaning_zh": "药店",
+  "audio": "audio/ja/ja_薬局.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "ベンチ",
+   "市役所",
+   "ボート"
+  ],
+  "example": {
+   "t": "駅の近くに薬局があります。",
+   "zh": "车站附近有药店。"
+  }
+ },
+ {
+  "id": "ja_風邪",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 15,
+  "lemma": "風邪",
+  "kana": "かぜ",
+  "kanji": "風邪",
+  "romaji": "kaze",
+  "pos": "名",
+  "pron": "[kaze]",
+  "meaning_zh": "感冒",
+  "audio": "audio/ja/ja_風邪.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "ボート",
+   "ベンチ",
+   "市役所"
+  ],
+  "example": {
+   "t": "風邪を引きました。",
+   "zh": "感冒了。"
+  }
+ },
+ {
+  "id": "ja_駐車禁止",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 15,
+  "lemma": "駐車禁止",
+  "kana": "ちゅうしゃきんし",
+  "kanji": "駐車禁止",
+  "romaji": "chuushakinshi",
+  "pos": "名",
+  "pron": "[chuushakinshi]",
+  "meaning_zh": "禁止停车",
+  "audio": "audio/ja/ja_駐車禁止.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "ベンチ",
+   "市役所",
+   "ボート"
+  ],
+  "example": {
+   "t": "ここは駐車禁止です。",
+   "zh": "这里禁止停车。"
+  }
+ }
+]

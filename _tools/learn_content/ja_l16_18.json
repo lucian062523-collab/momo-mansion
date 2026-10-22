@@ -1,0 +1,3866 @@
+[
+ {
+  "id": "ja_IDカード",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "IDカード",
+  "kana": "アイディーカード",
+  "kanji": "IDカード",
+  "romaji": "aidiikaado",
+  "pos": "名",
+  "pron": "[aidiikaado]",
+  "meaning_zh": "身份证件",
+  "audio": "audio/ja/ja_IDカード.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "操作",
+   "機械",
+   "旅行会社"
+  ],
+  "example": {
+   "t": "入り口でIDカードを見せてください。",
+   "zh": "请在入口出示身份证件。"
+  }
+ },
+ {
+  "id": "ja_IT産業",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "IT産業",
+  "kana": "アイティーさんぎょう",
+  "kanji": "IT産業",
+  "romaji": "aitiisangyou",
+  "pos": "名",
+  "pron": "[aitiisangyou]",
+  "meaning_zh": "IT产业,信息技术产业",
+  "audio": "audio/ja/ja_IT産業.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "旅行会社",
+   "操作",
+   "機械"
+  ],
+  "example": {
+   "t": "兄はIT産業で働いています。",
+   "zh": "哥哥在IT产业工作。"
+  }
+ },
+ {
+  "id": "ja_すぐ",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "すぐ",
+  "kana": "すぐ",
+  "kanji": null,
+  "romaji": "sugu",
+  "pos": "副",
+  "pron": "[sugu]",
+  "meaning_zh": "马上,立即",
+  "audio": "audio/ja/ja_すぐ.ogg",
+  "tags": [
+   "core",
+   "adv"
+  ],
+  "distractors": [
+   "ずいぶん",
+   "操作",
+   "ちゃんと"
+  ],
+  "example": {
+   "t": "すぐ行きます。",
+   "zh": "我马上去。"
+  }
+ },
+ {
+  "id": "ja_ずいぶん",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "ずいぶん",
+  "kana": "ずいぶん",
+  "kanji": null,
+  "romaji": "zuibun",
+  "pos": "副",
+  "pron": "[zuibun]",
+  "meaning_zh": "相当,非常,很",
+  "audio": "audio/ja/ja_ずいぶん.ogg",
+  "tags": [
+   "core",
+   "adv"
+  ],
+  "distractors": [
+   "操作",
+   "ちゃんと",
+   "すぐ"
+  ],
+  "example": {
+   "t": "今日はずいぶん寒いですね。",
+   "zh": "今天相当冷啊。"
+  }
+ },
+ {
+  "id": "ja_ちゃんと",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "ちゃんと",
+  "kana": "ちゃんと",
+  "kanji": null,
+  "romaji": "chanto",
+  "pos": "副",
+  "pron": "[chanto]",
+  "meaning_zh": "好好地,的确,完全",
+  "audio": "audio/ja/ja_ちゃんと.ogg",
+  "tags": [
+   "core",
+   "adv"
+  ],
+  "distractors": [
+   "すぐ",
+   "ずいぶん",
+   "操作"
+  ],
+  "example": {
+   "t": "ちゃんと手を洗ってください。",
+   "zh": "请好好洗手。"
+  }
+ },
+ {
+  "id": "ja_ほら",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "ほら",
+  "kana": "ほら",
+  "kanji": null,
+  "romaji": "hora",
+  "pos": "叹",
+  "pron": "[hora]",
+  "meaning_zh": "你看,瞧,喂",
+  "audio": "audio/ja/ja_ほら.ogg",
+  "tags": [
+   "core",
+   "interj"
+  ],
+  "distractors": [
+   "操作",
+   "機械",
+   "旅行会社"
+  ],
+  "example": {
+   "t": "ほら、富士山が見えますよ。",
+   "zh": "你看，能看到富士山哦。"
+  }
+ },
+ {
+  "id": "ja_まじめ",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "まじめ",
+  "kana": "まじめ",
+  "kanji": null,
+  "romaji": "majime",
+  "pos": "形2",
+  "pron": "[majime]",
+  "meaning_zh": "认真;严肃",
+  "audio": "audio/ja/ja_まじめ.ogg",
+  "tags": [
+   "core",
+   "adj"
+  ],
+  "distractors": [
+   "ユニーク",
+   "安全",
+   "派手"
+  ],
+  "example": {
+   "t": "彼はまじめな学生です。",
+   "zh": "他是个认真的学生。"
+  }
+ },
+ {
+  "id": "ja_オーストラリア人",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "オーストラリア人",
+  "kana": "オーストラリアじん",
+  "kanji": "オーストラリア人",
+  "romaji": "oosutorariajin",
+  "pos": "名",
+  "pron": "[oosutorariajin]",
+  "meaning_zh": "澳大利亚人",
+  "audio": "audio/ja/ja_オーストラリア人.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "旅行会社",
+   "操作",
+   "機械"
+  ],
+  "example": {
+   "t": "田中さんの奥さんはオーストラリア人です。",
+   "zh": "田中的妻子是澳大利亚人。"
+  }
+ },
+ {
+  "id": "ja_クリスマスツリー",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "クリスマスツリー",
+  "kana": "クリスマスツリー",
+  "kanji": null,
+  "romaji": "kurisumasutsurii",
+  "pos": "名",
+  "pron": "[kurisumasutsurii]",
+  "meaning_zh": "圣诞树",
+  "audio": "audio/ja/ja_クリスマスツリー.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "機械",
+   "旅行会社",
+   "操作"
+  ],
+  "example": {
+   "t": "クリスマスツリーを買いました。",
+   "zh": "买了圣诞树。"
+  }
+ },
+ {
+  "id": "ja_サービス",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "サービス",
+  "kana": "サービス",
+  "kanji": null,
+  "romaji": "saabisu",
+  "pos": "名",
+  "pron": "[saabisu]",
+  "meaning_zh": "服务",
+  "audio": "audio/ja/ja_サービス.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "機械",
+   "旅行会社",
+   "操作"
+  ],
+  "example": {
+   "t": "この店はサービスがいいです。",
+   "zh": "这家店服务很好。"
+  }
+ },
+ {
+  "id": "ja_デザイン",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "デザイン",
+  "kana": "デザイン",
+  "kanji": null,
+  "romaji": "dezain",
+  "pos": "名",
+  "pron": "[dezain]",
+  "meaning_zh": "设计(图),(制作)图案",
+  "audio": "audio/ja/ja_デザイン.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "操作",
+   "機械",
+   "旅行会社"
+  ],
+  "example": {
+   "t": "このデザインがとても好きです。",
+   "zh": "我很喜欢这个设计。"
+  }
+ },
+ {
+  "id": "ja_ネクタイ",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "ネクタイ",
+  "kana": "ネクタイ",
+  "kanji": null,
+  "romaji": "nekutai",
+  "pos": "名",
+  "pron": "[nekutai]",
+  "meaning_zh": "领带",
+  "audio": "audio/ja/ja_ネクタイ.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "操作",
+   "機械",
+   "旅行会社"
+  ],
+  "example": {
+   "t": "新しいネクタイを買いました。",
+   "zh": "买了新领带。"
+  }
+ },
+ {
+  "id": "ja_ユニーク",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "ユニーク",
+  "kana": "ユニーク",
+  "kanji": null,
+  "romaji": "yuniiku",
+  "pos": "形2",
+  "pron": "[yuniiku]",
+  "meaning_zh": "独特,唯一",
+  "audio": "audio/ja/ja_ユニーク.ogg",
+  "tags": [
+   "core",
+   "adj"
+  ],
+  "distractors": [
+   "派手",
+   "地味",
+   "安全"
+  ],
+  "example": {
+   "t": "彼のデザインはユニークです。",
+   "zh": "他的设计很独特。"
+  }
+ },
+ {
+  "id": "ja_住みます",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "住みます",
+  "kana": "すみます",
+  "kanji": "住みます",
+  "romaji": "sumimasu",
+  "pos": "动1",
+  "pron": "[sumimasu]",
+  "meaning_zh": "住,居住",
+  "audio": "audio/ja/ja_住みます.ogg",
+  "tags": [
+   "core",
+   "verb"
+  ],
+  "distractors": [
+   "知ります",
+   "直します",
+   "持ちます"
+  ],
+  "example": {
+   "t": "私は東京に住んでいます。",
+   "zh": "我住在东京。"
+  }
+ },
+ {
+  "id": "ja_優しい",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "優しい",
+  "kana": "やさしい",
+  "kanji": "優しい",
+  "romaji": "yasashii",
+  "pos": "形1",
+  "pron": "[yasashii]",
+  "meaning_zh": "和蔼,温和,体贴",
+  "audio": "audio/ja/ja_優しい.ogg",
+  "tags": [
+   "core",
+   "adj"
+  ],
+  "distractors": [
+   "明るい",
+   "長い",
+   "短い"
+  ],
+  "example": {
+   "t": "母はとても優しいです。",
+   "zh": "母亲非常温柔。"
+  }
+ },
+ {
+  "id": "ja_入場料",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "入場料",
+  "kana": "にゅうじょうりょう",
+  "kanji": "入場料",
+  "romaji": "nyuujouryou",
+  "pos": "名",
+  "pron": "[nyuujouryou]",
+  "meaning_zh": "门票,进场费",
+  "audio": "audio/ja/ja_入場料.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "操作",
+   "機械",
+   "旅行会社"
+  ],
+  "example": {
+   "t": "この動物園の入場料は五百円です。",
+   "zh": "这个动物园的门票是五百日元。"
+  }
+ },
+ {
+  "id": "ja_厳重",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "厳重",
+  "kana": "げんじゅう",
+  "kanji": "厳重",
+  "romaji": "genjuu",
+  "pos": "形2",
+  "pron": "[genjuu]",
+  "meaning_zh": "森严;严格",
+  "audio": "audio/ja/ja_厳重.ogg",
+  "tags": [
+   "core",
+   "adj"
+  ],
+  "distractors": [
+   "派手",
+   "ユニーク",
+   "安全"
+  ],
+  "example": {
+   "t": "この建物は警備が厳重です。",
+   "zh": "这栋建筑物的警备很森严。"
+  }
+ },
+ {
+  "id": "ja_問題",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "問題",
+  "kana": "もんだい",
+  "kanji": "問題",
+  "romaji": "mondai",
+  "pos": "名",
+  "pron": "[mondai]",
+  "meaning_zh": "问题",
+  "audio": "audio/ja/ja_問題.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "旅行会社",
+   "操作",
+   "機械"
+  ],
+  "example": {
+   "t": "この問題は難しいです。",
+   "zh": "这个问题很难。"
+  }
+ },
+ {
+  "id": "ja_営業部",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "営業部",
+  "kana": "えいぎょうぶ",
+  "kanji": "営業部",
+  "romaji": "eigyoubu",
+  "pos": "名",
+  "pron": "[eigyoubu]",
+  "meaning_zh": "营业部",
+  "audio": "audio/ja/ja_営業部.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "機械",
+   "旅行会社",
+   "操作"
+  ],
+  "example": {
+   "t": "彼は営業部で働いています。",
+   "zh": "他在营业部工作。"
+  }
+ },
+ {
+  "id": "ja_地味",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "地味",
+  "kana": "じみ",
+  "kanji": "地味",
+  "romaji": "jimi",
+  "pos": "形2",
+  "pron": "[jimi]",
+  "meaning_zh": "朴素,质朴",
+  "audio": "audio/ja/ja_地味.ogg",
+  "tags": [
+   "core",
+   "adj"
+  ],
+  "distractors": [
+   "安全",
+   "派手",
+   "ユニーク"
+  ],
+  "example": {
+   "t": "この服は地味ですが、好きです。",
+   "zh": "这件衣服很朴素，但我喜欢。"
+  }
+ },
+ {
+  "id": "ja_大切",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "大切",
+  "kana": "たいせつ",
+  "kanji": "大切",
+  "romaji": "taisetsu",
+  "pos": "形2",
+  "pron": "[taisetsu]",
+  "meaning_zh": "重要,珍贵",
+  "audio": "audio/ja/ja_大切.ogg",
+  "tags": [
+   "core",
+   "adj"
+  ],
+  "distractors": [
+   "安全",
+   "派手",
+   "ユニーク"
+  ],
+  "example": {
+   "t": "家族はとても大切です。",
+   "zh": "家人非常重要。"
+  }
+ },
+ {
+  "id": "ja_天井",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "天井",
+  "kana": "てんじょう",
+  "kanji": "天井",
+  "romaji": "tenjou",
+  "pos": "名",
+  "pron": "[tenjou]",
+  "meaning_zh": "天棚",
+  "audio": "audio/ja/ja_天井.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "旅行会社",
+   "操作",
+   "機械"
+  ],
+  "example": {
+   "t": "この部屋は天井が高いですね。",
+   "zh": "这个房间天花板很高啊。"
+  }
+ },
+ {
+  "id": "ja_太い",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "太い",
+  "kana": "ふとい",
+  "kanji": "太い",
+  "romaji": "futoi",
+  "pos": "形1",
+  "pron": "[futoi]",
+  "meaning_zh": "粗,胖",
+  "audio": "audio/ja/ja_太い.ogg",
+  "tags": [
+   "core",
+   "adj"
+  ],
+  "distractors": [
+   "短い",
+   "明るい",
+   "長い"
+  ],
+  "example": {
+   "t": "この木はとても太いです。",
+   "zh": "这棵树非常粗。"
+  }
+ },
+ {
+  "id": "ja_子",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "子",
+  "kana": "こ",
+  "kanji": "子",
+  "romaji": "ko",
+  "pos": "名",
+  "pron": "[ko]",
+  "meaning_zh": "孩子",
+  "audio": "audio/ja/ja_子.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "機械",
+   "旅行会社",
+   "操作"
+  ],
+  "example": {
+   "t": "あの子はとても元気です。",
+   "zh": "那个孩子非常有精神。"
+  }
+ },
+ {
+  "id": "ja_安全",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "安全",
+  "kana": "あんぜん",
+  "kanji": "安全",
+  "romaji": "anzen",
+  "pos": "形2",
+  "pron": "[anzen]",
+  "meaning_zh": "安全",
+  "audio": "audio/ja/ja_安全.ogg",
+  "tags": [
+   "core",
+   "adj"
+  ],
+  "distractors": [
+   "地味",
+   "ユニーク",
+   "派手"
+  ],
+  "example": {
+   "t": "この町はとても安全です。",
+   "zh": "这个城镇非常安全。"
+  }
+ },
+ {
+  "id": "ja_安心します",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "安心します",
+  "kana": "あんしんします",
+  "kanji": "安心します",
+  "romaji": "anshinshimasu",
+  "pos": "动3",
+  "pron": "[anshinshimasu]",
+  "meaning_zh": "安心,放心",
+  "audio": "audio/ja/ja_安心します.ogg",
+  "tags": [
+   "core",
+   "verb"
+  ],
+  "distractors": [
+   "結婚します",
+   "操作",
+   "練習します"
+  ],
+  "example": {
+   "t": "無事だと聞いて安心しました。",
+   "zh": "听说平安无事，就放心了。"
+  }
+ },
+ {
+  "id": "ja_展示場",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "展示場",
+  "kana": "てんじじょう",
+  "kanji": "展示場",
+  "romaji": "tenjijou",
+  "pos": "名",
+  "pron": "[tenjijou]",
+  "meaning_zh": "展览会场",
+  "audio": "audio/ja/ja_展示場.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "旅行会社",
+   "操作",
+   "機械"
+  ],
+  "example": {
+   "t": "新しい展示場へ行きました。",
+   "zh": "去了新的展览会场。"
+  }
+ },
+ {
+  "id": "ja_布",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "布",
+  "kana": "ぬの",
+  "kanji": "布",
+  "romaji": "nuno",
+  "pos": "名",
+  "pron": "[nuno]",
+  "meaning_zh": "布,布匹",
+  "audio": "audio/ja/ja_布.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "操作",
+   "機械",
+   "旅行会社"
+  ],
+  "example": {
+   "t": "このかばんは布でできています。",
+   "zh": "这个包是用布做的。"
+  }
+ },
+ {
+  "id": "ja_広告",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "広告",
+  "kana": "こうこく",
+  "kanji": "広告",
+  "romaji": "koukoku",
+  "pos": "名",
+  "pron": "[koukoku]",
+  "meaning_zh": "广告",
+  "audio": "audio/ja/ja_広告.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "操作",
+   "機械",
+   "旅行会社"
+  ],
+  "example": {
+   "t": "新聞で広告を見ました。",
+   "zh": "在报纸上看到了广告。"
+  }
+ },
+ {
+  "id": "ja_建築家",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "建築家",
+  "kana": "けんちくか",
+  "kanji": "建築家",
+  "romaji": "kenchikuka",
+  "pos": "名",
+  "pron": "[kenchikuka]",
+  "meaning_zh": "建筑师",
+  "audio": "audio/ja/ja_建築家.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "機械",
+   "旅行会社",
+   "操作"
+  ],
+  "example": {
+   "t": "彼は有名な建築家です。",
+   "zh": "他是有名的建筑师。"
+  }
+ },
+ {
+  "id": "ja_形",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "形",
+  "kana": "かたち",
+  "kanji": "形",
+  "romaji": "katachi",
+  "pos": "名",
+  "pron": "[katachi]",
+  "meaning_zh": "造型,形状,形式",
+  "audio": "audio/ja/ja_形.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "機械",
+   "旅行会社",
+   "操作"
+  ],
+  "example": {
+   "t": "この帽子の形が面白いです。",
+   "zh": "这顶帽子的形状很有趣。"
+  }
+ },
+ {
+  "id": "ja_持ちます",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "持ちます",
+  "kana": "もちます",
+  "kanji": "持ちます",
+  "romaji": "mochimasu",
+  "pos": "动1",
+  "pron": "[mochimasu]",
+  "meaning_zh": "有,拥有,持有",
+  "audio": "audio/ja/ja_持ちます.ogg",
+  "tags": [
+   "core",
+   "verb"
+  ],
+  "distractors": [
+   "住みます",
+   "知ります",
+   "直します"
+  ],
+  "example": {
+   "t": "私は大きいかばんを持っています。",
+   "zh": "我拿着一个大包。"
+  }
+ },
+ {
+  "id": "ja_指",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "指",
+  "kana": "ゆび",
+  "kanji": "指",
+  "romaji": "yubi",
+  "pos": "名",
+  "pron": "[yubi]",
+  "meaning_zh": "手指,指头",
+  "audio": "audio/ja/ja_指.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "機械",
+   "旅行会社",
+   "操作"
+  ],
+  "example": {
+   "t": "指をけがしました。",
+   "zh": "手指受伤了。"
+  }
+ },
+ {
+  "id": "ja_操作",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "操作",
+  "kana": "そうさ",
+  "kanji": "操作",
+  "romaji": "sousa",
+  "pos": "名",
+  "pron": "[sousa]",
+  "meaning_zh": "操作,操纵",
+  "audio": "audio/ja/ja_操作.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "機械",
+   "旅行会社",
+   "航空会社"
+  ],
+  "example": {
+   "t": "この機械の操作は簡単です。",
+   "zh": "这台机器的操作很简单。"
+  }
+ },
+ {
+  "id": "ja_旅行会社",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "旅行会社",
+  "kana": "りょこうがいしゃ",
+  "kanji": "旅行会社",
+  "romaji": "ryokougaisha",
+  "pos": "名",
+  "pron": "[ryokougaisha]",
+  "meaning_zh": "旅行社",
+  "audio": "audio/ja/ja_旅行会社.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "航空会社",
+   "操作",
+   "機械"
+  ],
+  "example": {
+   "t": "旅行会社でチケットを買いました。",
+   "zh": "在旅行社买了票。"
+  }
+ },
+ {
+  "id": "ja_日中電気",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "日中電気",
+  "kana": "にっちゅうでんき",
+  "kanji": "日中電気",
+  "romaji": "nitchuudenki",
+  "pos": "专",
+  "pron": "[nitchuudenki]",
+  "meaning_zh": "日中电器",
+  "audio": "audio/ja/ja_日中電気.ogg",
+  "tags": [
+   "core",
+   "name"
+  ],
+  "distractors": [
+   "機械",
+   "旅行会社",
+   "操作"
+  ],
+  "example": {
+   "t": "父は日中電気で働いています。",
+   "zh": "父亲在日中电器工作。"
+  }
+ },
+ {
+  "id": "ja_明るい",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "明るい",
+  "kana": "あかるい",
+  "kanji": "明るい",
+  "romaji": "akarui",
+  "pos": "形1",
+  "pron": "[akarui]",
+  "meaning_zh": "明亮,开朗",
+  "audio": "audio/ja/ja_明るい.ogg",
+  "tags": [
+   "core",
+   "adj"
+  ],
+  "distractors": [
+   "軽い",
+   "長い",
+   "短い"
+  ],
+  "example": {
+   "t": "この部屋は明るいです。",
+   "zh": "这个房间很明亮。"
+  }
+ },
+ {
+  "id": "ja_最新",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "最新",
+  "kana": "さいしん",
+  "kanji": "最新",
+  "romaji": "saishin",
+  "pos": "名",
+  "pron": "[saishin]",
+  "meaning_zh": "最新",
+  "audio": "audio/ja/ja_最新.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "旅行会社",
+   "操作",
+   "機械"
+  ],
+  "example": {
+   "t": "これは最新の機械です。",
+   "zh": "这是最新的机器。"
+  }
+ },
+ {
+  "id": "ja_横",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "横",
+  "kana": "よこ",
+  "kanji": "横",
+  "romaji": "yoko",
+  "pos": "名",
+  "pron": "[yoko]",
+  "meaning_zh": "旁边,侧面",
+  "audio": "audio/ja/ja_横.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "旅行会社",
+   "操作",
+   "機械"
+  ],
+  "example": {
+   "t": "駅の横に銀行があります。",
+   "zh": "车站旁边有银行。"
+  }
+ },
+ {
+  "id": "ja_機械",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "機械",
+  "kana": "きかい",
+  "kanji": "機械",
+  "romaji": "kikai",
+  "pos": "名",
+  "pron": "[kikai]",
+  "meaning_zh": "机械,机器",
+  "audio": "audio/ja/ja_機械.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "旅行会社",
+   "航空会社",
+   "操作"
+  ],
+  "example": {
+   "t": "工場に機械がたくさんあります。",
+   "zh": "工厂里有很多机器。"
+  }
+ },
+ {
+  "id": "ja_水筒",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "水筒",
+  "kana": "すいとう",
+  "kanji": "水筒",
+  "romaji": "suitou",
+  "pos": "名",
+  "pron": "[suitou]",
+  "meaning_zh": "水壶,水筒",
+  "audio": "audio/ja/ja_水筒.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "機械",
+   "旅行会社",
+   "操作"
+  ],
+  "example": {
+   "t": "水筒にお茶を入れました。",
+   "zh": "往水壶里装了茶。"
+  }
+ },
+ {
+  "id": "ja_派手",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "派手",
+  "kana": "はで",
+  "kanji": "派手",
+  "romaji": "hade",
+  "pos": "形2",
+  "pron": "[hade]",
+  "meaning_zh": "耀眼,花哨",
+  "audio": "audio/ja/ja_派手.ogg",
+  "tags": [
+   "core",
+   "adj"
+  ],
+  "distractors": [
+   "ユニーク",
+   "安全",
+   "地味"
+  ],
+  "example": {
+   "t": "このシャツは派手ですね。",
+   "zh": "这件衬衫很花哨啊。"
+  }
+ },
+ {
+  "id": "ja_片づけます",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "片づけます",
+  "kana": "かたづけます",
+  "kanji": "片づけます",
+  "romaji": "katazukemasu",
+  "pos": "动2",
+  "pron": "[katazukemasu]",
+  "meaning_zh": "收拾,整理",
+  "audio": "audio/ja/ja_片づけます.ogg",
+  "tags": [
+   "core",
+   "verb"
+  ],
+  "distractors": [
+   "機械",
+   "旅行会社",
+   "操作"
+  ],
+  "example": {
+   "t": "部屋を片づけました。",
+   "zh": "收拾了房间。"
+  }
+ },
+ {
+  "id": "ja_皆さん",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "皆さん",
+  "kana": "みなさん",
+  "kanji": "皆さん",
+  "romaji": "minasan",
+  "pos": "名",
+  "pron": "[minasan]",
+  "meaning_zh": "大家,诸位",
+  "audio": "audio/ja/ja_皆さん.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "操作",
+   "機械",
+   "旅行会社"
+  ],
+  "example": {
+   "t": "皆さん、おはようございます。",
+   "zh": "大家早上好。"
+  }
+ },
+ {
+  "id": "ja_目",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "目",
+  "kana": "め",
+  "kanji": "目",
+  "romaji": "me",
+  "pos": "名",
+  "pron": "[me]",
+  "meaning_zh": "眼,眼睛",
+  "audio": "audio/ja/ja_目.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "旅行会社",
+   "操作",
+   "機械"
+  ],
+  "example": {
+   "t": "彼女は目が大きいです。",
+   "zh": "她眼睛很大。"
+  }
+ },
+ {
+  "id": "ja_直します",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "直します",
+  "kana": "なおします",
+  "kanji": "直します",
+  "romaji": "naoshimasu",
+  "pos": "动1",
+  "pron": "[naoshimasu]",
+  "meaning_zh": "改,修改,改正",
+  "audio": "audio/ja/ja_直します.ogg",
+  "tags": [
+   "core",
+   "verb"
+  ],
+  "distractors": [
+   "持ちます",
+   "住みます",
+   "知ります"
+  ],
+  "example": {
+   "t": "間違いを直しました。",
+   "zh": "改正了错误。"
+  }
+ },
+ {
+  "id": "ja_看板",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "看板",
+  "kana": "かんばん",
+  "kanji": "看板",
+  "romaji": "kanban",
+  "pos": "名",
+  "pron": "[kanban]",
+  "meaning_zh": "牌子",
+  "audio": "audio/ja/ja_看板.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "機械",
+   "旅行会社",
+   "操作"
+  ],
+  "example": {
+   "t": "店の看板が見えません。",
+   "zh": "看不见店的招牌。"
+  }
+ },
+ {
+  "id": "ja_知ります",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "知ります",
+  "kana": "しります",
+  "kanji": "知ります",
+  "romaji": "shirimasu",
+  "pos": "动1",
+  "pron": "[shirimasu]",
+  "meaning_zh": "认识,知道,了解",
+  "audio": "audio/ja/ja_知ります.ogg",
+  "tags": [
+   "core",
+   "verb"
+  ],
+  "distractors": [
+   "直します",
+   "持ちます",
+   "住みます"
+  ],
+  "example": {
+   "t": "彼の名前を知っています。",
+   "zh": "我知道他的名字。"
+  }
+ },
+ {
+  "id": "ja_短い",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "短い",
+  "kana": "みじかい",
+  "kanji": "短い",
+  "romaji": "mijikai",
+  "pos": "形1",
+  "pron": "[mijikai]",
+  "meaning_zh": "短,短暂",
+  "audio": "audio/ja/ja_短い.ogg",
+  "tags": [
+   "core",
+   "adj"
+  ],
+  "distractors": [
+   "長い",
+   "軽い",
+   "明るい"
+  ],
+  "example": {
+   "t": "このスカートは短いです。",
+   "zh": "这条裙子很短。"
+  }
+ },
+ {
+  "id": "ja_細い",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "細い",
+  "kana": "ほそい",
+  "kanji": "細い",
+  "romaji": "hosoi",
+  "pos": "形1",
+  "pron": "[hosoi]",
+  "meaning_zh": "小,细长,纤细",
+  "audio": "audio/ja/ja_細い.ogg",
+  "tags": [
+   "core",
+   "adj"
+  ],
+  "distractors": [
+   "長い",
+   "短い",
+   "明るい"
+  ],
+  "example": {
+   "t": "彼女は指が細いです。",
+   "zh": "她的手指很细。"
+  }
+ },
+ {
+  "id": "ja_結婚します",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "結婚します",
+  "kana": "けっこんします",
+  "kanji": "結婚します",
+  "romaji": "kekkonshimasu",
+  "pos": "动3",
+  "pron": "[kekkonshimasu]",
+  "meaning_zh": "结婚",
+  "audio": "audio/ja/ja_結婚します.ogg",
+  "tags": [
+   "core",
+   "verb"
+  ],
+  "distractors": [
+   "練習します",
+   "安心します",
+   "操作"
+  ],
+  "example": {
+   "t": "姉は去年結婚しました。",
+   "zh": "姐姐去年结婚了。"
+  }
+ },
+ {
+  "id": "ja_緑",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "緑",
+  "kana": "みどり",
+  "kanji": "緑",
+  "romaji": "midori",
+  "pos": "名",
+  "pron": "[midori]",
+  "meaning_zh": "绿,绿色",
+  "audio": "audio/ja/ja_緑.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "旅行会社",
+   "操作",
+   "機械"
+  ],
+  "example": {
+   "t": "山の緑がきれいです。",
+   "zh": "山上的绿色很美。"
+  }
+ },
+ {
+  "id": "ja_練習します",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "練習します",
+  "kana": "れんしゅうします",
+  "kanji": "練習します",
+  "romaji": "renshuushimasu",
+  "pos": "动3",
+  "pron": "[renshuushimasu]",
+  "meaning_zh": "练习",
+  "audio": "audio/ja/ja_練習します.ogg",
+  "tags": [
+   "core",
+   "verb"
+  ],
+  "distractors": [
+   "操作",
+   "結婚します",
+   "安心します"
+  ],
+  "example": {
+   "t": "毎日ピアノを練習します。",
+   "zh": "每天练习钢琴。"
+  }
+ },
+ {
+  "id": "ja_航空会社",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "航空会社",
+  "kana": "こうくうがいしゃ",
+  "kanji": "航空会社",
+  "romaji": "koukuugaisha",
+  "pos": "名",
+  "pron": "[koukuugaisha]",
+  "meaning_zh": "航空公司",
+  "audio": "audio/ja/ja_航空会社.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "操作",
+   "機械",
+   "旅行会社"
+  ],
+  "example": {
+   "t": "姉は航空会社で働いています。",
+   "zh": "姐姐在航空公司工作。"
+  }
+ },
+ {
+  "id": "ja_製品",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "製品",
+  "kana": "せいひん",
+  "kanji": "製品",
+  "romaji": "seihin",
+  "pos": "名",
+  "pron": "[seihin]",
+  "meaning_zh": "产品",
+  "audio": "audio/ja/ja_製品.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "操作",
+   "機械",
+   "旅行会社"
+  ],
+  "example": {
+   "t": "この製品は日本製です。",
+   "zh": "这个产品是日本制造的。"
+  }
+ },
+ {
+  "id": "ja_複雑",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "複雑",
+  "kana": "ふくざつ",
+  "kanji": "複雑",
+  "romaji": "fukuzatsu",
+  "pos": "形2",
+  "pron": "[fukuzatsu]",
+  "meaning_zh": "复杂,繁杂",
+  "audio": "audio/ja/ja_複雑.ogg",
+  "tags": [
+   "core",
+   "adj"
+  ],
+  "distractors": [
+   "派手",
+   "ユニーク",
+   "安全"
+  ],
+  "example": {
+   "t": "この問題は複雑です。",
+   "zh": "这个问题很复杂。"
+  }
+ },
+ {
+  "id": "ja_設計",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "設計",
+  "kana": "せっけい",
+  "kanji": "設計",
+  "romaji": "sekkei",
+  "pos": "名",
+  "pron": "[sekkei]",
+  "meaning_zh": "设计",
+  "audio": "audio/ja/ja_設計.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "旅行会社",
+   "操作",
+   "機械"
+  ],
+  "example": {
+   "t": "この建物の設計は有名です。",
+   "zh": "这栋建筑的设计很有名。"
+  }
+ },
+ {
+  "id": "ja_警備",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "警備",
+  "kana": "けいび",
+  "kanji": "警備",
+  "romaji": "keibi",
+  "pos": "名",
+  "pron": "[keibi]",
+  "meaning_zh": "戒备,警备",
+  "audio": "audio/ja/ja_警備.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "操作",
+   "機械",
+   "旅行会社"
+  ],
+  "example": {
+   "t": "この店は警備が厳重です。",
+   "zh": "这家店警备森严。"
+  }
+ },
+ {
+  "id": "ja_財布",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "財布",
+  "kana": "さいふ",
+  "kanji": "財布",
+  "romaji": "saifu",
+  "pos": "名",
+  "pron": "[saifu]",
+  "meaning_zh": "钱包",
+  "audio": "audio/ja/ja_財布.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "機械",
+   "旅行会社",
+   "操作"
+  ],
+  "example": {
+   "t": "財布をなくしました。",
+   "zh": "把钱包弄丢了。"
+  }
+ },
+ {
+  "id": "ja_足",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "足",
+  "kana": "あし",
+  "kanji": "足",
+  "romaji": "ashi",
+  "pos": "名",
+  "pron": "[ashi]",
+  "meaning_zh": "脚",
+  "audio": "audio/ja/ja_足.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "操作",
+   "機械",
+   "旅行会社"
+  ],
+  "example": {
+   "t": "走ったので足が痛いです。",
+   "zh": "因为跑了步，所以脚很痛。"
+  }
+ },
+ {
+  "id": "ja_軽い",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "軽い",
+  "kana": "かるい",
+  "kanji": "軽い",
+  "romaji": "karui",
+  "pos": "形1",
+  "pron": "[karui]",
+  "meaning_zh": "轻巧,轻,轻松,轻微",
+  "audio": "audio/ja/ja_軽い.ogg",
+  "tags": [
+   "core",
+   "adj"
+  ],
+  "distractors": [
+   "短い",
+   "明るい",
+   "長い"
+  ],
+  "example": {
+   "t": "このかばんは軽いです。",
+   "zh": "这个包很轻。"
+  }
+ },
+ {
+  "id": "ja_長い",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "長い",
+  "kana": "ながい",
+  "kanji": "長い",
+  "romaji": "nagai",
+  "pos": "形1",
+  "pron": "[nagai]",
+  "meaning_zh": "长,长久,长远",
+  "audio": "audio/ja/ja_長い.ogg",
+  "tags": [
+   "core",
+   "adj"
+  ],
+  "distractors": [
+   "明るい",
+   "短い",
+   "軽い"
+  ],
+  "example": {
+   "t": "彼女の髪は長いです。",
+   "zh": "她的头发很长。"
+  }
+ },
+ {
+  "id": "ja_間違い",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "間違い",
+  "kana": "まちがい",
+  "kanji": "間違い",
+  "romaji": "machigai",
+  "pos": "名",
+  "pron": "[machigai]",
+  "meaning_zh": "错误,失误",
+  "audio": "audio/ja/ja_間違い.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "機械",
+   "旅行会社",
+   "操作"
+  ],
+  "example": {
+   "t": "この文に間違いがあります。",
+   "zh": "这个句子里有错误。"
+  }
+ },
+ {
+  "id": "ja_革",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "革",
+  "kana": "かわ",
+  "kanji": "革",
+  "romaji": "kawa",
+  "pos": "名",
+  "pron": "[kawa]",
+  "meaning_zh": "革,皮革",
+  "audio": "audio/ja/ja_革.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "旅行会社",
+   "操作",
+   "機械"
+  ],
+  "example": {
+   "t": "革の靴を買いました。",
+   "zh": "买了皮鞋。"
+  }
+ },
+ {
+  "id": "ja_頭",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "頭",
+  "kana": "あたま",
+  "kanji": "頭",
+  "romaji": "atama",
+  "pos": "名",
+  "pron": "[atama]",
+  "meaning_zh": "头,头脑",
+  "audio": "audio/ja/ja_頭.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "旅行会社",
+   "操作",
+   "機械"
+  ],
+  "example": {
+   "t": "今朝から頭が痛いです。",
+   "zh": "从今天早上起头很痛。"
+  }
+ },
+ {
+  "id": "ja_頭がいい",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "頭がいい",
+  "kana": "あたまがいい",
+  "kanji": "頭がいい",
+  "romaji": "atamagaii",
+  "pos": "短语",
+  "pron": "[atamagaii]",
+  "meaning_zh": "脑子好,聪明",
+  "audio": "audio/ja/ja_頭がいい.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "～費",
+   "～製",
+   "～料"
+  ],
+  "example": {
+   "t": "彼は頭がいいです。",
+   "zh": "他很聪明。"
+  }
+ },
+ {
+  "id": "ja_顔",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "顔",
+  "kana": "かお",
+  "kanji": "顔",
+  "romaji": "kao",
+  "pos": "名",
+  "pron": "[kao]",
+  "meaning_zh": "脸,颜面",
+  "audio": "audio/ja/ja_顔.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "機械",
+   "旅行会社",
+   "操作"
+  ],
+  "example": {
+   "t": "彼女は顔がきれいです。",
+   "zh": "她的脸很漂亮。"
+  }
+ },
+ {
+  "id": "ja_黒い",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "黒い",
+  "kana": "くろい",
+  "kanji": "黒い",
+  "romaji": "kuroi",
+  "pos": "形1",
+  "pron": "[kuroi]",
+  "meaning_zh": "黑,黑色",
+  "audio": "audio/ja/ja_黒い.ogg",
+  "tags": [
+   "core",
+   "adj"
+  ],
+  "distractors": [
+   "明るい",
+   "長い",
+   "短い"
+  ],
+  "example": {
+   "t": "黒いかばんを買いました。",
+   "zh": "买了黑色的包。"
+  }
+ },
+ {
+  "id": "ja_鼻",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "鼻",
+  "kana": "はな",
+  "kanji": "鼻",
+  "romaji": "hana",
+  "pos": "名",
+  "pron": "[hana]",
+  "meaning_zh": "鼻,鼻子",
+  "audio": "audio/ja/ja_鼻.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "操作",
+   "機械",
+   "旅行会社"
+  ],
+  "example": {
+   "t": "象の鼻は長いです。",
+   "zh": "大象的鼻子很长。"
+  }
+ },
+ {
+  "id": "ja_～代",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "～代",
+  "kana": "だい",
+  "kanji": "～代",
+  "romaji": "dai",
+  "pos": "短语",
+  "pron": "[dai]",
+  "meaning_zh": "…费",
+  "audio": "audio/ja/ja_～代.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "頭がいい",
+   "～製",
+   "～料"
+  ],
+  "example": {
+   "t": "電気代が高くなりました。",
+   "zh": "电费变贵了。"
+  }
+ },
+ {
+  "id": "ja_～料",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "～料",
+  "kana": "りょう",
+  "kanji": "～料",
+  "romaji": "ryou",
+  "pos": "短语",
+  "pron": "[ryou]",
+  "meaning_zh": "…费；材料费",
+  "audio": "audio/ja/ja_～料.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "～製",
+   "～費",
+   "頭がいい"
+  ],
+  "example": {
+   "t": "入場料を払いました。",
+   "zh": "付了入场费。"
+  }
+ },
+ {
+  "id": "ja_～製",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "～製",
+  "kana": "せい",
+  "kanji": "～製",
+  "romaji": "sei",
+  "pos": "短语",
+  "pron": "[sei]",
+  "meaning_zh": "…制造",
+  "audio": "audio/ja/ja_～製.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "頭がいい",
+   "～料",
+   "～費"
+  ],
+  "example": {
+   "t": "これは中国製のパソコンです。",
+   "zh": "这是中国制造的电脑。"
+  }
+ },
+ {
+  "id": "ja_～費",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 16,
+  "lemma": "～費",
+  "kana": "ひ",
+  "kanji": "～費",
+  "romaji": "hi",
+  "pos": "短语",
+  "pron": "[hi]",
+  "meaning_zh": "…费用",
+  "audio": "audio/ja/ja_～費.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "～料",
+   "頭がいい",
+   "～製"
+  ],
+  "example": {
+   "t": "交通費は会社が払います。",
+   "zh": "交通费由公司支付。"
+  }
+ },
+ {
+  "id": "ja_お汁粉",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 17,
+  "lemma": "お汁粉",
+  "kana": "おしるこ",
+  "kanji": "お汁粉",
+  "romaji": "oshiruko",
+  "pos": "名",
+  "pron": "[oshiruko]",
+  "meaning_zh": "年糕小豆汤",
+  "audio": "audio/ja/ja_お汁粉.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "ノートパソコン",
+   "洋服",
+   "セーター"
+  ],
+  "example": {
+   "t": "お正月にお汁粉を食べます。",
+   "zh": "过年时吃年糕小豆汤。"
+  }
+ },
+ {
+  "id": "ja_ぜひ",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 17,
+  "lemma": "ぜひ",
+  "kana": "ぜひ",
+  "kanji": null,
+  "romaji": "zehi",
+  "pos": "副",
+  "pron": "[zehi]",
+  "meaning_zh": "一定",
+  "audio": "audio/ja/ja_ぜひ.ogg",
+  "tags": [
+   "core",
+   "adv"
+  ],
+  "distractors": [
+   "そろそろ",
+   "まず",
+   "今度"
+  ],
+  "example": {
+   "t": "ぜひ一度来てください。",
+   "zh": "请一定要来一次。"
+  }
+ },
+ {
+  "id": "ja_そろそろ",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 17,
+  "lemma": "そろそろ",
+  "kana": "そろそろ",
+  "kanji": null,
+  "romaji": "sorosoro",
+  "pos": "副",
+  "pron": "[sorosoro]",
+  "meaning_zh": "快要",
+  "audio": "audio/ja/ja_そろそろ.ogg",
+  "tags": [
+   "core",
+   "adv"
+  ],
+  "distractors": [
+   "まず",
+   "今度",
+   "ぜひ"
+  ],
+  "example": {
+   "t": "そろそろ帰りましょう。",
+   "zh": "差不多该回去了。"
+  }
+ },
+ {
+  "id": "ja_まず",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 17,
+  "lemma": "まず",
+  "kana": "まず",
+  "kanji": null,
+  "romaji": "mazu",
+  "pos": "副",
+  "pron": "[mazu]",
+  "meaning_zh": "先,首先",
+  "audio": "audio/ja/ja_まず.ogg",
+  "tags": [
+   "core",
+   "adv"
+  ],
+  "distractors": [
+   "今度",
+   "ぜひ",
+   "そろそろ"
+  ],
+  "example": {
+   "t": "まず手を洗ってください。",
+   "zh": "请先洗手。"
+  }
+ },
+ {
+  "id": "ja_ショパン",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 17,
+  "lemma": "ショパン",
+  "kana": "ショパン",
+  "kanji": null,
+  "romaji": "shopan",
+  "pos": "专",
+  "pron": "[shopan]",
+  "meaning_zh": "肖邦",
+  "audio": "audio/ja/ja_ショパン.ogg",
+  "tags": [
+   "core",
+   "name"
+  ],
+  "distractors": [
+   "ヨーロッパ",
+   "ベートーベン",
+   "故宮"
+  ],
+  "example": {
+   "t": "ショパンの音楽が好きです。",
+   "zh": "我喜欢肖邦的音乐。"
+  }
+ },
+ {
+  "id": "ja_スイス",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 17,
+  "lemma": "スイス",
+  "kana": "スイス",
+  "kanji": null,
+  "romaji": "suisu",
+  "pos": "专",
+  "pron": "[suisu]",
+  "meaning_zh": "瑞士",
+  "audio": "audio/ja/ja_スイス.ogg",
+  "tags": [
+   "core",
+   "name"
+  ],
+  "distractors": [
+   "ベートーベン",
+   "ショパン",
+   "故宮"
+  ],
+  "example": {
+   "t": "スイスへ旅行に行きたいです。",
+   "zh": "想去瑞士旅行。"
+  }
+ },
+ {
+  "id": "ja_セーター",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 17,
+  "lemma": "セーター",
+  "kana": "セーター",
+  "kanji": null,
+  "romaji": "seetaa",
+  "pos": "名",
+  "pron": "[seetaa]",
+  "meaning_zh": "毛衣",
+  "audio": "audio/ja/ja_セーター.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "バイク",
+   "洋服",
+   "ノートパソコン"
+  ],
+  "example": {
+   "t": "寒いのでセーターを着ました。",
+   "zh": "因为冷，所以穿了毛衣。"
+  }
+ },
+ {
+  "id": "ja_ドラマ",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 17,
+  "lemma": "ドラマ",
+  "kana": "ドラマ",
+  "kanji": null,
+  "romaji": "dorama",
+  "pos": "名",
+  "pron": "[dorama]",
+  "meaning_zh": "连续剧",
+  "audio": "audio/ja/ja_ドラマ.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "セーター",
+   "ノートパソコン",
+   "洋服"
+  ],
+  "example": {
+   "t": "毎晩ドラマを見ます。",
+   "zh": "每天晚上看连续剧。"
+  }
+ },
+ {
+  "id": "ja_ノートパソコン",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 17,
+  "lemma": "ノートパソコン",
+  "kana": "ノートパソコン",
+  "kanji": null,
+  "romaji": "nootopasokon",
+  "pos": "名",
+  "pron": "[nootopasokon]",
+  "meaning_zh": "笔记本电脑",
+  "audio": "audio/ja/ja_ノートパソコン.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "洋服",
+   "セーター",
+   "バイク"
+  ],
+  "example": {
+   "t": "新しいノートパソコンを買いました。",
+   "zh": "买了新笔记本电脑。"
+  }
+ },
+ {
+  "id": "ja_バイク",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 17,
+  "lemma": "バイク",
+  "kana": "バイク",
+  "kanji": null,
+  "romaji": "baiku",
+  "pos": "名",
+  "pron": "[baiku]",
+  "meaning_zh": "摩托车",
+  "audio": "audio/ja/ja_バイク.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "セーター",
+   "ノートパソコン",
+   "洋服"
+  ],
+  "example": {
+   "t": "バイクで会社へ行きます。",
+   "zh": "骑摩托车去公司。"
+  }
+ },
+ {
+  "id": "ja_ベートーベン",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 17,
+  "lemma": "ベートーベン",
+  "kana": "ベートーベン",
+  "kanji": null,
+  "romaji": "beetooben",
+  "pos": "专",
+  "pron": "[beetooben]",
+  "meaning_zh": "贝多芬",
+  "audio": "audio/ja/ja_ベートーベン.ogg",
+  "tags": [
+   "core",
+   "name"
+  ],
+  "distractors": [
+   "故宮",
+   "ヨーロッパ",
+   "ショパン"
+  ],
+  "example": {
+   "t": "ベートーベンは有名な音楽家です。",
+   "zh": "贝多芬是有名的音乐家。"
+  }
+ },
+ {
+  "id": "ja_ヨーロッパ",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 17,
+  "lemma": "ヨーロッパ",
+  "kana": "ヨーロッパ",
+  "kanji": null,
+  "romaji": "yooroppa",
+  "pos": "专",
+  "pron": "[yooroppa]",
+  "meaning_zh": "欧洲",
+  "audio": "audio/ja/ja_ヨーロッパ.ogg",
+  "tags": [
+   "core",
+   "name"
+  ],
+  "distractors": [
+   "ショパン",
+   "故宮",
+   "ベートーベン"
+  ],
+  "example": {
+   "t": "夏にヨーロッパへ行きました。",
+   "zh": "夏天去了欧洲。"
+  }
+ },
+ {
+  "id": "ja_今度",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 17,
+  "lemma": "今度",
+  "kana": "こんど",
+  "kanji": "今度",
+  "romaji": "kondo",
+  "pos": "副",
+  "pron": "[kondo]",
+  "meaning_zh": "下次;这回",
+  "audio": "audio/ja/ja_今度.ogg",
+  "tags": [
+   "core",
+   "adv"
+  ],
+  "distractors": [
+   "ぜひ",
+   "そろそろ",
+   "まず"
+  ],
+  "example": {
+   "t": "今度一緒に食事しましょう。",
+   "zh": "下次一起吃饭吧。"
+  }
+ },
+ {
+  "id": "ja_健康",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 17,
+  "lemma": "健康",
+  "kana": "けんこう",
+  "kanji": "健康",
+  "romaji": "kenkou",
+  "pos": "名",
+  "pron": "[kenkou]",
+  "meaning_zh": "健康",
+  "audio": "audio/ja/ja_健康.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "ノートパソコン",
+   "洋服",
+   "セーター"
+  ],
+  "example": {
+   "t": "毎日運動して健康に気をつけています。",
+   "zh": "每天运动，注意健康。"
+  }
+ },
+ {
+  "id": "ja_先輩",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 17,
+  "lemma": "先輩",
+  "kana": "せんぱい",
+  "kanji": "先輩",
+  "romaji": "senpai",
+  "pos": "名",
+  "pron": "[senpai]",
+  "meaning_zh": "前辈",
+  "audio": "audio/ja/ja_先輩.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "セーター",
+   "ノートパソコン",
+   "洋服"
+  ],
+  "example": {
+   "t": "先輩に相談しました。",
+   "zh": "向前辈商量了。"
+  }
+ },
+ {
+  "id": "ja_初詣",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 17,
+  "lemma": "初詣",
+  "kana": "はつもうで",
+  "kanji": "初詣",
+  "romaji": "hatsumoude",
+  "pos": "名",
+  "pron": "[hatsumoude]",
+  "meaning_zh": "新年后首次参拜",
+  "audio": "audio/ja/ja_初詣.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "セーター",
+   "ノートパソコン",
+   "洋服"
+  ],
+  "example": {
+   "t": "お正月に家族と初詣に行きました。",
+   "zh": "过年时和家人去做了新年初次参拜。"
+  }
+ },
+ {
+  "id": "ja_夏",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 17,
+  "lemma": "夏",
+  "kana": "なつ",
+  "kanji": "夏",
+  "romaji": "natsu",
+  "pos": "名",
+  "pron": "[natsu]",
+  "meaning_zh": "夏天",
+  "audio": "audio/ja/ja_夏.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "セーター",
+   "ノートパソコン",
+   "洋服"
+  ],
+  "example": {
+   "t": "夏は海で泳ぎます。",
+   "zh": "夏天在海里游泳。"
+  }
+ },
+ {
+  "id": "ja_外国人",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 17,
+  "lemma": "外国人",
+  "kana": "がいこくじん",
+  "kanji": "外国人",
+  "romaji": "gaikokujin",
+  "pos": "名",
+  "pron": "[gaikokujin]",
+  "meaning_zh": "外国人",
+  "audio": "audio/ja/ja_外国人.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "洋服",
+   "セーター",
+   "ノートパソコン"
+  ],
+  "example": {
+   "t": "この町には外国人が多いです。",
+   "zh": "这个城镇外国人很多。"
+  }
+ },
+ {
+  "id": "ja_天ぷら",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 17,
+  "lemma": "天ぷら",
+  "kana": "てんぷら",
+  "kanji": "天ぷら",
+  "romaji": "tenpura",
+  "pos": "名",
+  "pron": "[tenpura]",
+  "meaning_zh": "天麸罗",
+  "audio": "audio/ja/ja_天ぷら.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "洋服",
+   "セーター",
+   "ノートパソコン"
+  ],
+  "example": {
+   "t": "天ぷらは日本料理です。",
+   "zh": "天妇罗是日本料理。"
+  }
+ },
+ {
+  "id": "ja_始めます",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 17,
+  "lemma": "始めます",
+  "kana": "はじめます",
+  "kanji": "始めます",
+  "romaji": "hajimemasu",
+  "pos": "动2",
+  "pron": "[hajimemasu]",
+  "meaning_zh": "开始",
+  "audio": "audio/ja/ja_始めます.ogg",
+  "tags": [
+   "core",
+   "verb"
+  ],
+  "distractors": [
+   "ノートパソコン",
+   "洋服",
+   "セーター"
+  ],
+  "example": {
+   "t": "九時に会議を始めます。",
+   "zh": "九点开始开会。"
+  }
+ },
+ {
+  "id": "ja_恋人",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 17,
+  "lemma": "恋人",
+  "kana": "こいびと",
+  "kanji": "恋人",
+  "romaji": "koibito",
+  "pos": "名",
+  "pron": "[koibito]",
+  "meaning_zh": "恋人",
+  "audio": "audio/ja/ja_恋人.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "洋服",
+   "セーター",
+   "ノートパソコン"
+  ],
+  "example": {
+   "t": "彼女は私の恋人です。",
+   "zh": "她是我的恋人。"
+  }
+ },
+ {
+  "id": "ja_恋愛",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 17,
+  "lemma": "恋愛",
+  "kana": "れんあい",
+  "kanji": "恋愛",
+  "romaji": "ren'ai",
+  "pos": "名",
+  "pron": "[ren'ai]",
+  "meaning_zh": "恋爱",
+  "audio": "audio/ja/ja_恋愛.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "洋服",
+   "セーター",
+   "ノートパソコン"
+  ],
+  "example": {
+   "t": "恋愛は難しいですね。",
+   "zh": "恋爱真难啊。"
+  }
+ },
+ {
+  "id": "ja_故宮",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 17,
+  "lemma": "故宮",
+  "kana": "こきゅう",
+  "kanji": "故宮",
+  "romaji": "kokyuu",
+  "pos": "专",
+  "pron": "[kokyuu]",
+  "meaning_zh": "故宫",
+  "audio": "audio/ja/ja_故宮.ogg",
+  "tags": [
+   "core",
+   "name"
+  ],
+  "distractors": [
+   "ベートーベン",
+   "ショパン",
+   "ヨーロッパ"
+  ],
+  "example": {
+   "t": "北京で故宮を見ました。",
+   "zh": "在北京看了故宫。"
+  }
+ },
+ {
+  "id": "ja_欲しい",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 17,
+  "lemma": "欲しい",
+  "kana": "ほしい",
+  "kanji": "欲しい",
+  "romaji": "hoshii",
+  "pos": "形1",
+  "pron": "[hoshii]",
+  "meaning_zh": "想要",
+  "audio": "audio/ja/ja_欲しい.ogg",
+  "tags": [
+   "core",
+   "adj"
+  ],
+  "distractors": [
+   "洋服",
+   "セーター",
+   "立派"
+  ],
+  "example": {
+   "t": "新しい車が欲しいです。",
+   "zh": "想要新车。"
+  }
+ },
+ {
+  "id": "ja_洋服",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 17,
+  "lemma": "洋服",
+  "kana": "ようふく",
+  "kanji": "洋服",
+  "romaji": "youfuku",
+  "pos": "名",
+  "pron": "[youfuku]",
+  "meaning_zh": "西服",
+  "audio": "audio/ja/ja_洋服.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "ノートパソコン",
+   "バイク",
+   "セーター"
+  ],
+  "example": {
+   "t": "デパートで洋服を買いました。",
+   "zh": "在百货商店买了西服。"
+  }
+ },
+ {
+  "id": "ja_男性",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 17,
+  "lemma": "男性",
+  "kana": "だんせい",
+  "kanji": "男性",
+  "romaji": "dansei",
+  "pos": "名",
+  "pron": "[dansei]",
+  "meaning_zh": "男性",
+  "audio": "audio/ja/ja_男性.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "ノートパソコン",
+   "洋服",
+   "セーター"
+  ],
+  "example": {
+   "t": "あの男性は誰ですか。",
+   "zh": "那位男士是谁？"
+  }
+ },
+ {
+  "id": "ja_相手",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 17,
+  "lemma": "相手",
+  "kana": "あいて",
+  "kanji": "相手",
+  "romaji": "aite",
+  "pos": "名",
+  "pron": "[aite]",
+  "meaning_zh": "对象,对方",
+  "audio": "audio/ja/ja_相手.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "ノートパソコン",
+   "洋服",
+   "セーター"
+  ],
+  "example": {
+   "t": "相手の話をよく聞きます。",
+   "zh": "认真听对方说话。"
+  }
+ },
+ {
+  "id": "ja_立派",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 17,
+  "lemma": "立派",
+  "kana": "りっぱ",
+  "kanji": "立派",
+  "romaji": "rippa",
+  "pos": "形1",
+  "pron": "[rippa]",
+  "meaning_zh": "美观,杰出",
+  "audio": "audio/ja/ja_立派.ogg",
+  "tags": [
+   "core",
+   "adj"
+  ],
+  "distractors": [
+   "セーター",
+   "欲しい",
+   "洋服"
+  ],
+  "example": {
+   "t": "この建物は立派ですね。",
+   "zh": "这栋建筑很气派啊。"
+  }
+ },
+ {
+  "id": "ja_連絡します",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 17,
+  "lemma": "連絡します",
+  "kana": "れんらくします",
+  "kanji": "連絡します",
+  "romaji": "renrakushimasu",
+  "pos": "动3",
+  "pron": "[renrakushimasu]",
+  "meaning_zh": "联系",
+  "audio": "audio/ja/ja_連絡します.ogg",
+  "tags": [
+   "core",
+   "verb"
+  ],
+  "distractors": [
+   "洋服",
+   "セーター",
+   "ノートパソコン"
+  ],
+  "example": {
+   "t": "後で連絡します。",
+   "zh": "之后再联系。"
+  }
+ },
+ {
+  "id": "ja_香港",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 17,
+  "lemma": "香港",
+  "kana": "ホンコン",
+  "kanji": "香港",
+  "romaji": "honkon",
+  "pos": "专",
+  "pron": "[honkon]",
+  "meaning_zh": "香港",
+  "audio": "audio/ja/ja_香港.ogg",
+  "tags": [
+   "core",
+   "name"
+  ],
+  "distractors": [
+   "故宮",
+   "ベートーベン",
+   "ショパン"
+  ],
+  "example": {
+   "t": "香港は買い物にいいところです。",
+   "zh": "香港是购物的好地方。"
+  }
+ },
+ {
+  "id": "ja_～中に",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 17,
+  "lemma": "～中に",
+  "kana": "じゅうに",
+  "kanji": "～中に",
+  "romaji": "juuni",
+  "pos": "短语",
+  "pron": "[juuni]",
+  "meaning_zh": "在…期间内",
+  "audio": "audio/ja/ja_～中に.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "セーター",
+   "ノートパソコン",
+   "洋服"
+  ],
+  "example": {
+   "t": "今週中に宿題を出します。",
+   "zh": "本周内交作业。"
+  }
+ },
+ {
+  "id": "ja_3割引",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 18,
+  "lemma": "3割引",
+  "kana": "さんわりびき",
+  "kanji": "3割引",
+  "romaji": "sanwaribiki",
+  "pos": "名",
+  "pron": "[sanwaribiki]",
+  "meaning_zh": "七折",
+  "audio": "audio/ja/ja_3割引.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "音",
+   "声",
+   "空気"
+  ],
+  "example": {
+   "t": "このセーターは3割引です。",
+   "zh": "这件毛衣打七折。"
+  }
+ },
+ {
+  "id": "ja_うるさい",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 18,
+  "lemma": "うるさい",
+  "kana": "うるさい",
+  "kanji": null,
+  "romaji": "urusai",
+  "pos": "形1",
+  "pron": "[urusai]",
+  "meaning_zh": "闹,使人心烦",
+  "audio": "audio/ja/ja_うるさい.ogg",
+  "tags": [
+   "core",
+   "adj"
+  ],
+  "distractors": [
+   "空気",
+   "音",
+   "声"
+  ],
+  "example": {
+   "t": "外がうるさいです。",
+   "zh": "外面很吵。"
+  }
+ },
+ {
+  "id": "ja_お嬢さん",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 18,
+  "lemma": "お嬢さん",
+  "kana": "おじょうさん",
+  "kanji": "お嬢さん",
+  "romaji": "ojousan",
+  "pos": "名",
+  "pron": "[ojousan]",
+  "meaning_zh": "令爱",
+  "audio": "audio/ja/ja_お嬢さん.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "声",
+   "空気",
+   "音"
+  ],
+  "example": {
+   "t": "お嬢さんは何歳ですか。",
+   "zh": "您女儿几岁了？"
+  }
+ },
+ {
+  "id": "ja_お正月",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 18,
+  "lemma": "お正月",
+  "kana": "おしょうがつ",
+  "kanji": "お正月",
+  "romaji": "oshougatsu",
+  "pos": "名",
+  "pron": "[oshougatsu]",
+  "meaning_zh": "过年,新年",
+  "audio": "audio/ja/ja_お正月.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "音",
+   "声",
+   "空気"
+  ],
+  "example": {
+   "t": "お正月は家族と過ごします。",
+   "zh": "过年和家人一起度过。"
+  }
+ },
+ {
+  "id": "ja_さあ",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 18,
+  "lemma": "さあ",
+  "kana": "さあ",
+  "kanji": null,
+  "romaji": "saa",
+  "pos": "叹",
+  "pron": "[saa]",
+  "meaning_zh": "啊,喂",
+  "audio": "audio/ja/ja_さあ.ogg",
+  "tags": [
+   "core",
+   "interj"
+  ],
+  "distractors": [
+   "声",
+   "空気",
+   "音"
+  ],
+  "example": {
+   "t": "さあ、出かけましょう。",
+   "zh": "来，我们出发吧。"
+  }
+ },
+ {
+  "id": "ja_さらに",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 18,
+  "lemma": "さらに",
+  "kana": "さらに",
+  "kanji": null,
+  "romaji": "sarani",
+  "pos": "副",
+  "pron": "[sarani]",
+  "meaning_zh": "更加,更",
+  "audio": "audio/ja/ja_さらに.ogg",
+  "tags": [
+   "core",
+   "adv"
+  ],
+  "syn": [
+   "もっと"
+  ],
+  "distractors": [
+   "間もなく",
+   "もうすぐ",
+   "音"
+  ],
+  "example": {
+   "t": "今年は去年よりさらに暑いです。",
+   "zh": "今年比去年更热。"
+  }
+ },
+ {
+  "id": "ja_できるだけ",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 18,
+  "lemma": "できるだけ",
+  "kana": "できるだけ",
+  "kanji": null,
+  "romaji": "dekirudake",
+  "pos": "短语",
+  "pron": "[dekirudake]",
+  "meaning_zh": "尽量,尽可能",
+  "audio": "audio/ja/ja_できるだけ.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "音",
+   "まとめて",
+   "今から"
+  ],
+  "example": {
+   "t": "できるだけ早く来てください。",
+   "zh": "请尽量早点来。"
+  }
+ },
+ {
+  "id": "ja_なります",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 18,
+  "lemma": "なります",
+  "kana": "なります",
+  "kanji": null,
+  "romaji": "narimasu",
+  "pos": "动1",
+  "pron": "[narimasu]",
+  "meaning_zh": "变,当,变成,成为",
+  "audio": "audio/ja/ja_なります.ogg",
+  "tags": [
+   "core",
+   "verb"
+  ],
+  "distractors": [
+   "音",
+   "開きます",
+   "似合います"
+  ],
+  "example": {
+   "t": "春になると、暖かくなります。",
+   "zh": "一到春天就变暖。"
+  }
+ },
+ {
+  "id": "ja_まとめて",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 18,
+  "lemma": "まとめて",
+  "kana": "まとめて",
+  "kanji": null,
+  "romaji": "matomete",
+  "pos": "短语",
+  "pron": "[matomete]",
+  "meaning_zh": "一下子,一起,汇总,汇集",
+  "audio": "audio/ja/ja_まとめて.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "できるだけ",
+   "今から",
+   "音"
+  ],
+  "example": {
+   "t": "野菜をまとめて買いました。",
+   "zh": "一次性买了蔬菜。"
+  }
+ },
+ {
+  "id": "ja_もうすぐ",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 18,
+  "lemma": "もうすぐ",
+  "kana": "もうすぐ",
+  "kanji": null,
+  "romaji": "mousugu",
+  "pos": "副",
+  "pron": "[mousugu]",
+  "meaning_zh": "马上",
+  "audio": "audio/ja/ja_もうすぐ.ogg",
+  "tags": [
+   "core",
+   "adv"
+  ],
+  "distractors": [
+   "音",
+   "間もなく",
+   "さらに"
+  ],
+  "example": {
+   "t": "もうすぐ春が来ます。",
+   "zh": "马上就要到春天了。"
+  }
+ },
+ {
+  "id": "ja_シャツ",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 18,
+  "lemma": "シャツ",
+  "kana": "シャツ",
+  "kanji": null,
+  "romaji": "shatsu",
+  "pos": "名",
+  "pron": "[shatsu]",
+  "meaning_zh": "衬衫",
+  "audio": "audio/ja/ja_シャツ.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "声",
+   "空気",
+   "音"
+  ],
+  "example": {
+   "t": "白いシャツを着ています。",
+   "zh": "穿着白衬衫。"
+  }
+ },
+ {
+  "id": "ja_シンプル",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 18,
+  "lemma": "シンプル",
+  "kana": "シンプル",
+  "kanji": null,
+  "romaji": "shinpuru",
+  "pos": "形2",
+  "pron": "[shinpuru]",
+  "meaning_zh": "单纯,简洁",
+  "audio": "audio/ja/ja_シンプル.ogg",
+  "tags": [
+   "core",
+   "adj"
+  ],
+  "distractors": [
+   "音",
+   "声",
+   "空気"
+  ],
+  "example": {
+   "t": "このデザインはシンプルでいいです。",
+   "zh": "这个设计很简洁，很好。"
+  }
+ },
+ {
+  "id": "ja_スカート",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 18,
+  "lemma": "スカート",
+  "kana": "スカート",
+  "kanji": null,
+  "romaji": "sukaato",
+  "pos": "名",
+  "pron": "[sukaato]",
+  "meaning_zh": "裙子",
+  "audio": "audio/ja/ja_スカート.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "空気",
+   "音",
+   "声"
+  ],
+  "example": {
+   "t": "赤いスカートを買いました。",
+   "zh": "买了红色的裙子。"
+  }
+ },
+ {
+  "id": "ja_タイムサービス",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 18,
+  "lemma": "タイムサービス",
+  "kana": "タイムサービス",
+  "kanji": null,
+  "romaji": "taimusaabisu",
+  "pos": "名",
+  "pron": "[taimusaabisu]",
+  "meaning_zh": "时段廉价销售",
+  "audio": "audio/ja/ja_タイムサービス.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "声",
+   "空気",
+   "音"
+  ],
+  "example": {
+   "t": "夕方はタイムサービスがあります。",
+   "zh": "傍晚有时段廉价销售。"
+  }
+ },
+ {
+  "id": "ja_デザイナー",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 18,
+  "lemma": "デザイナー",
+  "kana": "デザイナー",
+  "kanji": null,
+  "romaji": "dezainaa",
+  "pos": "名",
+  "pron": "[dezainaa]",
+  "meaning_zh": "设计者,设计家",
+  "audio": "audio/ja/ja_デザイナー.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "音",
+   "声",
+   "空気"
+  ],
+  "example": {
+   "t": "彼女はデザイナーです。",
+   "zh": "她是设计师。"
+  }
+ },
+ {
+  "id": "ja_パイロット",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 18,
+  "lemma": "パイロット",
+  "kana": "パイロット",
+  "kanji": null,
+  "romaji": "pairotto",
+  "pos": "名",
+  "pron": "[pairotto]",
+  "meaning_zh": "飞行员",
+  "audio": "audio/ja/ja_パイロット.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "空気",
+   "音",
+   "声"
+  ],
+  "example": {
+   "t": "兄はパイロットになりました。",
+   "zh": "哥哥成了飞行员。"
+  }
+ },
+ {
+  "id": "ja_今から",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 18,
+  "lemma": "今から",
+  "kana": "いまから",
+  "kanji": "今から",
+  "romaji": "imakara",
+  "pos": "短语",
+  "pron": "[imakara]",
+  "meaning_zh": "从现在起",
+  "audio": "audio/ja/ja_今から.ogg",
+  "tags": [
+   "core",
+   "phrase"
+  ],
+  "distractors": [
+   "まとめて",
+   "音",
+   "できるだけ"
+  ],
+  "example": {
+   "t": "今から出かけます。",
+   "zh": "现在要出门。"
+  }
+ },
+ {
+  "id": "ja_似合います",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 18,
+  "lemma": "似合います",
+  "kana": "にあいます",
+  "kanji": "似合います",
+  "romaji": "niaimasu",
+  "pos": "动1",
+  "pron": "[niaimasu]",
+  "meaning_zh": "适合,相称",
+  "audio": "audio/ja/ja_似合います.ogg",
+  "tags": [
+   "core",
+   "verb"
+  ],
+  "distractors": [
+   "開きます",
+   "音",
+   "なります"
+  ],
+  "example": {
+   "t": "その帽子はよく似合いますね。",
+   "zh": "那顶帽子很适合你。"
+  }
+ },
+ {
+  "id": "ja_値段",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 18,
+  "lemma": "値段",
+  "kana": "ねだん",
+  "kanji": "値段",
+  "romaji": "nedan",
+  "pos": "名",
+  "pron": "[nedan]",
+  "meaning_zh": "价格",
+  "audio": "audio/ja/ja_値段.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "音",
+   "声",
+   "空気"
+  ],
+  "example": {
+   "t": "この店は値段が安いです。",
+   "zh": "这家店价格便宜。"
+  }
+ },
+ {
+  "id": "ja_医者",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 18,
+  "lemma": "医者",
+  "kana": "いしゃ",
+  "kanji": "医者",
+  "romaji": "isha",
+  "pos": "名",
+  "pron": "[isha]",
+  "meaning_zh": "医生",
+  "audio": "audio/ja/ja_医者.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "音",
+   "声",
+   "空気"
+  ],
+  "example": {
+   "t": "将来、医者になりたいです。",
+   "zh": "将来想当医生。"
+  }
+ },
+ {
+  "id": "ja_半額",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 18,
+  "lemma": "半額",
+  "kana": "はんがく",
+  "kanji": "半額",
+  "romaji": "hangaku",
+  "pos": "名",
+  "pron": "[hangaku]",
+  "meaning_zh": "半价",
+  "audio": "audio/ja/ja_半額.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "空気",
+   "音",
+   "声"
+  ],
+  "example": {
+   "t": "このかばんは半額でした。",
+   "zh": "这个包是半价。"
+  }
+ },
+ {
+  "id": "ja_声",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 18,
+  "lemma": "声",
+  "kana": "こえ",
+  "kanji": "声",
+  "romaji": "koe",
+  "pos": "名",
+  "pron": "[koe]",
+  "meaning_zh": "声音",
+  "audio": "audio/ja/ja_声.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "音",
+   "空気",
+   "息子"
+  ],
+  "example": {
+   "t": "彼女の声はきれいです。",
+   "zh": "她的嗓音很好听。"
+  }
+ },
+ {
+  "id": "ja_学者",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 18,
+  "lemma": "学者",
+  "kana": "がくしゃ",
+  "kanji": "学者",
+  "romaji": "gakusha",
+  "pos": "名",
+  "pron": "[gakusha]",
+  "meaning_zh": "学者",
+  "audio": "audio/ja/ja_学者.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "声",
+   "空気",
+   "音"
+  ],
+  "example": {
+   "t": "彼は大学の学者です。",
+   "zh": "他是大学的学者。"
+  }
+ },
+ {
+  "id": "ja_定価",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 18,
+  "lemma": "定価",
+  "kana": "ていか",
+  "kanji": "定価",
+  "romaji": "teika",
+  "pos": "名",
+  "pron": "[teika]",
+  "meaning_zh": "定价",
+  "audio": "audio/ja/ja_定価.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "声",
+   "空気",
+   "音"
+  ],
+  "example": {
+   "t": "この本の定価は五千円です。",
+   "zh": "这本书的定价是五千日元。"
+  }
+ },
+ {
+  "id": "ja_将来",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 18,
+  "lemma": "将来",
+  "kana": "しょうらい",
+  "kanji": "将来",
+  "romaji": "shourai",
+  "pos": "名",
+  "pron": "[shourai]",
+  "meaning_zh": "将来",
+  "audio": "audio/ja/ja_将来.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "空気",
+   "音",
+   "声"
+  ],
+  "example": {
+   "t": "将来、外国で働きたいです。",
+   "zh": "将来想在外国工作。"
+  }
+ },
+ {
+  "id": "ja_息子",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 18,
+  "lemma": "息子",
+  "kana": "むすこ",
+  "kanji": "息子",
+  "romaji": "musuko",
+  "pos": "名",
+  "pron": "[musuko]",
+  "meaning_zh": "儿子",
+  "audio": "audio/ja/ja_息子.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "空気",
+   "音",
+   "声"
+  ],
+  "example": {
+   "t": "息子は大学生です。",
+   "zh": "儿子是大学生。"
+  }
+ },
+ {
+  "id": "ja_新春セール",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 18,
+  "lemma": "新春セール",
+  "kana": "しんしゅんセール",
+  "kanji": "新春セール",
+  "romaji": "shinshunseeru",
+  "pos": "名",
+  "pron": "[shinshunseeru]",
+  "meaning_zh": "新年大甩卖",
+  "audio": "audio/ja/ja_新春セール.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "空気",
+   "音",
+   "声"
+  ],
+  "example": {
+   "t": "デパートで新春セールをしています。",
+   "zh": "百货商店在搞新年大甩卖。"
+  }
+ },
+ {
+  "id": "ja_旅行ガイド",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 18,
+  "lemma": "旅行ガイド",
+  "kana": "りょこうガイド",
+  "kanji": "旅行ガイド",
+  "romaji": "ryokougaido",
+  "pos": "名",
+  "pron": "[ryokougaido]",
+  "meaning_zh": "旅行导游",
+  "audio": "audio/ja/ja_旅行ガイド.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "音",
+   "声",
+   "空気"
+  ],
+  "example": {
+   "t": "彼女は旅行ガイドです。",
+   "zh": "她是旅行导游。"
+  }
+ },
+ {
+  "id": "ja_時間",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 18,
+  "lemma": "時間",
+  "kana": "じかん",
+  "kanji": "時間",
+  "romaji": "jikan",
+  "pos": "名",
+  "pron": "[jikan]",
+  "meaning_zh": "时间",
+  "audio": "audio/ja/ja_時間.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "声",
+   "空気",
+   "音"
+  ],
+  "example": {
+   "t": "今日は時間がありません。",
+   "zh": "今天没有时间。"
+  }
+ },
+ {
+  "id": "ja_準備",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 18,
+  "lemma": "準備",
+  "kana": "じゅんび",
+  "kanji": "準備",
+  "romaji": "junbi",
+  "pos": "名",
+  "pron": "[junbi]",
+  "meaning_zh": "准备",
+  "audio": "audio/ja/ja_準備.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "音",
+   "声",
+   "空気"
+  ],
+  "example": {
+   "t": "旅行の準備をしています。",
+   "zh": "正在做旅行的准备。"
+  }
+ },
+ {
+  "id": "ja_病気",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 18,
+  "lemma": "病気",
+  "kana": "びょうき",
+  "kanji": "病気",
+  "romaji": "byouki",
+  "pos": "名",
+  "pron": "[byouki]",
+  "meaning_zh": "疾病",
+  "audio": "audio/ja/ja_病気.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "声",
+   "空気",
+   "音"
+  ],
+  "example": {
+   "t": "母は病気になりました。",
+   "zh": "母亲生病了。"
+  }
+ },
+ {
+  "id": "ja_社会人",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 18,
+  "lemma": "社会人",
+  "kana": "しゃかいじん",
+  "kanji": "社会人",
+  "romaji": "shakaijin",
+  "pos": "名",
+  "pron": "[shakaijin]",
+  "meaning_zh": "社会的一员,成人",
+  "audio": "audio/ja/ja_社会人.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "空気",
+   "音",
+   "声"
+  ],
+  "example": {
+   "t": "兄はもう社会人です。",
+   "zh": "哥哥已经是社会的一员了。"
+  }
+ },
+ {
+  "id": "ja_空気",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 18,
+  "lemma": "空気",
+  "kana": "くうき",
+  "kanji": "空気",
+  "romaji": "kuuki",
+  "pos": "名",
+  "pron": "[kuuki]",
+  "meaning_zh": "空气",
+  "audio": "audio/ja/ja_空気.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "声",
+   "息子",
+   "音"
+  ],
+  "example": {
+   "t": "山の空気はきれいです。",
+   "zh": "山里的空气很清新。"
+  }
+ },
+ {
+  "id": "ja_色",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 18,
+  "lemma": "色",
+  "kana": "いろ",
+  "kanji": "色",
+  "romaji": "iro",
+  "pos": "名",
+  "pron": "[iro]",
+  "meaning_zh": "颜色",
+  "audio": "audio/ja/ja_色.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "音",
+   "声",
+   "空気"
+  ],
+  "example": {
+   "t": "この色が好きです。",
+   "zh": "我喜欢这个颜色。"
+  }
+ },
+ {
+  "id": "ja_赤",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 18,
+  "lemma": "赤",
+  "kana": "あか",
+  "kanji": "赤",
+  "romaji": "aka",
+  "pos": "名",
+  "pron": "[aka]",
+  "meaning_zh": "红色",
+  "audio": "audio/ja/ja_赤.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "声",
+   "空気",
+   "音"
+  ],
+  "example": {
+   "t": "私は赤が一番好きです。",
+   "zh": "我最喜欢红色。"
+  }
+ },
+ {
+  "id": "ja_開きます",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 18,
+  "lemma": "開きます",
+  "kana": "あきます",
+  "kanji": "開きます",
+  "romaji": "akimasu",
+  "pos": "动1",
+  "pron": "[akimasu]",
+  "meaning_zh": "开",
+  "audio": "audio/ja/ja_開きます.ogg",
+  "tags": [
+   "core",
+   "verb"
+  ],
+  "distractors": [
+   "なります",
+   "似合います",
+   "音"
+  ],
+  "example": {
+   "t": "店は十時に開きます。",
+   "zh": "店十点开门。"
+  }
+ },
+ {
+  "id": "ja_間もなく",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 18,
+  "lemma": "間もなく",
+  "kana": "まもなく",
+  "kanji": "間もなく",
+  "romaji": "mamonaku",
+  "pos": "副",
+  "pron": "[mamonaku]",
+  "meaning_zh": "马上,一会儿,不久",
+  "audio": "audio/ja/ja_間もなく.ogg",
+  "tags": [
+   "core",
+   "adv"
+  ],
+  "distractors": [
+   "さらに",
+   "音",
+   "もうすぐ"
+  ],
+  "example": {
+   "t": "電車は間もなく来ます。",
+   "zh": "电车马上就要来了。"
+  }
+ },
+ {
+  "id": "ja_青",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 18,
+  "lemma": "青",
+  "kana": "あお",
+  "kanji": "青",
+  "romaji": "ao",
+  "pos": "名",
+  "pron": "[ao]",
+  "meaning_zh": "蓝色",
+  "audio": "audio/ja/ja_青.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "空気",
+   "音",
+   "声"
+  ],
+  "example": {
+   "t": "私は青が好きです。",
+   "zh": "我喜欢蓝色。"
+  }
+ },
+ {
+  "id": "ja_音",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 18,
+  "lemma": "音",
+  "kana": "おと",
+  "kanji": "音",
+  "romaji": "oto",
+  "pos": "名",
+  "pron": "[oto]",
+  "meaning_zh": "声音,响声",
+  "audio": "audio/ja/ja_音.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "息子",
+   "声",
+   "空気"
+  ],
+  "example": {
+   "t": "変な音が聞こえます。",
+   "zh": "听到奇怪的声音。"
+  }
+ }
+]

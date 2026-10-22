@@ -1,0 +1,34 @@
+# build / distribution
+dist/
+发布/
+site/game/
+site/downloads/
+墨墨上线包.zip
+*.zip
+*.pptx
+
+# local / secrets
+.codely-cli/
+.trae/
+.wrangler/
+worker/.dev.vars
+*.key
+.env
+.env.*
+
+# large art assets / generated previews
+墨墨-美术资产-web
+UI还原
+_ppt_assets/
+评测/shots/
+backups/
+mv/
+pages/
+
+# OS
+.DS_Store
+
+# python cache
+__pycache__/
+*.pyc
+_tools/.asset_cache.json

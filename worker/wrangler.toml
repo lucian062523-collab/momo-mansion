@@ -1,0 +1,11 @@
+name = "momo-chat"
+main = "index.js"
+compatibility_date = "2026-10-01"
+
+# key 不放这里（这个文件会跟着工程走）。用：
+#   npx wrangler secret put MOMO_API_KEY
+# 也可以临时在 .dev.vars 里写一行给本地调试用（.dev.vars 不要外传）。
+
+[vars]
+MOMO_API_BASE = "https://api.deepseek.com/v1"
+MOMO_MODEL = "deepseek-chat"

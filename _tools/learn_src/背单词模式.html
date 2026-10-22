@@ -1,0 +1,410 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>背单词模式 · Study Deck</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700&family=EB+Garamond:wght@500..800&family=Noto+Serif+SC:wght@500;600;700;900&display=swap" rel="stylesheet">
+<style>
+  /* ============ 设计令牌（羊皮纸棕金套件） ============ */
+  :root{
+    --cream-hi:  #fbf8eb;
+    --cream:     #f5efe2;
+    --cream-lo:  #eadfc6;
+    --dark-hi:   #4c352a;
+    --dark:      #38261f;
+    --dark-lo:   #1d120d;
+    --gold-hi:   #f1ca97;
+    --gold:      #ddb284;
+    --gold-mid:  #c9a06a;
+    --gold-lo:   #8a6a42;
+    --gold-deep: #734f3a;
+    --text-main: #43331d;
+    --text-sub:  #6d5940;
+    --wrong:     #a8402f;
+    --wrong-deep:#7c2a1e;
+    --okay:      #5f7a3a;
+    --okay-deep: #44602a;
+    --serif-en:  'Cinzel', 'Noto Serif SC', serif;
+    --serif-word:'EB Garamond', 'Cinzel', 'Noto Serif SC', serif;
+    --serif-zh:  'Noto Serif SC', 'Songti SC', 'SimSun', serif;
+  }
+  *{ margin:0; padding:0; box-sizing:border-box; }
+  body{
+    font-family: var(--serif-zh);
+    color: var(--text-main);
+    background:
+      radial-gradient(1200px 600px at 70% -10%, rgba(221,178,132,.07), transparent 60%),
+      radial-gradient(900px 500px at 10% 110%, rgba(221,178,132,.05), transparent 60%),
+      #241a13;
+    min-height:100vh;
+    padding:64px 32px 72px;
+    display:flex; flex-direction:column; align-items:center; gap:24px;
+  }
+  ::selection{ background:var(--gold); color:#241a13; }
+
+  /* ============ 展台 ============ */
+  .show-title{
+    text-align:center; color:var(--cream); font-weight:900;
+    letter-spacing:.35em; text-indent:.35em; font-size:26px;
+    text-shadow:0 2px 0 rgba(0,0,0,.5);
+  }
+  .show-sub{
+    text-align:center; color:var(--gold-mid); font-family:var(--serif-en);
+    font-size:11px; letter-spacing:.5em; text-indent:.5em; margin-top:10px;
+  }
+  .show-rule{
+    width:340px; height:10px; margin:4px 0 20px;
+    background:
+      radial-gradient(circle at center 50%, var(--gold) 0 1.6px, transparent 2.2px) center/14px 10px repeat-x;
+    opacity:.8;
+  }
+  .cell{ display:flex; flex-direction:column; align-items:center; gap:20px; }
+  .cell-tag{
+    display:flex; align-items:center; gap:12px;
+    color:var(--cream-lo); font-size:13px; letter-spacing:.3em; text-indent:.3em;
+  }
+  .cell-tag::before,.cell-tag::after{
+    content:""; width:7px; height:7px; background:var(--gold-mid);
+    transform:rotate(45deg); box-shadow:0 0 0 1px rgba(115,79,58,.6);
+  }
+  .cell-tag small{ font-family:var(--serif-en); font-size:9px; letter-spacing:.25em; color:var(--gold-lo); }
+
+  /* ============ 基础面板工艺 ============ */
+  .panel{
+    position:relative; background:var(--cream); border-radius:14px;
+    border:4px solid var(--gold-deep);
+    box-shadow:
+      inset 0 0 0 2px var(--gold-hi),
+      inset 0 2px 0 rgba(255,255,255,.85),
+      inset 0 -3px 0 var(--gold-mid),
+      0 6px 18px rgba(0,0,0,.45),
+      0 2px 4px rgba(0,0,0,.4);
+  }
+  .panel::before{
+    content:""; position:absolute; inset:6px; border-radius:9px;
+    border:1.5px solid rgba(138,106,66,.55);
+    pointer-events:none;
+  }
+  .corner{
+    position:absolute; width:14px; height:14px; z-index:2;
+    background:var(--gold);
+    -webkit-mask:var(--star);
+    -webkit-mask-composite:xor; mask-composite:exclude;
+    --star:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><path d='M12 0l2.6 9.4L24 12l-9.4 2.6L12 24l-2.6-9.4L0 12l9.4-2.6z'/></svg>") center/contain no-repeat;
+    filter:drop-shadow(0 1px 0 rgba(0,0,0,.35));
+  }
+  .corner.tl{ top:-7px; left:-7px; } .corner.tr{ top:-7px; right:-7px; }
+  .corner.bl{ bottom:-7px; left:-7px; } .corner.br{ bottom:-7px; right:-7px; }
+
+  /* ============ 5. 背单词模式 ============ */
+  .study{ width:360px; padding:26px 28px 24px; }
+  .sd-head{
+    display:flex; align-items:center; justify-content:space-between;
+    padding-bottom:14px; border-bottom:2px solid rgba(138,106,66,.45);
+    position:relative; z-index:1;
+  }
+  .sd-title{ display:flex; align-items:center; gap:10px; }
+  .sd-title h2{ font-size:19px; font-weight:900; letter-spacing:.2em; color:var(--dark); }
+  .sd-title small{ display:block; font-family:var(--serif-en); font-size:9px; letter-spacing:.3em; color:var(--gold-lo); margin-top:3px; }
+  .deck-icon{
+    width:34px; height:30px; position:relative; flex:none;
+  }
+  .deck-icon::before, .deck-icon::after, .deck-icon i{
+    content:""; position:absolute; border-radius:3px;
+    border:1.5px solid var(--gold-lo);
+    background:linear-gradient(180deg, var(--cream-hi), var(--cream-lo));
+  }
+  .deck-icon::before{ inset:6px 0 auto 0; height:16px; opacity:.5; }
+  .deck-icon::after{ inset:3px 2px auto 2px; height:16px; opacity:.75; }
+  .deck-icon i{ inset:0 4px auto 4px; height:17px; box-shadow:0 1px 0 rgba(0,0,0,.15); }
+  .sd-count{ text-align:right; font-family:var(--serif-en); }
+  .sd-count b{ font-size:20px; color:var(--dark); }
+  .sd-count b em{ font-style:normal; color:var(--gold-lo); font-size:13px; }
+  .sd-count span{ display:block; font-family:var(--serif-zh); font-size:9.5px; color:var(--text-sub); letter-spacing:.2em; margin-top:2px; }
+
+  /* 进度点 */
+  .sd-dots{ display:flex; justify-content:center; gap:6px; margin:14px 0 12px; }
+  .sd-dots i{
+    width:7px; height:7px; transform:rotate(45deg);
+    border:1px solid var(--gold-mid); background:transparent;
+    transition:background .25s, box-shadow .25s;
+  }
+  .sd-dots i.hit{ background:var(--okay); border-color:var(--okay-deep); }
+  .sd-dots i.miss{ background:var(--wrong); border-color:var(--wrong-deep); }
+  .sd-dots i.now{ box-shadow:0 0 0 2px rgba(201,160,106,.55); }
+
+  /* 卡组（叠层） */
+  .sd-stage{ position:relative; height:230px; margin:2px 0 4px; }
+  .sd-card{
+    position:absolute; inset:0; border-radius:10px;
+    background:linear-gradient(180deg, var(--cream-hi), var(--cream));
+    border:2px solid var(--gold-mid);
+    box-shadow:inset 0 0 0 1.5px rgba(255,255,255,.7), 0 4px 10px rgba(0,0,0,.22);
+    display:flex; flex-direction:column; align-items:center; justify-content:center; gap:8px;
+    cursor:pointer; user-select:none; -webkit-user-select:none; touch-action:manipulation;
+    transition:transform .45s cubic-bezier(.22,1,.36,1), opacity .45s;
+  }
+  .sd-stage .sd-card:first-child{ z-index:3; }
+  .sd-stage .sd-card:nth-child(2){ z-index:2; transform:translate(6px,7px) scale(.97); opacity:.75; }
+  .sd-stage .sd-card:nth-child(3){ z-index:1; transform:translate(12px,14px) scale(.94); opacity:.5; }
+  .sd-stage .sd-card:nth-child(n+4){ display:none; }
+  .sd-card.fly-ok{ transform:translate(-70px,-34px) rotate(-11deg) !important; opacity:0; }
+  .sd-card.fly-miss{ transform:translate(70px,-34px) rotate(11deg) !important; opacity:0; }
+  .sd-word{ font-family:var(--serif-word); font-weight:700; font-size:31px; color:var(--dark); letter-spacing:.02em; }
+  .sd-phon{ font-size:12.5px; color:var(--text-sub); letter-spacing:.05em; }
+  .sd-phon b{
+    font-family:var(--serif-en); font-size:10.5px; font-weight:600; color:var(--gold-deep);
+    border:1px solid var(--gold-mid); border-radius:6px; padding:1px 7px; margin-left:7px;
+    background:rgba(241,202,151,.22);
+  }
+  .sd-hint{ margin-top:10px; font-size:10px; color:var(--gold-lo); letter-spacing:.25em; }
+  /* 翻开释义层 */
+  .sd-back{
+    position:absolute; inset:0; border-radius:10px; z-index:3;
+    background:linear-gradient(180deg, var(--cream-hi), var(--cream-lo));
+    border:2px solid var(--gold-deep);
+    box-shadow:inset 0 0 0 1.5px rgba(255,255,255,.6), 0 4px 12px rgba(0,0,0,.28);
+    display:flex; flex-direction:column; align-items:center; justify-content:center; gap:9px;
+    padding:18px 22px; text-align:center;
+    transform:rotateY(90deg); transition:transform .3s ease-in;
+  }
+  .sd-back.show{ transform:rotateY(0); transition:transform .3s ease-out; }
+  .sd-back h3{ font-size:17px; font-weight:900; letter-spacing:.15em; color:var(--dark); }
+  .sd-back .mean{ font-size:13.5px; font-weight:700; color:var(--text-main); line-height:1.7; }
+  .sd-back .ex{ font-size:11.5px; color:var(--text-sub); line-height:1.7; margin-top:2px; }
+  .sd-back .ex em{ font-style:normal; color:var(--dark); font-family:var(--serif-word); font-size:10.5px; }
+  .sd-back .ex strong{ font-weight:700; color:var(--wrong); }
+
+  /* 操作按钮 */
+  .sd-acts{ display:flex; gap:12px; margin-top:14px; }
+  .sd-btn{
+    flex:1; display:flex; align-items:center; justify-content:center; gap:8px;
+    font-family:var(--serif-zh); font-size:14px; font-weight:700; letter-spacing:.15em;
+    padding:11px 0 10px; border-radius:9px; cursor:pointer;
+    transition:filter .15s, transform .1s;
+  }
+  .sd-btn:active{ transform:translateY(1px); }
+  .sd-btn i{ font-style:normal; font-family:var(--serif-en); font-size:12px; }
+  .sd-btn.ok{
+    color:#f4eedd; border:1.5px solid var(--okay-deep);
+    background:linear-gradient(180deg, var(--okay), var(--okay-deep));
+    box-shadow:inset 0 1px 0 rgba(255,255,255,.3), 0 3px 6px rgba(0,0,0,.3);
+  }
+  .sd-btn.no{
+    color:#f4eedd; border:1.5px solid var(--wrong-deep);
+    background:linear-gradient(180deg, var(--wrong), var(--wrong-deep));
+    box-shadow:inset 0 1px 0 rgba(255,255,255,.3), 0 3px 6px rgba(0,0,0,.3);
+  }
+  .sd-btn[disabled]{ filter:grayscale(.5) brightness(.85); cursor:default; }
+  .sd-btn.flip-btn{
+    flex:1.2; color:var(--text-main); border:1.5px solid var(--gold-lo);
+    background:linear-gradient(180deg, var(--gold-hi), var(--gold));
+    box-shadow:inset 0 1px 0 rgba(255,255,255,.55), 0 3px 6px rgba(0,0,0,.25);
+  }
+
+  /* 结算 */
+  .sd-summary{ text-align:center; padding:14px 4px 4px; display:none; }
+  .sd-summary.show{ display:block; }
+  .sd-summary h3{
+    font-size:21px; font-weight:900; letter-spacing:.3em; text-indent:.3em; color:var(--dark);
+  }
+  .sd-summary small{ display:block; font-family:var(--serif-en); font-size:9px; letter-spacing:.35em; color:var(--gold-lo); margin:6px 0 16px; }
+  .sd-result{ display:flex; gap:14px; justify-content:center; }
+  .sd-res{ width:92px; padding:12px 0 10px; border-radius:10px; border:1.5px solid rgba(138,106,66,.45); background:rgba(56,38,31,.05); }
+  .sd-res b{ display:block; font-family:var(--serif-en); font-size:24px; color:var(--dark); }
+  .sd-res span{ font-size:10px; color:var(--text-sub); letter-spacing:.2em; }
+  .sd-res.hit b{ color:var(--okay); }
+  .sd-res.miss b{ color:var(--wrong); }
+  .sd-restart{
+    margin-top:16px; font-family:var(--serif-zh); font-size:13px; font-weight:700; letter-spacing:.2em;
+    color:var(--text-main); border:1.5px solid var(--gold-lo); border-radius:9px;
+    background:linear-gradient(180deg, var(--gold-hi), var(--gold));
+    box-shadow:inset 0 1px 0 rgba(255,255,255,.55), 0 3px 6px rgba(0,0,0,.25);
+    padding:10px 26px 9px; cursor:pointer;
+  }
+
+  @media (prefers-reduced-motion: reduce){
+    .sd-card, .sd-back, .sd-dots i{ transition:none !important; }
+  }
+</style>
+</head>
+<body>
+  <header>
+    <h1 class="show-title">背单词模式</h1>
+    <p class="show-sub">STUDY DECK</p>
+    <div class="show-rule" aria-hidden="true"></div>
+  </header>
+
+  <main class="cell" aria-label="背单词模式组件">
+    <section class="cell" style="width:100%;">
+      <article class="panel study" id="studyPanel">
+        <i class="corner tl"></i><i class="corner tr"></i><i class="corner bl"></i><i class="corner br"></i>
+        <header class="sd-head">
+          <div class="sd-title">
+            <span class="deck-icon" aria-hidden="true"><i></i></span>
+            <div><h2>背 单 词</h2><small>STUDY DECK</small></div>
+          </div>
+          <div class="sd-count">
+            <b id="sdNow">1</b><em> / </em><em id="sdTotal">6</em>
+            <span>本轮进度</span>
+          </div>
+        </header>
+
+        <div class="sd-dots" id="sdDots" aria-hidden="true"></div>
+
+        <div class="sd-stage" id="sdStage">
+          <!-- 卡片由 JS 渲染 -->
+        </div>
+
+        <div class="sd-acts" id="sdActs">
+          <button class="sd-btn no" id="sdNo"><i>✗</i>不认识</button>
+          <button class="sd-btn flip-btn" id="sdFlip"><i>↻</i>看释义</button>
+          <button class="sd-btn ok" id="sdOk"><i>✓</i>认 识</button>
+        </div>
+
+        <div class="sd-summary" id="sdSummary">
+          <h3>本 轮 完 成</h3>
+          <small>DECK COMPLETE</small>
+          <div class="sd-result">
+            <div class="sd-res hit"><b id="sdHit">0</b><span>认 识</span></div>
+            <div class="sd-res miss"><b id="sdMiss">0</b><span>待复习</span></div>
+          </div>
+          <button class="sd-restart" id="sdRestart"><i>⟳</i> 再背一轮</button>
+        </div>
+      </article>
+      <p class="cell-tag">背单词模式 <small>STUDY&nbsp;DECK</small></p>
+    </section>
+  </main>
+
+<script>
+(function(){
+  var words = [
+    { word:'resilient',  phon:'/rɪˈzɪl.i.ənt/',   pos:'adj.', mean:'适应力强的 · 能迅速恢复的',
+      ex:{ en:'A resilient mind <strong>bends</strong> but does not break.', zh:'坚韧之心，弯而不折。' } },
+    { word:'deliberate', phon:'/dɪˈlɪb.ər.ət/',   pos:'adj.', mean:'深思熟虑的 · v. 权衡',
+      ex:{ en:'It was a <strong>deliberate</strong> choice.', zh:'那是一次深思熟虑的选择。' } },
+    { word:'meticulous', phon:'/məˈtɪk.jə.ləs/',  pos:'adj.', mean:'一丝不苟的 · 精细的',
+      ex:{ en:'She kept <strong>meticulous</strong> records.', zh:'她保存着一丝不苟的记录。' } },
+    { word:'pragmatic',  phon:'/præɡˈmæt.ɪk/',    pos:'adj.', mean:'务实的 · 实用的',
+      ex:{ en:'We need a <strong>pragmatic</strong> approach.', zh:'我们需要务实的做法。' } },
+    { word:'tenacious',  phon:'/təˈneɪ.ʃəs/',     pos:'adj.', mean:'顽强的 · 抓紧不放的',
+      ex:{ en:'A <strong>tenacious</strong> grip on the rope.', zh:'牢牢抓住绳索不放。' } },
+    { word:'lucid',      phon:'/ˈluː.sɪd/',       pos:'adj.', mean:'清晰的 · 明白易懂的',
+      ex:{ en:'She gave a <strong>lucid</strong> explanation.', zh:'她给出了清晰的解释。' } }
+  ];
+
+  var stage   = document.getElementById('sdStage');
+  var dots    = document.getElementById('sdDots');
+  var nowEl   = document.getElementById('sdNow');
+  var totalEl = document.getElementById('sdTotal');
+  var acts    = document.getElementById('sdActs');
+  var summary = document.getElementById('sdSummary');
+  var hit = 0, miss = 0, idx = 0, busy = false;
+  totalEl.textContent = words.length;
+
+  function renderDots(){
+    dots.innerHTML = '';
+    words.forEach(function(_, i){
+      var d = document.createElement('i');
+      if (marks[i] === 'hit')  d.className = 'hit';
+      if (marks[i] === 'miss') d.className = 'miss';
+      if (i === idx) d.classList.add('now');
+      dots.appendChild(d);
+    });
+  }
+
+  var marks = [];
+
+  function cardHTML(w, isFront){
+    if (!isFront){
+      /* 垫卡：只出空卡面，制造卡组厚度，不渲染文字 */
+      return '<div class="sd-card stack" aria-hidden="true"></div>';
+    }
+    return '<div class="sd-card" data-word="' + w.word + '">' +
+             '<h2 class="sd-word">' + w.word + '</h2>' +
+             '<p class="sd-phon">' + w.phon + '<b>' + w.pos + '</b></p>' +
+             '<p class="sd-hint">点 击 卡 面 · 或 「看 释 义」</p>' +
+             '<div class="sd-back">' +
+               '<h3>' + w.word + '</h3>' +
+               '<p class="mean">' + w.mean + '</p>' +
+               '<p class="ex"><em>' + w.ex.en + '</em><br>' + w.ex.zh + '</p>' +
+             '</div>' +
+           '</div>';
+  }
+
+  function render(){
+    stage.innerHTML = '';
+    for (var i = Math.min(idx + 3, words.length - 1); i > idx; i--) {
+      stage.insertAdjacentHTML('afterbegin', cardHTML(words[i], false));
+    }
+    stage.insertAdjacentHTML('afterbegin', cardHTML(words[idx], true));
+    var card = stage.querySelector('.sd-card:not(.stack)');
+    card.addEventListener('click', function(){ toggleBack(card); });
+    nowEl.textContent = Math.min(idx + 1, words.length);
+    renderDots();
+  }
+
+  function toggleBack(card){
+    if (busy) return;
+    var back = card.querySelector('.sd-back');
+    back.classList.toggle('show');
+  }
+
+  function advance(kind){
+    if (busy || idx >= words.length) return;
+    busy = true;
+    marks[idx] = kind;
+    if (kind === 'hit') hit++; else miss++;
+    var card = stage.querySelector('.sd-card');
+    card.classList.add(kind === 'hit' ? 'fly-ok' : 'fly-miss');
+    renderDots();
+    setTimeout(function(){
+      idx++;
+      busy = false;
+      if (idx >= words.length) finish();
+      else render();
+    }, 430);
+  }
+
+  function finish(){
+    acts.style.display = 'none';
+    stage.style.display = 'none';
+    document.getElementById('sdHit').textContent = hit;
+    document.getElementById('sdMiss').textContent = miss;
+    summary.classList.add('show');
+    nowEl.textContent = words.length;
+  }
+
+  document.getElementById('sdOk').addEventListener('click', function(){ advance('hit'); });
+  document.getElementById('sdNo').addEventListener('click', function(){ advance('miss'); });
+  document.getElementById('sdFlip').addEventListener('click', function(){
+    var card = stage.querySelector('.sd-card');
+    if (card) toggleBack(card);
+  });
+  document.getElementById('sdRestart').addEventListener('click', function(){
+    idx = 0; hit = 0; miss = 0; marks = [];
+    acts.style.display = '';
+    stage.style.display = '';
+    summary.classList.remove('show');
+    render();
+  });
+
+  document.addEventListener('keydown', function(e){
+    if (e.key === ' ' || e.key === 'Enter'){
+      if (summary.classList.contains('show')) return;
+      e.preventDefault();
+      var card = stage.querySelector('.sd-card');
+      if (card) toggleBack(card);
+    }
+    if (e.key === 'ArrowLeft')  document.getElementById('sdNo').click();
+    if (e.key === 'ArrowRight') document.getElementById('sdOk').click();
+  });
+
+  render();
+})();
+</script>
+</body>
+</html>

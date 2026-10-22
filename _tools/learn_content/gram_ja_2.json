@@ -1,0 +1,2339 @@
+{
+ "chapters": [],
+ "points": [
+  {
+   "id": "ja_g_l15_03",
+   "lang": "ja",
+   "chapter": "ja_l15",
+   "kicker": "标日 · 第15課",
+   "title": "动てはいけません",
+   "title_sub": "不可以做～",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "动てはいけません",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "ここで走ってはいけません。",
+     "hl": "",
+     "zh": "不可以在这里跑。"
+    },
+    {
+     "t": "ここに車を止めてはいけません。",
+     "hl": "",
+     "zh": "不可以在这里停车。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "不可以做～",
+   "page": 15,
+   "foot": "初级上 · 第15課"
+  },
+  {
+   "id": "ja_g_l15_04",
+   "lang": "ja",
+   "chapter": "ja_l15",
+   "kicker": "标日 · 第15課",
+   "title": "名[附着点]に动",
+   "title_sub": "停留在～",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "名[附着点]に动",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "椅子に座ります。",
+     "hl": "",
+     "zh": "坐在椅子上。"
+    },
+    {
+     "t": "ノートに名前を書きます。",
+     "hl": "",
+     "zh": "把名字写在笔记本上。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "停留在～",
+   "page": 15,
+   "foot": "初级上 · 第15課"
+  },
+  {
+   "id": "ja_g_l15_05",
+   "lang": "ja",
+   "chapter": "ja_l15",
+   "kicker": "标日 · 第15課",
+   "title": "名[目的地]に动",
+   "title_sub": "移动目的地",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "名[目的地]に动",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "家に帰ります。",
+     "hl": "",
+     "zh": "回家。"
+    },
+    {
+     "t": "来週、北京に行きます。",
+     "hl": "",
+     "zh": "下周去北京。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "移动目的地",
+   "page": 15,
+   "foot": "初级上 · 第15課"
+  },
+  {
+   "id": "ja_g_l16_01",
+   "lang": "ja",
+   "chapter": "ja_l16",
+   "kicker": "标日 · 第16課",
+   "title": "一类形て",
+   "title_sub": "又～又～（并列）",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "一类形て",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "安くておいしいです。",
+     "hl": "",
+     "zh": "又便宜又好吃。"
+    },
+    {
+     "t": "この部屋は広くて明るいです。",
+     "hl": "",
+     "zh": "这个房间又宽敞又明亮。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "又～又～（并列）",
+   "page": 16,
+   "foot": "初级上 · 第16課"
+  },
+  {
+   "id": "ja_g_l16_02",
+   "lang": "ja",
+   "chapter": "ja_l16",
+   "kicker": "标日 · 第16課",
+   "title": "二类形で",
+   "title_sub": "既～又～",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "二类形で",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "静かで便利です。",
+     "hl": "",
+     "zh": "既安静又方便。"
+    },
+    {
+     "t": "この町はきれいで安全です。",
+     "hl": "",
+     "zh": "这个城市既漂亮又安全。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "既～又～",
+   "page": 16,
+   "foot": "初级上 · 第16課"
+  },
+  {
+   "id": "ja_g_l16_03",
+   "lang": "ja",
+   "chapter": "ja_l16",
+   "kicker": "标日 · 第16課",
+   "title": "名で",
+   "title_sub": "是～又是～",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "名で",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "学生で友達です。",
+     "hl": "",
+     "zh": "既是学生又是朋友。"
+    },
+    {
+     "t": "彼は医者で作家です。",
+     "hl": "",
+     "zh": "他既是医生又是作家。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "是～又是～",
+   "page": 16,
+   "foot": "初级上 · 第16課"
+  },
+  {
+   "id": "ja_g_l16_04",
+   "lang": "ja",
+   "chapter": "ja_l16",
+   "kicker": "标日 · 第16課",
+   "title": "小句が、小句",
+   "title_sub": "但是/可是（转折）",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "小句が、小句",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "安いですが、美味しくないです。",
+     "hl": "",
+     "zh": "便宜但不好吃。"
+    },
+    {
+     "t": "この店は近いですが、高いです。",
+     "hl": "",
+     "zh": "这家店很近，但是很贵。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "但是/可是（转折）",
+   "page": 16,
+   "foot": "初级上 · 第16課"
+  },
+  {
+   "id": "ja_g_l16_05",
+   "lang": "ja",
+   "chapter": "ja_l16",
+   "kicker": "标日 · 第16課",
+   "title": "まだ＋否定",
+   "title_sub": "还没～",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "まだ",
+     "zh": false
+    },
+    {
+     "t": "＋",
+     "zh": true
+    },
+    {
+     "t": "否定",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "まだ食べていません。",
+     "hl": "",
+     "zh": "还没吃。"
+    },
+    {
+     "t": "まだ宿題をしていません。",
+     "hl": "",
+     "zh": "还没做作业。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "还没～",
+   "page": 16,
+   "foot": "初级上 · 第16課"
+  },
+  {
+   "id": "ja_g_l17_01",
+   "lang": "ja",
+   "chapter": "ja_l17",
+   "kicker": "标日 · 第17課",
+   "title": "名が欲しいです",
+   "title_sub": "想要（某物）",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "名が欲しいです",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "新しい車が欲しいです。",
+     "hl": "",
+     "zh": "想要新车。"
+    },
+    {
+     "t": "大きい家が欲しいです。",
+     "hl": "",
+     "zh": "想要大房子。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "想要（某物）",
+   "page": 17,
+   "foot": "初级上 · 第17課"
+  },
+  {
+   "id": "ja_g_l17_02",
+   "lang": "ja",
+   "chapter": "ja_l17",
+   "kicker": "标日 · 第17課",
+   "title": "动たいです",
+   "title_sub": "想做～（某事）",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "动たいです",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "日本へ行きたいです。",
+     "hl": "",
+     "zh": "想去日本。"
+    },
+    {
+     "t": "国へ帰りたいです。",
+     "hl": "",
+     "zh": "想回国。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "想做～（某事）",
+   "page": 17,
+   "foot": "初级上 · 第17課"
+  },
+  {
+   "id": "ja_g_l17_03",
+   "lang": "ja",
+   "chapter": "ja_l17",
+   "kicker": "标日 · 第17課",
+   "title": "动ませんか",
+   "title_sub": "一起～好吗（客气）",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "动ませんか",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "一緒に行きませんか。",
+     "hl": "",
+     "zh": "一起去好吗？"
+    },
+    {
+     "t": "一緒に昼ご飯を食べませんか。",
+     "hl": "",
+     "zh": "一起吃午饭好吗？"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "一起～好吗（客气）",
+   "page": 17,
+   "foot": "初级上 · 第17課"
+  },
+  {
+   "id": "ja_g_l17_04",
+   "lang": "ja",
+   "chapter": "ja_l17",
+   "kicker": "标日 · 第17課",
+   "title": "动ましょう",
+   "title_sub": "一起～吧（亲切）",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "动ましょう",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "行きましょう。",
+     "hl": "",
+     "zh": "去吧。"
+    },
+    {
+     "t": "そろそろ帰りましょう。",
+     "hl": "",
+     "zh": "我们差不多回去吧。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "一起～吧（亲切）",
+   "page": 17,
+   "foot": "初级上 · 第17課"
+  },
+  {
+   "id": "ja_g_l17_05",
+   "lang": "ja",
+   "chapter": "ja_l17",
+   "kicker": "标日 · 第17課",
+   "title": "疑问詞＋でも",
+   "title_sub": "无论～都",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "疑问詞",
+     "zh": false
+    },
+    {
+     "t": "＋",
+     "zh": true
+    },
+    {
+     "t": "でも",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "何でもいいです。",
+     "hl": "",
+     "zh": "什么都行。"
+    },
+    {
+     "t": "いつでも電話してください。",
+     "hl": "",
+     "zh": "请随时给我打电话。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "无论～都",
+   "page": 17,
+   "foot": "初级上 · 第17課"
+  },
+  {
+   "id": "ja_g_l18_01",
+   "lang": "ja",
+   "chapter": "ja_l18",
+   "kicker": "标日 · 第18課",
+   "title": "一类形なります",
+   "title_sub": "变得～（自动）",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "一类形なります",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "暖かくなりました。",
+     "hl": "",
+     "zh": "变暖了。"
+    },
+    {
+     "t": "子供が大きくなりました。",
+     "hl": "",
+     "zh": "孩子长大了。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "变得～（自动）",
+   "page": 18,
+   "foot": "初级上 · 第18課"
+  },
+  {
+   "id": "ja_g_l18_02",
+   "lang": "ja",
+   "chapter": "ja_l18",
+   "kicker": "标日 · 第18課",
+   "title": "二类形/名になります",
+   "title_sub": "成为～",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "二类形/名になります",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "医者になりました。",
+     "hl": "",
+     "zh": "成为了医生。"
+    },
+    {
+     "t": "来年、大学生になります。",
+     "hl": "",
+     "zh": "明年成为大学生。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "成为～",
+   "page": 18,
+   "foot": "初级上 · 第18課"
+  },
+  {
+   "id": "ja_g_l18_03",
+   "lang": "ja",
+   "chapter": "ja_l18",
+   "kicker": "标日 · 第18課",
+   "title": "一类形/二类形・名にします",
+   "title_sub": "使变得/选～",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "一类形/二类形・名にします",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "音を小さくします。",
+     "hl": "",
+     "zh": "把声音调小。"
+    },
+    {
+     "t": "部屋をきれいにします。",
+     "hl": "",
+     "zh": "把房间弄干净。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "使变得/选～",
+   "page": 18,
+   "foot": "初级上 · 第18課"
+  },
+  {
+   "id": "ja_g_l18_04",
+   "lang": "ja",
+   "chapter": "ja_l18",
+   "kicker": "标日 · 第18課",
+   "title": "形ほうがいいです",
+   "title_sub": "最好～（形容词版）(します)用 を。ほうがいい",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "形ほうがいいです",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "安いほうがいいです。",
+     "hl": "",
+     "zh": "便宜点好。动词版在第21课（たほうがいい）。"
+    },
+    {
+     "t": "近いほうがいいです。",
+     "hl": "",
+     "zh": "近一点好。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "最好～（形容词版）(します)用 を。ほうがいい",
+   "page": 18,
+   "foot": "初级上 · 第18課"
+  },
+  {
+   "id": "ja_g_l19_01",
+   "lang": "ja",
+   "chapter": "ja_l19",
+   "kicker": "标日 · 第19課",
+   "title": "动ないでください",
+   "title_sub": "请不要做～",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "动ないでください",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "タバコを吸わないでください。",
+     "hl": "",
+     "zh": "请不要抽烟。"
+    },
+    {
+     "t": "ここで写真を撮らないでください。",
+     "hl": "",
+     "zh": "请不要在这里拍照。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "请不要做～",
+   "page": 19,
+   "foot": "初级上 · 第19課"
+  },
+  {
+   "id": "ja_g_l19_02",
+   "lang": "ja",
+   "chapter": "ja_l19",
+   "kicker": "标日 · 第19課",
+   "title": "动なければなりません",
+   "title_sub": "必须～（不做不行）",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "动なければなりません",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "早く帰らなければなりません。",
+     "hl": "",
+     "zh": "必须早点回。"
+    },
+    {
+     "t": "明日までに宿題をしなければなりません。",
+     "hl": "",
+     "zh": "必须在明天之前做完作业。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "必须～（不做不行）",
+   "page": 19,
+   "foot": "初级上 · 第19課"
+  },
+  {
+   "id": "ja_g_l19_03",
+   "lang": "ja",
+   "chapter": "ja_l19",
+   "kicker": "标日 · 第19課",
+   "title": "动なくてもいいです",
+   "title_sub": "不～也行",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "动なくてもいいです",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "今日は来なくてもいいです。",
+     "hl": "",
+     "zh": "今天不来也行。"
+    },
+    {
+     "t": "明日は早く起きなくてもいいです。",
+     "hl": "",
+     "zh": "明天不早起也行。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "不～也行",
+   "page": 19,
+   "foot": "初级上 · 第19課"
+  },
+  {
+   "id": "ja_g_l19_04",
+   "lang": "ja",
+   "chapter": "ja_l19",
+   "kicker": "标日 · 第19課",
+   "title": "名1が名2です",
+   "title_sub": "新信息做主语（用が）",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "名1が名2です",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "こちらが受付です。",
+     "hl": "",
+     "zh": "这边是接待处。"
+    },
+    {
+     "t": "あそこが駅です。",
+     "hl": "",
+     "zh": "那边是车站。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "新信息做主语（用が）",
+   "page": 19,
+   "foot": "初级上 · 第19課"
+  },
+  {
+   "id": "ja_g_l19_05",
+   "lang": "ja",
+   "chapter": "ja_l19",
+   "kicker": "标日 · 第19課",
+   "title": "疑问詞＋が",
+   "title_sub": "疑问词做主语用が",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "疑问詞",
+     "zh": false
+    },
+    {
+     "t": "＋",
+     "zh": true
+    },
+    {
+     "t": "が",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "どの人が李さんですか。",
+     "hl": "",
+     "zh": "哪位是小李？"
+    },
+    {
+     "t": "だれが来ましたか。",
+     "hl": "",
+     "zh": "谁来了？"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "疑问词做主语用が",
+   "page": 19,
+   "foot": "初级上 · 第19課"
+  },
+  {
+   "id": "ja_g_l20_01",
+   "lang": "ja",
+   "chapter": "ja_l20",
+   "kicker": "标日 · 第20課",
+   "title": "动(基本形)ことができます",
+   "title_sub": "能/会～",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "动(基本形)ことができます",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "日本語を話すことができます。",
+     "hl": "",
+     "zh": "会说日语。"
+    },
+    {
+     "t": "車を運転することができます。",
+     "hl": "",
+     "zh": "会开车。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "能/会～",
+   "page": 20,
+   "foot": "初级上 · 第20課"
+  },
+  {
+   "id": "ja_g_l20_02",
+   "lang": "ja",
+   "chapter": "ja_l20",
+   "kicker": "标日 · 第20課",
+   "title": "动(基本形)ことです",
+   "title_sub": "（内容）是做～",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "动(基本形)ことです",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "趣味は山を登ることです。",
+     "hl": "",
+     "zh": "爱好是爬山。"
+    },
+    {
+     "t": "私の趣味は写真を撮ることです。",
+     "hl": "",
+     "zh": "我的爱好是拍照。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "（内容）是做～",
+   "page": 20,
+   "foot": "初级上 · 第20課"
+  },
+  {
+   "id": "ja_g_l20_03",
+   "lang": "ja",
+   "chapter": "ja_l20",
+   "kicker": "标日 · 第20課",
+   "title": "动前に～",
+   "title_sub": "在～之前",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "动前に～",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "寝る前に歯を磨きます。",
+     "hl": "",
+     "zh": "睡前刷牙。"
+    },
+    {
+     "t": "出かける前に電話します。",
+     "hl": "",
+     "zh": "出门前打电话。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "在～之前",
+   "page": 20,
+   "foot": "初级上 · 第20課"
+  },
+  {
+   "id": "ja_g_l20_04",
+   "lang": "ja",
+   "chapter": "ja_l20",
+   "kicker": "标日 · 第20課",
+   "title": "疑问詞＋か",
+   "title_sub": "某～（不定）",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "疑问詞",
+     "zh": false
+    },
+    {
+     "t": "＋",
+     "zh": true
+    },
+    {
+     "t": "か",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "いつか行きたいです。",
+     "hl": "",
+     "zh": "想什么时候去。"
+    },
+    {
+     "t": "何か飲みたいです。",
+     "hl": "",
+     "zh": "想喝点什么。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "某～（不定）",
+   "page": 20,
+   "foot": "初级上 · 第20課"
+  },
+  {
+   "id": "ja_g_l21_01",
+   "lang": "ja",
+   "chapter": "ja_l21",
+   "kicker": "标日 · 第21課",
+   "title": "动た形ことがあります",
+   "title_sub": "曾经～过",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "动た形ことがあります",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "日本へ行ったことがあります。",
+     "hl": "",
+     "zh": "去过日本。"
+    },
+    {
+     "t": "この料理を食べたことがあります。",
+     "hl": "",
+     "zh": "吃过这道菜。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "曾经～过",
+   "page": 21,
+   "foot": "初级上 · 第21課"
+  },
+  {
+   "id": "ja_g_l21_02",
+   "lang": "ja",
+   "chapter": "ja_l21",
+   "kicker": "标日 · 第21課",
+   "title": "动た後で～",
+   "title_sub": "～之后～",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "动た後で～",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "ご飯を食べた後で勉強します。",
+     "hl": "",
+     "zh": "饭后学习。"
+    },
+    {
+     "t": "仕事が終わった後で飲みに行きます。",
+     "hl": "",
+     "zh": "工作结束后去喝酒。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "～之后～",
+   "page": 21,
+   "foot": "初级上 · 第21課"
+  },
+  {
+   "id": "ja_g_l21_03",
+   "lang": "ja",
+   "chapter": "ja_l21",
+   "kicker": "标日 · 第21課",
+   "title": "动たほうがいいです",
+   "title_sub": "最好～（动词版）",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "动たほうがいいです",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "早く寝たほうがいいです。",
+     "hl": "",
+     "zh": "最好早点睡。"
+    },
+    {
+     "t": "病院へ行ったほうがいいです。",
+     "hl": "",
+     "zh": "最好去医院。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "最好～（动词版）",
+   "page": 21,
+   "foot": "初级上 · 第21課"
+  },
+  {
+   "id": "ja_g_l21_04",
+   "lang": "ja",
+   "chapter": "ja_l21",
+   "kicker": "标日 · 第21課",
+   "title": "动ましょうか",
+   "title_sub": "～好吗/让我～",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "动ましょうか",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "手伝いましょうか。",
+     "hl": "",
+     "zh": "我来帮忙吧？"
+    },
+    {
+     "t": "窓を開けましょうか。",
+     "hl": "",
+     "zh": "我开窗好吗？"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "～好吗/让我～",
+   "page": 21,
+   "foot": "初级上 · 第21課"
+  },
+  {
+   "id": "ja_g_l22_01",
+   "lang": "ja",
+   "chapter": "ja_l22",
+   "kicker": "标日 · 第22課",
+   "title": "简体形（基本形/ない形/た形）",
+   "title_sub": "朋友间/小句用",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "简体形（基本形/ない形/た形）",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "私は行く。",
+     "hl": "",
+     "zh": "我去。"
+    },
+    {
+     "t": "昨日、映画を見た。",
+     "hl": "",
+     "zh": "昨天看了电影。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "朋友间/小句用",
+   "page": 22,
+   "foot": "初级上 · 第22課"
+  },
+  {
+   "id": "ja_g_l22_02",
+   "lang": "ja",
+   "chapter": "ja_l22",
+   "kicker": "标日 · 第22課",
+   "title": "小句けど、小句",
+   "title_sub": "不过/那个～（转折·铺垫）",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "小句けど、小句",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "安いけど、美味しいです。",
+     "hl": "",
+     "zh": "便宜但好吃。"
+    },
+    {
+     "t": "寒いけど、元気です。",
+     "hl": "",
+     "zh": "虽然冷，但很精神。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "不过/那个～（转折·铺垫）",
+   "page": 22,
+   "foot": "初级上 · 第22課"
+  },
+  {
+   "id": "ja_g_l22_03",
+   "lang": "ja",
+   "chapter": "ja_l22",
+   "kicker": "标日 · 第22課",
+   "title": "简体修饰名词",
+   "title_sub": "小句+名词",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "简体修饰名词",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "私が買った本",
+     "hl": "",
+     "zh": "我买的书"
+    },
+    {
+     "t": "昨日読んだ本",
+     "hl": "",
+     "zh": "昨天读的书"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "小句+名词",
+   "page": 22,
+   "foot": "初级上 · 第22課"
+  },
+  {
+   "id": "ja_g_l22_04",
+   "lang": "ja",
+   "chapter": "ja_l22",
+   "kicker": "标日 · 第22課",
+   "title": "かどうか",
+   "title_sub": "是否～",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "かどうか",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "行くかどうか分かりません。",
+     "hl": "",
+     "zh": "不知去不去。"
+    },
+    {
+     "t": "安いかどうか分かりません。",
+     "hl": "",
+     "zh": "不知道便不便宜。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "是否～",
+   "page": 22,
+   "foot": "初级上 · 第22課"
+  },
+  {
+   "id": "ja_g_l23_01",
+   "lang": "ja",
+   "chapter": "ja_l23",
+   "kicker": "标日 · 第23課",
+   "title": "动たり动たりします",
+   "title_sub": "列举代表性动作",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "动たり动たりします",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "本を読んだり音楽を聞いたりします。",
+     "hl": "",
+     "zh": "看看书听听音乐。"
+    },
+    {
+     "t": "日曜日は掃除をしたり洗濯をしたりします。",
+     "hl": "",
+     "zh": "星期天打扫打扫、洗洗衣服。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "列举代表性动作",
+   "page": 23,
+   "foot": "初级上 · 第23課"
+  },
+  {
+   "id": "ja_g_l23_02",
+   "lang": "ja",
+   "chapter": "ja_l23",
+   "kicker": "标日 · 第23課",
+   "title": "形かったり/形だったり/名だった",
+   "title_sub": "状态多样",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "形かったり/形だったり/名だった",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "忙しかったり暇だったりです。",
+     "hl": "",
+     "zh": "有时忙有时闲。"
+    },
+    {
+     "t": "値段は高かったり安かったりです。",
+     "hl": "",
+     "zh": "价格有贵有便宜。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "状态多样",
+   "page": 23,
+   "foot": "初级上 · 第23課"
+  },
+  {
+   "id": "ja_g_l23_03",
+   "lang": "ja",
+   "chapter": "ja_l23",
+   "kicker": "标日 · 第23課",
+   "title": "小句＋か（不确定内容）",
+   "title_sub": "是否～（作句子成分）",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "小句",
+     "zh": false
+    },
+    {
+     "t": "＋",
+     "zh": true
+    },
+    {
+     "t": "か（不确定内容）",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "彼が来るか知りません。",
+     "hl": "",
+     "zh": "不知他来不来。"
+    },
+    {
+     "t": "いつ来るか分かりません。",
+     "hl": "",
+     "zh": "不知道什么时候来。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "是否～（作句子成分）",
+   "page": 23,
+   "foot": "初级上 · 第23課"
+  },
+  {
+   "id": "ja_g_l24_01",
+   "lang": "ja",
+   "chapter": "ja_l24",
+   "kicker": "标日 · 第24課",
+   "title": "小句(简体)と思います",
+   "title_sub": "我觉得～",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "小句(简体)と思います",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "明日雨が降ると思います。",
+     "hl": "",
+     "zh": "我觉得明天会下雨。"
+    },
+    {
+     "t": "この映画はとても面白いと思います。",
+     "hl": "",
+     "zh": "我觉得这部电影非常有意思。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "我觉得～",
+   "page": 24,
+   "foot": "初级上 · 第24課"
+  },
+  {
+   "id": "ja_g_l24_02",
+   "lang": "ja",
+   "chapter": "ja_l24",
+   "kicker": "标日 · 第24課",
+   "title": "名は小句(简体)と言いました",
+   "title_sub": "（某人）说～",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "名は小句(简体)と言いました",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "友達は「楽しい」と言いました。",
+     "hl": "",
+     "zh": "朋友说很开心。"
+    },
+    {
+     "t": "田中さんは「明日行く」と言いました。",
+     "hl": "",
+     "zh": "田中说他明天去。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "（某人）说～",
+   "page": 24,
+   "foot": "初级上 · 第24課"
+  },
+  {
+   "id": "ja_g_l24_03",
+   "lang": "ja",
+   "chapter": "ja_l24",
+   "kicker": "标日 · 第24課",
+   "title": "～のです/んです",
+   "title_sub": "说明原因/解释",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "～のです/んです",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "どうして遅れたのですか。",
+     "hl": "",
+     "zh": "为什么迟到了？"
+    },
+    {
+     "t": "気分が悪いんです。",
+     "hl": "",
+     "zh": "是因为身体不舒服。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "说明原因/解释",
+   "page": 24,
+   "foot": "初级上 · 第24課"
+  },
+  {
+   "id": "ja_g_l24_04",
+   "lang": "ja",
+   "chapter": "ja_l24",
+   "kicker": "标日 · 第24課",
+   "title": "小句が、小句[铺垫]",
+   "title_sub": "（书面）铺垫",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "小句が、小句[铺垫]",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "すみませんが、…",
+     "hl": "",
+     "zh": "抱歉，…"
+    },
+    {
+     "t": "失礼ですが、お名前は何ですか。",
+     "hl": "",
+     "zh": "不好意思，请问您贵姓？"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "（书面）铺垫",
+   "page": 24,
+   "foot": "初级上 · 第24課"
+  },
+  {
+   "id": "ja_g_particle_01",
+   "lang": "ja",
+   "chapter": "ja_g_particles",
+   "kicker": "标日 · 格助词总表",
+   "title": "は — 提示主题（至于…）",
+   "title_sub": "提示主题（至于…）",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "は＋提示主题（至于…）",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "李さんは中国人です。",
+     "hl": "",
+     "zh": "小李是中国人。"
+    },
+    {
+     "t": "私は学生です。",
+     "hl": "",
+     "zh": "我是学生。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "把要谈论的人/事放最前做主题，后面说它怎样",
+   "page": 1,
+   "foot": "初级上 · 格助词总表"
+  },
+  {
+   "id": "ja_g_particle_02",
+   "lang": "ja",
+   "chapter": "ja_g_particles",
+   "kicker": "标日 · 格助词总表",
+   "title": "は — 对比强调",
+   "title_sub": "对比强调",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "は＋对比强调",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "小野さんは今日は休みます。",
+     "hl": "",
+     "zh": "小野今天休息。"
+    },
+    {
+     "t": "私は肉は食べません。",
+     "hl": "",
+     "zh": "我是不吃肉的。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "同一主体不同方面做对比，は略重读",
+   "page": 5,
+   "foot": "初级上 · 格助词总表"
+  },
+  {
+   "id": "ja_g_particle_03",
+   "lang": "ja",
+   "chapter": "ja_g_particles",
+   "kicker": "标日 · 格助词总表",
+   "title": "は — 复合助词对比",
+   "title_sub": "复合助词对比",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "は＋复合助词对比",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "中国へは行きませんでした。",
+     "hl": "",
+     "zh": "没去中国。"
+    },
+    {
+     "t": "日本には行きますが、韓国には行きません。",
+     "hl": "",
+     "zh": "日本会去，但韩国不去。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "格助词后叠加は表对比（へは・では）",
+   "page": 6,
+   "foot": "初级上 · 格助词总表"
+  },
+  {
+   "id": "ja_g_particle_04",
+   "lang": "ja",
+   "chapter": "ja_g_particles",
+   "kicker": "标日 · 格助词总表",
+   "title": "が — 存在主语",
+   "title_sub": "存在主语",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "が＋存在主语",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "部屋に猫がいます。",
+     "hl": "",
+     "zh": "房间里有猫。"
+    },
+    {
+     "t": "庭に木があります。",
+     "hl": "",
+     "zh": "院子里有树。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "あります/います前的主语用が",
+   "page": 4,
+   "foot": "初级上 · 格助词总表"
+  },
+  {
+   "id": "ja_g_particle_05",
+   "lang": "ja",
+   "chapter": "ja_g_particles",
+   "kicker": "标日 · 格助词总表",
+   "title": "が — 情感·好恶·能力对象",
+   "title_sub": "情感·好恶·能力对象",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "が＋情感·好恶·能力对象",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "小野さんは歌が好きです。",
+     "hl": "",
+     "zh": "小野喜欢唱歌。"
+    },
+    {
+     "t": "妹は料理が上手です。",
+     "hl": "",
+     "zh": "妹妹做菜很拿手。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "好き/嫌い/上手/分かる的对象用が",
+   "page": 11,
+   "foot": "初级上 · 格助词总表"
+  },
+  {
+   "id": "ja_g_particle_06",
+   "lang": "ja",
+   "chapter": "ja_g_particles",
+   "kicker": "标日 · 格助词总表",
+   "title": "が — 自动词主语",
+   "title_sub": "自动词主语",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "が＋自动词主语",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "電車が来ました。",
+     "hl": "",
+     "zh": "电车来了。"
+    },
+    {
+     "t": "雨が降っています。",
+     "hl": "",
+     "zh": "正在下雨。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "着く・見える等自动词的主语用が",
+   "page": 15,
+   "foot": "初级上 · 格助词总表"
+  },
+  {
+   "id": "ja_g_particle_07",
+   "lang": "ja",
+   "chapter": "ja_g_particles",
+   "kicker": "标日 · 格助词总表",
+   "title": "が — 新信息·疑问词主语",
+   "title_sub": "新信息·疑问词主语",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "が＋新信息·疑问词主语",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "どの人が李さんですか。",
+     "hl": "",
+     "zh": "哪位是小李？"
+    },
+    {
+     "t": "どれがあなたの傘ですか。",
+     "hl": "",
+     "zh": "哪个是你的伞？"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "答句新信息、疑问词做主语用が",
+   "page": 19,
+   "foot": "初级上 · 格助词总表"
+  },
+  {
+   "id": "ja_g_particle_08",
+   "lang": "ja",
+   "chapter": "ja_g_particles",
+   "kicker": "标日 · 格助词总表",
+   "title": "を — 宾语",
+   "title_sub": "宾语",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "を＋宾语",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "コーヒーを飲みます。",
+     "hl": "",
+     "zh": "喝咖啡。"
+    },
+    {
+     "t": "毎朝新聞を読みます。",
+     "hl": "",
+     "zh": "每天早上看报纸。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "动作直接作用的对象",
+   "page": 7,
+   "foot": "初级上 · 格助词总表"
+  },
+  {
+   "id": "ja_g_particle_09",
+   "lang": "ja",
+   "chapter": "ja_g_particles",
+   "kicker": "标日 · 格助词总表",
+   "title": "を — 经过·离开的场所",
+   "title_sub": "经过·离开的场所",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "を＋经过·离开的场所",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "橋を渡ります。",
+     "hl": "",
+     "zh": "过桥。"
+    },
+    {
+     "t": "毎朝公園を散歩します。",
+     "hl": "",
+     "zh": "每天早上在公园散步。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "渡る・出る等，经过或离开某地",
+   "page": 14,
+   "foot": "初级上 · 格助词总表"
+  },
+  {
+   "id": "ja_g_particle_10",
+   "lang": "ja",
+   "chapter": "ja_g_particles",
+   "kicker": "标日 · 格助词总表",
+   "title": "に — 存在场所",
+   "title_sub": "存在场所",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "に＋存在场所",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "机の上に本があります。",
+     "hl": "",
+     "zh": "桌上有书。"
+    },
+    {
+     "t": "公園に子供がいます。",
+     "hl": "",
+     "zh": "公园里有小孩。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "物/人存在的地点",
+   "page": 4,
+   "foot": "初级上 · 格助词总表"
+  },
+  {
+   "id": "ja_g_particle_11",
+   "lang": "ja",
+   "chapter": "ja_g_particles",
+   "kicker": "标日 · 格助词总表",
+   "title": "に — 具体时间点",
+   "title_sub": "具体时间点",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "に＋具体时间点",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "7時に起きます。",
+     "hl": "",
+     "zh": "7点起床。"
+    },
+    {
+     "t": "毎晩十一時に寝ます。",
+     "hl": "",
+     "zh": "每天晚上十一点睡觉。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "在几点做，时间后加に",
+   "page": 5,
+   "foot": "初级上 · 格助词总表"
+  },
+  {
+   "id": "ja_g_particle_12",
+   "lang": "ja",
+   "chapter": "ja_g_particles",
+   "kicker": "标日 · 格助词总表",
+   "title": "に — 给/从的对象",
+   "title_sub": "给/从的对象",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "に＋给/从的对象",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "友達にプレゼントをあげます。",
+     "hl": "",
+     "zh": "给朋友礼物。"
+    },
+    {
+     "t": "母に手紙を書きます。",
+     "hl": "",
+     "zh": "给妈妈写信。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "あげる/もらう的对象用に",
+   "page": 8,
+   "foot": "初级上 · 格助词总表"
+  },
+  {
+   "id": "ja_g_particle_13",
+   "lang": "ja",
+   "chapter": "ja_g_particles",
+   "kicker": "标日 · 格助词总表",
+   "title": "に — 移动目的",
+   "title_sub": "移动目的",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "に＋移动目的",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "買い物に行きます。",
+     "hl": "",
+     "zh": "去买东西。"
+    },
+    {
+     "t": "映画を見に行きます。",
+     "hl": "",
+     "zh": "去看电影。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "～に行く/来る，去做什么",
+   "page": 13,
+   "foot": "初级上 · 格助词总表"
+  },
+  {
+   "id": "ja_g_particle_14",
+   "lang": "ja",
+   "chapter": "ja_g_particles",
+   "kicker": "标日 · 格助词总表",
+   "title": "に — 附着点·目的地",
+   "title_sub": "附着点·目的地",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "に＋附着点·目的地",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "椅子に座ります。",
+     "hl": "",
+     "zh": "坐在椅子上。"
+    },
+    {
+     "t": "バスに乗ります。",
+     "hl": "",
+     "zh": "坐公交车。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "坐/站/回到的点用に",
+   "page": 15,
+   "foot": "初级上 · 格助词总表"
+  },
+  {
+   "id": "ja_g_particle_15",
+   "lang": "ja",
+   "chapter": "ja_g_particles",
+   "kicker": "标日 · 格助词总表",
+   "title": "へ — 方向·目的地",
+   "title_sub": "方向·目的地",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "へ＋方向·目的地",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "中国へ行きます。",
+     "hl": "",
+     "zh": "去中国。"
+    },
+    {
+     "t": "もう家へ帰ります。",
+     "hl": "",
+     "zh": "我这就回家。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "去哪儿，读 e（へ）",
+   "page": 6,
+   "foot": "初级上 · 格助词总表"
+  },
+  {
+   "id": "ja_g_particle_16",
+   "lang": "ja",
+   "chapter": "ja_g_particles",
+   "kicker": "标日 · 格助词总表",
+   "title": "で — 交通手段",
+   "title_sub": "交通手段",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "で＋交通手段",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "バスで行きます。",
+     "hl": "",
+     "zh": "坐公交去。"
+    },
+    {
+     "t": "自転車で学校へ行きます。",
+     "hl": "",
+     "zh": "骑自行车去学校。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "坐什么去",
+   "page": 6,
+   "foot": "初级上 · 格助词总表"
+  },
+  {
+   "id": "ja_g_particle_17",
+   "lang": "ja",
+   "chapter": "ja_g_particles",
+   "kicker": "标日 · 格助词总表",
+   "title": "で — 动作场所",
+   "title_sub": "动作场所",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "で＋动作场所",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "図書館で勉強します。",
+     "hl": "",
+     "zh": "在图书馆学习。"
+    },
+    {
+     "t": "公園で写真を撮ります。",
+     "hl": "",
+     "zh": "在公园拍照。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "动作在哪里发生",
+   "page": 7,
+   "foot": "初级上 · 格助词总表"
+  },
+  {
+   "id": "ja_g_particle_18",
+   "lang": "ja",
+   "chapter": "ja_g_particles",
+   "kicker": "标日 · 格助词总表",
+   "title": "で — 工具·材料",
+   "title_sub": "工具·材料",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "で＋工具·材料",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "鉛筆で手紙を書きます。",
+     "hl": "",
+     "zh": "用铅笔写信。"
+    },
+    {
+     "t": "はしでご飯を食べます。",
+     "hl": "",
+     "zh": "用筷子吃饭。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "用～做",
+   "page": 8,
+   "foot": "初级上 · 格助词总表"
+  },
+  {
+   "id": "ja_g_particle_19",
+   "lang": "ja",
+   "chapter": "ja_g_particles",
+   "kicker": "标日 · 格助词总表",
+   "title": "で — 并列·中顿（二类/名）",
+   "title_sub": "并列·中顿（二类/名）",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "で＋并列·中顿（二类/名）",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "静かで便利です。",
+     "hl": "",
+     "zh": "既安静又方便。"
+    },
+    {
+     "t": "王さんは学生で、私の友達です。",
+     "hl": "",
+     "zh": "小王是学生，也是我的朋友。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "既…又…（静かで/学生で）",
+   "page": 16,
+   "foot": "初级上 · 格助词总表"
+  },
+  {
+   "id": "ja_g_particle_20",
+   "lang": "ja",
+   "chapter": "ja_g_particles",
+   "kicker": "标日 · 格助词总表",
+   "title": "と — 完全列举（和）",
+   "title_sub": "完全列举（和）",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "と＋完全列举（和）",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "時計と眼鏡です。",
+     "hl": "",
+     "zh": "是表和眼镜。"
+    },
+    {
+     "t": "パンと卵を買いました。",
+     "hl": "",
+     "zh": "买了面包和鸡蛋。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "把全部列出来，AとB",
+   "page": 4,
+   "foot": "初级上 · 格助词总表"
+  },
+  {
+   "id": "ja_g_particle_21",
+   "lang": "ja",
+   "chapter": "ja_g_particles",
+   "kicker": "标日 · 格助词总表",
+   "title": "と — 共同行动者",
+   "title_sub": "共同行动者",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "と＋共同行动者",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "友達と帰ります。",
+     "hl": "",
+     "zh": "和朋友回去。"
+    },
+    {
+     "t": "母と買い物に行きます。",
+     "hl": "",
+     "zh": "和妈妈去买东西。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "和谁一起做",
+   "page": 6,
+   "foot": "初级上 · 格助词总表"
+  },
+  {
+   "id": "ja_g_particle_22",
+   "lang": "ja",
+   "chapter": "ja_g_particles",
+   "kicker": "标日 · 格助词总表",
+   "title": "と — 引用内容",
+   "title_sub": "引用内容",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "と＋引用内容",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "「楽しい」と言いました。",
+     "hl": "",
+     "zh": "说“开心”。"
+    },
+    {
+     "t": "「おはよう」と挨拶しました。",
+     "hl": "",
+     "zh": "打了声“早上好”的招呼。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "像引号，包住说话内容",
+   "page": 24,
+   "foot": "初级上 · 格助词总表"
+  },
+  {
+   "id": "ja_g_particle_23",
+   "lang": "ja",
+   "chapter": "ja_g_particles",
+   "kicker": "标日 · 格助词总表",
+   "title": "から — 时间起点",
+   "title_sub": "时间起点",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "から＋时间起点",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "9時から働きます。",
+     "hl": "",
+     "zh": "9点开始工作。"
+    },
+    {
+     "t": "月曜日から学校が始まります。",
+     "hl": "",
+     "zh": "从星期一开始上课。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "从几点开始",
+   "page": 5,
+   "foot": "初级上 · 格助词总表"
+  },
+  {
+   "id": "ja_g_particle_24",
+   "lang": "ja",
+   "chapter": "ja_g_particles",
+   "kicker": "标日 · 格助词总表",
+   "title": "から — 空间起点",
+   "title_sub": "空间起点",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "から＋空间起点",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "北京から来ました。",
+     "hl": "",
+     "zh": "从北京来。"
+    },
+    {
+     "t": "上海から飛行機で行きます。",
+     "hl": "",
+     "zh": "从上海坐飞机去。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "从哪儿来/去",
+   "page": 6,
+   "foot": "初级上 · 格助词总表"
+  },
+  {
+   "id": "ja_g_particle_25",
+   "lang": "ja",
+   "chapter": "ja_g_particles",
+   "kicker": "标日 · 格助词总表",
+   "title": "まで — 时间/空间终点",
+   "title_sub": "时间/空间终点",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "まで＋时间/空间终点",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "5時まで働きます。",
+     "hl": "",
+     "zh": "工作到5点。"
+    },
+    {
+     "t": "駅まで歩きます。",
+     "hl": "",
+     "zh": "走到车站。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "到几点/到哪儿",
+   "page": 5,
+   "foot": "初级上 · 格助词总表"
+  },
+  {
+   "id": "ja_g_particle_26",
+   "lang": "ja",
+   "chapter": "ja_g_particles",
+   "kicker": "标日 · 格助词总表",
+   "title": "より — 比较基准（比～）",
+   "title_sub": "比较基准（比～）",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "より＋比较基准（比～）",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "森さんより若いです。",
+     "hl": "",
+     "zh": "比森先生年轻。"
+    },
+    {
+     "t": "今日は昨日より暑いです。",
+     "hl": "",
+     "zh": "今天比昨天热。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "AはBより～，A比B更…",
+   "page": 12,
+   "foot": "初级上 · 格助词总表"
+  },
+  {
+   "id": "ja_g_particle_27",
+   "lang": "ja",
+   "chapter": "ja_g_particles",
+   "kicker": "标日 · 格助词总表",
+   "title": "の — 所属·修饰",
+   "title_sub": "所属·修饰",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "の＋所属·修饰",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "私の本です。",
+     "hl": "",
+     "zh": "是我的书。"
+    },
+    {
+     "t": "これは田中さんの車です。",
+     "hl": "",
+     "zh": "这是田中先生的车。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "～的，连接两个名词",
+   "page": 1,
+   "foot": "初级上 · 格助词总表"
+  },
+  {
+   "id": "ja_g_particle_28",
+   "lang": "ja",
+   "chapter": "ja_g_particles",
+   "kicker": "标日 · 格助词总表",
+   "title": "や — 不完全列举（～等）",
+   "title_sub": "不完全列举（～等）",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "や＋不完全列举（～等）",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "中国や韓国へ行きます。",
+     "hl": "",
+     "zh": "去中国、韩国等地。"
+    },
+    {
+     "t": "机の上にペンやノートがあります。",
+     "hl": "",
+     "zh": "桌上有笔和笔记本等。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "只列一部分，还有别的",
+   "page": 11,
+   "foot": "初级上 · 格助词总表"
+  },
+  {
+   "id": "ja_g_particle_29",
+   "lang": "ja",
+   "chapter": "ja_g_particles",
+   "kicker": "标日 · 格助词总表",
+   "title": "か — 疑问（吗）",
+   "title_sub": "疑问（吗）",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "か＋疑问（吗）",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "学生ですか。",
+     "hl": "",
+     "zh": "是学生吗？"
+    },
+    {
+     "t": "これは何ですか。",
+     "hl": "",
+     "zh": "这是什么？"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "句尾表疑问",
+   "page": 1,
+   "foot": "初级上 · 格助词总表"
+  },
+  {
+   "id": "ja_g_particle_30",
+   "lang": "ja",
+   "chapter": "ja_g_particles",
+   "kicker": "标日 · 格助词总表",
+   "title": "か — 选择（或）",
+   "title_sub": "选择（或）",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "か＋选择（或）",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "パンかお粥ですか。",
+     "hl": "",
+     "zh": "面包还是粥？"
+    },
+    {
+     "t": "コーヒーかお茶を飲みます。",
+     "hl": "",
+     "zh": "喝咖啡或茶。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "AかB，二选一",
+   "page": 7,
+   "foot": "初级上 · 格助词总表"
+  },
+  {
+   "id": "ja_g_particle_31",
+   "lang": "ja",
+   "chapter": "ja_g_particles",
+   "kicker": "标日 · 格助词总表",
+   "title": "か — 不定（某～）",
+   "title_sub": "不定（某～）",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "か＋不定（某～）",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "いつか行きたいです。",
+     "hl": "",
+     "zh": "想什么时候去。"
+    },
+    {
+     "t": "だれか来ましたか。",
+     "hl": "",
+     "zh": "有人来了吗？"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "疑问词+か表不确定",
+   "page": 20,
+   "foot": "初级上 · 格助词总表"
+  },
+  {
+   "id": "ja_g_particle_32",
+   "lang": "ja",
+   "chapter": "ja_g_particles",
+   "kicker": "标日 · 格助词总表",
+   "title": "も — 也",
+   "title_sub": "也",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "も＋也",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "私も行きます。",
+     "hl": "",
+     "zh": "我也去。"
+    },
+    {
+     "t": "李さんも学生です。",
+     "hl": "",
+     "zh": "小李也是学生。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "同样适用，代替は",
+   "page": 3,
+   "foot": "初级上 · 格助词总表"
+  },
+  {
+   "id": "ja_g_particle_33",
+   "lang": "ja",
+   "chapter": "ja_g_particles",
+   "kicker": "标日 · 格助词总表",
+   "title": "も — 全否定",
+   "title_sub": "全否定",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    {
+     "t": "も＋全否定",
+     "zh": false
+    }
+   ],
+   "examples": [
+    {
+     "t": "だれもいません。",
+     "hl": "",
+     "zh": "谁也不在。"
+    },
+    {
+     "t": "何も食べませんでした。",
+     "hl": "",
+     "zh": "什么都没吃。"
+    }
+   ],
+   "note_label": "意思 · 怎么用",
+   "note": "疑问词+も+否定 = 全都不",
+   "page": 4,
+   "foot": "初级上 · 格助词总表"
+  }
+ ]
+}

@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>单词卡片 · Word Card</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700&family=Noto+Serif+SC:wght@500;600;700;900&display=swap" rel="stylesheet">
+<style>
+  /* ============ 设计令牌（羊皮纸棕金套件） ============ */
+  :root{
+    --cream-hi:  #fbf8eb;
+    --cream:     #f5efe2;
+    --cream-lo:  #eadfc6;
+    --dark-hi:   #4c352a;
+    --dark:      #38261f;
+    --dark-lo:   #1d120d;
+    --gold-hi:   #f1ca97;
+    --gold:      #ddb284;
+    --gold-mid:  #c9a06a;
+    --gold-lo:   #8a6a42;
+    --gold-deep: #734f3a;
+    --text-main: #43331d;
+    --text-sub:  #6d5940;
+    --wrong:     #a8402f;
+    --wrong-deep:#7c2a1e;
+    --okay:      #5f7a3a;
+    --serif-en:  'Cinzel', 'Noto Serif SC', serif;
+    --serif-zh:  'Noto Serif SC', 'Songti SC', 'SimSun', serif;
+  }
+  *{ margin:0; padding:0; box-sizing:border-box; }
+  body{
+    font-family: var(--serif-zh);
+    color: var(--text-main);
+    background:
+      radial-gradient(1200px 600px at 70% -10%, rgba(221,178,132,.07), transparent 60%),
+      radial-gradient(900px 500px at 10% 110%, rgba(221,178,132,.05), transparent 60%),
+      #241a13;
+    min-height:100vh;
+    padding:64px 32px 72px;
+    display:flex; flex-direction:column; align-items:center; gap:24px;
+  }
+  ::selection{ background:var(--gold); color:#241a13; }
+
+  /* ============ 展台 ============ */
+  .show-title{
+    text-align:center; color:var(--cream); font-weight:900;
+    letter-spacing:.35em; text-indent:.35em; font-size:26px;
+    text-shadow:0 2px 0 rgba(0,0,0,.5);
+  }
+  .show-sub{
+    text-align:center; color:var(--gold-mid); font-family:var(--serif-en);
+    font-size:11px; letter-spacing:.5em; text-indent:.5em; margin-top:10px;
+  }
+  .show-rule{
+    width:340px; height:10px; margin:4px 0 20px;
+    background:
+      radial-gradient(circle at center 50%, var(--gold) 0 1.6px, transparent 2.2px) center/14px 10px repeat-x;
+    opacity:.8;
+  }
+  .cell{ display:flex; flex-direction:column; align-items:center; gap:20px; }
+  .cell-tag{
+    display:flex; align-items:center; gap:12px;
+    color:var(--cream-lo); font-size:13px; letter-spacing:.3em; text-indent:.3em;
+  }
+  .cell-tag::before,.cell-tag::after{
+    content:""; width:7px; height:7px; background:var(--gold-mid);
+    transform:rotate(45deg); box-shadow:0 0 0 1px rgba(115,79,58,.6);
+  }
+  .cell-tag small{ font-family:var(--serif-en); font-size:9px; letter-spacing:.25em; color:var(--gold-lo); }
+
+  /* ============ 基础面板工艺 ============ */
+  .panel{
+    position:relative; background:var(--cream); border-radius:14px;
+    border:4px solid var(--gold-deep);
+    box-shadow:
+      inset 0 0 0 2px var(--gold-hi),
+      inset 0 2px 0 rgba(255,255,255,.85),
+      inset 0 -3px 0 var(--gold-mid),
+      0 6px 18px rgba(0,0,0,.45),
+      0 2px 4px rgba(0,0,0,.4);
+  }
+  .panel::before{
+    content:""; position:absolute; inset:6px; border-radius:9px;
+    border:1.5px solid rgba(138,106,66,.55);
+    pointer-events:none;
+  }
+  .corner{
+    position:absolute; width:14px; height:14px; z-index:2;
+    background:var(--gold);
+    -webkit-mask:var(--star);
+    -webkit-mask-composite:xor; mask-composite:exclude;
+    --star:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><path d='M12 0l2.6 9.4L24 12l-9.4 2.6L12 24l-2.6-9.4L0 12l9.4-2.6z'/></svg>") center/contain no-repeat;
+    filter:drop-shadow(0 1px 0 rgba(0,0,0,.35));
+  }
+  .corner.tl{ top:-7px; left:-7px; } .corner.tr{ top:-7px; right:-7px; }
+  .corner.bl{ bottom:-7px; left:-7px; } .corner.br{ bottom:-7px; right:-7px; }
+
+  /* ============ 单词卡片（可翻面） ============ */
+  .flip-wrap{ width:340px; height:472px; perspective:1400px; }
+  .flip{
+    position:relative; width:100%; height:100%;
+    transform-style:preserve-3d;
+    transition:transform .65s cubic-bezier(.2,.7,.25,1);
+  }
+  .flip-wrap.flipped .flip{ transform:rotateY(180deg); }
+  .wordcard{
+    position:absolute; inset:0; backface-visibility:hidden;
+    display:flex; flex-direction:column; padding:26px 26px 22px;
+  }
+  .wordcard.back{ transform:rotateY(180deg); }
+
+  .wc-head{ display:flex; justify-content:space-between; align-items:center; }
+  .wc-level{
+    display:inline-flex; align-items:center; gap:8px;
+    background:var(--dark); color:var(--gold); border-radius:8px;
+    border:1.5px solid var(--gold-lo);
+    box-shadow:inset 0 1px 0 rgba(241,202,151,.35), inset 0 -2px 4px rgba(0,0,0,.5);
+    font-size:11px; letter-spacing:.18em; padding:5px 12px 4px;
+  }
+  .wc-level i{ width:6px; height:6px; background:var(--gold); transform:rotate(45deg); }
+  .star-btn{
+    width:34px; height:34px; border:none; cursor:pointer; background:none;
+    color:var(--gold-mid); padding:0; border-radius:8px;
+    transition:transform .15s ease;
+  }
+  .star-btn:hover{ transform:scale(1.15); color:var(--gold-hi); }
+  .star-btn:focus-visible{ outline:2px solid var(--gold-hi); outline-offset:2px; }
+  .star-btn.collected{ color:#d9a437; }
+
+  .wc-word{
+    margin-top:34px; text-align:center;
+    font-family:var(--serif-en); font-weight:700;
+    font-size:37px; color:var(--dark); line-height:1.05;
+    text-shadow:0 1px 0 rgba(255,255,255,.8);
+    overflow-wrap:anywhere;
+  }
+  .wc-phon{
+    margin-top:12px; text-align:center; color:var(--text-sub);
+    font-size:14px; letter-spacing:.04em;
+  }
+  .wc-phon b{
+    font-family:var(--serif-en); font-weight:700; font-size:11px;
+    background:var(--dark); color:var(--gold);
+    border-radius:6px; padding:3px 9px 2px; margin-left:8px;
+    border:1.5px solid var(--gold-lo);
+    box-shadow:inset 0 1px 0 rgba(241,202,151,.3);
+    letter-spacing:.08em;
+  }
+  .wc-mean{
+    margin:20px auto 0; text-align:center; font-weight:700; font-size:16px;
+    color:var(--text-main); letter-spacing:.1em;
+  }
+  .wc-rule{
+    width:190px; height:8px; margin:16px auto 0;
+    background:radial-gradient(circle at center 50%, var(--gold-mid) 0 1.3px, transparent 1.9px) center/12px 8px repeat-x;
+  }
+  .wc-ex{
+    margin-top:20px; background:rgba(56,38,31,.06);
+    border:1.5px solid rgba(138,106,66,.4); border-radius:10px;
+    padding:14px 16px; font-size:13px; line-height:1.75; color:var(--text-sub);
+  }
+  .wc-ex em{ font-style:normal; color:var(--dark); font-family:var(--serif-en); font-size:12.5px; }
+  .wc-ex strong{ font-weight:700; color:var(--wrong); }
+  .wc-foot{
+    margin-top:auto; display:flex; justify-content:center; align-items:center; gap:10px;
+    color:var(--text-sub); font-size:11px; letter-spacing:.25em;
+  }
+  .wc-foot::before,.wc-foot::after{ content:""; width:36px; height:1.5px; background:linear-gradient(90deg,transparent,var(--gold-mid)); }
+  .wc-foot::after{ transform:scaleX(-1); }
+
+  .wc-back-title{
+    text-align:center; font-size:12px; letter-spacing:.35em; text-indent:.35em;
+    color:var(--gold-lo); margin-top:6px;
+  }
+  .wc-root{
+    margin-top:18px; background:var(--dark); border-radius:10px;
+    border:2px solid var(--gold-lo);
+    box-shadow:inset 0 1px 0 rgba(241,202,151,.3), inset 0 -3px 6px rgba(0,0,0,.5);
+    padding:14px 16px;
+  }
+  .wc-root-row{ display:flex; align-items:baseline; gap:10px; justify-content:center; flex-wrap:wrap; }
+  .wc-root-row + .wc-root-row{ margin-top:8px; }
+  .wc-root-row .seg{ color:var(--cream); font-size:15px; }
+  .wc-root-row .seg i{ font-style:normal; color:var(--gold); font-size:11px; margin-left:4px; }
+  .wc-root-note{ text-align:center; margin-top:10px; color:var(--gold-mid); font-size:12.5px; letter-spacing:.05em; }
+  .wc-list{ margin-top:16px; font-size:13px; line-height:2.05; color:var(--text-sub); }
+  .wc-list b{ color:var(--dark); font-weight:700; letter-spacing:.1em; }
+  .wc-list .en{ font-family:var(--serif-en); font-size:12.5px; }
+  .wc-btn{
+    margin-top:auto; display:block; width:100%; cursor:pointer;
+    background:linear-gradient(180deg, var(--gold-hi), var(--gold) 55%, var(--gold-mid));
+    border:2px solid var(--gold-deep); border-radius:10px;
+    box-shadow:inset 0 1px 0 rgba(255,255,255,.7), inset 0 -2px 0 rgba(115,79,58,.4), 0 3px 6px rgba(0,0,0,.3);
+    color:var(--dark); font-family:var(--serif-zh); font-weight:700;
+    font-size:14px; letter-spacing:.3em; text-indent:.3em; padding:11px 0 10px;
+    transition:transform .12s ease, filter .12s ease;
+  }
+  .wc-btn:hover{ filter:brightness(1.05); transform:translateY(-1px); }
+  .wc-btn:active{ transform:translateY(1px); }
+  .wc-btn:focus-visible{ outline:2px solid var(--dark); outline-offset:2px; }
+  .wc-btn.collected{ filter:saturate(.4) brightness(.96); }
+
+  @media (prefers-reduced-motion: reduce){
+    *{ transition:none !important; animation:none !important; }
+  }
+</style>
+</head>
+<body>
+  <header>
+    <h1 class="show-title">单词卡片</h1>
+    <p class="show-sub">WORD CARD</p>
+    <div class="show-rule" aria-hidden="true"></div>
+  </header>
+
+  <main class="cell" aria-label="单词卡片组件">
+    <div class="flip-wrap" id="wordCardWrap">
+      <div class="flip">
+        <!-- 正面 -->
+        <article class="panel wordcard" data-surface="front">
+          <i class="corner tl"></i><i class="corner tr"></i><i class="corner bl"></i><i class="corner br"></i>
+          <header class="wc-head">
+            <span class="wc-level"><i></i>高频词汇 · LV.3</span>
+            <button class="star-btn" id="starBtn" aria-pressed="false" title="收藏单词">
+              <svg width="26" height="26" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+                <path d="M12 1.8l3.1 6.7 7.1.9-5.2 5 1.4 7.1L12 17.9 5.6 21.5 7 14.4 1.8 9.4l7.1-.9z"/>
+              </svg>
+            </button>
+          </header>
+          <h2 class="wc-word">resilient</h2>
+          <p class="wc-phon">/rɪˈzɪl.i.ənt/<b>adj.</b></p>
+          <p class="wc-mean">适应力强的 · 能迅速恢复的</p>
+          <div class="wc-rule" aria-hidden="true"></div>
+          <div class="wc-ex">
+            <em>A resilient mind <strong>bends</strong> but does not break.</em><br>
+            坚韧之心，弯而不折。
+          </div>
+          <p class="wc-foot">点击卡片翻面</p>
+        </article>
+        <!-- 背面 -->
+        <article class="panel wordcard back" data-surface="back">
+          <i class="corner tl"></i><i class="corner tr"></i><i class="corner bl"></i><i class="corner br"></i>
+          <h3 class="wc-back-title">词 根 拆 解</h3>
+          <div class="wc-root">
+            <div class="wc-root-row">
+              <span class="seg">re-<i>回、再</i></span>
+              <span class="seg">sili<i>跳</i></span>
+              <span class="seg">-ent<i>形容词</i></span>
+            </div>
+            <p class="wc-root-note">→「弹回来的」→ 有弹性的 → 适应力强的</p>
+          </div>
+          <dl class="wc-list">
+            <div><b>同义词</b>　<span class="en">tough · adaptable · hardy</span></div>
+            <div><b>反义词</b>　<span class="en">fragile · brittle</span></div>
+            <div><b>真题例</b>　<span class="en">resilient economy</span> 弹性经济</div>
+          </dl>
+          <button class="wc-btn" id="collectBtn" aria-pressed="false">＋ 收入记词本</button>
+        </article>
+      </div>
+    </div>
+    <p class="cell-tag">单词卡片 <small>WORD CARD</small></p>
+  </main>
+
+<script>
+  (function(){
+    var wrap  = document.getElementById('wordCardWrap');
+    var star  = document.getElementById('starBtn');
+    var collect = document.getElementById('collectBtn');
+    wrap.setAttribute('tabindex','0');
+    wrap.setAttribute('role','button');
+    wrap.setAttribute('aria-label','单词卡片，点击翻面查看词根拆解');
+    function flip(){ wrap.classList.toggle('flipped'); }
+    wrap.addEventListener('click', function(e){
+      if (e.target.closest('button')) return;
+      flip();
+    });
+    wrap.addEventListener('keydown', function(e){
+      if ((e.key === 'Enter' || e.key === ' ') && e.target === wrap){
+        e.preventDefault(); flip();
+      }
+    });
+    function setCollected(on){
+      star.classList.toggle('collected', on);
+      collect.classList.toggle('collected', on);
+      star.setAttribute('aria-pressed', on);
+      collect.setAttribute('aria-pressed', on);
+      collect.textContent = on ? '✓ 已在记词本中' : '＋ 收入记词本';
+    }
+    star.addEventListener('click', function(){
+      setCollected(!star.classList.contains('collected'));
+    });
+    collect.addEventListener('click', function(){
+      setCollected(!collect.classList.contains('collected'));
+    });
+  })();
+</script>
+</body>
+</html>

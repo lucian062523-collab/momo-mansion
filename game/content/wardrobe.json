@@ -1,0 +1,455 @@
+{
+  "version": 2,
+  "note": "衣柜数据：57 套（老 33 + 「墨墨的新装 2.0」24 套），四个分类，卡片一页 3 套。所有立绘均为 2:3 等比（1024×1536），卡片与大模特可任意互换不变形。加套装只动这个文件，界面按分类自动分页。",
+  "per_page": 3,
+  "unlock_all_initial": false,
+  "unlock_all_note": "已切成「真实解锁」：每分类免费 3 套（见 pricing.free_sets），其余按价购买。version 在这里不只是标记 —— wardrobe.js 拿它当「解锁模型版本」，旧存档（全解锁时代）第一次进来会把解锁表退回免费名单，否则收费套装会一直是已解锁状态、购买流程形同虚设。以后**只加套装不要动这个版本号**：动了会把玩家买过的整套退回去。",
+  "sets_note": "《墨墨的新装》那 14 套一律追加在老套之后，且每个分类内「免费的那套排最前、其余按价升序」—— 老套的页内顺序与免费名额都不动，已有存档不受影响。套装 id 用拼音，img 指向 import_sprite_pack.py 落进素材库的默认立绘（形态 B 的包：每套一个文件夹，默认图统一存成 墨墨-{套装}.webp）。",
+  "pricing": {
+    "free_per_category": 3,
+    "note": "用户定：每分类免费 3 套（老的那 2 套 + 新装里最朴素的那 1 套），其余按华丽程度定价。未解锁的可以在服装界面试穿，但试穿态不写存档、离开界面即还原（见 trial_note）。",
+    "tiers": [
+      80,
+      90,
+      240,
+      360,
+      520
+    ],
+    "by_set": {
+      "life_lan": 80,
+      "life_fen": 80,
+      "life_zhixing": 90,
+      "school_mao": 80,
+      "school_yun": 80,
+      "school_bu": 240,
+      "work_zhiye": 90,
+      "work_jiandie": 520,
+      "hanfu_congcong": 240,
+      "hanfu_jinli": 360,
+      "hanfu_qianhua": 520,
+      "life_lengdong": 90,
+      "life_lanhua": 240,
+      "school_yan": 90,
+      "work_baijiahei": 240,
+      "work_yanjingshe": 360,
+      "hanfu_mimi": 240,
+      "hanfu_heizhen": 240,
+      "hanfu_hongsu": 360,
+      "hanfu_jiuyu": 360,
+      "hanfu_moteng": 520,
+      "life_baixiang": 80,
+      "life_dongqing": 90,
+      "life_zhou": 90,
+      "life_haibei": 90,
+      "life_kekoukele": 240,
+      "life_songta": 240,
+      "life_hongque": 240,
+      "life_lanzhi": 360,
+      "life_zhu": 360,
+      "school_shuangyan": 80,
+      "school_tanjin": 240,
+      "school_gangqinjia": 240,
+      "work_zhigeng": 90,
+      "work_waimao": 240,
+      "work_shan": 240,
+      "work_gelv": 240,
+      "work_youqi": 240,
+      "work_baijin": 360,
+      "work_cangrui": 520,
+      "hanfu_jinhuan": 240,
+      "hanfu_sisi": 360,
+      "hanfu_zijing": 360,
+      "hanfu_zongshi": 360,
+      "hanfu_moyu": 520
+    },
+    "free_sets": [
+      "life_senxi",
+      "life_picao",
+      "school_initial",
+      "school_zhi",
+      "work_lifu",
+      "work_jian",
+      "hanfu_zisu",
+      "hanfu_yanqiu",
+      "life_maoni",
+      "school_susu",
+      "work_qiuli",
+      "hanfu_susu"
+    ],
+    "total_cost": 11240,
+    "total_cost_math": "45 件收费套装合计 11240 金（老 21 件 5120 + 新装 24 件 6120）。按每天净结余 120~180（日收入 240 − 生存 60~120；地点小游戏每天最多再补 45）算，全收齐约 62~94 天。新 24 套按材质与饰件繁复度分档：双燕 / 白象 80，冬青 / 咒 / 海贝 / 知更 90，金环 / 炭金 / 钢琴家 / 可口可乐 / 松塔 / 红雀 / 外贸 / 杉 / 格律 / 游鳍 240，丝丝 / 紫晶 / 鬃狮 / 兰芝 / 竹 / 白金 360，墨羽 / 藏锐 520。",
+    "trial_note": "试穿 = 只改服装界面内的预览立绘，绝不写 wardrobe.worn，所以一切到主画面就自动还原成真正穿戴的那套。实现上要把「试穿预览」和「穿戴（落盘）」做成两个分开的状态。"
+  },
+  "categories": [
+    {
+      "id": "life",
+      "label": "生活"
+    },
+    {
+      "id": "school",
+      "label": "校园"
+    },
+    {
+      "id": "work",
+      "label": "职业"
+    },
+    {
+      "id": "hanfu",
+      "label": "华服"
+    }
+  ],
+  "default_worn": "school_initial",
+  "sets": [
+    {
+      "id": "life_senxi",
+      "name": "森系",
+      "cat": "life",
+      "img": "墨墨-森系.webp"
+    },
+    {
+      "id": "life_picao",
+      "name": "皮草",
+      "cat": "life",
+      "img": "墨墨-皮草.webp"
+    },
+    {
+      "id": "life_zhixing",
+      "name": "知性",
+      "cat": "life",
+      "img": "墨墨-知性.webp"
+    },
+    {
+      "id": "life_lan",
+      "name": "休闲·蓝",
+      "cat": "life",
+      "img": "墨墨-休闲-蓝.webp"
+    },
+    {
+      "id": "life_fen",
+      "name": "休闲·粉",
+      "cat": "life",
+      "img": "墨墨-休闲-粉.webp"
+    },
+    {
+      "id": "school_initial",
+      "name": "初始",
+      "cat": "school",
+      "img": "墨墨（初始立绘）.webp"
+    },
+    {
+      "id": "school_zhi",
+      "name": "制服裙",
+      "cat": "school",
+      "img": "墨墨-制服裙.webp"
+    },
+    {
+      "id": "school_mao",
+      "name": "软毛衣",
+      "cat": "school",
+      "img": "墨墨-软毛衣.webp"
+    },
+    {
+      "id": "school_yun",
+      "name": "运动",
+      "cat": "school",
+      "img": "墨墨-运动-夏.webp"
+    },
+    {
+      "id": "school_bu",
+      "name": "不良",
+      "cat": "school",
+      "img": "墨墨-不良.webp"
+    },
+    {
+      "id": "work_lifu",
+      "name": "礼服",
+      "cat": "work",
+      "img": "墨墨-礼服.webp"
+    },
+    {
+      "id": "work_jian",
+      "name": "简装",
+      "cat": "work",
+      "img": "墨墨-简装.webp"
+    },
+    {
+      "id": "work_zhiye",
+      "name": "职业装",
+      "cat": "work",
+      "img": "墨墨-职业.webp"
+    },
+    {
+      "id": "work_jiandie",
+      "name": "间谍",
+      "cat": "work",
+      "img": "墨墨-间谍.webp"
+    },
+    {
+      "id": "hanfu_zisu",
+      "name": "紫苏",
+      "cat": "hanfu",
+      "img": "墨墨-紫苏.webp"
+    },
+    {
+      "id": "hanfu_yanqiu",
+      "name": "艳楸",
+      "cat": "hanfu",
+      "img": "墨墨-艳楸.webp"
+    },
+    {
+      "id": "hanfu_congcong",
+      "name": "葱葱",
+      "cat": "hanfu",
+      "img": "墨墨-葱葱.webp"
+    },
+    {
+      "id": "hanfu_jinli",
+      "name": "金鲤",
+      "cat": "hanfu",
+      "img": "墨墨-金鲤.webp"
+    },
+    {
+      "id": "hanfu_qianhua",
+      "name": "铅华",
+      "cat": "hanfu",
+      "img": "墨墨-铅华.webp"
+    },
+    {
+      "id": "life_maoni",
+      "name": "毛呢",
+      "cat": "life",
+      "img": "墨墨-毛呢.webp"
+    },
+    {
+      "id": "life_lengdong",
+      "name": "冷冬",
+      "cat": "life",
+      "img": "墨墨-冷冬.webp"
+    },
+    {
+      "id": "life_lanhua",
+      "name": "蓝花",
+      "cat": "life",
+      "img": "墨墨-蓝花.webp"
+    },
+    {
+      "id": "school_susu",
+      "name": "簌簌",
+      "cat": "school",
+      "img": "墨墨-簌簌.webp"
+    },
+    {
+      "id": "school_yan",
+      "name": "燕",
+      "cat": "school",
+      "img": "墨墨-燕.webp"
+    },
+    {
+      "id": "work_qiuli",
+      "name": "秋栗",
+      "cat": "work",
+      "img": "墨墨-秋栗.webp"
+    },
+    {
+      "id": "work_baijiahei",
+      "name": "白加黑",
+      "cat": "work",
+      "img": "墨墨-白加黑.webp"
+    },
+    {
+      "id": "work_yanjingshe",
+      "name": "眼镜蛇",
+      "cat": "work",
+      "img": "墨墨-眼镜蛇.webp"
+    },
+    {
+      "id": "hanfu_susu",
+      "name": "素素",
+      "cat": "hanfu",
+      "img": "墨墨-素素.webp"
+    },
+    {
+      "id": "hanfu_mimi",
+      "name": "靡靡",
+      "cat": "hanfu",
+      "img": "墨墨-靡靡.webp"
+    },
+    {
+      "id": "hanfu_heizhen",
+      "name": "黑珍",
+      "cat": "hanfu",
+      "img": "墨墨-黑珍.webp"
+    },
+    {
+      "id": "hanfu_hongsu",
+      "name": "红苏",
+      "cat": "hanfu",
+      "img": "墨墨-红苏.webp"
+    },
+    {
+      "id": "hanfu_jiuyu",
+      "name": "酒欲",
+      "cat": "hanfu",
+      "img": "墨墨-酒欲.webp"
+    },
+    {
+      "id": "hanfu_moteng",
+      "name": "墨藤",
+      "cat": "hanfu",
+      "img": "墨墨-墨藤.webp"
+    },
+    {
+      "id": "life_baixiang",
+      "name": "白象",
+      "cat": "life",
+      "img": "墨墨-白象.webp"
+    },
+    {
+      "id": "life_dongqing",
+      "name": "冬青",
+      "cat": "life",
+      "img": "墨墨-冬青.webp"
+    },
+    {
+      "id": "life_zhou",
+      "name": "咒",
+      "cat": "life",
+      "img": "墨墨-咒.webp"
+    },
+    {
+      "id": "life_haibei",
+      "name": "海贝",
+      "cat": "life",
+      "img": "墨墨-海贝.webp"
+    },
+    {
+      "id": "life_kekoukele",
+      "name": "可口可乐",
+      "cat": "life",
+      "img": "墨墨-可口可乐.webp"
+    },
+    {
+      "id": "life_songta",
+      "name": "松塔",
+      "cat": "life",
+      "img": "墨墨-松塔.webp"
+    },
+    {
+      "id": "life_hongque",
+      "name": "红雀",
+      "cat": "life",
+      "img": "墨墨-红雀.webp"
+    },
+    {
+      "id": "life_lanzhi",
+      "name": "兰芝",
+      "cat": "life",
+      "img": "墨墨-兰芝.webp"
+    },
+    {
+      "id": "life_zhu",
+      "name": "竹",
+      "cat": "life",
+      "img": "墨墨-竹.webp"
+    },
+    {
+      "id": "school_shuangyan",
+      "name": "双燕",
+      "cat": "school",
+      "img": "墨墨-双燕.webp"
+    },
+    {
+      "id": "school_tanjin",
+      "name": "炭金",
+      "cat": "school",
+      "img": "墨墨-炭金.webp"
+    },
+    {
+      "id": "school_gangqinjia",
+      "name": "钢琴家",
+      "cat": "school",
+      "img": "墨墨-钢琴家.webp"
+    },
+    {
+      "id": "work_zhigeng",
+      "name": "知更",
+      "cat": "work",
+      "img": "墨墨-知更.webp"
+    },
+    {
+      "id": "work_waimao",
+      "name": "外贸",
+      "cat": "work",
+      "img": "墨墨-外贸.webp"
+    },
+    {
+      "id": "work_shan",
+      "name": "杉",
+      "cat": "work",
+      "img": "墨墨-杉.webp"
+    },
+    {
+      "id": "work_gelv",
+      "name": "格律",
+      "cat": "work",
+      "img": "墨墨-格律.webp"
+    },
+    {
+      "id": "work_youqi",
+      "name": "游鳍",
+      "cat": "work",
+      "img": "墨墨-游鳍.webp"
+    },
+    {
+      "id": "work_baijin",
+      "name": "白金",
+      "cat": "work",
+      "img": "墨墨-白金.webp"
+    },
+    {
+      "id": "work_cangrui",
+      "name": "藏锐",
+      "cat": "work",
+      "img": "墨墨-藏锐.webp"
+    },
+    {
+      "id": "hanfu_jinhuan",
+      "name": "金环",
+      "cat": "hanfu",
+      "img": "墨墨-金环.webp"
+    },
+    {
+      "id": "hanfu_sisi",
+      "name": "丝丝",
+      "cat": "hanfu",
+      "img": "墨墨-丝丝.webp"
+    },
+    {
+      "id": "hanfu_zijing",
+      "name": "紫晶",
+      "cat": "hanfu",
+      "img": "墨墨-紫晶.webp"
+    },
+    {
+      "id": "hanfu_zongshi",
+      "name": "鬃狮",
+      "cat": "hanfu",
+      "img": "墨墨-鬃狮.webp"
+    },
+    {
+      "id": "hanfu_moyu",
+      "name": "墨羽",
+      "cat": "hanfu",
+      "img": "墨墨-墨羽.webp"
+    }
+  ],
+  "labels": {
+    "unlocked": "已解锁",
+    "locked": "未解锁",
+    "worn": "已穿戴",
+    "wear": "穿 戴",
+    "buy": "购 买",
+    "not_enough": "货币不足",
+    "locked_tip": "还没买下它 —— 点卡片下方的小牌就能解锁"
+  }
+}

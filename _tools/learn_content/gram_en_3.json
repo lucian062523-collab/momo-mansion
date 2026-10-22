@@ -1,0 +1,953 @@
+{
+ "version": 1,
+ "lang": "en",
+ "chapters": [
+  { "id": "en_g_noun", "title": "名词与冠词", "sub": "NOUNS & ARTICLES", "kicker": "语法书 · 名词篇" },
+  { "id": "en_g_prep", "title": "介词与搭配", "sub": "PREPOSITIONS", "kicker": "语法书 · 介词篇" },
+  { "id": "en_g_adjadv", "title": "形容词与副词", "sub": "ADJECTIVES & ADVERBS", "kicker": "语法书 · 形容词篇" },
+  { "id": "en_g_inversion", "title": "倒装与强调", "sub": "INVERSION & EMPHASIS", "kicker": "语法书 · 倒装篇" },
+  { "id": "en_g_writing", "title": "高分写作句式", "sub": "WRITING PATTERNS", "kicker": "语法书 · 写作篇" }
+ ],
+ "points": [
+  {
+   "id": "en_g_noun_countable",
+   "lang": "en",
+   "chapter": "en_g_noun",
+   "kicker": "语法书 · 名词篇",
+   "title": "可数名词与不可数名词",
+   "title_sub": "COUNTABLE & UNCOUNTABLE",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "不可数名词", "zh": false },
+    { "t": "＝", "zh": true },
+    { "t": "无复数 · 前不加 a/an", "zh": true }
+   ],
+   "examples": [
+    { "t": "The research provides strong evidence for the theory.", "hl": "evidence", "zh": "这项研究为该理论提供了有力证据。" },
+    { "t": "She gave me some useful advice.", "hl": "advice", "zh": "她给了我一些有用的建议。" },
+    { "t": "There is little information available.", "hl": "little information", "zh": "可获取的信息很少。" }
+   ],
+   "note_label": "辨析 · 常见的不可数名词",
+   "note": "advice, information, evidence, furniture, equipment, luggage, research, progress 等<b>不能加 -s、也不能直接加 a/an</b>；表数量要用 a piece of / an item of / some / much / little。",
+   "page": 60,
+   "foot": "名词篇"
+  },
+  {
+   "id": "en_g_noun_plural",
+   "lang": "en",
+   "chapter": "en_g_noun",
+   "kicker": "语法书 · 名词篇",
+   "title": "名词复数变化",
+   "title_sub": "PLURAL FORMS",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "名词复数", "zh": false },
+    { "t": "＝", "zh": true },
+    { "t": "-s / -es / 不规则变化", "zh": true }
+   ],
+   "examples": [
+    { "t": "The two analyses reached different conclusions.", "hl": "analyses", "zh": "这两项分析得出了不同结论。" },
+    { "t": "Several criteria must be met.", "hl": "criteria", "zh": "必须满足若干标准。" },
+    { "t": "The children were playing in the yard.", "hl": "children", "zh": "孩子们在院子里玩耍。" }
+   ],
+   "note_label": "辨析 · 外来词的复数",
+   "note": "以 -is 结尾的拉丁词变 -es（analysis→analyses，crisis→crises）；-um / -on 变 -a（datum→data，criterion→criteria）；<b>不可数名词始终没有复数</b>。",
+   "page": 61,
+   "foot": "名词篇"
+  },
+  {
+   "id": "en_g_noun_article_aan",
+   "lang": "en",
+   "chapter": "en_g_noun",
+   "kicker": "语法书 · 名词篇",
+   "title": "不定冠词 a / an",
+   "title_sub": "INDEFINITE ARTICLE",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "a / an + 单数可数名词", "zh": false },
+    { "t": "＝", "zh": true },
+    { "t": "泛指“某一个”", "zh": true }
+   ],
+   "examples": [
+    { "t": "She is an honest and diligent student.", "hl": "an honest", "zh": "她是个诚实勤奋的学生。" },
+    { "t": "He works as a university lecturer.", "hl": "a university", "zh": "他在大学当讲师。" },
+    { "t": "This is a unique opportunity.", "hl": "a unique", "zh": "这是个独一无二的机会。" }
+   ],
+   "note_label": "辨析 · 看读音不看字母",
+   "note": "a / an 的选用取决于<b>后一词的首音素</b>：honest 的 h 不发音，用 an；university、unique 以辅音音素开头，用 a。单数可数名词泛指时<b>不可用零冠词</b>。",
+   "page": 62,
+   "foot": "名词篇"
+  },
+  {
+   "id": "en_g_noun_article_the",
+   "lang": "en",
+   "chapter": "en_g_noun",
+   "kicker": "语法书 · 名词篇",
+   "title": "定冠词 the 的用法",
+   "title_sub": "DEFINITE ARTICLE",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "the + 名词", "zh": false },
+    { "t": "＝", "zh": true },
+    { "t": "特指 · 独一无二 · 再次提及", "zh": true }
+   ],
+   "examples": [
+    { "t": "The report I received yesterday was detailed.", "hl": "The report", "zh": "我昨天收到的那份报告很详尽。" },
+    { "t": "The sun rises in the east.", "hl": "The sun", "zh": "太阳从东方升起。" },
+    { "t": "She bought a car; the car is electric.", "hl": "the car", "zh": "她买了辆车，那辆车是电动的。" }
+   ],
+   "note_label": "辨析 · 何时用 the",
+   "note": "the 用于<b>上文已提及、被短语或从句限定、或世界上独一无二</b>的事物；乐器、江河海洋及某些专有名词前也用 the。",
+   "page": 63,
+   "foot": "名词篇"
+  },
+  {
+   "id": "en_g_noun_zero_article",
+   "lang": "en",
+   "chapter": "en_g_noun",
+   "kicker": "语法书 · 名词篇",
+   "title": "零冠词",
+   "title_sub": "ZERO ARTICLE",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "零冠词", "zh": false },
+    { "t": "＝", "zh": true },
+    { "t": "复数泛指 · 不可数 · 固定搭配", "zh": true }
+   ],
+   "examples": [
+    { "t": "Books shape the way we think.", "hl": "Books", "zh": "书籍塑造我们思考的方式。" },
+    { "t": "She goes to school by bus every day.", "hl": "by bus", "zh": "她每天乘公交车上学。" },
+    { "t": "Water is essential to all life.", "hl": "Water", "zh": "水对一切生命都不可或缺。" }
+   ],
+   "note_label": "辨析 · 零冠词的场合",
+   "note": "三餐、球类、学科、by + 交通工具，以及<b>复数泛指与抽象不可数名词</b>前通常零冠词；但一旦特指，仍须加 the。",
+   "page": 64,
+   "foot": "名词篇"
+  },
+  {
+   "id": "en_g_noun_possessive",
+   "lang": "en",
+   "chapter": "en_g_noun",
+   "kicker": "语法书 · 名词篇",
+   "title": "名词所有格",
+   "title_sub": "POSSESSIVE",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "名词 + 's / of + 名词", "zh": false },
+    { "t": "＝", "zh": true },
+    { "t": "表所有关系", "zh": true }
+   ],
+   "examples": [
+    { "t": "The students' union organized a charity fair.", "hl": "The students'", "zh": "学生会组织了一场慈善义卖。" },
+    { "t": "The government's policy sparked debate.", "hl": "The government's policy", "zh": "政府的政策引发了争论。" },
+    { "t": "The roof of the old house leaks.", "hl": "of the old house", "zh": "这座老房子的屋顶漏水。" }
+   ],
+   "note_label": "辨析 · 's 与 of 之别",
+   "note": "有生命的名词多用 <b>'s</b>，无生命名词多用 <b>of</b>；以 -s 结尾的复数只加撇号；并列名词表共同所有时只在<b>最后一个</b>加 's。",
+   "page": 65,
+   "foot": "名词篇"
+  },
+  {
+   "id": "en_g_noun_agreement_collective",
+   "lang": "en",
+   "chapter": "en_g_noun",
+   "kicker": "语法书 · 名词篇",
+   "title": "主谓一致 · 集合名词",
+   "title_sub": "COLLECTIVE NOUNS",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "集合名词 + 谓语", "zh": false },
+    { "t": "＝", "zh": true },
+    { "t": "整体用单数 · 成员用复数", "zh": true }
+   ],
+   "examples": [
+    { "t": "The team is playing well this season.", "hl": "The team is", "zh": "这支球队本赛季表现出色。（视为整体）" },
+    { "t": "The team are arguing among themselves.", "hl": "The team are", "zh": "队员之间正在争论。（强调成员）" },
+    { "t": "The audience was deeply moved.", "hl": "The audience was", "zh": "观众深受感动。" }
+   ],
+   "note_label": "辨析 · 整体与成员",
+   "note": "family, team, government, audience, committee 等作<b>整体</b>时谓语用单数，强调<b>各个成员</b>时用复数，后者在英式英语中更常见。",
+   "page": 66,
+   "foot": "名词篇"
+  },
+  {
+   "id": "en_g_noun_agreement_each",
+   "lang": "en",
+   "chapter": "en_g_noun",
+   "kicker": "语法书 · 名词篇",
+   "title": "each / every 与就近原则",
+   "title_sub": "DISTRIBUTIVES & PROXIMITY",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "each / every + 单数名词", "zh": false },
+    { "t": "＝", "zh": true },
+    { "t": "谓语用单数", "zh": true }
+   ],
+   "examples": [
+    { "t": "Every student has access to the library.", "hl": "has", "zh": "每个学生都能使用图书馆。" },
+    { "t": "Each of the proposals was rejected.", "hl": "was", "zh": "每份提案都被否决了。" },
+    { "t": "Either the manager or the workers are responsible.", "hl": "are", "zh": "不是经理就是工人们该负责。" }
+   ],
+   "note_label": "辨析 · 就近一致",
+   "note": "each / every / either / neither 作主语时谓语用<b>单数</b>；而 <b>either...or、neither...nor、not only...but also</b> 连接主语时，谓语与<b>最近的主语</b>保持一致。",
+   "page": 67,
+   "foot": "名词篇"
+  },
+  {
+   "id": "en_g_prep_time_in",
+   "lang": "en",
+   "chapter": "en_g_prep",
+   "kicker": "语法书 · 介词篇",
+   "title": "时间介词 in / on / at",
+   "title_sub": "PREPOSITIONS OF TIME",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "in 年月｜on 具体日｜at 时刻", "zh": false },
+    { "t": "＝", "zh": true },
+    { "t": "时间由粗到细", "zh": true }
+   ],
+   "examples": [
+    { "t": "The summit will be held in September.", "hl": "in September", "zh": "峰会将于九月举行。" },
+    { "t": "We met on a rainy Monday morning.", "hl": "on a rainy Monday morning", "zh": "我们在一个下雨的周一早晨见面。" },
+    { "t": "The train departs at 7:45.", "hl": "at 7:45", "zh": "火车 7:45 出发。" }
+   ],
+   "note_label": "辨析 · 由粗到细",
+   "note": "时间跨度由大到小用 <b>in → on → at</b>；但 at night、at noon、in the morning、on Monday morning 属固定搭配，须整体记忆。",
+   "page": 68,
+   "foot": "介词篇"
+  },
+  {
+   "id": "en_g_prep_time_duration",
+   "lang": "en",
+   "chapter": "en_g_prep",
+   "kicker": "语法书 · 介词篇",
+   "title": "时长与截止 · for / since / during / by",
+   "title_sub": "DURATION & DEADLINE",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "for 时长｜since 起点｜during 期间｜by 截止", "zh": false }
+   ],
+   "examples": [
+    { "t": "She has worked here for eight years.", "hl": "for eight years", "zh": "她已在这里工作八年。" },
+    { "t": "He has lived abroad since 2015.", "hl": "since 2015", "zh": "他自 2015 年起一直住在国外。" },
+    { "t": "The bridge will be completed by next June.", "hl": "by next June", "zh": "这座桥将在明年六月前完工。" }
+   ],
+   "note_label": "辨析 · for 与 since",
+   "note": "for 接<b>一段时间</b>，since 接<b>时间点</b>，二者常与完成时连用；during 强调“在……期间内”，by 表<b>截止期限</b>，多配完成时。",
+   "page": 69,
+   "foot": "介词篇"
+  },
+  {
+   "id": "en_g_prep_place",
+   "lang": "en",
+   "chapter": "en_g_prep",
+   "kicker": "语法书 · 介词篇",
+   "title": "地点介词 in / on / at",
+   "title_sub": "PREPOSITIONS OF PLACE",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "in 内部｜on 表面｜at 点", "zh": false },
+    { "t": "＝", "zh": true },
+    { "t": "空间关系", "zh": true }
+   ],
+   "examples": [
+    { "t": "The keys are in the drawer.", "hl": "in the drawer", "zh": "钥匙在抽屉里。" },
+    { "t": "The book lies on the desk.", "hl": "on the desk", "zh": "书摊在桌上。" },
+    { "t": "We waited at the bus stop.", "hl": "at the bus stop", "zh": "我们在公交站等候。" }
+   ],
+   "note_label": "辨析 · in / on / at",
+   "note": "in 表<b>立体空间或大地点</b>，on 表<b>表面接触或线状地点</b>，at 把地点看作<b>一个点</b>。注意 in the corner（室内角落）与 on the corner（街角）不同。",
+   "page": 70,
+   "foot": "介词篇"
+  },
+  {
+   "id": "en_g_prep_direction",
+   "lang": "en",
+   "chapter": "en_g_prep",
+   "kicker": "语法书 · 介词篇",
+   "title": "方位与趋向介词",
+   "title_sub": "DIRECTION & POSITION",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "方位介词短语", "zh": false },
+    { "t": "＝", "zh": true },
+    { "t": "相对位置与趋向", "zh": true }
+   ],
+   "examples": [
+    { "t": "The village lies beyond the river.", "hl": "beyond the river", "zh": "村庄坐落在河对岸。" },
+    { "t": "A cat crept towards the window.", "hl": "towards the window", "zh": "一只猫悄悄向窗户靠近。" },
+    { "t": "The shop is just around the corner.", "hl": "around the corner", "zh": "商店就在拐角处。" }
+   ],
+   "note_label": "辨析 · 静态与动态",
+   "note": "表<b>静态方位</b>用 in / on / beside / beyond / opposite；表<b>动态趋向</b>用 to / into / onto / towards / across。其中 into 强调进入、onto 强调到表面。",
+   "page": 71,
+   "foot": "介词篇"
+  },
+  {
+   "id": "en_g_prep_verb",
+   "lang": "en",
+   "chapter": "en_g_prep",
+   "kicker": "语法书 · 介词篇",
+   "title": "动词 + 介词搭配",
+   "title_sub": "VERB + PREPOSITION",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "动词 + 介词", "zh": false },
+    { "t": "＝", "zh": true },
+    { "t": "固定搭配，不可替换", "zh": true }
+   ],
+   "examples": [
+    { "t": "The committee will account for the delay.", "hl": "account for", "zh": "委员会将解释延误的原因。" },
+    { "t": "We must comply with the new regulations.", "hl": "comply with", "zh": "我们必须遵守新规定。" },
+    { "t": "She specializes in molecular biology.", "hl": "specializes in", "zh": "她专攻分子生物学。" }
+   ],
+   "note_label": "辨析 · 不可随意替换",
+   "note": "动词与介词的搭配<b>约定俗成</b>，如 depend on、rely on；而 result in（导致）与 result from（源于）方向相反，须分别记牢。",
+   "page": 72,
+   "foot": "介词篇"
+  },
+  {
+   "id": "en_g_prep_adj",
+   "lang": "en",
+   "chapter": "en_g_prep",
+   "kicker": "语法书 · 介词篇",
+   "title": "形容词 + 介词搭配",
+   "title_sub": "ADJECTIVE + PREPOSITION",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "形容词 + 介词", "zh": false },
+    { "t": "＝", "zh": true },
+    { "t": "固定搭配", "zh": true }
+   ],
+   "examples": [
+    { "t": "He is capable of handling the project alone.", "hl": "capable of", "zh": "他有能力独自负责这个项目。" },
+    { "t": "She is keen on classical music.", "hl": "keen on", "zh": "她热衷于古典音乐。" },
+    { "t": "The result is consistent with our prediction.", "hl": "consistent with", "zh": "结果与我们的预测一致。" }
+   ],
+   "note_label": "辨析 · 同根形容词搭配不同",
+   "note": "常见搭配：be aware of、be responsible for、be exposed to、be committed to、be dependent on、be subject to。同根形容词搭配的介词可能不同，如 be good at 与 be good for。",
+   "page": 73,
+   "foot": "介词篇"
+  },
+  {
+   "id": "en_g_prep_noun",
+   "lang": "en",
+   "chapter": "en_g_prep",
+   "kicker": "语法书 · 介词篇",
+   "title": "名词 + 介词搭配",
+   "title_sub": "NOUN + PREPOSITION",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "名词 + 介词", "zh": false },
+    { "t": "＝", "zh": true },
+    { "t": "固定搭配", "zh": true }
+   ],
+   "examples": [
+    { "t": "There has been a rise in housing prices.", "hl": "a rise in", "zh": "房价有所上涨。" },
+    { "t": "We need a solution to this problem.", "hl": "a solution to", "zh": "我们需要一个解决这个问题的办法。" },
+    { "t": "The demand for clean energy is growing.", "hl": "The demand for", "zh": "对清洁能源的需求正在增长。" }
+   ],
+   "note_label": "辨析 · in 与 of",
+   "note": "常见搭配：an increase in、a decrease in、the reason for、access to、an effect on、a lack of。注意 increase in（某方面增长）与 increase of（增长幅度）意义有别。",
+   "page": 74,
+   "foot": "介词篇"
+  },
+  {
+   "id": "en_g_prep_phrase",
+   "lang": "en",
+   "chapter": "en_g_prep",
+   "kicker": "语法书 · 介词篇",
+   "title": "介词短语作状语与定语",
+   "title_sub": "PREPOSITIONAL PHRASE",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "介词短语", "zh": false },
+    { "t": "＝", "zh": true },
+    { "t": "作状语 / 后置定语", "zh": true }
+   ],
+   "examples": [
+    { "t": "In recent years, online learning has grown rapidly.", "hl": "In recent years", "zh": "近年来，在线学习发展迅速。" },
+    { "t": "The man in the blue coat is my teacher.", "hl": "in the blue coat", "zh": "穿蓝外套的那个人是我的老师。" },
+    { "t": "The book on the shelf belongs to me.", "hl": "on the shelf", "zh": "书架上的那本书是我的。" }
+   ],
+   "note_label": "辨析 · 状语与定语位置",
+   "note": "作<b>状语</b>时多置于句首或句末，表时间、地点、方式、原因；作<b>定语</b>时紧跟被修饰名词之后，是替代定语从句的简洁写法。",
+   "page": 75,
+   "foot": "介词篇"
+  },
+  {
+   "id": "en_g_adj_order",
+   "lang": "en",
+   "chapter": "en_g_adjadv",
+   "kicker": "语法书 · 形容词篇",
+   "title": "形容词的顺序",
+   "title_sub": "ORDER OF ADJECTIVES",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "限定词 → 评价 → 大小 → 形状 → 年龄 → 颜色 → 来源 → 材料 → 名词", "zh": false }
+   ],
+   "examples": [
+    { "t": "She bought a beautiful old Italian leather bag.", "hl": "beautiful old Italian leather", "zh": "她买了一个漂亮的意大利旧皮包。" },
+    { "t": "He lives in a charming little stone house.", "hl": "charming little stone", "zh": "他住在一座迷人的小石头房子里。" }
+   ],
+   "note_label": "辨析 · 排列口诀",
+   "note": "口诀：<b>观点—大小—形状—新旧—颜色—国籍—材料</b>。同类形容词一般不超过三个，堆叠过多会显得笨重。",
+   "page": 76,
+   "foot": "形容词篇"
+  },
+  {
+   "id": "en_g_adj_ed_ing",
+   "lang": "en",
+   "chapter": "en_g_adjadv",
+   "kicker": "语法书 · 形容词篇",
+   "title": "-ed 与 -ing 分词形容词",
+   "title_sub": "-ED vs -ING ADJECTIVES",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "-ing 令人……｜-ed 感到……", "zh": false }
+   ],
+   "examples": [
+    { "t": "The lecture was inspiring.", "hl": "inspiring", "zh": "这场讲座令人振奋。" },
+    { "t": "The students were inspired by the lecture.", "hl": "inspired", "zh": "学生们被这场讲座激励了。" },
+    { "t": "This is a confusing problem; I feel confused.", "hl": "confusing", "zh": "这是个令人困惑的问题，我感到困惑。" }
+   ],
+   "note_label": "辨析 · 主语是物还是人",
+   "note": "-ing 形容词表<b>“使人产生某种感受”</b>，主语多为事物；-ed 形容词表<b>“自身有此感受”</b>，主语多为人。如 boring / bored、exciting / excited、satisfying / satisfied。",
+   "page": 77,
+   "foot": "形容词篇"
+  },
+  {
+   "id": "en_g_adj_attribute_predictive",
+   "lang": "en",
+   "chapter": "en_g_adjadv",
+   "kicker": "语法书 · 形容词篇",
+   "title": "定语与表语形容词",
+   "title_sub": "ATTRIBUTIVE & PREDICATIVE",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "定语位置（名词前）｜表语位置（be 后）", "zh": false }
+   ],
+   "examples": [
+    { "t": "The main issue remains unsolved.", "hl": "unsolved", "zh": "主要问题仍未解决。" },
+    { "t": "She is afraid of making mistakes.", "hl": "afraid", "zh": "她害怕犯错。" },
+    { "t": "This is the only viable solution.", "hl": "the only viable solution", "zh": "这是唯一可行的方案。" }
+   ],
+   "note_label": "辨析 · 位置受限的形容词",
+   "note": "多数形容词既可作定语也可作表语，但 <b>afraid, asleep, awake, alive, alone</b> 等只能作表语；<b>main, only, former, utter</b> 等只能作定语。",
+   "page": 78,
+   "foot": "形容词篇"
+  },
+  {
+   "id": "en_g_adj_adv_position",
+   "lang": "en",
+   "chapter": "en_g_adjadv",
+   "kicker": "语法书 · 形容词篇",
+   "title": "副词的位置",
+   "title_sub": "POSITION OF ADVERBS",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "be 后｜实义动词前｜助动词后", "zh": false }
+   ],
+   "examples": [
+    { "t": "She is always punctual.", "hl": "always", "zh": "她总是很准时。" },
+    { "t": "He rarely misses a deadline.", "hl": "rarely", "zh": "他几乎从不误期。" },
+    { "t": "We have already submitted the report.", "hl": "already", "zh": "我们已经提交了报告。" }
+   ],
+   "note_label": "辨析 · 三类副词的位置",
+   "note": "频率与程度副词多置于<b>be 动词之后、实义动词之前、助动词与实义动词之间</b>；方式副词常在句末；连接副词（however, therefore）多在句首。",
+   "page": 79,
+   "foot": "形容词篇"
+  },
+  {
+   "id": "en_g_adj_comparative",
+   "lang": "en",
+   "chapter": "en_g_adjadv",
+   "kicker": "语法书 · 形容词篇",
+   "title": "比较级与最高级",
+   "title_sub": "COMPARATIVE & SUPERLATIVE",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "-er / more …｜-est / most …", "zh": false }
+   ],
+   "examples": [
+    { "t": "This method is far more efficient than the old one.", "hl": "far more efficient", "zh": "这种方法比旧方法高效得多。" },
+    { "t": "He is the most influential economist of his time.", "hl": "the most influential", "zh": "他是他那个时代最具影响力的经济学家。" },
+    { "t": "The situation is getting worse.", "hl": "worse", "zh": "情况正在变糟。" }
+   ],
+   "note_label": "辨析 · 常见不规则变化",
+   "note": "单音节及部分双音节词加 <b>-er / -est</b>，多音节词用 <b>more / most</b>；good→better→best，bad→worse→worst，many / much→more→most。",
+   "page": 80,
+   "foot": "形容词篇"
+  },
+  {
+   "id": "en_g_adj_modifier",
+   "lang": "en",
+   "chapter": "en_g_adjadv",
+   "kicker": "语法书 · 形容词篇",
+   "title": "倍数与程度副词修饰比较级",
+   "title_sub": "MODIFIERS & MULTIPLES",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "倍数 / 程度词 + 比较级", "zh": false },
+    { "t": "＝", "zh": true },
+    { "t": "强化或量化差异", "zh": true }
+   ],
+   "examples": [
+    { "t": "The new model is three times as fast as the old one.", "hl": "three times as fast as", "zh": "新机型的速度是旧机型的三倍。" },
+    { "t": "This approach is much more reliable.", "hl": "much more reliable", "zh": "这种方法可靠得多。" },
+    { "t": "Sales are twice as high as last year.", "hl": "twice as high as", "zh": "销售额是去年的两倍。" }
+   ],
+   "note_label": "辨析 · 不能用 very",
+   "note": "修饰比较级用 <b>much, far, a lot, slightly, considerably, even</b>，<b>不能用 very</b>；倍数用 twice / three times + as … as，或用 twice + 比较级 + than。",
+   "page": 81,
+   "foot": "形容词篇"
+  },
+  {
+   "id": "en_g_adj_as_as",
+   "lang": "en",
+   "chapter": "en_g_adjadv",
+   "kicker": "语法书 · 形容词篇",
+   "title": "as … as 同级比较",
+   "title_sub": "AS ... AS",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "as + 形容词 / 副词原级 + as", "zh": false },
+    { "t": "＝", "zh": true },
+    { "t": "同级比较", "zh": true }
+   ],
+   "examples": [
+    { "t": "She speaks English as fluently as a native speaker.", "hl": "as fluently as", "zh": "她的英语说得和母语者一样流利。" },
+    { "t": "The task is not as difficult as it seems.", "hl": "not as difficult as", "zh": "这项任务并没有看上去那么难。" },
+    { "t": "As many as 500 people attended the event.", "hl": "As many as", "zh": "多达 500 人参加了活动。" }
+   ],
+   "note_label": "辨析 · 否定与名词搭配",
+   "note": "否定用 <b>not as / so … as</b>；as … as 之间只能用<b>原级</b>；涉及名词时注意 as much + 不可数、as many + 可数复数。",
+   "page": 82,
+   "foot": "形容词篇"
+  },
+  {
+   "id": "en_g_adj_the_more",
+   "lang": "en",
+   "chapter": "en_g_adjadv",
+   "kicker": "语法书 · 形容词篇",
+   "title": "the more … the more …",
+   "title_sub": "THE MORE ... THE MORE",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "The + 比较级 …, the + 比较级 …", "zh": false },
+    { "t": "＝", "zh": true },
+    { "t": "越……越……", "zh": true }
+   ],
+   "examples": [
+    { "t": "The more you practise, the more confident you become.", "hl": "The more you practise, the more confident", "zh": "你练得越多，就越自信。" },
+    { "t": "The higher the price, the greater the expectation.", "hl": "The higher the price, the greater the expectation", "zh": "价格越高，期望越大。" }
+   ],
+   "note_label": "辨析 · 结构要点",
+   "note": "该结构由<b>两个“the + 比较级”分句</b>构成，前句多表条件；可省略系动词，如 The sooner, the better；两句的比较级须<b>逻辑呼应</b>。",
+   "page": 83,
+   "foot": "形容词篇"
+  },
+  {
+   "id": "en_g_inv_negative",
+   "lang": "en",
+   "chapter": "en_g_inversion",
+   "kicker": "语法书 · 倒装篇",
+   "title": "否定词置于句首的倒装",
+   "title_sub": "NEGATIVE INVERSION",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "否定词 + 助动词 + 主语 + 动词", "zh": false },
+    { "t": "＝", "zh": true },
+    { "t": "部分倒装", "zh": true }
+   ],
+   "examples": [
+    { "t": "Never have I seen such a stunning view.", "hl": "Never have I seen", "zh": "我从未见过如此惊艳的景色。" },
+    { "t": "Not only did he apologize, but he also paid for the damage.", "hl": "Not only did he apologize", "zh": "他不仅道了歉，还赔偿了损失。" },
+    { "t": "Hardly had she sat down when the phone rang.", "hl": "Hardly had she sat down", "zh": "她刚坐下电话就响了。" }
+   ],
+   "note_label": "辨析 · 半否定词",
+   "note": "否定或半否定词（never, seldom, rarely, hardly, scarcely, no sooner, not only, little）置于<b>句首</b>时，主句用<b>部分倒装</b>；no sooner … than、hardly … when 表“一……就……”。",
+   "page": 84,
+   "foot": "倒装篇"
+  },
+  {
+   "id": "en_g_inv_only",
+   "lang": "en",
+   "chapter": "en_g_inversion",
+   "kicker": "语法书 · 倒装篇",
+   "title": "only 引导的倒装",
+   "title_sub": "ONLY INVERSION",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "Only + 状语 + 助动词 + 主语 + 动词", "zh": false }
+   ],
+   "examples": [
+    { "t": "Only when we cooperate can we solve the crisis.", "hl": "Only when we cooperate can we", "zh": "只有合作，我们才能化解危机。" },
+    { "t": "Only in this way can we achieve sustainability.", "hl": "Only in this way can we", "zh": "只有这样我们才能实现可持续。" },
+    { "t": "Only by working hard did he succeed.", "hl": "Only by working hard did he", "zh": "他唯有努力才取得成功。" }
+   ],
+   "note_label": "辨析 · 修饰主语时不倒装",
+   "note": "<b>only 修饰状语并置于句首</b>时用部分倒装；若 only 直接修饰<b>主语</b>，则用正常语序，如 Only he knew the answer。",
+   "page": 85,
+   "foot": "倒装篇"
+  },
+  {
+   "id": "en_g_inv_so_neither",
+   "lang": "en",
+   "chapter": "en_g_inversion",
+   "kicker": "语法书 · 倒装篇",
+   "title": "so / neither 倒装",
+   "title_sub": "SO / NEITHER",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "So / Neither + 助动词 + 主语", "zh": false },
+    { "t": "＝", "zh": true },
+    { "t": "“……也一样”", "zh": true }
+   ],
+   "examples": [
+    { "t": "I enjoy hiking. — So do I.", "hl": "So do I", "zh": "我喜欢徒步。——我也是。" },
+    { "t": "She can't swim. — Neither can he.", "hl": "Neither can he", "zh": "她不会游泳。——他也不会。" },
+    { "t": "He passed the exam; so did his sister.", "hl": "so did his sister", "zh": "他通过了考试，他妹妹也通过了。" }
+   ],
+   "note_label": "辨析 · 表“也”还是表“确实”",
+   "note": "<b>so / neither 表“也”</b>时用倒装；若 so 表<b>“是的、确实如此”</b>（对同一主语的确认）则用正常语序，如 So he did。",
+   "page": 86,
+   "foot": "倒装篇"
+  },
+  {
+   "id": "en_g_inv_subjunctive",
+   "lang": "en",
+   "chapter": "en_g_inversion",
+   "kicker": "语法书 · 倒装篇",
+   "title": "虚拟条件句省略 if 的倒装",
+   "title_sub": "INVERTED CONDITIONALS",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "Were / Had / Should + 主语 …, 主句", "zh": false },
+    { "t": "＝", "zh": true },
+    { "t": "省略 if 的虚拟条件句", "zh": true }
+   ],
+   "examples": [
+    { "t": "Were I you, I would reconsider the offer.", "hl": "Were I you", "zh": "如果我是你，我会重新考虑这个提议。" },
+    { "t": "Had they acted earlier, the loss would have been smaller.", "hl": "Had they acted earlier", "zh": "假如他们早些行动，损失本会更小。" },
+    { "t": "Should it rain, the match would be postponed.", "hl": "Should it rain", "zh": "万一下雨，比赛将延期。" }
+   ],
+   "note_label": "辨析 · 三种时间取向",
+   "note": "省略 if 后，把 <b>were / had / should</b> 提到主语前构成倒装；三者分别对应与现在、与过去、与将来相反的假设，是书面语中的高频结构。",
+   "page": 87,
+   "foot": "倒装篇"
+  },
+  {
+   "id": "en_g_inv_there_be",
+   "lang": "en",
+   "chapter": "en_g_inversion",
+   "kicker": "语法书 · 倒装篇",
+   "title": "there be 句型",
+   "title_sub": "THERE BE",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "There + be + 名词 + 状语", "zh": false },
+    { "t": "＝", "zh": true },
+    { "t": "表“……存在”", "zh": true }
+   ],
+   "examples": [
+    { "t": "There is mounting evidence that the climate is changing.", "hl": "There is mounting evidence", "zh": "越来越多的证据表明气候正在变化。" },
+    { "t": "There appear to be several possible explanations.", "hl": "There appear to be", "zh": "似乎有几种可能的解释。" },
+    { "t": "There exist serious risks in this approach.", "hl": "There exist", "zh": "这种做法存在严重风险。" }
+   ],
+   "note_label": "辨析 · 就近一致与替代动词",
+   "note": "there be 的谓语与<b>紧随其后的名词</b>保持一致（就近原则）；除 be 外还可用 <b>exist, remain, seem, appear, tend</b> 等，其后可接 that 从句。",
+   "page": 88,
+   "foot": "倒装篇"
+  },
+  {
+   "id": "en_g_inv_cleft",
+   "lang": "en",
+   "chapter": "en_g_inversion",
+   "kicker": "语法书 · 倒装篇",
+   "title": "it 强调句",
+   "title_sub": "IT-CLEFT",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "It is / was + 被强调部分 + that / who …", "zh": false }
+   ],
+   "examples": [
+    { "t": "It was his persistence that finally paid off.", "hl": "It was his persistence that", "zh": "正是他的坚持最终有了回报。" },
+    { "t": "It is the government that should bear the responsibility.", "hl": "It is the government that", "zh": "应当承担责任的是政府。" },
+    { "t": "It was in 2019 that the policy took effect.", "hl": "It was in 2019 that", "zh": "这项政策是在 2019 年生效的。" }
+   ],
+   "note_label": "辨析 · 如何识别强调句",
+   "note": "强调句结构为 <b>It is / was … that / who …</b>；去掉 It is … that 后句子仍完整。强调人时 that 可换成 who，其余一律用 that。",
+   "page": 89,
+   "foot": "倒装篇"
+  },
+  {
+   "id": "en_g_inv_do_emphasis",
+   "lang": "en",
+   "chapter": "en_g_inversion",
+   "kicker": "语法书 · 倒装篇",
+   "title": "do 强调",
+   "title_sub": "DO-EMPHASIS",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "do / does / did + 动词原形", "zh": false },
+    { "t": "＝", "zh": true },
+    { "t": "强调谓语", "zh": true }
+   ],
+   "examples": [
+    { "t": "I do believe that education can change lives.", "hl": "do believe", "zh": "我确实相信教育能够改变人生。" },
+    { "t": "She did warn us about the risks.", "hl": "did warn", "zh": "她确实警告过我们有风险。" },
+    { "t": "Please do come to the ceremony.", "hl": "do come", "zh": "请务必来参加典礼。" }
+   ],
+   "note_label": "辨析 · 使用条件",
+   "note": "do 强调只用于<b>一般现在时与一般过去时的肯定句</b>，后接<b>动词原形</b>；祈使句中的 do 表“务必、一定”，语气比命令更诚恳。",
+   "page": 90,
+   "foot": "倒装篇"
+  },
+  {
+   "id": "en_g_inv_wh_emphasis",
+   "lang": "en",
+   "chapter": "en_g_inversion",
+   "kicker": "语法书 · 倒装篇",
+   "title": "wh- 强调结构",
+   "title_sub": "WH-EMPHASIS",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "What … is / was …", "zh": false },
+    { "t": "＝", "zh": true },
+    { "t": "主语从句强调", "zh": true }
+   ],
+   "examples": [
+    { "t": "What matters most is the quality of our relationships.", "hl": "What matters most is", "zh": "最重要的是人际关系的质量。" },
+    { "t": "What we should do is to reduce waste.", "hl": "What we should do is", "zh": "我们该做的是减少浪费。" },
+    { "t": "What surprised me was his calmness under pressure.", "hl": "What surprised me was", "zh": "令我惊讶的是他在压力下的沉着。" }
+   ],
+   "note_label": "辨析 · 与 it 强调句之别",
+   "note": "用 <b>what 引导的主语从句</b>把焦点前置，比 it 强调句更书面；表语部分可用 to do、名词或从句，注意主句谓语与 what 从句的时态呼应。",
+   "page": 91,
+   "foot": "倒装篇"
+  },
+  {
+   "id": "en_g_wr_concession",
+   "lang": "en",
+   "chapter": "en_g_writing",
+   "kicker": "语法书 · 写作篇",
+   "title": "让步状语从句与倒装",
+   "title_sub": "CONCESSION",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "Although / Even though / While + 从句，主句", "zh": false }
+   ],
+   "examples": [
+    { "t": "Although the policy has drawbacks, its benefits outweigh them.", "hl": "Although the policy has drawbacks", "zh": "尽管该政策有缺陷，但其益处超过弊端。" },
+    { "t": "While technology boosts productivity, it also widens inequality.", "hl": "While technology boosts productivity", "zh": "虽然技术提升了生产率，它同时也在扩大不平等。" },
+    { "t": "Much as I admire the plan, I doubt its feasibility.", "hl": "Much as I admire the plan", "zh": "尽管我很赞赏这一计划，却怀疑其可行性。" }
+   ],
+   "note_label": "辨析 · 让步的两种写法",
+   "note": "常规让步用 although / though / even though / while / whereas；<b>although 与 but 不能同时出现</b>。倒装式让步用 <b>Much as / Try as + 主语 + 谓语</b>，或形容词、副词 + as + 主语 + be。",
+   "page": 92,
+   "foot": "写作篇"
+  },
+  {
+   "id": "en_g_wr_participle",
+   "lang": "en",
+   "chapter": "en_g_writing",
+   "kicker": "语法书 · 写作篇",
+   "title": "分词短语作状语",
+   "title_sub": "PARTICIPIAL ADVERBIAL",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "分词短语，主句", "zh": false },
+    { "t": "＝", "zh": true },
+    { "t": "表原因 / 时间 / 条件", "zh": true }
+   ],
+   "examples": [
+    { "t": "Faced with rising costs, many firms are cutting jobs.", "hl": "Faced with rising costs", "zh": "面对成本上升，许多公司在裁员。" },
+    { "t": "Having reviewed the data, the panel reached a consensus.", "hl": "Having reviewed the data", "zh": "审阅数据后，专家组达成了共识。" },
+    { "t": "Compared with traditional methods, this one is far greener.", "hl": "Compared with traditional methods", "zh": "与传统方法相比，这一方法要环保得多。" }
+   ],
+   "note_label": "辨析 · 逻辑主语须一致",
+   "note": "分词状语能让句子更紧凑，但须保证<b>逻辑主语与主句主语一致</b>；过去分词表被动或完成，现在分词表主动或同时。Compared with、Given、Faced with 是高频开头。",
+   "page": 93,
+   "foot": "写作篇"
+  },
+  {
+   "id": "en_g_wr_appositive",
+   "lang": "en",
+   "chapter": "en_g_writing",
+   "kicker": "语法书 · 写作篇",
+   "title": "同位语与插入语",
+   "title_sub": "APPOSITIVE & PARENTHESIS",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "名词, + 同位语 / 插入语, + 谓语", "zh": false }
+   ],
+   "examples": [
+    { "t": "Beijing, the capital of China, is a city of contrasts.", "hl": "the capital of China", "zh": "北京，中国的首都，是一座充满反差的都市。" },
+    { "t": "The proposal, in my view, deserves serious consideration.", "hl": "in my view", "zh": "依我之见，这份提案值得认真考虑。" },
+    { "t": "Renewable energy — solar power in particular — is expanding fast.", "hl": "solar power in particular", "zh": "可再生能源——尤其是太阳能——正在迅速扩张。" }
+   ],
+   "note_label": "辨析 · 补充说明与立场",
+   "note": "同位语用逗号或破折号隔开，对前面名词<b>作补充说明</b>；插入语（in my view, to be honest, as a matter of fact）可调节节奏、表达立场，但<b>拆掉后句子须仍成立</b>。",
+   "page": 94,
+   "foot": "写作篇"
+  },
+  {
+   "id": "en_g_wr_nominalization",
+   "lang": "en",
+   "chapter": "en_g_writing",
+   "kicker": "语法书 · 写作篇",
+   "title": "名词化表达",
+   "title_sub": "NOMINALIZATION",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "动词 → 名词", "zh": false },
+    { "t": "＝", "zh": true },
+    { "t": "更正式、更书面", "zh": true }
+   ],
+   "examples": [
+    { "t": "The implementation of the policy requires careful planning.", "hl": "The implementation of the policy", "zh": "该政策的实施需要周密规划。" },
+    { "t": "The rapid growth of cities has strained public services.", "hl": "The rapid growth of cities", "zh": "城市的快速扩张使公共服务不堪重负。" },
+    { "t": "An analysis of the data reveals a clear trend.", "hl": "An analysis of the data", "zh": "对数据的分析揭示出明显的趋势。" }
+   ],
+   "note_label": "辨析 · 学术写作的标志",
+   "note": "名词化把<b>动作或状态压缩为名词</b>，是学术写作的标志：implement→implementation，grow→growth，analyse→analysis。<b>切忌过度</b>，否则句子冗赘晦涩。",
+   "page": 95,
+   "foot": "写作篇"
+  },
+  {
+   "id": "en_g_wr_nonfinite_attribute",
+   "lang": "en",
+   "chapter": "en_g_writing",
+   "kicker": "语法书 · 写作篇",
+   "title": "非谓语作定语的高级写法",
+   "title_sub": "ADVANCED NON-FINITE ATTRIBUTE",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "名词 + to do / doing / done / 介词短语", "zh": false },
+    { "t": "＝", "zh": true },
+    { "t": "后置定语替代从句", "zh": true }
+   ],
+   "examples": [
+    { "t": "The measures taken by the government proved effective.", "hl": "taken by the government", "zh": "政府采取的措施被证明是有效的。" },
+    { "t": "There are many factors contributing to urban pollution.", "hl": "contributing to urban pollution", "zh": "有许多因素造成城市污染。" },
+    { "t": "It is a problem to be addressed without delay.", "hl": "to be addressed without delay", "zh": "这是一个亟待解决的问题。" }
+   ],
+   "note_label": "辨析 · 逻辑关系决定形式",
+   "note": "用非谓语或介词短语作后置定语可<b>替代定语从句</b>、使表达更精炼：done 表被动完成，doing 表主动进行，to do 表将要或被动必要。<b>注意与先行词的逻辑关系</b>。",
+   "page": 96,
+   "foot": "写作篇"
+  },
+  {
+   "id": "en_g_wr_comparison",
+   "lang": "en",
+   "chapter": "en_g_writing",
+   "kicker": "语法书 · 写作篇",
+   "title": "比较与对比句式",
+   "title_sub": "COMPARISON & CONTRAST",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "while / whereas / by contrast + 对照分句", "zh": false }
+   ],
+   "examples": [
+    { "t": "Urban residents earn more, whereas rural incomes lag behind.", "hl": "whereas", "zh": "城市居民收入更高，而农村收入则落后。" },
+    { "t": "By contrast, developing countries face different challenges.", "hl": "By contrast", "zh": "相比之下，发展中国家面临不同的挑战。" },
+    { "t": "The gap between rich and poor is widening rather than narrowing.", "hl": "rather than narrowing", "zh": "贫富差距在不断拉大而非缩小。" }
+   ],
+   "note_label": "辨析 · 对比与递进的衔接词",
+   "note": "表对比：<b>while, whereas, by contrast, on the contrary, in comparison</b>；表递进：moreover, furthermore。注意<b>不要混用对比与因果</b>的逻辑连接词。",
+   "page": 97,
+   "foot": "写作篇"
+  },
+  {
+   "id": "en_g_wr_cause_effect",
+   "lang": "en",
+   "chapter": "en_g_writing",
+   "kicker": "语法书 · 写作篇",
+   "title": "因果与推论句式",
+   "title_sub": "CAUSE & EFFECT",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "原因 → 结果", "zh": false },
+    { "t": "＝", "zh": true },
+    { "t": "due to / result in / consequently", "zh": true }
+   ],
+   "examples": [
+    { "t": "The delay resulted in substantial financial losses.", "hl": "resulted in", "zh": "这一延误造成了巨大的财务损失。" },
+    { "t": "Owing to the heavy rain, the event was cancelled.", "hl": "Owing to the heavy rain", "zh": "由于大雨，活动被取消了。" },
+    { "t": "Traffic congestion, therefore, demands urgent solutions.", "hl": "therefore", "zh": "因此，交通拥堵亟需解决。" }
+   ],
+   "note_label": "辨析 · result in 与 result from",
+   "note": "表原因：due to, owing to, because of, on account of（后接名词）；表结果：result in, lead to, give rise to, consequently, therefore。注意 <b>result in（导致）与 result from（源于）</b>方向相反。",
+   "page": 98,
+   "foot": "写作篇"
+  },
+  {
+   "id": "en_g_wr_it_formal",
+   "lang": "en",
+   "chapter": "en_g_writing",
+   "kicker": "语法书 · 写作篇",
+   "title": "It 形式主语句",
+   "title_sub": "IT AS FORMAL SUBJECT",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "It is + adj. / n. + to do / that 从句", "zh": false },
+    { "t": "＝", "zh": true },
+    { "t": "形式主语", "zh": true }
+   ],
+   "examples": [
+    { "t": "It is essential that governments invest in public transport.", "hl": "It is essential that", "zh": "政府投资公共交通至关重要。" },
+    { "t": "It is widely acknowledged that reading broadens the mind.", "hl": "It is widely acknowledged that", "zh": "广泛认可的是，阅读能开阔思维。" },
+    { "t": "It remains to be seen whether the plan will work.", "hl": "It remains to be seen", "zh": "这一计划是否奏效尚待观察。" }
+   ],
+   "note_label": "辨析 · 真正主语后置",
+   "note": "it 作形式主语，把<b>真正主语（不定式或 that 从句）后置</b>，避免头重脚轻；<b>It is + adj. + that 从句</b>中，表重要性、必要性、惊奇的形容词后，从句多用 should do 或虚拟语气。",
+   "page": 99,
+   "foot": "写作篇"
+  },
+  {
+   "id": "en_g_wr_end_weight",
+   "lang": "en",
+   "chapter": "en_g_writing",
+   "kicker": "语法书 · 写作篇",
+   "title": "避免头重脚轻的句式",
+   "title_sub": "END WEIGHT",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "短主语 + 长谓语 / 长修饰", "zh": false },
+    { "t": "＝", "zh": true },
+    { "t": "尾重原则", "zh": true }
+   ],
+   "examples": [
+    { "t": "It is widely believed that hard work leads to success.", "hl": "It is widely believed", "zh": "人们普遍认为努力会带来成功。" },
+    { "t": "A growing number of students are choosing to study abroad.", "hl": "A growing number of students", "zh": "越来越多的学生选择出国留学。" },
+    { "t": "There is little doubt that climate change poses a global threat.", "hl": "little doubt", "zh": "毫无疑问，气候变化构成全球威胁。" }
+   ],
+   "note_label": "辨析 · 尾重原则",
+   "note": "英语句子的信息重心常在<b>句尾</b>，故应<b>避免主语过长</b>；可用 it 形式主语、there be、被动语态把长成分移到句末，使句子平衡、易读。",
+   "page": 100,
+   "foot": "写作篇"
+  },
+  {
+   "id": "en_g_wr_essay_frames",
+   "lang": "en",
+   "chapter": "en_g_writing",
+   "kicker": "语法书 · 写作篇",
+   "title": "雅思大作文骨架句式",
+   "title_sub": "ESSAY FRAMES",
+   "formula_label": "句 式 公 式",
+   "formula": [
+    { "t": "引入｜论证｜结论 三段骨架", "zh": false }
+   ],
+   "examples": [
+    { "t": "While some argue that technology isolates us, I believe it connects people more than ever.", "hl": "While some argue that technology isolates us", "zh": "尽管有人认为技术使人孤立，我认为它比以往更能连接人们。（引入观点）" },
+    { "t": "One compelling reason for this is that remote work boosts productivity.", "hl": "One compelling reason for this is that", "zh": "一个有力理由是远程办公能提升效率。（论证）" },
+    { "t": "In conclusion, only by balancing innovation with regulation can we harness its benefits.", "hl": "only by balancing innovation with regulation can we harness", "zh": "总之，唯有在创新与监管之间取得平衡，我们才能驾驭其益处。（结论）" }
+   ],
+   "note_label": "辨析 · 可套用的三段骨架",
+   "note": "引入用 <b>While some argue that …, I believe …</b>；论证用 <b>One compelling reason for this is that …</b>；结论用 <b>In conclusion, only by … can we …</b>（倒装收束更有力）。全篇遵循<b>论点—论据—例证</b>层层推进。",
+   "page": 101,
+   "foot": "写作篇"
+  }
+ ]
+}

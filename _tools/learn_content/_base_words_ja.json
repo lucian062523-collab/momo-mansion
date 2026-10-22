@@ -1,0 +1,596 @@
+[
+ {
+  "id": "ja_学生",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 1,
+  "lemma": "学生",
+  "kana": "がくせい",
+  "kanji": "学生",
+  "romaji": "gakusei",
+  "pos": "名",
+  "pron": "[gakusei]",
+  "meaning_zh": "(大)学生",
+  "audio": "audio/ja/ja_学生.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "韓国人",
+   "中国人",
+   "日本人"
+  ],
+  "example": {
+   "t": "あの人は学生です。",
+   "zh": "那个人是学生。"
+  }
+ },
+ {
+  "id": "ja_先生",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 1,
+  "lemma": "先生",
+  "kana": "せんせい",
+  "kanji": "先生",
+  "romaji": "sensei",
+  "pos": "名",
+  "pron": "[sensei]",
+  "meaning_zh": "老师",
+  "audio": "audio/ja/ja_先生.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "中国人",
+   "日本人",
+   "韓国人"
+  ],
+  "example": {
+   "t": "田中先生は日本語の先生です。",
+   "zh": "田中老师是日语老师。"
+  }
+ },
+ {
+  "id": "ja_学校",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 5,
+  "lemma": "学校",
+  "kana": "がっこう",
+  "kanji": "学校",
+  "romaji": "gakkou",
+  "pos": "名",
+  "pron": "[gakkou]",
+  "meaning_zh": "学校",
+  "audio": "audio/ja/ja_学校.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "今",
+   "先週",
+   "来週"
+  ],
+  "example": {
+   "t": "学校は八時に始まります。",
+   "zh": "学校八点开始上课。"
+  }
+ },
+ {
+  "id": "ja_友達",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 6,
+  "lemma": "友達",
+  "kana": "ともだち",
+  "kanji": "友達",
+  "romaji": "tomodachi",
+  "pos": "名",
+  "pron": "[tomodachi]",
+  "meaning_zh": "朋友",
+  "audio": "audio/ja/ja_友達.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "来月",
+   "先月",
+   "夜中"
+  ],
+  "example": {
+   "t": "友達と映画を見ました。",
+   "zh": "和朋友看了电影。"
+  }
+ },
+ {
+  "id": "ja_水",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 9,
+  "lemma": "水",
+  "kana": "みず",
+  "kanji": "水",
+  "romaji": "mizu",
+  "pos": "名",
+  "pron": "[mizu]",
+  "meaning_zh": "水,凉水",
+  "audio": "audio/ja/ja_水.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "四川料理",
+   "スープ",
+   "料理"
+  ],
+  "example": {
+   "t": "毎日水を飲みます。",
+   "zh": "每天喝水。"
+  }
+ },
+ {
+  "id": "ja_花",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 8,
+  "lemma": "花",
+  "kana": "はな",
+  "kanji": "花",
+  "romaji": "hana",
+  "pos": "名",
+  "pron": "[hana]",
+  "meaning_zh": "花",
+  "audio": "audio/ja/ja_花.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "パンフレット",
+   "プレゼント",
+   "チケット"
+  ],
+  "example": {
+   "t": "花を買いました。",
+   "zh": "买了花。"
+  }
+ },
+ {
+  "id": "ja_車",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 2,
+  "lemma": "車",
+  "kana": "くるま",
+  "kanji": "車",
+  "romaji": "kuruma",
+  "pos": "名",
+  "pron": "[kuruma]",
+  "meaning_zh": "车",
+  "audio": "audio/ja/ja_車.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "本",
+   "かばん",
+   "ノート"
+  ],
+  "example": {
+   "t": "あれは父の車です。",
+   "zh": "那是我父亲的车。"
+  }
+ },
+ {
+  "id": "ja_家族",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 2,
+  "lemma": "家族",
+  "kana": "かぞく",
+  "kanji": "家族",
+  "romaji": "kazoku",
+  "pos": "名",
+  "pron": "[kazoku]",
+  "meaning_zh": "家人,家属",
+  "audio": "audio/ja/ja_家族.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "本",
+   "かばん",
+   "ノート"
+  ],
+  "example": {
+   "t": "わたしの家族は四人です。",
+   "zh": "我家有四口人。"
+  }
+ },
+ {
+  "id": "ja_電車",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 6,
+  "lemma": "電車",
+  "kana": "でんしゃ",
+  "kanji": "電車",
+  "romaji": "densha",
+  "pos": "名",
+  "pron": "[densha]",
+  "meaning_zh": "电车",
+  "audio": "audio/ja/ja_電車.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "夜中",
+   "来月",
+   "先月"
+  ],
+  "example": {
+   "t": "電車で会社へ行きます。",
+   "zh": "坐电车去公司。"
+  }
+ },
+ {
+  "id": "ja_リンゴ",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 7,
+  "lemma": "リンゴ",
+  "kana": "リンゴ",
+  "kanji": null,
+  "romaji": "ringo",
+  "pos": "名",
+  "pron": "[ringo]",
+  "meaning_zh": "苹果",
+  "audio": "audio/ja/ja_リンゴ.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "コーヒー",
+   "コーラ",
+   "お茶"
+  ],
+  "example": {
+   "t": "リンゴを一つ買いました。",
+   "zh": "买了一个苹果。"
+  }
+ },
+ {
+  "id": "ja_天気",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 9,
+  "lemma": "天気",
+  "kana": "てんき",
+  "kanji": "天気",
+  "romaji": "tenki",
+  "pos": "名",
+  "pron": "[tenki]",
+  "meaning_zh": "天气",
+  "audio": "audio/ja/ja_天気.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "スープ",
+   "料理",
+   "四川料理"
+  ],
+  "example": {
+   "t": "今日はいい天気ですね。",
+   "zh": "今天天气真好啊。"
+  }
+ },
+ {
+  "id": "ja_時間",
+  "lang": "ja",
+  "tier": 2,
+  "lesson": 18,
+  "lemma": "時間",
+  "kana": "じかん",
+  "kanji": "時間",
+  "romaji": "jikan",
+  "pos": "名",
+  "pron": "[jikan]",
+  "meaning_zh": "时间",
+  "audio": "audio/ja/ja_時間.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "声",
+   "空気",
+   "音"
+  ],
+  "example": {
+   "t": "今日は時間がありません。",
+   "zh": "今天没有时间。"
+  }
+ },
+ {
+  "id": "ja_仕事",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 5,
+  "lemma": "仕事",
+  "kana": "しごと",
+  "kanji": "仕事",
+  "romaji": "shigoto",
+  "pos": "名",
+  "pron": "[shigoto]",
+  "meaning_zh": "工作",
+  "audio": "audio/ja/ja_仕事.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "来週",
+   "今",
+   "先週"
+  ],
+  "example": {
+   "t": "仕事は五時に終わります。",
+   "zh": "工作五点结束。"
+  }
+ },
+ {
+  "id": "ja_お金",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 8,
+  "lemma": "お金",
+  "kana": "おかね",
+  "kanji": "お金",
+  "romaji": "okane",
+  "pos": "名",
+  "pron": "[okane]",
+  "meaning_zh": "钱,金钱",
+  "audio": "audio/ja/ja_お金.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "プレゼント",
+   "チケット",
+   "パンフレット"
+  ],
+  "example": {
+   "t": "今、お金がありません。",
+   "zh": "现在没有钱。"
+  }
+ },
+ {
+  "id": "ja_病院",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 3,
+  "lemma": "病院",
+  "kana": "びょういん",
+  "kanji": "病院",
+  "romaji": "byouin",
+  "pos": "名",
+  "pron": "[byouin]",
+  "meaning_zh": "医院",
+  "audio": "audio/ja/ja_病院.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "デパート",
+   "食堂",
+   "郵便局"
+  ],
+  "example": {
+   "t": "父は病院に行きます。",
+   "zh": "父亲去医院。"
+  }
+ },
+ {
+  "id": "ja_音楽",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 7,
+  "lemma": "音楽",
+  "kana": "おんがく",
+  "kanji": "音楽",
+  "romaji": "ongaku",
+  "pos": "名",
+  "pron": "[ongaku]",
+  "meaning_zh": "音乐",
+  "audio": "audio/ja/ja_音楽.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "コーラ",
+   "お茶",
+   "コーヒー"
+  ],
+  "example": {
+   "t": "日本の音楽が好きです。",
+   "zh": "我喜欢日本的音乐。"
+  }
+ },
+ {
+  "id": "ja_駅",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 4,
+  "lemma": "駅",
+  "kana": "えき",
+  "kanji": "駅",
+  "romaji": "eki",
+  "pos": "名",
+  "pron": "[eki]",
+  "meaning_zh": "车站",
+  "audio": "audio/ja/ja_駅.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "庭",
+   "家",
+   "部屋"
+  ],
+  "example": {
+   "t": "駅で友達を待ちます。",
+   "zh": "在车站等朋友。"
+  }
+ },
+ {
+  "id": "ja_映画",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 7,
+  "lemma": "映画",
+  "kana": "えいが",
+  "kanji": "映画",
+  "romaji": "eiga",
+  "pos": "名",
+  "pron": "[eiga]",
+  "meaning_zh": "电影",
+  "audio": "audio/ja/ja_映画.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "お茶",
+   "コーヒー",
+   "コーラ"
+  ],
+  "example": {
+   "t": "昨日、映画を見ました。",
+   "zh": "昨天看了电影。"
+  }
+ },
+ {
+  "id": "ja_電話",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 2,
+  "lemma": "電話",
+  "kana": "でんわ",
+  "kanji": "電話",
+  "romaji": "denwa",
+  "pos": "名",
+  "pron": "[denwa]",
+  "meaning_zh": "电话",
+  "audio": "audio/ja/ja_電話.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "ノート",
+   "本",
+   "かばん"
+  ],
+  "example": {
+   "t": "これは会社の電話です。",
+   "zh": "这是公司的电话。"
+  }
+ },
+ {
+  "id": "ja_夜",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 5,
+  "lemma": "夜",
+  "kana": "よる",
+  "kanji": "夜",
+  "romaji": "yoru",
+  "pos": "名",
+  "pron": "[yoru]",
+  "meaning_zh": "晚上,夜里,夜晚",
+  "audio": "audio/ja/ja_夜.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "今",
+   "先週",
+   "来週"
+  ],
+  "example": {
+   "t": "夜、星がきれいです。",
+   "zh": "晚上星星很美。"
+  }
+ },
+ {
+  "id": "ja_食べ物",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 9,
+  "lemma": "食べ物",
+  "kana": "たべもの",
+  "kanji": "食べ物",
+  "romaji": "tabemono",
+  "pos": "名",
+  "pron": "[tabemono]",
+  "meaning_zh": "食物,食品",
+  "audio": "audio/ja/ja_食べ物.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "料理",
+   "四川料理",
+   "スープ"
+  ],
+  "example": {
+   "t": "日本の食べ物が好きです。",
+   "zh": "我喜欢日本的食物。"
+  }
+ },
+ {
+  "id": "ja_家",
+  "lang": "ja",
+  "tier": 1,
+  "lesson": 4,
+  "lemma": "家",
+  "kana": "いえ",
+  "kanji": "家",
+  "romaji": "ie",
+  "pos": "名",
+  "pron": "[ie]",
+  "meaning_zh": "家",
+  "audio": "audio/ja/ja_家.ogg",
+  "tags": [
+   "core",
+   "noun"
+  ],
+  "distractors": [
+   "庭",
+   "居間",
+   "部屋"
+  ],
+  "example": {
+   "t": "六時に家へ帰ります。",
+   "zh": "六点回家。"
+  }
+ }
+]

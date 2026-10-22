@@ -1,0 +1,933 @@
+{
+  "version": 1,
+  "lang": "en",
+  "chapters": [
+    { "id": "en_g_clause", "title": "从句", "sub": "CLAUSES", "kicker": "语法书 · 从句篇" },
+    { "id": "en_g_subjunctive", "title": "虚拟语气", "sub": "SUBJUNCTIVE", "kicker": "语法书 · 虚拟篇" },
+    { "id": "en_g_modal", "title": "情态动词", "sub": "MODAL VERBS", "kicker": "语法书 · 情态篇" }
+  ],
+  "points": [
+    {
+      "id": "en_g_clause_that_clause",
+      "lang": "en",
+      "chapter": "en_g_clause",
+      "kicker": "语法书 · 从句篇",
+      "title": "that 引导名词性从句",
+      "title_sub": "THAT-CLAUSES (NOUN)",
+      "formula_label": "句 式 公 式",
+      "formula": [
+        { "t": "that", "zh": false },
+        { "t": "＋", "zh": true },
+        { "t": "完整句子", "zh": true }
+      ],
+      "examples": [
+        { "t": "That she was late made everyone uneasy.", "hl": "That she was late", "zh": "她迟到让大家都很不安。（that 从句作主语）" },
+        { "t": "I believe that honesty always pays off.", "hl": "that honesty always pays off", "zh": "我相信诚实总有回报。（that 从句作宾语）" },
+        { "t": "The trouble is that we have no money left.", "hl": "that we have no money left", "zh": "问题是我们没钱了。（that 从句作表语）" }
+      ],
+      "note_label": "辨析 · that 与 what",
+      "note": "that 引导名词性从句时<b>只起连接作用</b>，在从句中不作成分；what 则要在从句里充当主语或宾语，相当于 the thing(s) that，二者不能互换。",
+      "page": 12,
+      "foot": "从句章"
+    },
+    {
+      "id": "en_g_clause_wh_clause",
+      "lang": "en",
+      "chapter": "en_g_clause",
+      "kicker": "语法书 · 从句篇",
+      "title": "wh- 引导名词性从句",
+      "title_sub": "WH-CLAUSES (NOUN)",
+      "formula_label": "句 式 公 式",
+      "formula": [
+        { "t": "wh- 词", "zh": false },
+        { "t": "＋", "zh": true },
+        { "t": "陈述语序的句子", "zh": true }
+      ],
+      "examples": [
+        { "t": "What surprises me is his calm.", "hl": "What surprises me", "zh": "让我惊讶的是他的镇定。（主语从句）" },
+        { "t": "I don't know where he has gone.", "hl": "where he has gone", "zh": "我不知道他去了哪里。（宾语从句）" },
+        { "t": "That is why I called you.", "hl": "why I called you", "zh": "这就是我打电话给你的原因。（表语从句）" }
+      ],
+      "note_label": "辨析 · wh- 从句的语序",
+      "note": "wh- 从句一律用<b>陈述语序</b>，即使主句是疑问句也不例外：Do you know <i>where he is</i>? 而非 where is he。",
+      "page": 13,
+      "foot": "从句章"
+    },
+    {
+      "id": "en_g_clause_appositive",
+      "lang": "en",
+      "chapter": "en_g_clause",
+      "kicker": "语法书 · 从句篇",
+      "title": "同位语从句",
+      "title_sub": "APPOSITIVE CLAUSES",
+      "formula_label": "句 式 公 式",
+      "formula": [
+        { "t": "fact / idea / belief / news …", "zh": false },
+        { "t": "＋", "zh": true },
+        { "t": "that + 完整句子", "zh": false }
+      ],
+      "examples": [
+        { "t": "The news that the team had won spread fast.", "hl": "that the team had won", "zh": "球队获胜的消息迅速传开。" },
+        { "t": "I have no idea when the meeting will end.", "hl": "when the meeting will end", "zh": "我不知道会议何时结束。" },
+        { "t": "The fact that he lied shocked us all.", "hl": "that he lied", "zh": "他撒谎这一事实让我们都很震惊。" }
+      ],
+      "note_label": "辨析 · 同位语从句与定语从句",
+      "note": "同位语从句解释前面名词的<b>内容</b>，that 不作成分且不可省；定语从句修饰名词，that 须在从句中充当主语或宾语。",
+      "page": 14,
+      "foot": "从句章"
+    },
+    {
+      "id": "en_g_clause_tense_seq",
+      "lang": "en",
+      "chapter": "en_g_clause",
+      "kicker": "语法书 · 从句篇",
+      "title": "宾语从句的时态呼应",
+      "title_sub": "TENSE SEQUENCE",
+      "formula_label": "句 式 公 式",
+      "formula": [
+        { "t": "主句过去时", "zh": true },
+        { "t": "→", "zh": false },
+        { "t": "从句用相应过去时", "zh": true }
+      ],
+      "examples": [
+        { "t": "He said that he was busy that day.", "hl": "was busy that day", "zh": "他说他那天很忙。" },
+        { "t": "She told me she had finished the report.", "hl": "had finished", "zh": "她告诉我她已经完成了报告。" },
+        { "t": "He asked whether I would join them.", "hl": "would join", "zh": "他问我是否会加入他们。" }
+      ],
+      "note_label": "辨析 · 客观真理不变",
+      "note": "主句为过去时，从句一般退一步用过去时态；但若从句是<b>客观真理、格言或习惯</b>，仍用一般现在时：The teacher said the earth <i>moves</i> around the sun。",
+      "page": 15,
+      "foot": "从句章"
+    },
+    {
+      "id": "en_g_clause_rel_restrictive",
+      "lang": "en",
+      "chapter": "en_g_clause",
+      "kicker": "语法书 · 从句篇",
+      "title": "限制性定语从句",
+      "title_sub": "RESTRICTIVE RELATIVE CLAUSES",
+      "formula_label": "句 式 公 式",
+      "formula": [
+        { "t": "先行词", "zh": true },
+        { "t": "＋", "zh": true },
+        { "t": "关系词 + 从句（不加逗号）", "zh": false }
+      ],
+      "examples": [
+        { "t": "The man who called you is my uncle.", "hl": "who called you", "zh": "给你打电话的那个人是我叔叔。" },
+        { "t": "This is the book that changed my life.", "hl": "that changed my life", "zh": "这就是改变了我一生的那本书。" },
+        { "t": "Anyone who breaks the rule will be fined.", "hl": "who breaks the rule", "zh": "任何违规的人都会被罚款。" }
+      ],
+      "note_label": "辨析 · 限制性 vs 非限制性",
+      "note": "限制性从句是<b>必不可少</b>的限定信息，缺了句子意思不完整；它与先行词之间<b>不加逗号</b>，关系词作宾语时可省略。",
+      "page": 16,
+      "foot": "从句章"
+    },
+    {
+      "id": "en_g_clause_rel_nonrestrictive",
+      "lang": "en",
+      "chapter": "en_g_clause",
+      "kicker": "语法书 · 从句篇",
+      "title": "非限制性定语从句",
+      "title_sub": "NON-RESTRICTIVE RELATIVE CLAUSES",
+      "formula_label": "句 式 公 式",
+      "formula": [
+        { "t": "先行词", "zh": true },
+        { "t": "，", "zh": false },
+        { "t": "关系词 + 从句", "zh": false }
+      ],
+      "examples": [
+        { "t": "My brother, who lives in Beijing, is a doctor.", "hl": "who lives in Beijing", "zh": "我哥哥住在北京，是名医生。" },
+        { "t": "The team, which was founded in 1990, has won many titles.", "hl": "which was founded in 1990", "zh": "该队成立于 1990 年，赢得过许多冠军。" },
+        { "t": "He failed the exam, which surprised nobody.", "hl": "which surprised nobody", "zh": "他考试没过，这没人感到意外。" }
+      ],
+      "note_label": "辨析 · 只能用非限制性",
+      "note": "非限制性从句用<b>逗号</b>隔开，只作补充说明；此时<b>不能用 that</b>，which 还可指代<b>整个主句</b>。",
+      "page": 17,
+      "foot": "从句章"
+    },
+    {
+      "id": "en_g_clause_rel_that_which",
+      "lang": "en",
+      "chapter": "en_g_clause",
+      "kicker": "语法书 · 从句篇",
+      "title": "关系代词 that / which",
+      "title_sub": "RELATIVE PRONOUNS: THAT / WHICH",
+      "formula_label": "句 式 公 式",
+      "formula": [
+        { "t": "that / which", "zh": false },
+        { "t": "＋", "zh": true },
+        { "t": "从句（先行词为物）", "zh": true }
+      ],
+      "examples": [
+        { "t": "The letter that arrived today is for you.", "hl": "that arrived today", "zh": "今天到的那封信是给你的。" },
+        { "t": "Anything that can go wrong will go wrong.", "hl": "that can go wrong", "zh": "凡是可能出错的终将出错。" },
+        { "t": "The house which they bought is huge.", "hl": "which they bought", "zh": "他们买的那栋房子很大。" }
+      ],
+      "note_label": "辨析 · 只用 that 的场合",
+      "note": "先行词被 <b>all / every / no / only</b> 或<b>序数词、最高级</b>修饰，或先行词既有人又有物时，多用 that；介词后则只能用 which。",
+      "page": 18,
+      "foot": "从句章"
+    },
+    {
+      "id": "en_g_clause_rel_who_whom_whose",
+      "lang": "en",
+      "chapter": "en_g_clause",
+      "kicker": "语法书 · 从句篇",
+      "title": "关系代词 who / whom / whose",
+      "title_sub": "RELATIVE PRONOUNS: WHO / WHOM / WHOSE",
+      "formula_label": "句 式 公 式",
+      "formula": [
+        { "t": "who / whom / whose", "zh": false },
+        { "t": "＋", "zh": true },
+        { "t": "从句（先行词为人）", "zh": true }
+      ],
+      "examples": [
+        { "t": "The girl who won the prize is my cousin.", "hl": "who won the prize", "zh": "获奖的那个女孩是我表妹。" },
+        { "t": "The professor whom we invited gave a talk.", "hl": "whom we invited", "zh": "我们邀请的那位教授做了一场讲座。" },
+        { "t": "The writer whose novel topped the list is young.", "hl": "whose novel topped the list", "zh": "那位小说登顶榜单的作家很年轻。" }
+      ],
+      "note_label": "辨析 · who 还是 whom",
+      "note": "who 作<b>主语</b>，whom 作<b>宾语</b>（口语中常用 who 代替）；whose 表示<b>所属关系</b>，后接名词。",
+      "page": 19,
+      "foot": "从句章"
+    },
+    {
+      "id": "en_g_clause_rel_adverb",
+      "lang": "en",
+      "chapter": "en_g_clause",
+      "kicker": "语法书 · 从句篇",
+      "title": "关系副词 when / where / why",
+      "title_sub": "RELATIVE ADVERBS",
+      "formula_label": "句 式 公 式",
+      "formula": [
+        { "t": "when / where / why", "zh": false },
+        { "t": "＝", "zh": true },
+        { "t": "介词 + which", "zh": false }
+      ],
+      "examples": [
+        { "t": "I still remember the day when we first met.", "hl": "when we first met", "zh": "我仍记得我们初次见面的那天。" },
+        { "t": "This is the village where I grew up.", "hl": "where I grew up", "zh": "这就是我长大的村庄。" },
+        { "t": "Tell me the reason why you were absent.", "hl": "why you were absent", "zh": "告诉我你缺席的原因。" }
+      ],
+      "note_label": "辨析 · 关系副词与关系代词",
+      "note": "关系副词在从句中作<b>状语</b>，先行词分别是时间、地点、原因名词；若先行词在从句中作主语或宾语，则要用 which / that。",
+      "page": 20,
+      "foot": "从句章"
+    },
+    {
+      "id": "en_g_clause_prep_which",
+      "lang": "en",
+      "chapter": "en_g_clause",
+      "kicker": "语法书 · 从句篇",
+      "title": "介词 + which / whom",
+      "title_sub": "PREPOSITION + RELATIVE PRONOUN",
+      "formula_label": "句 式 公 式",
+      "formula": [
+        { "t": "介词", "zh": true },
+        { "t": "＋", "zh": false },
+        { "t": "which / whom + 从句", "zh": false }
+      ],
+      "examples": [
+        { "t": "The house in which he lived is now a museum.", "hl": "in which he lived", "zh": "他住过的那栋房子现在是博物馆。" },
+        { "t": "The people with whom we worked were friendly.", "hl": "with whom we worked", "zh": "和我们共事的人很友好。" },
+        { "t": "This is the topic about which we argued.", "hl": "about which we argued", "zh": "这就是我们争论的话题。" }
+      ],
+      "note_label": "辨析 · 介词的位置",
+      "note": "正式书面语把介词提到关系词前，只能用 <b>which / whom</b>，不能用 that / who；口语里介词可留在句末：the house <i>which</i> he lived <i>in</i>。",
+      "page": 21,
+      "foot": "从句章"
+    },
+    {
+      "id": "en_g_clause_adv_time",
+      "lang": "en",
+      "chapter": "en_g_clause",
+      "kicker": "语法书 · 从句篇",
+      "title": "时间状语从句",
+      "title_sub": "ADVERBIAL CLAUSES OF TIME",
+      "formula_label": "句 式 公 式",
+      "formula": [
+        { "t": "when / while / before / after / until / as soon as", "zh": false },
+        { "t": "＋", "zh": true },
+        { "t": "从句", "zh": true }
+      ],
+      "examples": [
+        { "t": "I'll call you as soon as I arrive.", "hl": "as soon as I arrive", "zh": "我一到就给你打电话。" },
+        { "t": "While I was reading, he was cooking.", "hl": "While I was reading", "zh": "我读书时他在做饭。" },
+        { "t": "Wait here until the rain stops.", "hl": "until the rain stops", "zh": "在这儿等到雨停。" }
+      ],
+      "note_label": "辨析 · 主将从现",
+      "note": "时间状语从句中表示将来时用<b>一般现在时</b>代替一般将来时（主将从现）；表示「一……就」的 <i>as soon as</i> 同理。",
+      "page": 22,
+      "foot": "从句章"
+    },
+    {
+      "id": "en_g_clause_adv_reason",
+      "lang": "en",
+      "chapter": "en_g_clause",
+      "kicker": "语法书 · 从句篇",
+      "title": "原因状语从句",
+      "title_sub": "ADVERBIAL CLAUSES OF REASON",
+      "formula_label": "句 式 公 式",
+      "formula": [
+        { "t": "because / since / as / now that", "zh": false },
+        { "t": "＋", "zh": true },
+        { "t": "从句", "zh": true }
+      ],
+      "examples": [
+        { "t": "He stayed home because he felt ill.", "hl": "because he felt ill", "zh": "他因为不舒服待在家里。" },
+        { "t": "Since you are here, let's begin.", "hl": "Since you are here", "zh": "既然你来了，我们开始吧。" },
+        { "t": "Now that the rain has stopped, we can go.", "hl": "Now that the rain has stopped", "zh": "既然雨停了，我们可以走了。" }
+      ],
+      "note_label": "辨析 · because 与 so",
+      "note": "汉语「因为……所以……」在英语里 <b>because</b> 与 <b>so</b> 不能同时出现，只能用一个；because 语气最强，回答 why 时只能用 because。",
+      "page": 23,
+      "foot": "从句章"
+    },
+    {
+      "id": "en_g_clause_adv_condition",
+      "lang": "en",
+      "chapter": "en_g_clause",
+      "kicker": "语法书 · 从句篇",
+      "title": "条件状语从句",
+      "title_sub": "ADVERBIAL CLAUSES OF CONDITION",
+      "formula_label": "句 式 公 式",
+      "formula": [
+        { "t": "if / unless / as long as / provided that", "zh": false },
+        { "t": "＋", "zh": true },
+        { "t": "从句", "zh": true }
+      ],
+      "examples": [
+        { "t": "If it rains tomorrow, we'll cancel the trip.", "hl": "If it rains tomorrow", "zh": "如果明天下雨，我们就取消旅行。" },
+        { "t": "You can't succeed unless you keep trying.", "hl": "unless you keep trying", "zh": "除非你不断尝试，否则不会成功。" },
+        { "t": "As long as you book early, you'll get a seat.", "hl": "As long as you book early", "zh": "只要你早点订，就能有座位。" }
+      ],
+      "note_label": "辨析 · unless 与 if not",
+      "note": "unless 相当于 <b>if … not</b>，但语气更强，常含「除非」的警告意味；条件从句同样遵循<b>主将从现</b>。",
+      "page": 24,
+      "foot": "从句章"
+    },
+    {
+      "id": "en_g_clause_adv_concession",
+      "lang": "en",
+      "chapter": "en_g_clause",
+      "kicker": "语法书 · 从句篇",
+      "title": "让步状语从句",
+      "title_sub": "ADVERBIAL CLAUSES OF CONCESSION",
+      "formula_label": "句 式 公 式",
+      "formula": [
+        { "t": "although / though / even if / no matter how", "zh": false },
+        { "t": "＋", "zh": true },
+        { "t": "从句", "zh": true }
+      ],
+      "examples": [
+        { "t": "Although he was tired, he kept working.", "hl": "Although he was tired", "zh": "尽管累，他还是继续工作。" },
+        { "t": "No matter how hard I try, I can't please him.", "hl": "No matter how hard I try", "zh": "无论我多努力，都无法让他满意。" },
+        { "t": "Even if you apologize, she may not forgive you.", "hl": "Even if you apologize", "zh": "即使你道歉，她也许还是不会原谅你。" }
+      ],
+      "note_label": "辨析 · although 与 but",
+      "note": "although / though 与 <b>but</b> 不能连用；<i>even if</i> 表<b>假设让步</b>，<i>even though</i> 表<b>事实让步</b>。",
+      "page": 25,
+      "foot": "从句章"
+    },
+    {
+      "id": "en_g_clause_adv_purpose_result_manner",
+      "lang": "en",
+      "chapter": "en_g_clause",
+      "kicker": "语法书 · 从句篇",
+      "title": "目的 · 结果 · 方式状语从句",
+      "title_sub": "PURPOSE / RESULT / MANNER",
+      "formula_label": "句 式 公 式",
+      "formula": [
+        { "t": "so that / so … that / as", "zh": false },
+        { "t": "＋", "zh": true },
+        { "t": "从句", "zh": true }
+      ],
+      "examples": [
+        { "t": "He spoke slowly so that everyone could follow.", "hl": "so that everyone could follow", "zh": "他说得很慢，好让每个人都能跟上。" },
+        { "t": "It was so cold that the lake froze.", "hl": "so cold that the lake froze", "zh": "天太冷了，湖都结冰了。" },
+        { "t": "Do as I say, not as I do.", "hl": "as I say", "zh": "照我说的做，别照我做的做。" }
+      ],
+      "note_label": "辨析 · so that 与 so … that",
+      "note": "<b>so that</b> 引导<b>目的</b>从句（常配 can / could / may）；<b>so … that</b> 引导<b>结果</b>从句，so 后接形容词或副词。",
+      "page": 26,
+      "foot": "从句章"
+    },
+    {
+      "id": "en_g_clause_comparison_as_than",
+      "lang": "en",
+      "chapter": "en_g_clause",
+      "kicker": "语法书 · 从句篇",
+      "title": "as / than 比较从句",
+      "title_sub": "CLAUSES OF COMPARISON",
+      "formula_label": "句 式 公 式",
+      "formula": [
+        { "t": "as … as / not so … as / than", "zh": false },
+        { "t": "＋", "zh": true },
+        { "t": "比较从句", "zh": true }
+      ],
+      "examples": [
+        { "t": "She works harder than I do.", "hl": "than I do", "zh": "她工作比我努力。" },
+        { "t": "He is as tall as his father is.", "hl": "as his father is", "zh": "他和父亲一样高。" },
+        { "t": "The result was not so good as we had expected.", "hl": "as we had expected", "zh": "结果不像我们预想的那么好。" }
+      ],
+      "note_label": "辨析 · 比较从句的省略",
+      "note": "比较从句常省略与主句重复的成分；<b>than</b> 后的从句用<b>主格</b>作主语，口语也常用宾格：She is taller than <i>I</i> / <i>me</i>。",
+      "page": 27,
+      "foot": "从句章"
+    },
+
+    {
+      "id": "en_g_subj_if_present",
+      "lang": "en",
+      "chapter": "en_g_subjunctive",
+      "kicker": "语法书 · 虚拟篇",
+      "title": "if 虚拟 · 与现在相反",
+      "title_sub": "IF-CLAUSE: PRESENT UNREAL",
+      "formula_label": "句 式 公 式",
+      "formula": [
+        { "t": "If + 主语 + 过去式", "zh": false },
+        { "t": "，", "zh": false },
+        { "t": "主语 + would / could + do", "zh": false }
+      ],
+      "examples": [
+        { "t": "If I were you, I would apologize.", "hl": "If I were you", "zh": "如果我是你，我会道歉。" },
+        { "t": "If he knew the truth, he would be furious.", "hl": "If he knew the truth", "zh": "他若知道真相会暴跳如雷。" },
+        { "t": "If I had time, I could help you.", "hl": "If I had time", "zh": "如果我有时间，我就能帮你。" }
+      ],
+      "note_label": "辨析 · was 还是 were",
+      "note": "虚拟条件句里 be 动词通常用 <b>were</b>（不论人称）：If I <i>were</i> rich…；主句常用 <b>would / could / might + 动词原形</b>。",
+      "page": 32,
+      "foot": "虚拟章"
+    },
+    {
+      "id": "en_g_subj_if_past",
+      "lang": "en",
+      "chapter": "en_g_subjunctive",
+      "kicker": "语法书 · 虚拟篇",
+      "title": "if 虚拟 · 与过去相反",
+      "title_sub": "IF-CLAUSE: PAST UNREAL",
+      "formula_label": "句 式 公 式",
+      "formula": [
+        { "t": "If + 主语 + had done", "zh": false },
+        { "t": "，", "zh": false },
+        { "t": "主语 + would have done", "zh": false }
+      ],
+      "examples": [
+        { "t": "If I had known, I would have told you.", "hl": "If I had known", "zh": "如果我当时知道，我就会告诉你。" },
+        { "t": "If she had left earlier, she wouldn't have missed the train.", "hl": "had left earlier", "zh": "她要是早点出发就不会误车了。" },
+        { "t": "We could have won if we had tried harder.", "hl": "had tried harder", "zh": "要是我们再努力些本可以赢的。" }
+      ],
+      "note_label": "辨析 · 遗憾的过去",
+      "note": "与过去相反用 <b>had + 过去分词</b>，主句用 <b>would have + 过去分词</b>，表达对已发生事情的<b>遗憾</b>。",
+      "page": 33,
+      "foot": "虚拟章"
+    },
+    {
+      "id": "en_g_subj_if_future",
+      "lang": "en",
+      "chapter": "en_g_subjunctive",
+      "kicker": "语法书 · 虚拟篇",
+      "title": "if 虚拟 · 与将来相反",
+      "title_sub": "IF-CLAUSE: FUTURE UNREAL",
+      "formula_label": "句 式 公 式",
+      "formula": [
+        { "t": "If + 主语 + should / were to do", "zh": false },
+        { "t": "，", "zh": false },
+        { "t": "主语 + would + do", "zh": false }
+      ],
+      "examples": [
+        { "t": "If it should rain tomorrow, the match would be put off.", "hl": "should rain tomorrow", "zh": "万一明天下雨，比赛就会推迟。" },
+        { "t": "If you were to leave now, you would catch the train.", "hl": "were to leave now", "zh": "你要是现在动身，就能赶上火车。" },
+        { "t": "If he were to come, I would tell him.", "hl": "were to come", "zh": "他要是来，我就告诉他。" }
+      ],
+      "note_label": "辨析 · 三种将来虚拟",
+      "note": "与将来相反可用 <b>should + do</b>、<b>were to do</b> 或<b>过去式</b>三种形式，可能性依次递减；were to 最书面、最不可能。",
+      "page": 34,
+      "foot": "虚拟章"
+    },
+    {
+      "id": "en_g_subj_mixed",
+      "lang": "en",
+      "chapter": "en_g_subjunctive",
+      "kicker": "语法书 · 虚拟篇",
+      "title": "混合虚拟条件句",
+      "title_sub": "MIXED CONDITIONALS",
+      "formula_label": "句 式 公 式",
+      "formula": [
+        { "t": "If + had done", "zh": false },
+        { "t": "，", "zh": false },
+        { "t": "主语 + would + do（现在结果）", "zh": false }
+      ],
+      "examples": [
+        { "t": "If I had taken the medicine, I would feel better now.", "hl": "would feel better now", "zh": "要是我当时吃了药，现在就会好受些。" },
+        { "t": "If he weren't so lazy, he would have passed.", "hl": "If he weren't so lazy", "zh": "他要不是那么懒，本可以及格的。" },
+        { "t": "If you had followed my advice, you would be rich now.", "hl": "would be rich now", "zh": "你要是听了我的建议，现在就很富有了。" }
+      ],
+      "note_label": "辨析 · 时间交错",
+      "note": "混合虚拟中<b>条件</b>与<b>结果</b>指向不同时间：从句与过去相反、主句与现在相反（或反之），注意 <i>now</i> 等时间标记。",
+      "page": 35,
+      "foot": "虚拟章"
+    },
+    {
+      "id": "en_g_subj_wish",
+      "lang": "en",
+      "chapter": "en_g_subjunctive",
+      "kicker": "语法书 · 虚拟篇",
+      "title": "wish 后的虚拟",
+      "title_sub": "WISH + SUBJUNCTIVE",
+      "formula_label": "句 式 公 式",
+      "formula": [
+        { "t": "wish", "zh": false },
+        { "t": "＋", "zh": true },
+        { "t": "过去式 / had done / would do", "zh": false }
+      ],
+      "examples": [
+        { "t": "I wish I were taller.", "hl": "I were taller", "zh": "我真希望自己更高一些。" },
+        { "t": "She wishes she had studied harder.", "hl": "she had studied harder", "zh": "她真希望当初学习更用功。" },
+        { "t": "I wish it would stop raining.", "hl": "it would stop raining", "zh": "我真希望雨能停下来。" }
+      ],
+      "note_label": "辨析 · 三种 wish",
+      "note": "wish 后：与现在相反用<b>过去式</b>，与过去相反用 <b>had done</b>，对将来的<b>愿望或不满</b>用 <b>would do</b>。",
+      "page": 36,
+      "foot": "虚拟章"
+    },
+    {
+      "id": "en_g_subj_if_only",
+      "lang": "en",
+      "chapter": "en_g_subjunctive",
+      "kicker": "语法书 · 虚拟篇",
+      "title": "if only 的虚拟",
+      "title_sub": "IF ONLY + SUBJUNCTIVE",
+      "formula_label": "句 式 公 式",
+      "formula": [
+        { "t": "If only", "zh": false },
+        { "t": "＋", "zh": true },
+        { "t": "过去式 / had done / would do", "zh": false }
+      ],
+      "examples": [
+        { "t": "If only I had more time!", "hl": "If only I had more time", "zh": "要是我有更多时间就好了！" },
+        { "t": "If only she had listened to me!", "hl": "she had listened to me", "zh": "她当初要是听我的就好了！" },
+        { "t": "If only the bus would come soon!", "hl": "the bus would come soon", "zh": "真希望公交车快点来！" }
+      ],
+      "note_label": "辨析 · if only 与 wish",
+      "note": "if only 与 wish 用法相同，但<b>语气更强</b>，句末常用<b>感叹号</b>，多表示强烈的遗憾或渴望。",
+      "page": 37,
+      "foot": "虚拟章"
+    },
+    {
+      "id": "en_g_subj_would_rather",
+      "lang": "en",
+      "chapter": "en_g_subjunctive",
+      "kicker": "语法书 · 虚拟篇",
+      "title": "would rather 后的虚拟",
+      "title_sub": "WOULD RATHER + SUBJUNCTIVE",
+      "formula_label": "句 式 公 式",
+      "formula": [
+        { "t": "would rather", "zh": false },
+        { "t": "＋", "zh": true },
+        { "t": "(that) 主语 + 过去式 / had done", "zh": false }
+      ],
+      "examples": [
+        { "t": "I'd rather you didn't tell anyone.", "hl": "you didn't tell anyone", "zh": "我宁愿你别告诉任何人。" },
+        { "t": "I'd rather you had not said that.", "hl": "you had not said that", "zh": "我宁愿你没说过那话。" },
+        { "t": "She would rather her son stayed at home.", "hl": "her son stayed at home", "zh": "她宁愿儿子待在家里。" }
+      ],
+      "note_label": "辨析 · would rather 的两种用法",
+      "note": "would rather 后接<b>从句</b>时用虚拟（现在或将来用过去式，过去用 had done）；若只是「宁愿做某事」，直接接<b>动词原形</b>：I'd rather <i>stay</i>。",
+      "page": 38,
+      "foot": "虚拟章"
+    },
+    {
+      "id": "en_g_subj_as_if",
+      "lang": "en",
+      "chapter": "en_g_subjunctive",
+      "kicker": "语法书 · 虚拟篇",
+      "title": "as if / as though 的虚拟",
+      "title_sub": "AS IF / AS THOUGH + SUBJUNCTIVE",
+      "formula_label": "句 式 公 式",
+      "formula": [
+        { "t": "as if / as though", "zh": false },
+        { "t": "＋", "zh": true },
+        { "t": "过去式 / had done", "zh": false }
+      ],
+      "examples": [
+        { "t": "He talks as if he knew everything.", "hl": "as if he knew everything", "zh": "他说话的样子好像什么都懂。" },
+        { "t": "She looked as though she had seen a ghost.", "hl": "as though she had seen a ghost", "zh": "她看上去像见了鬼似的。" },
+        { "t": "They treat me as if I were a child.", "hl": "as if I were a child", "zh": "他们待我像待小孩一样。" }
+      ],
+      "note_label": "辨析 · 虚拟与事实",
+      "note": "as if 后若与<b>事实相反</b>用虚拟（现在用过去式，过去用 had done）；若事情<b>很可能为真</b>，则用陈述语气：It looks as if it <i>is</i> going to rain。",
+      "page": 39,
+      "foot": "虚拟章"
+    },
+    {
+      "id": "en_g_subj_should_do",
+      "lang": "en",
+      "chapter": "en_g_subjunctive",
+      "kicker": "语法书 · 虚拟篇",
+      "title": "建议要求类动词后的 (should) do",
+      "title_sub": "SUBJUNCTIVE AFTER SUGGEST / DEMAND",
+      "formula_label": "句 式 公 式",
+      "formula": [
+        { "t": "suggest / demand / insist / require", "zh": false },
+        { "t": "＋", "zh": true },
+        { "t": "(should) + 动词原形", "zh": false }
+      ],
+      "examples": [
+        { "t": "The doctor suggested that he stay in bed.", "hl": "he stay in bed", "zh": "医生建议他卧床休息。" },
+        { "t": "They demanded that the rule be changed.", "hl": "the rule be changed", "zh": "他们要求修改这条规定。" },
+        { "t": "I insist that she should apologize.", "hl": "she should apologize", "zh": "我坚持要她道歉。" }
+      ],
+      "note_label": "辨析 · 后接虚拟的动词",
+      "note": "一坚持（insist）、二命令（order）、三建议（suggest / advise / propose）、四要求（demand / require / request）后从句用 <b>(should) + 动词原形</b>，should 常省略。",
+      "page": 40,
+      "foot": "虚拟章"
+    },
+    {
+      "id": "en_g_subj_it_is_time",
+      "lang": "en",
+      "chapter": "en_g_subjunctive",
+      "kicker": "语法书 · 虚拟篇",
+      "title": "It is time… 的虚拟",
+      "title_sub": "IT IS TIME + SUBJUNCTIVE",
+      "formula_label": "句 式 公 式",
+      "formula": [
+        { "t": "It is (high) time", "zh": false },
+        { "t": "＋", "zh": true },
+        { "t": "(that) 主语 + 过去式 / should do", "zh": false }
+      ],
+      "examples": [
+        { "t": "It's time you went to bed.", "hl": "you went to bed", "zh": "你该去睡觉了。" },
+        { "t": "It is high time we took action.", "hl": "we took action", "zh": "我们早该采取行动了。" },
+        { "t": "It's time she should find a job.", "hl": "she should find a job", "zh": "她该找份工作了。" }
+      ],
+      "note_label": "辨析 · time 后的形式",
+      "note": "It is time 后从句用<b>过去式</b>（或 should + do），表示「早该做某事」；high 起<b>强调</b>作用，不能换成其他词。",
+      "page": 41,
+      "foot": "虚拟章"
+    },
+    {
+      "id": "en_g_subj_but_for",
+      "lang": "en",
+      "chapter": "en_g_subjunctive",
+      "kicker": "语法书 · 虚拟篇",
+      "title": "but for 的含蓄虚拟",
+      "title_sub": "BUT FOR + SUBJUNCTIVE",
+      "formula_label": "句 式 公 式",
+      "formula": [
+        { "t": "But for + 名词", "zh": false },
+        { "t": "＝", "zh": true },
+        { "t": "If it were not for / had not been for", "zh": false }
+      ],
+      "examples": [
+        { "t": "But for your help, I would have failed.", "hl": "But for your help", "zh": "要不是你帮忙，我就失败了。" },
+        { "t": "But for the traffic, we would be there by now.", "hl": "But for the traffic", "zh": "要不是堵车，我们现在就到了。" },
+        { "t": "But for his encouragement, she couldn't have continued.", "hl": "But for his encouragement", "zh": "要不是他的鼓励，她不可能继续下去。" }
+      ],
+      "note_label": "辨析 · but for 的时间",
+      "note": "but for 相当于 <b>if it were not for</b>（现在）或 <b>if it had not been for</b>（过去），是<b>含蓄虚拟</b>，条件不写在从句里。",
+      "page": 42,
+      "foot": "虚拟章"
+    },
+    {
+      "id": "en_g_subj_otherwise",
+      "lang": "en",
+      "chapter": "en_g_subjunctive",
+      "kicker": "语法书 · 虚拟篇",
+      "title": "otherwise / or 的含蓄虚拟",
+      "title_sub": "OTHERWISE / OR + SUBJUNCTIVE",
+      "formula_label": "句 式 公 式",
+      "formula": [
+        { "t": "陈述句", "zh": true },
+        { "t": "＋", "zh": false },
+        { "t": "otherwise / or + would (have) do", "zh": false }
+      ],
+      "examples": [
+        { "t": "Hurry up, otherwise we'll miss the train.", "hl": "otherwise we'll miss the train", "zh": "快点，否则我们会误车。" },
+        { "t": "I was busy; otherwise I would have called you.", "hl": "otherwise I would have called you", "zh": "我当时很忙，否则就给你打电话了。" },
+        { "t": "Study hard, or you will regret it.", "hl": "or you will regret it", "zh": "好好学习，否则你会后悔的。" }
+      ],
+      "note_label": "辨析 · 含蓄条件",
+      "note": "otherwise 或 or 前常是一个<b>陈述事实</b>的句子，其后用 <b>would (have) + do</b> 表达与事实相反的结果，属于<b>含蓄虚拟条件</b>。",
+      "page": 43,
+      "foot": "虚拟章"
+    },
+
+    {
+      "id": "en_g_modal_can_could",
+      "lang": "en",
+      "chapter": "en_g_modal",
+      "kicker": "语法书 · 情态篇",
+      "title": "can / could",
+      "title_sub": "ABILITY & POSSIBILITY",
+      "formula_label": "句 式 公 式",
+      "formula": [
+        { "t": "can / could", "zh": false },
+        { "t": "＋", "zh": true },
+        { "t": "动词原形", "zh": true }
+      ],
+      "examples": [
+        { "t": "She can speak three languages.", "hl": "can speak", "zh": "她会说三种语言。" },
+        { "t": "Could you help me for a moment?", "hl": "Could you help me", "zh": "你能帮我一下吗？（委婉请求）" },
+        { "t": "It can get very cold here at night.", "hl": "can get", "zh": "这里夜里有时会很冷。（理论可能）" }
+      ],
+      "note_label": "辨析 · can 与 be able to",
+      "note": "can 只有现在和过去，其他时态用 <b>be able to</b>；could 除表过去能力，还常用作<b>委婉请求</b>，语气比 can 更客气。",
+      "page": 52,
+      "foot": "情态章"
+    },
+    {
+      "id": "en_g_modal_may_might",
+      "lang": "en",
+      "chapter": "en_g_modal",
+      "kicker": "语法书 · 情态篇",
+      "title": "may / might",
+      "title_sub": "PERMISSION & POSSIBILITY",
+      "formula_label": "句 式 公 式",
+      "formula": [
+        { "t": "may / might", "zh": false },
+        { "t": "＋", "zh": true },
+        { "t": "动词原形", "zh": true }
+      ],
+      "examples": [
+        { "t": "May I borrow your pen?", "hl": "May I borrow", "zh": "我可以借你的笔吗？" },
+        { "t": "It may rain this afternoon.", "hl": "may rain", "zh": "今天下午可能下雨。" },
+        { "t": "She might have left already.", "hl": "might have left", "zh": "她也许已经走了。" }
+      ],
+      "note_label": "辨析 · may 与 might",
+      "note": "两者都可表<b>许可</b>和<b>可能</b>，might 语气更<b>不确定、更委婉</b>；否定的允许用 <b>mustn't / may not</b>，不用 can't。",
+      "page": 53,
+      "foot": "情态章"
+    },
+    {
+      "id": "en_g_modal_must_have_to",
+      "lang": "en",
+      "chapter": "en_g_modal",
+      "kicker": "语法书 · 情态篇",
+      "title": "must / have to",
+      "title_sub": "OBLIGATION",
+      "formula_label": "句 式 公 式",
+      "formula": [
+        { "t": "must / have to", "zh": false },
+        { "t": "＋", "zh": true },
+        { "t": "动词原形", "zh": true }
+      ],
+      "examples": [
+        { "t": "You must wear a seatbelt.", "hl": "must wear", "zh": "你必须系安全带。" },
+        { "t": "I have to finish this by Friday.", "hl": "have to finish", "zh": "我得在周五前完成这个。" },
+        { "t": "We had to leave early yesterday.", "hl": "had to leave", "zh": "昨天我们不得不早点走。" }
+      ],
+      "note_label": "辨析 · must 与 have to",
+      "note": "must 表<b>说话人的主观</b>义务，have to 表<b>客观要求</b>；只有 have to 能用于<b>各种时态</b>（had to、will have to）。",
+      "page": 54,
+      "foot": "情态章"
+    },
+    {
+      "id": "en_g_modal_should_ought_to",
+      "lang": "en",
+      "chapter": "en_g_modal",
+      "kicker": "语法书 · 情态篇",
+      "title": "should / ought to",
+      "title_sub": "ADVICE & EXPECTATION",
+      "formula_label": "句 式 公 式",
+      "formula": [
+        { "t": "should / ought to", "zh": false },
+        { "t": "＋", "zh": true },
+        { "t": "动词原形", "zh": true }
+      ],
+      "examples": [
+        { "t": "You should see a doctor.", "hl": "should see", "zh": "你应该去看医生。" },
+        { "t": "We ought to respect the rules.", "hl": "ought to respect", "zh": "我们应当遵守规则。" },
+        { "t": "The train should arrive at six.", "hl": "should arrive", "zh": "火车应该六点到。（推测）" }
+      ],
+      "note_label": "辨析 · should 与 ought to",
+      "note": "两者含义相近，ought to 语气略<b>正式、更强调义务</b>；疑问和否定句中 ought 前可加 to：<i>Ought we to go?</i>",
+      "page": 55,
+      "foot": "情态章"
+    },
+    {
+      "id": "en_g_modal_will_would",
+      "lang": "en",
+      "chapter": "en_g_modal",
+      "kicker": "语法书 · 情态篇",
+      "title": "will / would",
+      "title_sub": "VOLITION & HABIT",
+      "formula_label": "句 式 公 式",
+      "formula": [
+        { "t": "will / would", "zh": false },
+        { "t": "＋", "zh": true },
+        { "t": "动词原形", "zh": true }
+      ],
+      "examples": [
+        { "t": "I will help you with the report.", "hl": "will help", "zh": "我会帮你完成报告。" },
+        { "t": "Would you please close the door?", "hl": "Would you please close", "zh": "请你把门关上好吗？" },
+        { "t": "He would sit for hours, staring at the sea.", "hl": "would sit", "zh": "他常常一坐几个小时，望着大海。" }
+      ],
+      "note_label": "辨析 · will 与 would",
+      "note": "will 表<b>意愿、决心</b>或对将来的推测；would 是它的过去式，可表<b>委婉请求</b>或<b>过去反复的习惯</b>。",
+      "page": 56,
+      "foot": "情态章"
+    },
+    {
+      "id": "en_g_modal_shall",
+      "lang": "en",
+      "chapter": "en_g_modal",
+      "kicker": "语法书 · 情态篇",
+      "title": "shall",
+      "title_sub": "SHALL",
+      "formula_label": "句 式 公 式",
+      "formula": [
+        { "t": "shall", "zh": false },
+        { "t": "＋", "zh": true },
+        { "t": "主语 + 动词原形", "zh": false }
+      ],
+      "examples": [
+        { "t": "Shall we take a taxi?", "hl": "Shall we take a taxi", "zh": "我们打车好吗？" },
+        { "t": "Shall I open the window for you?", "hl": "Shall I open", "zh": "要我帮你开窗吗？" },
+        { "t": "The tenant shall pay the rent monthly.", "hl": "shall pay", "zh": "承租人应按月支付租金。（规定）" }
+      ],
+      "note_label": "辨析 · shall 的用法",
+      "note": "shall 与 I 或 we 连用可表<b>提议或征求意见</b>；在<b>法律条文、规定</b>中用于第二、三人称，表示<b>强制义务</b>。",
+      "page": 57,
+      "foot": "情态章"
+    },
+    {
+      "id": "en_g_modal_need_dare",
+      "lang": "en",
+      "chapter": "en_g_modal",
+      "kicker": "语法书 · 情态篇",
+      "title": "need / dare",
+      "title_sub": "NEED & DARE",
+      "formula_label": "句 式 公 式",
+      "formula": [
+        { "t": "need / dare", "zh": false },
+        { "t": "＋", "zh": true },
+        { "t": "动词原形（多用于疑问、否定）", "zh": true }
+      ],
+      "examples": [
+        { "t": "You needn't worry about it.", "hl": "needn't worry", "zh": "你不必为此担心。" },
+        { "t": "Need I say more?", "hl": "Need I say more", "zh": "我还需要多说吗？" },
+        { "t": "He dare not tell the truth.", "hl": "dare not tell", "zh": "他不敢说实话。" }
+      ],
+      "note_label": "辨析 · 情态还是实义",
+      "note": "need 与 dare 作<b>情态动词</b>时只用于疑问句和否定句，后接动词原形；作<b>实义动词</b>时则用 do 变化：He doesn't <i>dare to</i> tell。",
+      "page": 58,
+      "foot": "情态章"
+    },
+    {
+      "id": "en_g_modal_speculation",
+      "lang": "en",
+      "chapter": "en_g_modal",
+      "kicker": "语法书 · 情态篇",
+      "title": "情态动词表推测",
+      "title_sub": "MODALS OF DEDUCTION",
+      "formula_label": "句 式 公 式",
+      "formula": [
+        { "t": "must / may / might / can't", "zh": false },
+        { "t": "＋", "zh": true },
+        { "t": "动词原形", "zh": false }
+      ],
+      "examples": [
+        { "t": "He must be at home; the light is on.", "hl": "must be", "zh": "他一定在家，灯亮着。" },
+        { "t": "She may be waiting for us.", "hl": "may be waiting", "zh": "她也许正在等我们。" },
+        { "t": "They can't be serious.", "hl": "can't be", "zh": "他们不可能当真。" }
+      ],
+      "note_label": "辨析 · 推测的把握",
+      "note": "把握由大到小：<b>must</b>（一定）＞ <b>should</b>（按理应）＞ <b>may</b>（可能）＞ <b>might / could</b>（也许）；<b>can't</b> 表「不可能」，不用 mustn't 表否定推测。",
+      "page": 59,
+      "foot": "情态章"
+    },
+    {
+      "id": "en_g_modal_have_done",
+      "lang": "en",
+      "chapter": "en_g_modal",
+      "kicker": "语法书 · 情态篇",
+      "title": "情态动词 + have done",
+      "title_sub": "MODAL + HAVE DONE",
+      "formula_label": "句 式 公 式",
+      "formula": [
+        { "t": "must / should / could / may", "zh": false },
+        { "t": "＋", "zh": true },
+        { "t": "have + 过去分词", "zh": false }
+      ],
+      "examples": [
+        { "t": "He must have forgotten our appointment.", "hl": "must have forgotten", "zh": "他一定是忘了我们的约定。" },
+        { "t": "You should have told me earlier.", "hl": "should have told", "zh": "你本该早点告诉我。（却没说）" },
+        { "t": "She could have taken the earlier train.", "hl": "could have taken", "zh": "她本来可以坐早班车。" }
+      ],
+      "note_label": "辨析 · 对过去的推测与责备",
+      "note": "must have done 表<b>肯定推测</b>，can't have done 表<b>否定推测</b>；should / could / might have done 常表<b>遗憾或责备</b>（本该……却没有）。",
+      "page": 60,
+      "foot": "情态章"
+    },
+    {
+      "id": "en_g_modal_used_to_would",
+      "lang": "en",
+      "chapter": "en_g_modal",
+      "kicker": "语法书 · 情态篇",
+      "title": "used to / would",
+      "title_sub": "PAST HABIT",
+      "formula_label": "句 式 公 式",
+      "formula": [
+        { "t": "used to / would", "zh": false },
+        { "t": "＋", "zh": true },
+        { "t": "动词原形", "zh": true }
+      ],
+      "examples": [
+        { "t": "I used to walk to school every day.", "hl": "used to walk", "zh": "我过去每天步行上学。" },
+        { "t": "He would often fish by the river as a boy.", "hl": "would often fish", "zh": "他小时候常在河边钓鱼。" },
+        { "t": "There used to be a cinema here.", "hl": "used to be", "zh": "这里以前有家电影院。" }
+      ],
+      "note_label": "辨析 · used to 与 would",
+      "note": "<b>used to</b> 强调<b>过去的状态或习惯</b>（现在不再），可用于状态动词；<b>would</b> 只表<b>过去反复的动作</b>，不能用于状态。",
+      "page": 61,
+      "foot": "情态章"
+    },
+    {
+      "id": "en_g_modal_permission",
+      "lang": "en",
+      "chapter": "en_g_modal",
+      "kicker": "语法书 · 情态篇",
+      "title": "情态动词表许可与请求",
+      "title_sub": "PERMISSION & REQUESTS",
+      "formula_label": "句 式 公 式",
+      "formula": [
+        { "t": "can / could / may / might", "zh": false },
+        { "t": "＋", "zh": true },
+        { "t": "主语 + 动词原形", "zh": false }
+      ],
+      "examples": [
+        { "t": "Can I use your phone?", "hl": "Can I use", "zh": "我可以用你的电话吗？" },
+        { "t": "Could you possibly send it again?", "hl": "Could you possibly send it", "zh": "你能不能把那个再发一遍？" },
+        { "t": "Might I ask a question?", "hl": "Might I ask", "zh": "我可以问个问题吗？（非常正式）" }
+      ],
+      "note_label": "辨析 · 委婉程度",
+      "note": "请求许可时 <b>could / might</b> 比 can / may 更<b>委婉客气</b>；回答仍用 can 或 may，不用 could / might：—Could I…? —Yes, you <i>can</i>。",
+      "page": 62,
+      "foot": "情态章"
+    },
+    {
+      "id": "en_g_modal_mustnt_neednt",
+      "lang": "en",
+      "chapter": "en_g_modal",
+      "kicker": "语法书 · 情态篇",
+      "title": "mustn't / needn't / don't have to",
+      "title_sub": "PROHIBITION VS NO NECESSITY",
+      "formula_label": "句 式 公 式",
+      "formula": [
+        { "t": "mustn't", "zh": false },
+        { "t": "≠", "zh": true },
+        { "t": "needn't / don't have to", "zh": false }
+      ],
+      "examples": [
+        { "t": "You mustn't smoke here.", "hl": "mustn't smoke", "zh": "你禁止在这里吸烟。" },
+        { "t": "You needn't come so early.", "hl": "needn't come", "zh": "你不必来得这么早。" },
+        { "t": "We don't have to book a table.", "hl": "don't have to book", "zh": "我们不必订位。" }
+      ],
+      "note_label": "辨析 · 禁止 ≠ 不必",
+      "note": "<b>mustn't</b> 表「<b>禁止</b>」，<b>needn't / don't have to</b> 表「<b>不必</b>」，两者意思<b>完全不同</b>，答题时切勿混淆。",
+      "page": 63,
+      "foot": "情态章"
+    }
+  ]
+}
