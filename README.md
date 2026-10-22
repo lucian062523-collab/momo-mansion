@@ -26,7 +26,6 @@ _tools/         构建与校验脚本
 worker/          AI 代理（Cloudflare Worker，密钥不入库）
 文案/           剧情与文本
 评测/           评测报告
-投稿资料.md     项目资料
 ```
 
 ## 本地运行
